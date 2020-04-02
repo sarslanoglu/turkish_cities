@@ -1,0 +1,18 @@
+language: ruby
+dist: trusty
+rvm:
+  - 2.5
+  - 2.6
+  - 2.7
+  - jruby-9.0.5.0
+  - jruby-9.1.17.0
+  - jruby-9.2.7.0
+  - jruby
+  - truffleruby
+  - rbx-3
+before_install:
+  - gem install bundler
+script: bundle exec rspec spec
+notifications:
+  email:
+    - arslanoglusemih93@gmail.com
