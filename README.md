@@ -1,4 +1,6 @@
 # 🏙️ Turkish Cities
+[![Gem Version](https://badge.fury.io/rb/turkish_cities.svg)](https://rubygems.org/gems/turkish_cities)
+[![Build Status](https://travis-ci.org/sarslanoglu/turkish_cities.svg?branch=master)](https://travis-ci.org/sarslanoglu/turkish_cities)
 
 **turkish_cities** is a Ruby gem which makes searching and listing Turkish cities easy. https://rubygems.org/gems/turkish_cities
 
@@ -70,8 +72,9 @@ TurkishCities.list_cities({ alphabetically_sorted: true, metropolitan_municipali
 
 ## Compatibility
 
-This gem is written with Ruby 2.7.0
-Additional compatibility tests will conduct in future releases
+- ✅ `2.7.0` (stable)
+- ✅ `2.6.3` (stable)
+- ✅ `2.5.5` (stable)
 
 ## Contributing
 
