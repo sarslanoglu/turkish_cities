@@ -11,8 +11,10 @@ RSpec.describe TurkishCities do
 
   it 'finds plate number by city' do
     expect(TurkishCities.find_plate_number_by_name('Ankara')).to eq 6
-    expect(TurkishCities.find_plate_number_by_name('Eskişehir')).to eq 26
     expect(TurkishCities.find_plate_number_by_name('Canakkale')).to eq 17
+    expect(TurkishCities.find_plate_number_by_name('Eskişehir')).to eq 26
+    expect(TurkishCities.find_plate_number_by_name('Isparta')).to eq 32
+    expect(TurkishCities.find_plate_number_by_name('Istanbul')).to eq 34
     expect(TurkishCities.find_plate_number_by_name('kirsehir')).to eq 40
   end
 
