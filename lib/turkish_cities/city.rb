@@ -12,7 +12,9 @@ class City
 
   def find_by_name(city_name)
     CITY_LIST.select do |key, hash|
-      return key if convert_chars(hash[:name].downcase) == convert_chars(city_name.downcase)
+      if convert_chars(hash[:name].downcase(:turkic)) == convert_chars(city_name.downcase)
+        return key
+      end
     end
   end
 
