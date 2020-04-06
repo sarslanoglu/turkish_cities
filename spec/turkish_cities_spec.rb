@@ -7,6 +7,8 @@ RSpec.describe TurkishCities do
     expect(TurkishCities.find_name_by_plate_number(6)).to eq 'Ankara'
     expect(TurkishCities.find_name_by_plate_number(0o07)).to eq 'Antalya'
     expect(TurkishCities.find_name_by_plate_number(26)).to eq 'Eskişehir'
+    expect(TurkishCities.find_name_by_plate_number(43.0)).to eq 'Kütahya'
+    expect(TurkishCities.find_name_by_plate_number('78')).to eq 'Karabük'
   end
 
   it 'finds plate number by city' do
@@ -20,24 +22,26 @@ RSpec.describe TurkishCities do
 
   it 'lists cities by plate number' do
     city_array = TurkishCities.list_cities
-    expect(city_array[42]).to eq 'Konya'
+    expect(city_array.size).to eq 81
+    expect(city_array[41]).to eq 'Konya'
   end
 
   it 'lists cities by alphabetical order' do
     city_array = TurkishCities.list_cities({ alphabetically_sorted: true })
-    expect(city_array[40]).to eq 'İstanbul'
+    expect(city_array.size).to eq 81
+    expect(city_array[39]).to eq 'İstanbul'
   end
 
   it 'lists only metropolitan municipality cities by plate number' do
     city_array = TurkishCities.list_cities({ metropolitan_municipality: true })
-    expect(city_array.size).to eq 31
-    expect(city_array[15]).to eq 'İzmir'
+    expect(city_array.size).to eq 30
+    expect(city_array[14]).to eq 'İzmir'
   end
 
   it 'lists only metropolitan municipality cities by alphabetical order' do
     city_array = TurkishCities.list_cities({ alphabetically_sorted: true,
                                              metropolitan_municipality: true })
-    expect(city_array.size).to eq 31
-    expect(city_array[15]).to eq 'Kahramanmaraş'
+    expect(city_array.size).to eq 30
+    expect(city_array[14]).to eq 'Kahramanmaraş'
   end
 end
