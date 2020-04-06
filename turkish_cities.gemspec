@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email       = 'arslanoglusemih93@gmail.com'
   s.files       = ['lib/turkish_cities.rb',
                    'lib/turkish_cities/city.rb',
-                   'lib/turkish_cities/data/city_list.rb']
+                   'lib/turkish_cities/data/cities.yaml']
   s.homepage    = 'https://github.com/sarslanoglu/turkish_cities'
   s.license     = 'MIT'
 end

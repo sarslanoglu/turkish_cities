@@ -2,6 +2,7 @@
 [![Gem Version](https://badge.fury.io/rb/turkish_cities.svg)](https://rubygems.org/gems/turkish_cities)
 [![Build Status](https://travis-ci.org/sarslanoglu/turkish_cities.svg?branch=master)](https://travis-ci.org/sarslanoglu/turkish_cities)
 [![Coverage Status](https://coveralls.io/repos/github/sarslanoglu/turkish_cities/badge.svg?branch=master)](https://coveralls.io/github/sarslanoglu/turkish_cities?branch=master)
+[![License](https://img.shields.io/github/license/sarslanoglu/turkish_cities.svg)](https://opensource.org/licenses/MIT)
 
 **turkish_cities** is a Ruby gem which makes searching and listing Turkish cities easy. https://rubygems.org/gems/turkish_cities
 
@@ -27,6 +28,8 @@ $ bundle
 
 ## Documentation
 
+With using irb just require gem and start using
+
 ```ruby
 require 'turkish_cities'
 ```
@@ -39,6 +42,8 @@ There are 81 cities in Turkey. By calling a plate number between 1-81 will give 
 TurkishCities.find_name_by_plate_number(26) # => "Eskişehir"
 TurkishCities.find_name_by_plate_number(7) # => "Antalya"
 TurkishCities.find_name_by_plate_number(0007) # => "Antalya"
+TurkishCities.find_name_by_plate_number(43.0) # => "Kütahya"
+TurkishCities.find_name_by_plate_number('78') # => "Karabük"
 ```
 
 ### Finding plate number by city name
