@@ -1,6 +1,7 @@
 # 🏙️ Turkish Cities
 [![Gem Version](https://badge.fury.io/rb/turkish_cities.svg)](https://rubygems.org/gems/turkish_cities)
 [![Build Status](https://travis-ci.org/sarslanoglu/turkish_cities.svg?branch=master)](https://travis-ci.org/sarslanoglu/turkish_cities)
+[![Code Climate](https://codeclimate.com/github/sarslanoglu/turkish_cities.svg)](https://codeclimate.com/github/sarslanoglu/turkish_cities)
 [![Coverage Status](https://coveralls.io/repos/github/sarslanoglu/turkish_cities/badge.svg?branch=master)](https://coveralls.io/github/sarslanoglu/turkish_cities?branch=master)
 [![Protected by Hound](https://img.shields.io/badge/Protected_by-Hound-a873d1.svg)](https://houndci.com)
 [![License](https://img.shields.io/github/license/sarslanoglu/turkish_cities.svg)](https://opensource.org/licenses/MIT)
@@ -91,7 +92,11 @@ TurkishCities.list_cities({ alphabetically_sorted: true, metropolitan_municipali
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
-## License
+## Changelog
 
-turkish_cities is licensed under MIT. See [LICENSE](LICENSE.txt).
+turkish_cities changelog is available [here](CHANGELOG.md).
 
+## Copyright
+
+Copyright (c) 2020 Semih Arslanoglu. See [LICENSE.txt](LICENSE.txt) for
+further details.
