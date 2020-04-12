@@ -11,6 +11,13 @@ RSpec.describe TurkishCities do
     expect(TurkishCities.find_name_by_plate_number('78')).to eq 'Karabük'
   end
 
+  it 'gives error when range is out of bounds' do
+    expect { TurkishCities.find_name_by_plate_number(0) }
+      .to raise_error(RangeError, 'Given value [0] is outside bounds of 1 to 81.')
+    expect { TurkishCities.find_name_by_plate_number('1000') }
+      .to raise_error(RangeError, 'Given value [1000] is outside bounds of 1 to 81.')
+  end
+
   it 'finds plate number by city' do
     expect(TurkishCities.find_plate_number_by_name('Ankara')).to eq 6
     expect(TurkishCities.find_plate_number_by_name('Canakkale')).to eq 17
@@ -18,6 +25,8 @@ RSpec.describe TurkishCities do
     expect(TurkishCities.find_plate_number_by_name('Isparta')).to eq 32
     expect(TurkishCities.find_plate_number_by_name('Istanbul')).to eq 34
     expect(TurkishCities.find_plate_number_by_name('kirsehir')).to eq 40
+    expect(TurkishCities.find_plate_number_by_name('falansehir'))
+      .to eq "Couldn't find city name with 'falansehir'"
   end
 
   it 'lists cities by plate number' do

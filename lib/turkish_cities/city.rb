@@ -9,6 +9,10 @@ class City
   CITY_LIST = YAML.load_file('lib/turkish_cities/data/cities.yaml')
 
   def find_by_id(plate_number)
+    unless plate_number.to_i.between?(1, 81)
+      raise RangeError, "Given value [#{plate_number}] is outside bounds of 1 to 81."
+    end
+
     CITY_LIST.each do |city|
       return city['name'] if city['plate_number'] == plate_number.to_i
     end
@@ -20,6 +24,7 @@ class City
         return city['plate_number']
       end
     end
+    "Couldn't find city name with '#{city_name}'"
   end
 
   def list_cities(options)
