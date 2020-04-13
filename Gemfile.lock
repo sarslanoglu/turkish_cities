@@ -1,3 +1,9 @@
+PATH
+  remote: .
+  specs:
+    turkish_cities (0.1.1)
+      i18n (>= 0.6.4, <= 2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -16,7 +22,7 @@ GEM
     jaro_winkler (1.5.4)
     json (2.3.0)
     parallel (1.19.1)
-    parser (2.7.0.5)
+    parser (2.7.1.0)
       ast (~> 2.4.0)
     rainbow (3.0.0)
     rexml (3.2.4)
@@ -59,10 +65,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  coveralls
-  i18n
-  rspec
-  rubocop
+  bundler (~> 2.1.4)
+  coveralls (~> 0.8.23)
+  rspec (~> 3.9.0)
+  rubocop (~> 0.80.1)
+  turkish_cities!
 
 BUNDLED WITH
    2.1.4

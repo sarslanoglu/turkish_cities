@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'turkish_cities/city'
+require 'turkish_cities/version'
 
 class TurkishCities
   def self.find_name_by_plate_number(plate_number)

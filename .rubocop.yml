@@ -1,6 +1,8 @@
 AllCops:
+  TargetRubyVersion: 2.5.1
   Exclude:
     - 'Gemfile'
+    - 'turkish_cities.gemspec'
 Layout/LineLength:
   Max: 100
 Metrics/BlockLength:

@@ -46,6 +46,7 @@ TurkishCities.find_name_by_plate_number(7) # => "Antalya"
 TurkishCities.find_name_by_plate_number(0007) # => "Antalya"
 TurkishCities.find_name_by_plate_number(43.0) # => "Kütahya"
 TurkishCities.find_name_by_plate_number('78') # => "Karabük"
+TurkishCities.find_name_by_plate_number(100) # => 'Given value [100] is outside bounds of 1 to 81.'
 ```
 
 ### Finding plate number by city name
@@ -57,6 +58,7 @@ TurkishCities.find_plate_number_by_name('Ankara') # => 6
 TurkishCities.find_plate_number_by_name('Eskişehir') # => 26
 TurkishCities.find_plate_number_by_name('Canakkale') # => 17
 TurkishCities.find_plate_number_by_name('kirsehir') # => 40
+TurkishCities.find_plate_number_by_name('falansehir') # => "Couldn't find city name with 'falansehir'"
 ```
 
 ### Listing all cities
@@ -64,18 +66,18 @@ TurkishCities.find_plate_number_by_name('kirsehir') # => 40
 By default cities will be listed by their plate number ascending.
 
 ```ruby
-TurkishCities.list_cities # => [ "-- select city --", "Adana", "Adıyaman" ... "Kilis", "Osmaniye", "Düzce"]
+TurkishCities.list_cities # => ["Adana", "Adıyaman" ... "Kilis", "Osmaniye", "Düzce"]
 ```
 
 While listing cities two additional parameters can be send ```alphabetically_sorted``` and ```metropolitan_municipality``` Both parameters can be send seperately and together.
 
 ```ruby
 TurkishCities.list_cities({ alphabetically_sorted: true })
-# => [ "-- select city --", "Adana", "Adıyaman" ... "Yalova", "Yozgat", "Zonguldak"]
+# => ["Adana", "Adıyaman" ... "Yalova", "Yozgat", "Zonguldak"]
 TurkishCities.list_cities({ metropolitan_municipality: true })
-# => [ "-- select city --", "Adana", "Ankara" ... "Trabzon", "Şanlıurfa", "Van"]
+# => ["Adana", "Ankara" ... "Trabzon", "Şanlıurfa", "Van"]
 TurkishCities.list_cities({ alphabetically_sorted: true, metropolitan_municipality: true })
-# => [ "-- select city --", "Adana", "Ankara" ... "Tekirdağ", "Trabzon", "Van"]
+# => ["Adana", "Ankara" ... "Tekirdağ", "Trabzon", "Van"]
 ```
 
 ## Compatibility
@@ -83,6 +85,8 @@ TurkishCities.list_cities({ alphabetically_sorted: true, metropolitan_municipali
 - ✅ `2.7.0` (stable)
 - ✅ `2.6.3` (stable)
 - ✅ `2.5.5` (stable)
+
+- This gem heavily depends of ```:turkic``` case mapping support of Ruby string downcase method. Below Ruby version 2.5.1 some functions will run buggy/false or even won't run at all.
 
 ## Contributing
 
