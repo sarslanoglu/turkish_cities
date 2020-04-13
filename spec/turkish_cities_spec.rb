@@ -12,6 +12,8 @@ RSpec.describe TurkishCities do
   end
 
   it 'gives error when range is out of bounds' do
+    expect { TurkishCities.find_name_by_plate_number(nil) }
+      .to raise_error(RangeError, 'Given value [] is outside bounds of 1 to 81.')
     expect { TurkishCities.find_name_by_plate_number(0) }
       .to raise_error(RangeError, 'Given value [0] is outside bounds of 1 to 81.')
     expect { TurkishCities.find_name_by_plate_number('1000') }
@@ -52,5 +54,11 @@ RSpec.describe TurkishCities do
                                              metropolitan_municipality: true })
     expect(city_array.size).to eq 30
     expect(city_array[14]).to eq 'Kahramanmaraş'
+  end
+
+  it 'ignores wrong parameters' do
+    city_array = TurkishCities.list_cities({ falanicly_sorted: true })
+    expect(city_array.size).to eq 81
+    expect(city_array[33]).to eq 'İstanbul'
   end
 end
