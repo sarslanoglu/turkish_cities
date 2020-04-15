@@ -6,7 +6,8 @@ require 'yaml'
 class City
   I18n.enforce_available_locales = false
 
-  CITY_LIST = YAML.load_file('lib/turkish_cities/data/cities.yaml')
+  file_path = File.join(File.dirname(__FILE__), 'data/cities.yaml')
+  CITY_LIST = YAML.load_file(file_path)
 
   def find_by_id(plate_number)
     unless plate_number.to_i.between?(1, 81)
