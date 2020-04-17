@@ -10,19 +10,31 @@ class City
   CITY_LIST = YAML.load_file(file_path)
 
   def find_by_id(plate_number)
-    unless plate_number.to_i.between?(1, 81)
-      raise RangeError, "Given value [#{plate_number}] is outside bounds of 1 to 81."
-    end
+    check_input_range(plate_number, 1, 81)
 
     CITY_LIST.each do |city|
       return city['name'] if city['plate_number'] == plate_number.to_i
     end
   end
 
-  def find_by_name(city_name)
+  def find_by_phone_code(phone_code)
+    check_input_range(phone_code, 212, 488)
+    check_phone_code(phone_code)
+
+    CITY_LIST.each do |city|
+      if city['phone_code'].is_a?(Array)
+        return city['name'] if city['phone_code'].include?(phone_code.to_i)
+      elsif city['phone_code'] == phone_code.to_i
+        return city['name']
+      end
+    end
+    "Couldn't find city name with phone code #{phone_code}"
+  end
+
+  def find_by_name(city_name, return_type)
     CITY_LIST.each do |city|
       if convert_chars(city['name'].downcase(:turkic)) == convert_chars(city_name.downcase(:turkic))
-        return city['plate_number']
+        return return_type == 'plate_number' ? city['plate_number'] : city['phone_code']
       end
     end
     "Couldn't find city name with '#{city_name}'"
@@ -43,6 +55,18 @@ class City
   end
 
   private
+
+  def check_input_range(input, min, max)
+    return if input.to_i.between?(min, max)
+
+    raise RangeError, "Given value [#{input}] is outside bounds of #{min} to #{max}."
+  end
+
+  def check_phone_code(input)
+    return if input.to_i.even?
+
+    raise ArgumentError, "Given value [#{input}] must be an even number."
+  end
 
   def convert_chars(string)
     I18n.transliterate(string)

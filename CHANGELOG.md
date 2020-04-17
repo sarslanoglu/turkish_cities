@@ -1,5 +1,15 @@
 # Changelog
 
+## master (unreleased)
+
+### New features
+
+* [#21](https://github.com/sarslanoglu/turkish_cities/pull/21): Add city finding with phone code and vice versa. ```find_name_by_phone_code``` and ```find_phone_code_by_name``` methods are added
+
+### Bug fixes
+
+* [#19](https://github.com/sarslanoglu/turkish_cities/pull/19): Fix yaml file read error while deploying apps to Heroku
+
 ## 0.1.2 (2020-04-13)
 
 ### New features

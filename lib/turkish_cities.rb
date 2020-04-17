@@ -8,8 +8,16 @@ class TurkishCities
     City.new.find_by_id(plate_number)
   end
 
+  def self.find_name_by_phone_code(phone_code)
+    City.new.find_by_phone_code(phone_code)
+  end
+
   def self.find_plate_number_by_name(city_name)
-    City.new.find_by_name(city_name)
+    City.new.find_by_name(city_name, 'plate_number')
+  end
+
+  def self.find_phone_code_by_name(city_name)
+    City.new.find_by_name(city_name, 'phone_code')
   end
 
   def self.list_cities(options = {})
