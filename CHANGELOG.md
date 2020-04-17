@@ -4,6 +4,7 @@
 
 ### New features
 
+* [#23](https://github.com/sarslanoglu/turkish_cities/pull/23): Add region data to cities.yaml and update ```list_cities``` method to support regions
 * [#21](https://github.com/sarslanoglu/turkish_cities/pull/21): Add city finding with phone code and vice versa. ```find_name_by_phone_code``` and ```find_phone_code_by_name``` methods are added
 
 ### Bug fixes
