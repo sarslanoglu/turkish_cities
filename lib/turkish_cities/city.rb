@@ -33,7 +33,7 @@ class City
 
   def find_by_name(city_name, return_type)
     CITY_LIST.each do |city|
-      if convert_chars(city['name'].downcase(:turkic)) == convert_chars(city_name.downcase(:turkic))
+      if convert_chars(city['name']) == convert_chars(city_name)
         return return_type == 'plate_number' ? city['plate_number'] : city['phone_code']
       end
     end
@@ -41,16 +41,12 @@ class City
   end
 
   def list_cities(options)
-    if options[:metropolitan_municipality]
-      city_list = CITY_LIST.map do |city|
-        city unless city['metropolitan_municipality_since'].nil?
-      end
-      city_list
-    else
-      city_list = CITY_LIST
-    end
+    city_list = CITY_LIST
 
-    final_city_list = prepare_city_list(city_list.compact)
+    city_list = filter_metropolitan_municipalities(city_list) if options[:metropolitan_municipality]
+    city_list = filter_regions(city_list, options[:region]) if options[:region]
+
+    final_city_list = prepare_city_list(city_list)
     options[:alphabetically_sorted] ? sort_cities(final_city_list) : final_city_list
   end
 
@@ -69,7 +65,16 @@ class City
   end
 
   def convert_chars(string)
-    I18n.transliterate(string)
+    I18n.transliterate(string.downcase(:turkic))
+  end
+
+  def filter_metropolitan_municipalities(city_list)
+    city_list.map { |city| city unless city['metropolitan_municipality_since'].nil? }.compact
+  end
+
+  def filter_regions(city_list, region)
+    region = convert_chars(region.to_s)
+    city_list.map { |city| city if convert_chars(city['region']) == region }.compact
   end
 
   def prepare_city_list(city_list)

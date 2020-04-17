@@ -84,11 +84,32 @@ RSpec.describe TurkishCities do
     expect(city_array[14]).to eq 'İzmir'
   end
 
+  it 'lists cities by region' do
+    city_array = TurkishCities.list_cities({ region: 'Karadeniz' })
+    expect(city_array.size).to eq 18
+    expect(city_array[17]).to eq 'Düzce'
+  end
+
+  it 'lists only metropolitan municipality cities by region' do
+    city_array = TurkishCities.list_cities({ region: 'Karadeniz',
+                                             metropolitan_municipality: true })
+    expect(city_array.size).to eq 3
+    expect(city_array).to eq %w[Ordu Samsun Trabzon]
+  end
+
   it 'lists only metropolitan municipality cities by alphabetical order' do
     city_array = TurkishCities.list_cities({ alphabetically_sorted: true,
                                              metropolitan_municipality: true })
     expect(city_array.size).to eq 30
     expect(city_array[14]).to eq 'Kahramanmaraş'
+  end
+
+  it 'lists cities with all filters' do
+    city_array = TurkishCities.list_cities({ alphabetically_sorted: true,
+                                             region: 'Marmara',
+                                             metropolitan_municipality: true })
+    expect(city_array.size).to eq 6
+    expect(city_array).to eq %w[Balıkesir Bursa İstanbul Kocaeli Sakarya Tekirdağ]
   end
 
   it 'ignores wrong parameters' do
