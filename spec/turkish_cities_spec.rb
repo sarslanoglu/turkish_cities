@@ -25,6 +25,8 @@ RSpec.describe TurkishCities do
     expect(TurkishCities.find_name_by_phone_code(242)).to eq 'Antalya'
     expect(TurkishCities.find_name_by_phone_code(222)).to eq 'Eskişehir'
     expect(TurkishCities.find_name_by_phone_code(274)).to eq 'Kütahya'
+    expect(TurkishCities.find_name_by_phone_code(212)).to eq 'İstanbul'
+    expect(TurkishCities.find_name_by_phone_code(216)).to eq 'İstanbul'
     expect(TurkishCities.find_name_by_phone_code(370)).to eq 'Karabük'
     expect(TurkishCities.find_name_by_phone_code(360))
       .to eq "Couldn't find city name with phone code 360"

@@ -5,10 +5,18 @@ AllCops:
     - 'turkish_cities.gemspec'
 Layout/LineLength:
   Max: 100
+Layout/SpaceAroundMethodCallOperator:
+  Enabled: true
+Lint/RaiseException:
+  Enabled: true
+Lint/StructNewOverride:
+  Enabled: true
 Metrics/BlockLength:
   ExcludedMethods: ['describe', 'context']
 Style/Documentation:
   Enabled: false
+Style/ExponentialNotation:
+  Enabled: true
 Style/HashEachMethods:
   Enabled: true
 Style/HashTransformKeys:
@@ -17,4 +25,3 @@ Style/HashTransformKeys:
 Style/HashTransformValues:
   Description: 'Prefer `transform_values` over `each_with_object` and `map`.'
   Enabled: true
-    
