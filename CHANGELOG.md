@@ -1,29 +1,29 @@
 # Changelog
 
-## master (unreleased)
+## 0.1.3 (2020-04-20)
 
 ### New features
 
-* [#23](https://github.com/sarslanoglu/turkish_cities/pull/23): Add region data to cities.yaml and update ```list_cities``` method to support regions
-* [#21](https://github.com/sarslanoglu/turkish_cities/pull/21): Add city finding with phone code and vice versa. ```find_name_by_phone_code``` and ```find_phone_code_by_name``` methods are added
+* [#22](https://github.com/sarslanoglu/turkish_cities/issues/22): Add region data to cities.yaml and update ```list_cities``` method to support regions
+* [#20](https://github.com/sarslanoglu/turkish_cities/issues/20): Add city finding with phone code and vice versa. ```find_name_by_phone_code``` and ```find_phone_code_by_name``` methods are added
 
 ### Bug fixes
 
-* [#19](https://github.com/sarslanoglu/turkish_cities/pull/19): Fix yaml file read error while deploying apps to Heroku
+* [#18](https://github.com/sarslanoglu/turkish_cities/issues/18): Fix yaml file read error while deploying apps to Heroku
 
 ## 0.1.2 (2020-04-13)
 
 ### New features
 
-* [#11](https://github.com/sarslanoglu/turkish_cities/pull/11): Change city_list data to yaml file format
+* [#3](https://github.com/sarslanoglu/turkish_cities/issues/3): Change city_list data to yaml file format
 
 ### Bug fixes
 
-* [#6](https://github.com/sarslanoglu/turkish_cities/pull/6): Fix capital Turkish characters bug on cities with capital 'I' letter
+* [#2](https://github.com/sarslanoglu/turkish_cities/issues/2): Fix capital Turkish characters bug on cities with capital 'I' letter
 
 ### Changes
 
-* [#16](https://github.com/sarslanoglu/turkish_cities/pull/16): Handle error messages at ```find_name_by_plate_number``` and ```find_plate_number_by_name``` methods
+* [#15](https://github.com/sarslanoglu/turkish_cities/issues/15): Handle error messages at ```find_name_by_plate_number``` and ```find_plate_number_by_name``` methods
 
 ## 0.1.1 (2020-03-31)
 

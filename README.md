@@ -49,6 +49,22 @@ TurkishCities.find_name_by_plate_number('78') # => "Karabük"
 TurkishCities.find_name_by_plate_number(100) # => 'Given value [100] is outside bounds of 1 to 81.'
 ```
 
+### Finding city name by phone code
+
+There are 81 cities in Turkey. By calling a phone code between 212-488 will give city_name. All phone codes are even sending odd number will give error without searching
+
+```ruby
+TurkishCities.find_name_by_phone_code(312) # => "Ankara"
+TurkishCities.find_name_by_phone_code(242) # => "Antalya"
+TurkishCities.find_name_by_phone_code(000222) # => "Eskişehir"
+TurkishCities.find_name_by_phone_code(274.0) # => "Kütahya"
+TurkishCities.find_name_by_phone_code('212') # => "İstanbul"
+TurkishCities.find_name_by_phone_code(216) # => "İstanbul"
+TurkishCities.find_name_by_phone_code(360) # => 'Couldn't find city name with phone code 360'
+TurkishCities.find_name_by_phone_code(0) # => 'Given value [0] is outside bounds of 212 to 488.'
+TurkishCities.find_name_by_phone_code(213) # => 'Given value [213] must be an even number.'
+```
+
 ### Finding plate number by city name
 
 City name can be given case and turkish character insensitive
@@ -57,8 +73,22 @@ City name can be given case and turkish character insensitive
 TurkishCities.find_plate_number_by_name('Ankara') # => 6
 TurkishCities.find_plate_number_by_name('Eskişehir') # => 26
 TurkishCities.find_plate_number_by_name('Canakkale') # => 17
+TurkishCities.find_plate_number_by_name('Istanbul') # => 34
 TurkishCities.find_plate_number_by_name('kirsehir') # => 40
 TurkishCities.find_plate_number_by_name('falansehir') # => "Couldn't find city name with 'falansehir'"
+```
+
+### Finding phone number by city name
+
+City name can be given case and turkish character insensitive
+
+```ruby
+TurkishCities.find_phone_code_by_name('Ankara') # => 312
+TurkishCities.find_phone_code_by_name('Eskişehir') # => 222
+TurkishCities.find_phone_code_by_name('Canakkale') # => 286
+TurkishCities.find_phone_code_by_name('Istanbul') # => [212, 216]
+TurkishCities.find_phone_code_by_name('kirsehir') # => 386
+TurkishCities.find_phone_code_by_name('filansehir') # => "Couldn't find city name with 'filansehir'"
 ```
 
 ### Listing all cities
@@ -69,13 +99,19 @@ By default cities will be listed by their plate number ascending.
 TurkishCities.list_cities # => ["Adana", "Adıyaman" ... "Kilis", "Osmaniye", "Düzce"]
 ```
 
-While listing cities two additional parameters can be send ```alphabetically_sorted``` and ```metropolitan_municipality``` Both parameters can be send seperately and together.
+While listing cities three additional parameters can be send ```alphabetically_sorted```, ```metropolitan_municipality``` and ```region```. All parameters can be send seperately and together.
 
 ```ruby
 TurkishCities.list_cities({ alphabetically_sorted: true })
 # => ["Adana", "Adıyaman" ... "Yalova", "Yozgat", "Zonguldak"]
 TurkishCities.list_cities({ metropolitan_municipality: true })
 # => ["Adana", "Ankara" ... "Trabzon", "Şanlıurfa", "Van"]
+TurkishCities.list_cities({ region: 'Karadeniz' })
+# => ["Amasya", "Artvin" ... "Bartın", "Karabük", "Düzce"]
+TurkishCities.list_cities({ alphabetically_sorted: true, region: 'Karadeniz' })
+# => ["Amasya", "Artvin" ... "Tokat", "Trabzon", "Zonguldak"]
+TurkishCities.list_cities({ metropolitan_municipality: true, region: 'Karadeniz' })
+# => ["Ordu", "Samsun", "Trabzon"]
 TurkishCities.list_cities({ alphabetically_sorted: true, metropolitan_municipality: true })
 # => ["Adana", "Ankara" ... "Tekirdağ", "Trabzon", "Van"]
 ```
@@ -90,15 +126,11 @@ TurkishCities.list_cities({ alphabetically_sorted: true, metropolitan_municipali
 
 ## Contributing
 
-1. Fork it ( https://github.com/sarslanoglu/turkish_cities/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+Contributing guidelines are available [here](CONTRIBUTING.md).
 
 ## Changelog
 
-turkish_cities changelog is available [here](CHANGELOG.md).
+Changelog is available [here](CHANGELOG.md).
 
 ## Copyright
 
