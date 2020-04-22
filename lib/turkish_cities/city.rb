@@ -50,6 +50,13 @@ class City
     options[:alphabetically_sorted] ? sort_cities(final_city_list) : final_city_list
   end
 
+  def list_districts(city_name)
+    CITY_LIST.each do |city|
+      return city['districts'] if convert_chars(city['name']) == convert_chars(city_name)
+    end
+    "Couldn't find city name with '#{city_name}'"
+  end
+
   private
 
   def check_input_range(input, min, max)

@@ -23,4 +23,8 @@ class TurkishCities
   def self.list_cities(options = {})
     City.new.list_cities(options)
   end
+
+  def self.list_districts(city_name)
+    City.new.list_districts(city_name)
+  end
 end
