@@ -68,6 +68,23 @@ RSpec.describe TurkishCities do
       .to eq "Couldn't find city name with 'filansehir'"
   end
 
+  it 'lists districts of İstanbul' do
+    istanbul_districts = TurkishCities.list_districts('İstanbul')
+    expect(istanbul_districts.size).to eq 39
+    expect(istanbul_districts[5]).to eq 'Bahçelievler'
+  end
+
+  it 'lists districts of Kilis' do
+    kilis_districts = TurkishCities.list_districts('Kilis')
+    expect(kilis_districts.size).to eq 4
+    expect(kilis_districts).to eq %w[Elbeyli Merkez Musabeyli Polateli]
+  end
+
+  it 'gives error when city_name is not found' do
+    unknown_districts = TurkishCities.list_districts('Haleluya')
+    expect(unknown_districts).to eq "Couldn't find city name with 'Haleluya'"
+  end
+
   it 'lists cities by plate number' do
     city_array = TurkishCities.list_cities
     expect(city_array.size).to eq 81

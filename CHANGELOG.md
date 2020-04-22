@@ -1,5 +1,11 @@
 # Changelog
 
+## master (unreleased)
+
+### New features
+
+* [#25](https://github.com/sarslanoglu/turkish_cities/issues/25): Add district data to each city at yaml file and add new method ```list_districts``` for listing disctricts of cities alphabetically sorted
+
 ## 0.1.3 (2020-04-20)
 
 ### New features
