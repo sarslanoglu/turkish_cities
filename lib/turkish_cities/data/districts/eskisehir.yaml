@@ -1,0 +1,673 @@
+---
+Alpu:
+  Alpu:
+    postcode: 26850
+    neighboorhoods:
+    - Ağaçhisar Mah
+    - Aktepe Mah
+    - Alapınar Mah
+    - Arıkaya Mah
+    - Bahçecik Mah
+    - Başören Mah
+    - Belkese Mah
+    - Bozan Mah
+    - Büğdüz Mah
+    - Çardakbaşı Mah
+    - Çerkez Çukurhisar Mah
+    - Dereköy Mah
+    - Esence Mah
+    - Fatih Mah
+    - Fevzi Paşa Mah
+    - Fevziye Mah
+    - Gökçekaya Mah
+    - Gökçeoğlu Mah
+    - Güroluk Mah
+    - Işıkören Mah
+    - Karacaören Mah
+    - Karakamış Mah
+    - Kemalpaşa Mah
+    - Koşmat Mah
+    - Mamure Mah
+    - Osmaniye Mah
+    - Özdenk Mah
+    - Sakarıkaracaören Mah
+    - Sarıkavak Mah
+    - Söğütçük Mah
+    - Uyuzhamamköyü Mah
+    - Yeşildon Mah
+    - Yunusemre Mah
+Beylikova:
+  Beylikova:
+    postcode: 26750
+    neighboorhoods:
+    - Akköprü Mah
+    - Aşağıdudaş Mah
+    - Aşağıiğdeağacı Mah
+    - Ata Mah
+    - Doğanoğlu Mah
+    - Doğray Mah
+    - Emircik Mah
+    - Gökçeayva Mah
+    - Halilbağı Mah
+    - İkipınar Mah
+    - İmikler Mah
+    - Kızılcaören Mah
+    - Köprübaşı Mah
+    - Köprübaşı Osb Mah
+    - Okçu Mah
+    - Parsıbey Mah
+    - Rahmiye Mah
+    - Sultaniye Mah
+    - Süleymaniye Mah
+    - Uzunburun Mah
+    - Yalınlı Mah
+    - Yeni Mah
+    - Yeniyurt Mah
+    - Yukarıdudaş Mah
+    - Yukarıiğdeağacı Mah
+    - Yunus Emre Mah
+Çifteler:
+  Çifteler:
+    postcode: 26700
+    neighboorhoods:
+    - Abbashalimpaşa Mah
+    - Adalar Mah
+    - Alikan Mah
+    - Arslanlı Mah
+    - Başkurt Mah
+    - Belpınar Mah
+    - Çatmapınar Mah
+    - Çiftçi Mah
+    - Dikilikaya Mah
+    - Dikmen Mah
+    - Doğanay Mah
+    - Eminekin Mah
+    - Erbap Mah
+    - Hayriye Mah
+    - Ilıcabaşı Mah
+    - Kadıkuyusu Mah
+    - Körhasan Mah
+    - Orhaniye Mah
+    - Ortaköy Mah
+    - Osmaniye Mah
+    - Sadıroğlu Mah
+    - Saithalimpaşa Mah
+    - Sakarya Mah
+    - Sarıkavak Mah
+    - Yeni Mah
+    - Yenidoğan Mah
+    - Yıldızören Mah
+    - Zaferhamit Mah
+Günyüzü:
+  Günyüzü:
+    postcode: 26630
+    neighboorhoods:
+    - Atlas Mah
+    - Ayvalı Mah
+    - Bedil Mah
+    - Beyyayla Mah
+    - Çakmak Mah
+    - Çardaközü Mah
+    - Doğray Mah
+    - Fatih Mah
+    - Gecek Mah
+    - Gümüşkonak Mah
+    - Kavacık Mah
+    - Kavuncu Mah
+    - Kayakent Mah
+    - Kuzören Mah
+    - Mercan Mah
+    - Özler Mah
+    - Sümer Mah
+    - Tutlu Mah
+    - Yağrı Mah
+    - Yazır Mah
+    - Yenikent Mah
+    - Yeşilyaka Mah
+Han:
+  Han:
+    postcode: 26710
+    neighboorhoods:
+    - Ağlarca Mah
+    - Akdere Mah
+    - Akhisar Mah
+    - Başara Mah
+    - Erten Mah
+    - Gökçekuyu Mah
+    - Gökçeyayla Mah
+    - Hacılar Mah
+    - Hankaraağaç Mah
+    - Hüsrevpaşa Mah
+    - İskankuyu Mah
+    - Kayı Mah
+    - Peçene Mah
+    - Tepeköy Mah
+    - Yazılı Mah
+İnönü:
+  İnönü:
+    postcode: 26670
+    neighboorhoods:
+    - Aşağıkuzfındık Mah
+    - Çarşı Mah
+    - Dereyalak Mah
+    - Dutluca Mah
+    - Erenköy Mah
+    - Esnemez Mah
+    - İsmetpaşa Mah
+    - Kümbet Mah
+    - Kümbetakpınar Mah
+    - Kümbetyeniköy Mah
+    - Oklubalı Mah
+    - Orta Mah
+    - Seyitaliköyü Mah
+    - Yenice Mah
+    - Yukarıkuzfındık Mah
+    - Yürükyayla Mah
+Mahmudiye:
+  Mahmudiye:
+    postcode: 26800
+    neighboorhoods:
+    - Akyurt Mah
+    - Balçıkhisar Mah
+    - Çal Mah
+    - Doğanca Mah
+    - Fahriye Mah
+    - Güllüce Mah
+    - Hamidiye Mah
+    - Işıklar Mah
+    - İsmetpaşa Mah
+    - Kaymazyayla Mah
+    - Mesudiye Mah
+    - Orta Mah
+    - Şerefiye Mah
+    - Tokathan Mah
+    - Topkaya Mah
+    - Türkmenmecidiye Mah
+    - Yeni Mah
+    - Yeniköy Mah
+    - Yeşilyurt Mah
+Mihalgazi:
+  Mihalgazi:
+    postcode: 26880
+    neighboorhoods:
+    - Alpagut Mah
+    - Bozaniç Mah
+    - Cumhuriyet Mah
+    - Demirciler Mah
+    - Dokuz Mayıs Mah
+    - Hürriyet Mah
+    - İstiklal Mah
+    - Karaoğlan Mah
+    - Sakarıılıca Mah
+Mihalıççık:
+  Dinek:
+    postcode: 26940
+    neighboorhoods:
+    - Adahisar Mah
+    - Ahur Mah
+    - Ahurözü Mah
+    - Akçaören Mah
+    - Aydınlar Mah
+    - Bahtiyar Mah
+    - Belen Mah
+    - Bey Mah
+    - Camikebir Mah
+    - Çalçı Mah
+    - Çalkaya Mah
+    - Çardak Mah
+    - Çukurören Mah
+    - Dağcı Mah
+    - Diközü Mah
+    - Dinek Mah
+    - Dümrek Mah
+    - Gözeler Mah
+    - Güce Mah
+    - Güreş Mah
+    - Gürleyik Mah
+    - Hamidiye Mah
+    - Ilıcalar Mah
+    - İğdecik Mah
+    - İkizafer Mah
+    - Karaçam Mah
+    - Karageyikli Mah
+    - Kavak Mah
+    - Kayı Mah
+    - Kızılbörüklü Mah
+    - Korucu Mah
+    - Koyunağılı Mah
+    - Kozlu Mah
+    - Lütfiye Mah
+    - Mahmuthisar Mah
+    - Medrese Mah
+    - Narlı Mah
+    - Obruk Mah
+    - Otluk Mah
+    - Ömer Mah
+    - Saray Mah
+    - Sazak Mah
+    - Seki Mah
+    - Sekiören Mah
+    - Sorkun Mah
+    - Süleler Mah
+    - Tatarcık Mah
+    - Uşakbükü Mah
+    - Üçbaşlı Mah
+    - Yalımkaya Mah
+    - Yayla Mah
+    - Yeşilyurt Mah
+    - Yunusemre Mah
+Odunpazarı:
+  Alanönü:
+    postcode: 26030
+    neighboorhoods:
+    - Akçağlan Mah
+    - Alanönü Mah
+    - Cunudiye Mah
+    - Dede Mah
+    - Karapınar Mah
+    - Orta Mah
+    - Paşa Mah
+    - Şarkiye Mah
+  Arifiye:
+    postcode: 26010
+    neighboorhoods:
+    - Arifiye Mah
+    - İstiklal Mah
+  Büyükdere:
+    postcode: 26040
+    neighboorhoods:
+    - Büyükdere Mah
+    - Göztepe Mah
+    - Gültepe Mah
+    - Yıldıztepe Mah
+  Emek:
+    postcode: 26080
+    neighboorhoods:
+    - 71 Evler Mah
+    - Emek Mah
+  Gökmeydan:
+    postcode: 26100
+    neighboorhoods:
+    - Gökmeydan Mah
+    - Gündoğdu Mah
+  Huzur:
+    postcode: 26060
+    neighboorhoods:
+    - Erenköy Mah
+    - Huzur Mah
+    - Yenidoğan Mah
+  Kanlıpınar:
+    postcode: 26004
+    neighboorhoods:
+    - Akçakaya Mah
+    - Akkaya Mah
+    - Akpınar Mah
+    - Aşağıılıca Mah
+    - Avdan Mah
+    - Ayvacık Mah
+    - Çamlıca Mah
+    - Demirli Mah
+    - Doğankaya Mah
+    - Eşenkara Mah
+    - Gülpınar Mah
+    - Gümele Mah
+    - Harmandalı Mah
+    - İmişehir Mah
+    - Kanlıpınar Mah
+    - Karaalan Mah
+    - Karacaşehir Mah
+    - Karaçay Mah
+    - Karahüyük Mah
+    - Karamustafa Mah
+    - Karapazar Mah
+    - Karatepe Mah
+    - Kargın Mah
+    - Kayacık Mah
+    - Kıravdan Mah
+    - Kireç Mah
+    - Kuyucak Mah
+    - Lütfiye Mah
+    - Musalar Mah
+    - Sarısungur Mah
+    - Seklice Mah
+    - Sultandere Mah
+    - Süpüren Mah
+    - Türkmentokat Mah
+    - Uluçayır Mah
+    - Yahnikapan Mah
+    - Yenisofça Mah
+    - Yukarıçağlan Mah
+    - Yukarıılıca Mah
+    - Yukarıkalabak Mah
+    - Yürükkaracaören Mah
+    - Yürükkırka Mah
+  Kurtuluş:
+    postcode: 26090
+    neighboorhoods:
+    - Akcami Mah
+    - Deliklitaş Mah
+    - Kurtuluş Mah
+  Odunpazarıköy:
+    postcode: 26576
+    neighboorhoods:
+    - Ağapınar Mah
+    - Aşağı Çağlan Mah
+    - Çavlum Mah
+    - Kalkanlı Mah
+    - Karacahöyük Mah
+    - Kayapınar Mah
+    - Sevinç Mah
+    - Yassıhöyük Mah
+  Orhangazi:
+    postcode: 26160
+    neighboorhoods:
+    - Orhangazi Mah
+  Sultandere:
+    postcode: 26250
+    neighboorhoods:
+    - 75. Yıl Osb Mah
+    - 75.yıl Mah (Sultandere Mah)
+  Sümer:
+    postcode: 26140
+    neighboorhoods:
+    - Osmangazi Mah
+    - Sümer Mah
+  Vadişehir:
+    postcode: 26240
+    neighboorhoods:
+    - Çankaya Mah
+    - Ihlamurkent Mah
+    - Vadişehir Mah
+  Vişnelik:
+    postcode: 26020
+    neighboorhoods:
+    - Akarbaşı Mah
+    - Kırmızıtoprak Mah
+    - Vişnelik Mah
+  Yenikent:
+    postcode: 26050
+    neighboorhoods:
+    - Yenikent Mah
+Sarıcakaya:
+  Sarıcakaya:
+    postcode: 26870
+    neighboorhoods:
+    - Beyköy Mah
+    - Beyyayla Mah
+    - Bilal Habeşi Mah
+    - Camikebir Mah
+    - Dağküplü Mah
+    - Düzköy Mah
+    - Fatih Mah
+    - Güney Mah
+    - İğdir Mah
+    - Kapıkaya Mah
+    - Laçin Mah
+    - Mayıslar Mah
+    - Sarıkaya Mah
+    - Yeni Mah
+Seyitgazi:
+  Seyitgazi:
+    postcode: 26950
+    neighboorhoods:
+    - Akin Mah
+    - Aksaklı Mah
+    - Aslanbeyli Mah
+    - Aşağısöğüt Mah
+    - Ayvalı Mah
+    - Bardakçı Mah
+    - Beşsaray Mah
+    - Beykışla Mah
+    - Büyükdere Mah
+    - Büyükyayla Mah
+    - Cevizli Mah
+    - Çatören Mah
+    - Çukurağıl Mah
+    - Çukurca Mah
+    - Çürüttüm Mah
+    - Değişören Mah
+    - Derebenek Mah
+    - Doğançayır Mah
+    - Fethiye Mah
+    - Gemiç Mah
+    - Göcenoluk Mah
+    - Gökbahçe Mah
+    - Gökçegüney Mah
+    - Göknebi Mah
+    - Gümüşbel Mah
+    - İdrisyayla Mah
+    - İkiçeşme Mah
+    - İkizoluk Mah
+    - Karacalık Mah
+    - Karaören Mah
+    - Kesenler Mah
+    - Kırka Mah
+    - Kümbet Mah
+    - Numanoluk Mah
+    - Oynaş Mah
+    - Örencik Mah
+    - Salihler Mah
+    - Sancar Mah
+    - Sandıközü Mah
+    - Sarayören Mah
+    - Sarıcailyas Mah
+    - Şükranlı Mah
+    - Taşlıkköy Mah
+    - Üçsaray Mah
+    - Yapıldak Mah
+    - Yarbasan Mah
+    - Yazıdere Mah
+    - Yenikent Mah
+    - Yeşiltepe Mah
+    - Yukarısöğüt Mah
+    - Yunus Mah
+Sivrihisar:
+  Sivrihisar:
+    postcode: 26600
+    neighboorhoods:
+    - Ahiler Mah
+    - Aktaş Mah
+    - Aşağıkepen Mah
+    - Aydınlı Mah
+    - Babadat Mah
+    - Bahçecik Mah
+    - Ballıhisar Mah
+    - Benlikuyu Mah
+    - Benliyaver Mah
+    - Beyyazı Mah
+    - Biçer Mah
+    - Böğürtlen Mah
+    - Buhara Mah
+    - Buzluca Mah
+    - Camikebir Mah
+    - Cumhuriyet Mah
+    - Çandır Mah
+    - Çaykoz Mah
+    - Demirci Mah
+    - Demirciköy Mah
+    - Dinek Mah
+    - Dumluca Mah
+    - Dümrek Mah
+    - Elcik Mah
+    - Elmalı Mah
+    - Ertuğrulköy Mah
+    - Gedik Mah
+    - Gerenli Mah
+    - Göktepe Mah
+    - Gülçayır Mah
+    - Güvemli Mah
+    - Hamamkarahisar Mah
+    - Hızırbey Mah
+    - Hüdavendigar Mah
+    - İbikseydi Mah
+    - İğdecik Mah
+    - İlören Mah
+    - İlyaspaşa Mah
+    - İstiklalbağı Mah
+    - Kadıncık Mah
+    - Kaldırımköy Mah
+    - Karabaşlı Mah
+    - Karaburhan Mah
+    - Karacakaya Mah
+    - Karacalar Mah
+    - Karacaören Mah
+    - Karacaörenyaylası Mah
+    - Karadat Mah
+    - Karakaya Mah
+    - Karkın Mah
+    - Kaymaz Mah
+    - Kertek Mah
+    - Kılıç Mah
+    - Kınık Mah
+    - Koçaş Mah
+    - Koltan Mah
+    - Kubbeli Mah
+    - Kurşunlu Mah
+    - Kurtşeyh Mah
+    - Memik Mah
+    - Mülkköy Mah
+    - Nasrettin Hoca Mah
+    - Oğlakçı Mah
+    - Ortaklar Mah
+    - Paşakadın Mah
+    - Sadıkbağı Mah
+    - Sarıkavak Mah
+    - Selimiye Mah
+    - Sığırcık Mah
+    - Tekören Mah
+    - Yaverören Mah
+    - Yenice Mah
+    - Yenidoğan Mah
+    - Yeniköy Mah
+    - Yeşilköy Mah
+    - Yukarıkepen Mah
+    - Yunusemre Mah
+    - Zeyköyü Mah
+Tepebaşı:
+  Bahçelievler:
+    postcode: 26170
+    neighboorhoods:
+    - Bahçelievler Mah
+    - Eskibağlar Mah
+    - Güllük Mah
+    - Yenibağlar Mah
+  Cumhuriye:
+    postcode: 26130
+    neighboorhoods:
+    - Cumhuriye Mah
+    - Hoşnudiye Mah
+  Çamlıca:
+    postcode: 26180
+    neighboorhoods:
+    - Batıkent Mah
+    - Çamlıca Mah
+  Çukurhisar:
+    postcode: 26563
+    neighboorhoods:
+    - Aşağıkartal Mah
+    - Boyacıoğlu Mah
+    - Çukurhisar Yeni Mah
+    - Eğriöz Mah
+    - Gökdere Mah
+    - Hasanbey Mah
+    - Hisar Mah
+    - Kavacık Mah
+    - Keskin Mah
+    - Kozkayı Mah
+    - Satılmışoğlu Mah
+    - Yukarı Söğütönü Mah
+  Fatih:
+    postcode: 26220
+    neighboorhoods:
+    - Fatih Mah
+    - Kumlubel Mah
+    - Ömerağa Mah
+    - Tunalı Mah
+    - Zafer Mah
+  Fevziçakmak:
+    postcode: 26230
+    neighboorhoods:
+    - Fevziçakmak Mah
+    - Şarhöyük Mah
+  Hacıalibey:
+    postcode: 26120
+    neighboorhoods:
+    - Hacı Ali Bey Mah
+    - Hacı Seyit Mah
+    - Hayriye Mah
+    - Işıklar Mah
+    - İhsaniye Mah
+    - Mamure Mah
+    - Merkez Yeni Mah
+    - Mustafa Kemal Paşa Mah
+    - Şeker Mah
+  Muttalip:
+    postcode: 26555
+    neighboorhoods:
+    - Emirceoğlu Mah
+    - Gazipaşa Mah
+    - Muttalip Emirler Mah
+    - Muttalip Koyunlar Mah
+    - Muttalip Orta Mah
+    - Sakintepe Mah
+  Sazova:
+    postcode: 26150
+    neighboorhoods:
+    - Ertuğrulgazi Mah
+    - Sazova Mah
+  Tepebaşıköy:
+    postcode: 26005
+    neighboorhoods:
+    - Ahılar Mah
+    - Atalan Mah
+    - Atalantekke Mah
+    - Avlamış Mah
+    - Behçetiye Mah
+    - Bektaşpınarı Mah
+    - Beyazaltın Mah
+    - Bozdağ Mah
+    - Buldukpınar Mah
+    - Cumhuriyet Mah
+    - Çalkara Mah
+    - Çanakkıran Mah
+    - Danişment Mah
+    - Gökçekısık Mah
+    - Gündüzler Mah
+    - Hekimdağ Mah
+    - Karaçobanpınarı Mah
+    - Karadere Mah
+    - Karagözler Mah
+    - Kızılcaören Mah
+    - Kızılinler Mah
+    - Kozlubel Mah
+    - Mollaoğlu Mah
+    - Musaözü Mah
+    - Nemli Mah
+    - Sulukaraağaç Mah
+    - Takmak Mah
+    - Tandır Mah
+    - Taycılar Mah
+    - Tekeciler Mah
+    - Turgutlar Mah
+    - Uludere Mah
+    - Yakakayı Mah
+    - Yarımca Mah
+    - Yeniakçayır Mah
+    - Yeniincesu Mah
+    - Yukarıkartal Mah
+    - Yusuflar Mah
+    - Yürükakçayır Mah
+  Uluönder:
+    postcode: 26190
+    neighboorhoods:
+    - Uluönder Mah
+  Yeşiltepe:
+    postcode: 26210
+    neighboorhoods:
+    - Alınca Mah
+    - Aşağı Söğütönü Mah
+    - Esentepe Mah
+    - Sütlüce Mah
+    - Şirintepe Mah
+    - Yeşiltepe Mah
+    - Zincirlikuyu Mah

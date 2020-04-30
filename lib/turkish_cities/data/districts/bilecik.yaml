@@ -1,0 +1,425 @@
+---
+Bozüyük:
+  Bozüyük:
+    postcode: 11300
+    neighboorhoods:
+    - 4 Eylül Mah
+    - Akpınar Mah
+    - Çarşı Mah
+    - İçköy Mah
+    - Kasımpaşa Mah
+    - Tekke Mah
+    - Yediler Mah
+    - Yeni Mah
+    - Yenidoğan Mah
+    - Yeşilkent Mah
+  Dodurga:
+    postcode: 11460
+    neighboorhoods:
+    - Camiliyayla Köyü
+    - Çokçapınar Köyü
+    - Dombayçayırı Köyü
+    - Düzağaç Köyü
+    - Eceköy Köyü
+    - Erikli Köyü
+    - Gökçeli Köyü
+    - Göynücek Köyü
+    - Karaçayır Köyü
+    - Ketenlik Köyü
+    - Mehmet Akif Mah (Dodurga Köyü)
+    - Merkez Mah (Cihangazi Köyü)
+    - Mithatpaşa Mah (Dodurga Köyü)
+    - Namık Kemal Mah (Dodurga Köyü)
+    - Osmaniye Köyü
+    - Yenidodurga Köyü
+    - Yeniüreğil Köyü
+    - Yeşilçukurca Köyü
+    - Ziya Gökalp Mah (Dodurga Köyü)
+  Merkezköyler:
+    postcode: 11302
+    neighboorhoods:
+    - Akçapınar Köyü
+    - Aksutekke Köyü
+    - Alibeydüzü Köyü
+    - Aşağıarmutlu Köyü
+    - Bozalan Köyü
+    - Çamyayla Köyü
+    - Çaydere Köyü
+    - Darıdere Köyü
+    - Delielmacık Köyü
+    - Dübekli Köyü
+    - Düzdağ Köyü
+    - Günyarık Köyü
+    - Hamidiye Köyü
+    - Kandilli Köyü
+    - Kapanalan Köyü
+    - Karaağaç Köyü
+    - Karabayır Köyü
+    - Kızılcapınar Köyü
+    - Kızıltepe Köyü
+    - Kovalıca Köyü
+    - Kozpınar Köyü
+    - Kuyupınar Köyü
+    - Metristepe Köyü
+    - Muratdere Köyü
+    - Nanedere Mah (Düzdağ Köyü)
+    - Ormangüzle Köyü
+    - Poyra Köyü
+    - Poyra Mah (Poyra Köyü)
+    - Poyraosb Mah (Poyra Köyü)
+    - Revnak Köyü
+    - Saraycık Köyü
+    - Yeniçepni Köyü
+Gölpazarı:
+  Gölpazarı:
+    postcode: 11700
+    neighboorhoods:
+    - Bahçelievler Mah
+    - İsmetpaşa Mah
+    - İstiklal Mah
+    - Orta Mah
+    - Reşadiye Mah
+  Merkezköyler:
+    postcode: 11702
+    neighboorhoods:
+    - Akçakavak Köyü
+    - Akçaöküz Mah (Alıç Köyü)
+    - Aktaş Köyü
+    - Alıç Köyü
+    - Arıcaklar Köyü
+    - Armutçuk Köyü
+    - Bağışlar Mah (Kavak Köyü)
+    - Bahçelievler Mah (Çımışkı Köyü)
+    - Baltalı Köyü
+    - Bayat Köyü
+    - Bedi Köyü
+    - Bolatlı Köyü
+    - Bostancılar Mah (İncirli Köyü)
+    - Büyükbelen Köyü
+    - Büyüksusuz Köyü
+    - Büyüksürmeli Köyü
+    - Cansızlar Mah (Sarıhacılar Köyü)
+    - Çengeller Köyü
+    - Çımışkı Köyü
+    - Çiftlik Köyü
+    - Çukurören Köyü
+    - Demirhanlar Köyü
+    - Derecikören Köyü
+    - Dereli Köyü
+    - Doğancılar Köyü
+    - Dokuz Köyü
+    - Dumanlar Mah (Kümbet Köyü)
+    - Elmümin Mah (Alıç Köyü)
+    - Gemici Mah (Demirhanlar Köyü)
+    - Gökçeler Köyü
+    - Gökçeözü Köyü
+    - Göldağı Köyü
+    - Gözaçanlar Köyü
+    - Hacıdurmuşlar Mah (Köprücek Köyü)
+    - Hacıköy Köyü
+    - Hamidiye Köyü
+    - İncirli Köyü
+    - Karaağaç Köyü
+    - Karaahmetler Köyü
+    - Karacalar Köyü
+    - Kasımlar Köyü
+    - Keskin Köyü
+    - Köprücek Mah (Köprücek Köyü)
+    - Kurşunlu Köyü
+    - Kuşçuören Köyü
+    - Küçüksusuz Köyü
+    - Küçükyenice Köyü
+    - Kümbet Köyü
+    - Muratlar Mah (Kavak Köyü)
+    - Neçinler Mah (Softalar Köyü)
+    - Ormancılar Mah (Kavak Köyü)
+    - Sarıhacılar Köyü
+    - Seyfiler Mah (Taşçıahiler Köyü)
+    - Softalar Köyü
+    - Söğütcük Köyü
+    - Şahinler Köyü
+    - Şıhlar Mah (Kavak Köyü)
+    - Taşçıahiler Mah (Taşçıahiler Köyü)
+    - Tongurlar Köyü
+    - Türkmen Köyü
+    - Urgancılar Mah (Tongurlar Köyü)
+    - Üyük Köyü
+    - Yağcı Mah (Dokuz Köyü)
+    - Yağcılar Mah (Kavak Köyü)
+İnhisar:
+  İnhisar:
+    postcode: 11640
+    neighboorhoods:
+    - Akkum Mah
+    - Güner Orbay Mah
+    - Karaağaç Mah
+    - Zafer Mah
+  Merkezköyler:
+    postcode: 11642
+    neighboorhoods:
+    - Akköy Köyü
+    - Çayköy Köyü
+    - Harmanköy Köyü
+    - Hisarcık Köyü
+    - Koyunlu Köyü
+    - Merkez Mah (Tarpak Köyü)
+    - Muratça Köyü
+    - Samrı Köyü
+    - Tozman Köyü
+Merkez:
+  Bilecik:
+    postcode: 11100
+    neighboorhoods:
+    - Bahçelievler Mah
+    - Beşiktaş Mah
+    - Cumhuriyet Mah
+    - Ertuğrulgazi Mah
+    - Gazipaşa Mah
+    - Hürriyet 1.osb Mah
+    - Hürriyet 2.osb Mah
+    - Hürriyet Mah
+    - İsmetpaşa Mah
+    - İstasyon Mah
+    - İstiklal Mah
+    - Orhangazi Mah
+    - Osmangazi Mah
+    - Pelitözü Mah
+  Merkezköyler:
+    postcode: 11230
+    neighboorhoods:
+    - Abadiye Köyü
+    - Abbaslık Köyü
+    - Ahmetpınar Köyü
+    - Alpağut Köyü
+    - Aşağıköy Köyü
+    - Ayvacık Köyü
+    - Bahçecik Köyü
+    - Başköy Köyü
+    - Başköy Merkez Mah (Başköy Köyü)
+    - Bekdemir Köyü
+    - Beyce Köyü
+    - Beyce Mah (Beyce Köyü)
+    - Cumalı Köyü
+    - Çakırpınar Köyü
+    - Çakırpınar Mah (Çakırpınar Köyü)
+    - Çamlık Mah (Selbükü Köyü)
+    - Çavuşköy Köyü
+    - Çukurören Köyü
+    - Deresakarı Köyü
+    - Dereşemsettin Köyü
+    - Dereşemsettin Mah (Dereşemsettin Köyü)
+    - Elmabahçe Köyü
+    - Erkoca Köyü
+    - Ertuğrulgazi Mah (Vezirhan Köyü)
+    - Fatih Mah (Bayırköy Köyü)
+    - Gazi Mah (Bayırköy Köyü)
+    - Gökpınar Köyü
+    - Gökpınar Mah (Gökpınar Köyü)
+    - Gülümbe Mah (Gülümbe Köyü)
+    - Hasandere Köyü
+    - Hürriyet Mah (Gülümbe Köyü)
+    - İkizce Köyü
+    - İlyasbey Köyü
+    - İlyasça Köyü
+    - İstasyon Mah (Vezirhan Köyü)
+    - Kapaklı Köyü
+    - Karaağaç Köyü
+    - Karasu Mevki Mah (Kurtköy Köyü)
+    - Kavaklı Köyü
+    - Kayalar Mah (Vezirhan Köyü)
+    - Kendirli Köyü
+    - Kepirler Köyü
+    - Kınık Köyü
+    - Kızıldamlar Köyü
+    - Koyunköy Köyü
+    - Köprülü Mehmet Paşa Mah (Vezirhan Köyü)
+    - Kurtköy Köyü
+    - Kurtuluş Mah (Gülümbe Köyü)
+    - Kurular Mah (Gülümbe Köyü)
+    - Kuyubaşı Köyü
+    - Künceğiz Köyü
+    - Küplü Köyü
+    - Küplü Merkez Mah (Küplü Köyü)
+    - Necmiyeköy Köyü
+    - Okluca Köyü
+    - Ören Köyü
+    - Sarmaşık Mah (Bayırköy Köyü)
+    - Selbükü Köyü
+    - Selöz Köyü
+    - Selöz Mah (Selöz Köyü)
+    - Sütlük Köyü
+    - Şükraniye Köyü
+    - Taşçılar Köyü
+    - Taşçılar Mah (Taşçılar Köyü)
+    - Ulupınar Köyü
+    - Yeni Mah (Vezirhan Köyü)
+    - Yeniköy Köyü
+    - Yeniköy Mah (Yeniköy Köyü)
+    - Yunuslar Mah (Gülümbe Köyü)
+Osmaneli:
+  Merkezköyler:
+    postcode: 11502
+    neighboorhoods:
+    - Adliye Köyü
+    - Ağlan Köyü
+    - Akçapınar Mah (Akçapınar Köyü)
+    - Avdan Köyü
+    - Balçıkhisar Köyü
+    - Belenalan Köyü
+    - Benli Mah (Sarıyazı Köyü)
+    - Bereket Köyü
+    - Beşevler Mah (Hisarcık Köyü)
+    - Borcak Köyü
+    - Boyunkaya Köyü
+    - Büyükyenice Köyü
+    - Büyükyenice Mah (Büyükyenice Köyü)
+    - Ciciler Köyü
+    - Çerkeşli Köyü
+    - Çiftlik Köyü
+    - Dereyörük Köyü
+    - Düzmeşe Köyü
+    - Ericek Köyü
+    - Gaziler Mah (Akçapınar Köyü)
+    - Günüören Köyü
+    - Hisarcık Mah (Hisarcık Köyü)
+    - Kaşıkçı Mah (Soğucakpınar Köyü)
+    - Kazancı Köyü
+    - Kızılöz Köyü
+    - Medetli Köyü
+    - Oğulpaşa Mah (Oğulpaşa Köyü)
+    - Orhaniye Köyü
+    - Sarıyazı Mah (Sarıyazı Köyü)
+    - Selçik Köyü
+    - Selçik Mah (Selçik Köyü)
+    - Selimiye Köyü
+    - Selimiye Mah (Selimiye Köyü)
+    - Selimiyeosb Mah (Selimiye Köyü)
+    - Soğucakpınar Mah (Soğucakpınar Köyü)
+    - Yeşilçimen Mah (Oğulpaşa Köyü)
+  Osmaneli:
+    postcode: 11500
+    neighboorhoods:
+    - Camicedit Mah
+    - Camikebir Mah
+    - Haceloğlu Mah
+    - İnönü Mah
+Pazaryeri:
+  Merkezköyler:
+    postcode: 11802
+    neighboorhoods:
+    - Ahmetler Köyü
+    - Alınca Köyü
+    - Arapdede Köyü
+    - Arapdede Mah (Arapdede Köyü)
+    - Arpadere Köyü
+    - Bahçesultan Köyü
+    - Bozcaarmut Köyü
+    - Bulduk Köyü
+    - Burçalık Köyü
+    - Büyükelmalı Köyü
+    - Demirköy Köyü
+    - Dereköy Köyü
+    - Dereköy Mah (Dereköy Köyü)
+    - Dülgeroğlu Köyü
+    - Esemen Köyü
+    - Fıranlar Köyü
+    - Fıranlar Mah (Fıranlar Köyü)
+    - Güde Köyü
+    - Gümüşdere Köyü
+    - Günyurdu Köyü
+    - Karadede Köyü
+    - Karaköy Köyü
+    - Karaköy Mah (Karaköy Köyü)
+    - Karaköy-2 Mah (Karaköy Köyü)
+    - Kınık Köyü
+    - Küçükelmalı Köyü
+    - Nazifpaşa Köyü
+    - Sarıdayı Köyü
+    - Sarnıç Köyü
+    - Süleymaniye Mah (Demirköy Köyü)
+    - Yeni Yerleşim Yeri Mah (Günyurdu Köyü)
+  Pazaryeri:
+    postcode: 11800
+    neighboorhoods:
+    - Beşikli Mah
+    - Çarşı Mah
+    - Dereboğaz Mah
+    - Doğanlar Mah
+    - Pamucakosb Mah
+    - Yeni Mah
+    - Yüzbaşı Mah
+Söğüt:
+  Merkezköyler:
+    postcode: 11602
+    neighboorhoods:
+    - Akarbaşı Mah (Çaltı Köyü)
+    - Akçasu Köyü
+    - Borcak Köyü
+    - Dereboyu Köyü
+    - Dereboyu Mah (Dereboyu Köyü)
+    - Dömez Köyü
+    - Dudaş Köyü
+    - Geçitli Köyü
+    - Gündüzbey Köyü
+    - Gür Mah (Çaltı Köyü)
+    - Hamitabat Köyü
+    - Hayriye Köyü
+    - Kayabalı Köyü
+    - Kepen Köyü
+    - Kızılsaray Köyü
+    - Küreosb Mah (Küre Köyü)
+    - Merkez Mah (Küre Köyü)
+    - Oluklu Köyü
+    - Ortaca Köyü
+    - Rızapaşa Köyü
+    - Savcıbey Köyü
+    - Sırhoca Köyü
+    - Şen Mah (Çaltı Köyü)
+    - Tuzaklı Köyü
+    - Yakacık Köyü
+    - Yeşilyurt Köyü
+    - Zemzemiye Köyü
+  Söğüt:
+    postcode: 11600
+    neighboorhoods:
+    - Balaban Mah
+    - Cumhuriyet Mah
+    - Kayhan Mah
+    - Orta Mah
+    - Türkmenbaşı Mah
+Yenipazar:
+  Merkezköyler:
+    postcode: 11782
+    neighboorhoods:
+    - Aşağıboğaz Köyü
+    - Aşağıçaylı Köyü
+    - Batıbelenören Köyü
+    - Belkese Köyü
+    - Caferler Mah (Caferler Köyü)
+    - Danişment Köyü
+    - Dereköy Köyü
+    - Doğubelenören Köyü
+    - Esenköy Mah (Esenköy Köyü)
+    - Karahasanlar Köyü
+    - Katran Köyü
+    - Kavacık Köyü
+    - Kösüre Köyü
+    - Kuşça Köyü
+    - Kükürt Köyü
+    - Nasuhlar Köyü
+    - Selim Köyü
+    - Sorguncukahiler Köyü
+    - Tekeciler Mah (Esenköy Köyü)
+    - Tohumlar Köyü
+    - Ulucak Köyü
+    - Ümitler Mah (Caferler Köyü)
+    - Yukarıboğaz Köyü
+    - Yukarıçaylı Köyü
+    - Yumaklı Köyü
+  Yenipazar:
+    postcode: 11780
+    neighboorhoods:
+    - Çöte Mah
+    - Osmangazi Mah
+    - Yeni Mah
+    - Zafer Mah

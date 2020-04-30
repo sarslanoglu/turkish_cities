@@ -1,0 +1,437 @@
+---
+Altunhisar:
+  Altunhisar:
+    postcode: 51600
+    neighboorhoods:
+    - Aşağı Mah
+    - İstiklal Mah
+    - Orta Mah
+    - Sağlık Mah
+    - Uluören Köyü
+    - Yukarı Mah
+  Karakapı:
+    postcode: 51603
+    neighboorhoods:
+    - Cumhuriyet Mah (Karakapı Köyü)
+    - Yaka Mah (Karakapı Köyü)
+    - Yeni Mah (Karakapı Köyü)
+  Keçikalesi:
+    postcode: 51604
+    neighboorhoods:
+    - Cumhuriyet Mah (Keçikalesi Köyü)
+    - Erenler Mah (Keçikalesi Köyü)
+    - Selçuk Mah (Keçikalesi Köyü)
+  Merkezköyler:
+    postcode: 51602
+    neighboorhoods:
+    - Cumhuriyet Mah (Akçaören Köyü)
+    - Cumhuriyet Mah (Çömlekçi Köyü)
+    - Cumhuriyet Mah (Ulukışla Köyü)
+    - Cumhuriyet Mah (Yakacık Köyü)
+    - Hürriyet Mah (Çömlekçi Köyü)
+    - Hürriyet Mah (Ulukışla Köyü)
+    - İstiklal Mah (Akçaören Köyü)
+    - Kale Mah (Yeşilyurt Köyü)
+    - Köşk Mah (Yeşilyurt Köyü)
+    - Kurtuluş Mah (Çömlekçi Köyü)
+    - Kurtuluş Mah (Ulukışla Köyü)
+    - Şafak Mah (Akçaören Köyü)
+    - Şafak Mah (Yakacık Köyü)
+    - Yakacık Mah (Yakacık Köyü)
+    - Yukarı Asmaz Mah (Yeşilyurt Köyü)
+    - Zafer Mah (Akçaören Köyü)
+Bor:
+  Bor:
+    postcode: 51700
+    neighboorhoods:
+    - Acıgöl Mah
+    - Ahmet Kuddusi Mah
+    - Armutlu Mah
+    - Bağdüz Mah
+    - Başpınar Mah
+    - Cığızoğlu Osman Efendi Mah
+    - Cumhuriyet Mah
+    - Dink Mah
+    - Fatih Mah
+    - Harım Mah
+    - Kale Mah
+    - Karaca Uğurlu Mah
+    - Mehmetçik Mah
+    - Organize Sanayi Bölgesi Mah
+    - Orta Mah
+    - Saltuk Mah
+    - Sıra Söğütler Mah
+    - Sokubaşı Mah
+    - Şeker Mah
+    - Toplu Konut Mah
+    - Yenigöçmen Mah
+  Merkezköyler:
+    postcode: 51702
+    neighboorhoods:
+    - Akbaş Mah (Balcı Köyü)
+    - Altınova Mah (Tepeköy Köyü)
+    - Azizler Mah (Kızılca Köyü)
+    - Badak Köyü
+    - Balcı Mah (Balcı Köyü)
+    - Bayat Köyü
+    - Bektik Mah (Çukurkuyu Köyü)
+    - Bereke Köyü
+    - Cami Mah (Kemerhisar Köyü)
+    - Cami Mah (Kızılca Köyü)
+    - Cumhuriyet Mah (Bahçeli Köyü)
+    - Cumhuriyet Mah (Karanlıkdere Köyü)
+    - Cumhuriyet Mah (Kemerhisar Köyü)
+    - Çayır Mah (Kemerhisar Köyü)
+    - Emen Köyü
+    - Esendere Mah (Karanlıkdere Köyü)
+    - Gayret Mah (Balcı Köyü)
+    - Gökbez Köyü
+    - Halaç Köyü
+    - Han Mah (Kemerhisar Köyü)
+    - Havuzlu Köyü
+    - Karacaören Köyü
+    - Karamahmutlu Köyü
+    - Karşıyaka Mah (Karanlıkdere Köyü)
+    - Kavuklu Köyü
+    - Kayı Köyü
+    - Kaynarca Köyü
+    - Kemer Mah (Kemerhisar Köyü)
+    - Kılavuz Köyü
+    - Kınıkovası Mah (Tepeköy Köyü)
+    - Kızılkapı Köyü
+    - Kürkçü Köyü
+    - Obruk Köyü
+    - Okçu Köyü
+    - Okullar Mah (Kızılca Köyü)
+    - Postallı Köyü
+    - Saray Mah (Bahçeli Köyü)
+    - Seslikaya Köyü
+    - Şeker Mah (Bahçeli Köyü)
+    - Tepe Mah (Kemerhisar Köyü)
+    - Tepeköy Köyü
+    - Türkmen Yurdu Mah (Çukurkuyu Köyü)
+    - Yol Boyu Mah (Kaynarca Köyü)
+    - Zafer Mah (Bahçeli Köyü)
+Çamardı:
+  Çamardı:
+    postcode: 51660
+    neighboorhoods:
+    - Bereketli Mah
+    - Maden Mah
+    - Yeni Çarşı Mah
+    - Yunus Emre Mah
+  Merkezköyler:
+    postcode: 51662
+    neighboorhoods:
+    - Bademli Mah (Bademdere Köyü)
+    - Bahçeli Mah (Bademdere Köyü)
+    - Bekçili Köyü
+    - Beyazkışlakçı Köyü
+    - Boğaziçi Mah (Bademdere Köyü)
+    - Camız Keleri Mah (Üçkapılı Köyü)
+    - Celaller Köyü
+    - Cumhuriyet Mah (Burç Köyü)
+    - Çardacık Köyü
+    - Çukurbağ Köyü
+    - Demirkazık Köyü
+    - Elekgölü Köyü
+    - Eynelli Köyü
+    - Kale Mah (Üçkapılı Köyü)
+    - Kavaklıgöl Köyü
+    - Kavlaktepe Köyü
+    - Kocapınar Köyü
+    - Mahmatlı Köyü
+    - Orhaniye Köyü
+    - Ören Köyü
+    - Pınarbaşı Köyü
+    - Sulucaova Köyü
+    - Üçkapılı Köyü
+    - Yelatan Köyü
+    - Yeni Mah (Burç Köyü)
+    - Yeniköy Köyü
+Çiftlik:
+  Merkezköyler:
+    postcode: 51802
+    neighboorhoods:
+    - 1.ci Küme Mah (Çardak Köyü)
+    - 2.ci Küme Mah (Çardak Köyü)
+    - 3.ci Küme Mah (Çardak Köyü)
+    - 4.ci Küme Mah (Çardak Köyü)
+    - Alışlı Mah (Çınarlı Köyü)
+    - Alpaslan Mah (Divarlı Köyü)
+    - Aşağı Mevki Mah (Şeyhler Köyü)
+    - Bahçe Mah (Kula Köyü)
+    - Bekiroğlu Mah (Kula Köyü)
+    - Çakıl İçi Mevki Mah (Şeyhler Köyü)
+    - Çardak Köyü
+    - Çarşı Mah (Kitreli Köyü)
+    - Çayır Mah (Azatlı Köyü)
+    - Çınarlı Köyü
+    - Fatih Mah (Divarlı Köyü)
+    - Köprübaşı Mah (Kitreli Köyü)
+    - Köyaltı Mah (Kula Köyü)
+    - Küllüce Mah (Azatlı Köyü)
+    - Mahmutlu Köyü
+    - Mezaraltı Mah (Kula Köyü)
+    - Murtazaköy Köyü
+    - Ovalıbağ Köyü
+    - Sağırgöl Mah (Azatlı Köyü)
+    - Sultanpınarı Köyü
+    - Ulucami Mah (Kitreli Köyü)
+    - Yeni Mah (Azatlı Köyü)
+    - Yeni Mah (Divarlı Köyü)
+    - Yeni Mah (Kitreli Köyü)
+    - Yeni Mevki Mah (Şeyhler Köyü)
+    - Yenice Mah (Bozköy Köyü)
+    - Yenikent Mah (Bozköy Köyü)
+    - Yeşilkent Mah (Azatlı Köyü)
+    - Yeşilyurt Mah (Bozköy Köyü)
+    - Yukarı Mevki Mah (Kula Köyü)
+    - Yukarı Mevki Mah (Şeyhler Köyü)
+  Özyurt:
+    postcode: 51800
+    neighboorhoods:
+    - Asmasız Mah
+    - Çarşı Mah
+    - Çiftçi Mah
+    - Yeni Mah
+Merkez:
+  Afetevleri:
+    postcode: 51200
+    neighboorhoods:
+    - Alaaddin Mah
+    - Aşağı Kayabaşı Mah
+    - Dere Mah
+    - Efendibey Mah
+    - İnönü Mah
+    - Şehitler Mah
+    - Yenice Mah
+    - Yukarı Kayabaşı Mah
+  Merkezköyler:
+    postcode: 51300
+    neighboorhoods:
+    - Ağcaşar Köyü
+    - Aşağı Mah (Değirmenli Köyü)
+    - Aşağı Mah (Koyunlu Köyü)
+    - Aşağı Mah (Ovacık Köyü)
+    - Aşağı Mah (Sazlıca Köyü)
+    - Aşağı Mah (Yeşilgölcük Köyü)
+    - Aşlama Köyü
+    - Bağlar Mah (Çavdarlı Köyü)
+    - Bahçelievler Mah (İçmeli Köyü)
+    - Bahçelievler Mah (Koyunlu Köyü)
+    - Bahçelievler Mah (Yıldıztepe Köyü)
+    - Bahçelievlerosb Mah (Koyunlu Köyü)
+    - Ballı Köyü
+    - Boğaziçi Mah (Hacıabdullah Köyü)
+    - Cevizler Mah (Kayırlı Köyü)
+    - Cumhuriyet Mah (Aktaş Köyü)
+    - Cumhuriyet Mah (Alay Köyü)
+    - Cumhuriyet Mah (Bağlama Köyü)
+    - Cumhuriyet Mah (Dündarlı Köyü)
+    - Cumhuriyet Mah (Edikli Köyü)
+    - Cumhuriyet Mah (Elmalı Köyü)
+    - Cumhuriyet Mah (Hacıbeyli Köyü)
+    - Cumhuriyet Mah (Kiledere Köyü)
+    - Cumhuriyet Mah (Konaklı Köyü)
+    - Cumhuriyet Mah (Ovacık Köyü)
+    - Cumhuriyet Mah (Yeşilgölcük Köyü)
+    - Çarıklı Köyü
+    - Çarşı Mah (Dikilitaş Köyü)
+    - Çayır Mah (Çayırlı Köyü)
+    - Devlet Mah (Aktaş Köyü)
+    - Dumlupınar Mah (Karaatlı Köyü)
+    - Eski Gümüş Mah (Gümüşler Köyü)
+    - Fatih Mah (Dündarlı Köyü)
+    - Fatih Mah (Karaatlı Köyü)
+    - Fatih Mah (Orhanlı Köyü)
+    - Fertek Mah
+    - Fesleğen Köyü
+    - Fevzipaşa Mah (Edikli Köyü)
+    - Gösterli Köyü
+    - Güllüce Köyü
+    - Güzelyurt Mah (İçmeli Köyü)
+    - Hamamlı Mah
+    - Hançerli Köyü
+    - Hasaköy Köyü
+    - Himmetli Köyü
+    - Hürriyet Mah (Alay Köyü)
+    - Hürriyet Mah (Bağlama Köyü)
+    - Hürriyet Mah (Edikli Köyü)
+    - Hürriyet Mah (Hacıbeyli Köyü)
+    - Hürriyet Mah (Kiledere Köyü)
+    - Hürriyet Mah (Konaklı Köyü)
+    - Hürriyet Mah (Yeşilgölcük Köyü)
+    - Hüyük Mah (Konaklı Köyü)
+    - İnönü Mah (Kayırlı Köyü)
+    - Kale Mah (Dikilitaş Köyü)
+    - Kale Mah (Elmalı Köyü)
+    - Karamustafa Mah (Kayırlı Köyü)
+    - Karşıyaka Mah (Çavdarlı Köyü)
+    - Karşıyaka Mah (Elmalı Köyü)
+    - Kayalıpınar Mah (Çayırlı Köyü)
+    - Kırkpınar Köyü
+    - Kızılören Köyü
+    - Kömürcü Köyü
+    - Kumluca Mah
+    - Küçükköy Köyü
+    - Menderes Mah (Elmalı Köyü)
+    - Merkez Mah (Çavdarlı Köyü)
+    - Milliyet Mah (Alay Köyü)
+    - Narköy Köyü
+    - Orta Mah (Değirmenli Köyü)
+    - Orta Mah (Koyunlu Köyü)
+    - Özyurt Köyü
+    - Pınarcık Köyü
+    - Pınarcık Mah (Kayırlı Köyü)
+    - Serinevler Mah (İçmeli Köyü)
+    - Taşlıca Köyü
+    - Tepeköy Köyü
+    - Terazi Mah (Ovacık Köyü)
+    - Tırhan Köyü
+    - Uluağaç Köyü
+    - Yarhisar Köyü
+    - Yavuz Mah (Orhanlı Köyü)
+    - Yaylayolu Köyü
+    - Yeni Gümüş Mah (Gümüşler Köyü)
+    - Yeni Mah (Aktaş Köyü)
+    - Yeni Mah (Çayırlı Köyü)
+    - Yeni Mah (Edikli Köyü)
+    - Yeni Mah (Hacıabdullah Köyü)
+    - Yeni Mah (Hacıbeyli Köyü)
+    - Yeni Mah (Sazlıca Köyü)
+    - Yeni Mah (Yeşilgölcük Köyü)
+    - Yeni Mah (Yıldıztepe Köyü)
+    - Yenice Mah (Dündarlı Köyü)
+    - Yeşilburç Köyü
+    - Yeşilova Köyü
+    - Yukarı Mah (Değirmenli Köyü)
+    - Yukarı Mah (Dikilitaş Köyü)
+    - Yukarı Mah (Koyunlu Köyü)
+    - Yukarı Mah (Sazlıca Köyü)
+    - Yukarı Mah (Yeşilgölcük Köyü)
+    - Zafer Mah (Dündarlı Köyü)
+    - Zafer Mah (Karaatlı Köyü)
+  Sungurbey:
+    postcode: 51100
+    neighboorhoods:
+    - Ahipaşa Mah
+    - Balhasan Mah
+    - Burhan Mah
+    - Çayır Mah
+    - Esenbey Mah
+    - Eskisaray Mah
+    - İlhanlı Mah
+    - Kale Mah
+    - Nar Mah
+    - Saruhan Mah
+    - Selçuk Mah
+    - Sırali Mah
+    - Songur Mah
+    - Şahinali Mah
+    - Şahsüleyman Mah
+Ulukışla:
+  Merkezköyler:
+    postcode: 51902
+    neighboorhoods:
+    - Ardıçlı Köyü
+    - Atatürk Mah (Darboğaz Köyü)
+    - Atatürk Mah (Yeniyıldız Köyü)
+    - Azdın Mah (Koçak Köyü)
+    - Bahçelievler Mah (Darboğaz Köyü)
+    - Cumhuriyet Mah (Çiftehan Köyü)
+    - Cumhuriyet Mah (Darboğaz Köyü)
+    - Cumhuriyet Mah (Yeniyıldız Köyü)
+    - Çanakçı Köyü
+    - Elmalı Köyü
+    - Emirler Köyü
+    - Evren Mah (Çiftehan Köyü)
+    - Fatih Mah (Kılan Köyü)
+    - Gedelli Köyü
+    - Hacıbekirli Köyü
+    - Handere Köyü
+    - Horoz Köyü
+    - İlhanköy Köyü
+    - İmrahor Köyü
+    - Kalederesi Mah (Koçak Köyü)
+    - Karacaören Köyü
+    - Kolsuz Köyü
+    - Kozluca Köyü
+    - Köşkönü Köyü
+    - Kurtuluş Mah (Yeniyıldız Köyü)
+    - Küme1 Mah (Altay Köyü)
+    - Küme1 Mah (Başmakçı Köyü)
+    - Küme1 Mah (Bayağıl Köyü)
+    - Küme1 Mah (Çifteköy Köyü)
+    - Küme1 Mah (Eminlik Köyü)
+    - Küme1 Mah (Emirler Köyü)
+    - Küme1 Mah (Gedelli Köyü)
+    - Küme1 Mah (Gümüşköy Köyü)
+    - Küme1 Mah (Güney Köyü)
+    - Küme1 Mah (Hacıbekirli Köyü)
+    - Küme1 Mah (Hasangazi Köyü)
+    - Küme1 Mah (Hüsniye Köyü)
+    - Küme1 Mah (Koçak Köyü)
+    - Küme1 Mah (Ovacık Köyü)
+    - Küme1 Mah (Porsuk Köyü)
+    - Küme1 Mah (Şeyhömerli Köyü)
+    - Küme1 Mah (Tekneçukur Köyü)
+    - Küme1 Mah (Ünlüyaka Köyü)
+    - Küme2 Mah (Altay Köyü)
+    - Küme2 Mah (Başmakçı Köyü)
+    - Küme2 Mah (Bayağıl Köyü)
+    - Küme2 Mah (Eminlik Köyü)
+    - Küme2 Mah (Emirler Köyü)
+    - Küme2 Mah (Gedelli Köyü)
+    - Küme2 Mah (Gümüşköy Köyü)
+    - Küme2 Mah (Güney Köyü)
+    - Küme2 Mah (Hacıbekirli Köyü)
+    - Küme2 Mah (Hasangazi Köyü)
+    - Küme2 Mah (Hüsniye Köyü)
+    - Küme2 Mah (Koçak Köyü)
+    - Küme2 Mah (Ovacık Köyü)
+    - Küme2 Mah (Porsuk Köyü)
+    - Küme2 Mah (Şeyhömerli Köyü)
+    - Küme2 Mah (Tabaklı Köyü)
+    - Küme2 Mah (Tekneçukur Köyü)
+    - Küme2 Mah (Ünlüyaka Köyü)
+    - Küme3 Mah (Bayağıl Köyü)
+    - Küme3 Mah (Emirler Köyü)
+    - Küme3 Mah (Gümüşköy Köyü)
+    - Küme3 Mah (Hasangazi Köyü)
+    - Küme3 Mah (İlemin Kümesi Mah) (Koçak Köyü)
+    - Küme3 Mah (Porsuk Köyü)
+    - Küme3 Mah (Şeyhömerli Köyü)
+    - Küme3 Mah (Tabaklı Köyü)
+    - Küme4 Mah (Emirler Köyü)
+    - Küme4 Mah (Gümüşköy Köyü)
+    - Küme4 Mah (Hasangazi Köyü)
+    - Küme5 Mah (Aşağıöz Mah) (Koçak Köyü)
+    - Küme5 Mah (Gümüşköy Köyü)
+    - Küme6 Mah (Gümüşköy Köyü)
+    - Küme6 Mah (Yukarıöz Mah) (Koçak Köyü)
+    - Küme7 Mah (Gümüşköy Köyü)
+    - Küme7 Mah (Seydiahmet Mah) (Koçak Köyü)
+    - Küme8 Mah (Akyar Mah) (Koçak Köyü)
+    - Kümea Mah (Alihoca Köyü)
+    - Kümeb Mah (Alihoca Köyü)
+    - Madenköy Köyü
+    - Tabaklı Köyü
+    - Tekneçukur Köyü
+    - Tepeköy Köyü
+    - Toraman Köyü
+    - Tosunali Mah (Koçak Köyü)
+    - Ünlüyaka Köyü
+    - Zafer Mah (Darboğaz Köyü)
+    - Zafer Mah (Kılan Köyü)
+  Ulukışla:
+    postcode: 51900
+    neighboorhoods:
+    - Alpağut Mah
+    - Ballık Mah
+    - Çövek Mah
+    - Doğu Mah
+    - Kadılar Mah
+    - Kemalpaşa Mah
+    - Mehmetpaşa Mah
+    - Mısırlı Mah
