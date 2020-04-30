@@ -1,0 +1,384 @@
+---
+Babaeski:
+  Alpullu:
+    postcode: 39570
+    neighboorhoods:
+    - Gülbahçe Mah (Alpullu Köyü)
+    - Şeker Mah (Alpullu Köyü)
+    - Yeni Mah (Alpullu Köyü)
+  Babaeski:
+    postcode: 39200
+    neighboorhoods:
+    - Atatürk Mah
+    - Cumhuriyet Mah
+    - Dindoğru Mah
+    - Fevzi Çakmak Mah
+    - Gazikemal Mah
+    - Gaziosmanpaşa Mah
+    - Hacıhasan Mah
+    - Hamidiye Mah
+    - Kurtuluş Mah
+  Merkezköyler:
+    postcode: 39202
+    neighboorhoods:
+    - Ağayeri Köyü
+    - Atatürk Mah (Sinanlı Köyü)
+    - Birlik Mah (Karahalil Köyü)
+    - Cumhuriyet Mah (Sinanlı Köyü)
+    - Çavuşköy Köyü
+    - Çengerli Köyü
+    - Çiğdemli Köyü
+    - Demirkapı Mah (Karahalil Köyü)
+    - Düğüncülü Köyü
+    - Erikleryurdu Köyü
+    - Ertuğrulköy Köyü
+    - Fevzi Çakmak Mah (Karahalil Köyü)
+    - Halilpaşa Mah (Karahalil Köyü)
+    - Hatip Mah (Büyükmandıra Köyü)
+    - Hazinedar Köyü
+    - Hürriyet Mah (Büyükmandıra Köyü)
+    - Kadıköy Köyü
+    - Karabayır Köyü
+    - Karacaoğlan Köyü
+    - Karamesutlu Köyü
+    - Katranca Köyü
+    - Kemal Paşa Mah (Karahalil Köyü)
+    - Kuleli Köyü
+    - Kumrular Köyü
+    - Kuzuçardağı Köyü
+    - Minnetler Köyü
+    - Mutlu Köyü
+    - Müsellim Köyü
+    - Nacak Köyü
+    - Nadırlı Köyü
+    - Oruçlu Köyü
+    - Osmaniye Köyü
+    - Pancarköy Köyü
+    - Paşa Mah (Büyükmandıra Köyü)
+    - Sofuhalil Köyü
+    - Şamdani Mah (Büyükmandıra Köyü)
+    - Taşağıl Bucak Merkezi Köyü
+    - Taşköprü Köyü
+    - Terzili Köyü
+    - Yeniköy Köyü
+    - Yenimahalle Köyü
+Demirköy:
+  Demirköy:
+    postcode: 39500
+    neighboorhoods:
+    - Hamdibey Mah
+    - Orhaniye Mah
+    - Yeni Mah
+  İğneada:
+    postcode: 39650
+    neighboorhoods:
+    - Avcılar Köyü
+    - Beğendik Köyü
+    - Deniz Mah (İğneada Köyü)
+    - Fener Sitesi Mah (Limanköy Köyü)
+    - Koru Sitesi Mah (Limanköy Köyü)
+    - Limanköy Köyü
+    - Palivor Çiftliği Mah (Avcılar Köyü)
+    - Sislioba Köyü
+    - Yeni Mah (İğneada Köyü)
+  Merkezköyler:
+    postcode: 39502
+    neighboorhoods:
+    - Armutveren Köyü
+    - Balaban Köyü
+    - Boztaş Köyü
+    - Gökyaka Köyü
+    - Hamdibey Köyü
+    - İncesırt Köyü
+    - Karacadağ Köyü
+    - Karanlık Mah (İncesırt Köyü)
+    - Sarpdere Köyü
+    - Sivriler Köyü
+    - Yeşilce Köyü
+    - Yiğitbaşı Köyü
+Kofçaz:
+  Kofçaz:
+    postcode: 39700
+    neighboorhoods:
+    - Yeni Mah
+    - Yeşillik Mah
+  Merkezköyler:
+    postcode: 39702
+    neighboorhoods:
+    - Ahlatlı Köyü
+    - Ahmetler Köyü
+    - Aşağıkanara Köyü
+    - Beyci Köyü
+    - Devletliağaç Köyü
+    - Elmacık Köyü
+    - Karaabalar Köyü
+    - Kocatarla Köyü
+    - Kocayazı Köyü
+    - Kula Köyü
+    - Malkoçlar Köyü
+    - Tastepe Köyü
+    - Tatlıpınar Köyü
+    - Terzidere Köyü
+    - Topçular Köyü
+    - Yukarıkanara Köyü
+Lüleburgaz:
+  Ahmetbey:
+    postcode: 39770
+    neighboorhoods:
+    - Dere Mah (Ahmetbey Köyü)
+    - Gündoğu Mah (Ahmetbey Köyü)
+    - Karşıyaka Mah (Ahmetbey Köyü)
+  Büyükkarıştıran:
+    postcode: 39780
+    neighboorhoods:
+    - Fatih Mah (Büyükkarıştıran Köyü)
+    - Yeni Mah (Büyükkarıştıran Köyü)
+    - Yıldırım Mah (Büyükkarıştıran Köyü)
+  Evrensekiz:
+    postcode: 39790
+    neighboorhoods:
+    - Fatih Mah (Evrensekiz Köyü)
+    - Gündoğu Mah (Evrensekiz Köyü)
+    - Kırcaali Mah (Evrensekiz Köyü)
+  Lüleburgaz:
+    postcode: 39750
+    neighboorhoods:
+    - 8 Kasım Mah
+    - Atatürk Mah
+    - Barış Mah
+    - Cumhuriyet Mah
+    - Dere Mah
+    - Durak Mah
+    - Gençlik Mah
+    - Gündoğu Mah
+    - Güneş Mah
+    - Hürriyet Mah
+    - İnönü Mah
+    - İstiklal Mah
+    - Kocasinan Mah
+    - Kurtuluş Mah
+    - Özerler Mah
+    - Sevgi Mah
+    - Siteler Mah
+    - Yeni Mah
+    - Yıldırım Mah
+    - Yıldız Mah
+    - Yılmaz Mah
+    - Zafer Mah
+  Merkezköyler:
+    postcode: 39752
+    neighboorhoods:
+    - Akçaköy Köyü
+    - Alacaoğlu Köyü
+    - Ayvalı Köyü
+    - Celaliye Köyü
+    - Ceylanköy Köyü
+    - Cumhuriyet Mah (Kırıkköy Köyü)
+    - Çengelli Köyü
+    - Çeşmekolu Köyü
+    - Çiftlikköy Köyü
+    - Davutlu Köyü
+    - Düğüncübaşı Köyü
+    - Emirali Köyü
+    - Ertuğrul Köyü
+    - Eskibedir Köyü
+    - Eskitaşlı Köyü
+    - Hamitabat Köyü
+    - Hamzabey Köyü
+    - Hürriyet Mah (Kırıkköy Köyü)
+    - Hürriyet Mah (Sakızköy Köyü)
+    - Karaağaç Köyü
+    - Karamusul Köyü
+    - Kayabeyli Köyü
+    - Köydışı Mah (Hamitabat Köyü)
+    - Küçükkarıştıran Mah (Büyükkarıştıran Köyü)
+    - Merkez Mah (Sakızköy Köyü)
+    - Müsellim Köyü
+    - Oklalı Köyü
+    - Ovacık Köyü
+    - Sarıcaali Köyü
+    - Sarımsaklı Mah
+    - Seyitler Köyü
+    - Tatarköy Köyü
+    - Turgutbey Köyü
+    - Umurca Köyü
+    - Yenibedir Köyü
+    - Yenitaşlı Köyü
+Merkez:
+  Dereköy:
+    postcode: 39002
+    neighboorhoods:
+    - Armağan Köyü
+    - Çağalayık Köyü
+    - Dereköy Bucak Merkezi Köyü
+    - Düzorman Köyü
+    - Geçitağzı Köyü
+    - Kapaklı Köyü
+    - Karadere Köyü
+    - Koruköy Köyü
+    - Şükrüpaşa Köyü
+  İnece:
+    postcode: 39201
+    neighboorhoods:
+    - Arizbaba Köyü
+    - Dokuzhüyük Köyü
+    - Dolhan Köyü
+    - Kazımpaşa Mah (İnece Köyü)
+    - Kemalpaşa Mah (İnece Köyü)
+    - Kocahıdır Köyü
+    - Koyunbaba Köyü
+    - Paşayeri Köyü
+    - Ulukonak Mah (İnece Köyü)
+    - Ürünlü Köyü
+    - Yeni Mah (İnece Köyü)
+  Kırklareli:
+    postcode: 39010
+    neighboorhoods:
+    - Akalar Mah
+    - Atatürk Mah
+    - Bademlik Mah
+    - Cumhuriyet Mah
+    - Demirtaş Mah
+    - Doğu Mah
+    - İstasyon Mah
+    - Karacaibrahim Mah
+    - Karahıdır Mah
+    - Karakaş Mah
+    - Kocahıdır Mah
+    - Pınar Mah
+    - Yayla Mah
+  Merkezköyler:
+    postcode: 39100
+    neighboorhoods:
+    - Ahmetçe Köyü
+    - Asılbeyli Köyü
+    - Bayramdere Köyü
+    - Celaliye Mah (Kavaklı Köyü)
+    - Çarşı Mah (Kavaklı Köyü)
+    - Çayırlı Köyü
+    - Çeşmeköy Köyü
+    - Değirmencik Köyü
+    - Demircihalil Köyü
+    - Deveçatağı Köyü
+    - Erikler Köyü
+    - Eriklice Köyü
+    - Kadıköy Köyü
+    - Karahamza Köyü
+    - Karakoç Köyü
+    - Karıncak Köyü
+    - Kavakdere Köyü
+    - Kayalı Köyü
+    - Kızılcıkdere Köyü
+    - Kızılcıkdereosb Mah (Kızılcıkdere Köyü)
+    - Kuzulu Köyü
+    - Turist Mah (Kavaklı Köyü)
+    - Yeni Okullar Mah (Kavaklı Köyü)
+    - Yoğuntaş Bucak Merkezi Köyü
+    - Yürükbayırı Köyü
+  Üsküp:
+    postcode: 39572
+    neighboorhoods:
+    - Beypınar Köyü
+    - Cevat Paşa Mah (Üsküp Köyü)
+    - Çukurpınar Köyü
+    - Gündoğdu Mah (Üsküp Köyü)
+    - Kemal Paşa Mah (Üsküp Köyü)
+    - Mehmet Çavuş Mah (Üsküp Köyü)
+    - Üsküpdere Köyü
+    - Yündalan Köyü
+Pehlivanköy:
+  Merkezköyler:
+    postcode: 39640
+    neighboorhoods:
+    - Akarca Köyü
+    - Doğanca Köyü
+    - Hıdırca Köyü
+    - İmampazarı Köyü
+    - Kumköy Köyü
+    - Kuştepe Köyü
+    - Yeşilova Köyü
+    - Yeşilpınar Köyü
+  Pehlivanköy:
+    postcode: 39600
+    neighboorhoods:
+    - Ergene Mah
+    - Kazımdirik Mah
+    - Kurtuluş Mah
+Pınarhisar:
+  Merkezköyler:
+    postcode: 39302
+    neighboorhoods:
+    - Akarlar Mah (Kaynarca Köyü)
+    - Akören Köyü
+    - Ataköy Köyü
+    - Cevizköy Köyü
+    - Cumhuriyet Mah (Yenice Köyü)
+    - Çayırdere Köyü
+    - Erenler Köyü
+    - Evciler Köyü
+    - Hacıfakılı Köyü
+    - Hürriyet Mah (Yenice Köyü)
+    - Işıklar Mah (Kaynarca Köyü)
+    - İslambeyli Köyü
+    - Kurudere Köyü
+    - Osmancık Köyü
+    - Poyralı Köyü
+    - Sütlüce Köyü
+    - Tozaklı Köyü
+    - Yenicamii Mah (Kaynarca Köyü)
+  Pınarhisar:
+    postcode: 39300
+    neighboorhoods:
+    - Beylik Mah
+    - Camiikebir Mah
+    - Dere Mah
+    - Orta Mah
+Vize:
+  Merkezköyler:
+    postcode: 39402
+    neighboorhoods:
+    - Akıncılar Köyü
+    - Akpınar Köyü
+    - Aksicim Köyü
+    - Balkaya Köyü
+    - Cumhuriyet Mah (Çakıllı Köyü)
+    - Cumhuriyet Mah (Kıyıköy Köyü)
+    - Çavuşköy Köyü
+    - Çüvenli Köyü
+    - Develi Köyü
+    - Doğanca Köyü
+    - Düzova Köyü
+    - Evrenli Köyü
+    - Güven Mah (Kıyıköy Köyü)
+    - Hamidiye Köyü
+    - Hasbuğa Köyü
+    - Hürriyet Mah (Çakıllı Köyü)
+    - Kale Mah (Kıyıköy Köyü)
+    - Kışlacık Köyü
+    - Kızılağaç Köyü
+    - Kömürköy Köyü
+    - Küçükyayla Köyü
+    - Müsellim Köyü
+    - Okçular Köyü
+    - Pazarlı Köyü
+    - Topçuköy Köyü
+    - Zafer Mah (Çakıllı Köyü)
+  Sergen:
+    postcode: 39652
+    neighboorhoods:
+    - Evrencik Köyü
+    - Evrencik Mah (Evrencik Köyü)
+    - Fevzi Çakmak Mah (Sergen Köyü)
+    - Sağlık Mah (Sergen Köyü)
+    - Sofular Köyü
+    - Soğucak Köyü
+    - Yeni Cami Mah (Sergen Köyü)
+  Vize:
+    postcode: 39400
+    neighboorhoods:
+    - Devlet Mah
+    - Evren Mah
+    - Gazi Mah
+    - Kale Mah
+    - Mehmet Akif Mah
+    - Namık Kemal Mah

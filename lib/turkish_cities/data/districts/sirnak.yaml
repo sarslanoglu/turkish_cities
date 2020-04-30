@@ -1,0 +1,404 @@
+---
+Beytüşşebap:
+  Beytüşşebap:
+    postcode: 73800
+    neighboorhoods:
+    - Aliçavuş Mah
+    - Elki Mah
+    - Karşıyaka Mah
+    - Pınarbaşı Mah
+  Merkezköyler:
+    postcode: 73802
+    neighboorhoods:
+    - Akarsu Köyü
+    - Akçayol Köyü
+    - Aşağıdere Köyü
+    - Ayvalık Köyü
+    - Başaran Köyü
+    - Beşağaç Köyü
+    - Boğazören Köyü
+    - Bolağaç Köyü
+    - Bölücek Köyü
+    - Cevizağacı Köyü
+    - Çığlıca Köyü
+    - Dağaltı Köyü
+    - Doğanyol Köyü
+    - Gökçe Köyü
+    - Güneyyaka Köyü
+    - Günyüzü Köyü
+    - Ilıcak Köyü
+    - Koyunoba Köyü
+    - Mutluca Köyü
+    - Okul Mah (Mezra Köyü)
+    - Ortalı Köyü
+    - Oymakaya Köyü
+    - Pirinçli Köyü
+    - Söğütce Köyü
+    - Taşkıran Mah (Mezra Köyü)
+    - Timur Mah (Mezra Köyü)
+    - Toptepe Mah (Toptepe Köyü)
+    - Yeşilöz Köyü
+Cizre:
+  Cizre:
+    postcode: 73200
+    neighboorhoods:
+    - Ali Bey Mah
+    - Cizre Osb Mah
+    - Cudi Mah
+    - Dağ Kapı Mah
+    - Dicle Mah
+    - Kale Mah
+    - Konak Mah
+    - Nur Mah
+    - Sur Mah
+    - Şah Mah
+    - Yafes Mah
+  Merkezköyler:
+    postcode: 73202
+    neighboorhoods:
+    - Aşağıçeşme Mah (Aşağıçeşme Köyü)
+    - Aşağıkonak Köyü
+    - Bağlarbaşı Köyü
+    - Bozalan Köyü
+    - Çağıl Merkez Mah (Çağıl Köyü)
+    - Çatal Köyü
+    - Çavuş Köyü
+    - Dirsekli Köyü
+    - Düzova Köyü
+    - Erdem Köyü
+    - Girikova Mah (Bozalan Köyü)
+    - Güçlü Köyü
+    - Gürsu Köyü
+    - Havuzlu Köyü
+    - İnci Mah (Bozalan Köyü)
+    - İsağa Mah (Dirsekli Köyü)
+    - Katran Köyü
+    - Kaya Köyü
+    - Kebeli Köyü
+    - Keruh Köyü
+    - Kiriş Mah (Bozalan Köyü)
+    - Kocapınar Köyü
+    - Koçtepe Köyü
+    - Kolgezer Mah (Güçlü Köyü)
+    - Konutlar Mah (Dirsekli Köyü)
+    - Korucu Köyü
+    - Kurtuluş Merkez Mah (Kurtuluş Köyü)
+    - Kuştepe Köyü
+    - Mirhasen Mah (Çatal Köyü)
+    - Örencik Mah (Korucu Köyü)
+    - Reşmil Mah (Kaya Köyü)
+    - Seyrantepe Mah (Bozalan Köyü)
+    - Siyahtepe Mah (Korucu Köyü)
+    - Sulak Köyü
+    - Şabani Mah (Koçtepe Köyü)
+    - Taşhöyük Köyü
+    - Tepeönü Köyü
+    - Uğur Köyü
+    - Ulaş Köyü
+    - Varlık Köyü
+    - Yakacık Köyü
+    - Yalıntepe Köyü
+    - Yeşilyurt Köyü
+    - Yukarıçeşme Mezrası Mah (Yeşilyurt Köyü)
+    - Yukarıkonak Mah (Bozalan Köyü)
+    - Zuran Mah (Dirsekli Köyü)
+Güçlükonak:
+  Güçlükonak:
+    postcode: 73700
+    neighboorhoods:
+    - Bağlar Mah
+    - Yeni Mah
+  Merkezköyler:
+    postcode: 73702
+    neighboorhoods:
+    - Ağaçyurdu Köyü
+    - Akçakuşak Köyü
+    - Akdizgin Köyü
+    - Bahçelievler Mah (Fındık Köyü)
+    - Boyuncuk Köyü
+    - Bulmuşlar Köyü
+    - Cumhuriyet Mah (Fındık Köyü)
+    - Çetinkaya Köyü
+    - Çevrimli Köyü
+    - Çobankazanı Köyü
+    - Dağyeli Köyü
+    - Damlabaşı Köyü
+    - Damlarca Köyü
+    - Demirboğaz Köyü
+    - Düğünyurdu Köyü
+    - Gümüşyazı Mah (Fındık Köyü)
+    - Karşıyaka Mah (Fındık Köyü)
+    - Koçtepe Köyü
+    - Koçyurdu Mah (Koçtepe Köyü)
+    - Ormaniçi Mah (Ormaniçi Köyü)
+    - Sağkol Köyü
+    - Soğucak Mah (Çobankazanı Köyü)
+    - Taşkonak Köyü
+    - Yağızoymak Köyü
+    - Yağmurkuyusu Köyü
+    - Yatağankaya Köyü
+    - Yenimah. (Dağyeli Köyü)
+İdil:
+  İdil:
+    postcode: 73300
+    neighboorhoods:
+    - Aşağı Mah
+    - Atakent Mah
+    - Turgut Özal Mah
+    - Yeni Mah
+    - Yukarı Mah
+  Merkezköyler:
+    postcode: 73302
+    neighboorhoods:
+    - Açma Köyü
+    - Ağaçlı Mah (Çukurlu Köyü)
+    - Akdağ Köyü
+    - Akkoyunlu Köyü
+    - Aksoy Köyü
+    - Alakamış Köyü
+    - Alataş Mah (Güzelova Köyü)
+    - Babet Mah (Alakamış Köyü)
+    - Başakköy Köyü
+    - Bereketli Köyü
+    - Bozburun Köyü
+    - Bozkır Köyü
+    - Camili Mah (Yuvalı Köyü)
+    - Çalketehti Mah (Çukurlu Köyü)
+    - Çayırlı Mah (Duruköy Köyü)
+    - Çığır Köyü
+    - Çınarlı Köyü
+    - Çukurlu Köyü
+    - Dera Mah (Topraklı Köyü)
+    - Dicle Mah (Sırtköy Köyü)
+    - Dirsekli Köyü
+    - Doğancık Mah (Yavşan Köyü)
+    - Dumanlı Köyü
+    - Duruköy Köyü
+    - Elcani Mah (Sulak Köyü)
+    - Fırat Mah (Sırtköy Köyü)
+    - Gedik Köyü
+    - Gırbaraz Mah (Özbek Köyü)
+    - Gültepe Mah (Çığır Köyü)
+    - Güzelova Köyü
+    - Haberli Köyü
+    - Hendekköy Köyü
+    - Işık Köyü
+    - Kaşıkçı Köyü
+    - Kayalı Köyü
+    - Kayı Köyü
+    - Kentli Köyü
+    - Kırca Köyü
+    - Kozluca Köyü
+    - Köşklü Mah (Oymak Köyü)
+    - Köyceğiz Köyü
+    - Kurtuluş Köyü
+    - Kuyulu Köyü
+    - Mağaraköy Köyü
+    - Ocaklı Köyü
+    - Okçu Köyü
+    - Ortaca Köyü
+    - Ortaköy Köyü
+    - Oyalı Köyü
+    - Oymak Köyü
+    - Öğündük Köyü
+    - Özbek Köyü
+    - Özen Köyü
+    - Peçenek Köyü
+    - Pınarbaşı Köyü
+    - Sarıköy Köyü
+    - Sulak Köyü
+    - Şamil Mah (Karalar Köyü)
+    - Şeker Mah (Köyceğiz Köyü)
+    - Tekeköy Köyü
+    - Telzip Mah (Uğrak Köyü)
+    - Temel Mah (Karalar Köyü)
+    - Tepecik Köyü
+    - Tepeköy Köyü
+    - Tepeli Mah (Kuyulu Köyü)
+    - Toklu Köyü
+    - Topraklı Köyü
+    - Uçarlı Köyü
+    - Uğrak Köyü
+    - Ulak Köyü
+    - Üçok Köyü
+    - Varımlı Köyü
+    - Yağmurca Köyü
+    - Yalaz Köyü
+    - Yarbaşı Köyü
+    - Yavşan Köyü
+    - Yayalar Köyü
+    - Yazman Köyü
+    - Yeni Köy Mah (Çığır Köyü)
+    - Yeşilce Mah (Kozluca Köyü)
+    - Yokuşlu Mah (Kentli Köyü)
+    - Yolaçan Köyü
+    - Yörük Köyü
+    - Yukarı Aksoy Mah (Aksoy Köyü)
+    - Yukarı Yavşan Mah (Yavşan Köyü)
+    - Yuvalı Köyü
+    - Yüksekköy Köyü
+    - Zirincan Mah (Kurtuluş Köyü)
+Merkez:
+  Merkezköyler:
+    postcode: 73002
+    neighboorhoods:
+    - Akçay Köyü
+    - Araköy Köyü
+    - Aşağı Mah (Kumçatı Köyü)
+    - Atatürk Mah (Kumçatı Köyü)
+    - Atbaşı Köyü
+    - Aydınlar Mah (Balveren Köyü)
+    - Bahçelievler Mah (Kasrik Köyü)
+    - Başağaç Köyü
+    - Belkis Mah (Atbaşı Köyü)
+    - Boğaz Mah (Kasrik Köyü)
+    - Çadırlı Mah (Kumçatı Köyü)
+    - Çanaklı Mah (Bağpınar Köyü)
+    - Çavuşdede Mah (İkizce Köyü)
+    - Çavuşhan Mah (Kumçatı Köyü)
+    - Dağkonak Köyü
+    - Geçitboyu Köyü
+    - Gözlüce Mah (Yoğurtçular Köyü)
+    - Güneyce Köyü
+    - Güneyçam Köyü
+    - Hatipler Mah (Balveren Köyü)
+    - İkizce Köyü
+    - Kavuncu Köyü
+    - Kayaboyun Köyü
+    - Kaymakamçeşmesi Mah (Yeniaslanbaşar Köyü)
+    - Kızılsu Köyü
+    - Koçbeyi Köyü
+    - Körüklükaya Köyü
+    - Nasırhan Mah (Kumçatı Köyü)
+    - Özveren Mah (Yoğurtçular Köyü)
+    - Sucular Mah (Kırkkuyu Köyü)
+    - Şafak Mah (Balveren Köyü)
+    - Toptepe Köyü
+    - Yayla Mah (Balveren Köyü)
+    - Yeni Mah (Kasrik Köyü)
+    - Yeniaslanbaşar Köyü
+    - Yoğurtçular Köyü
+  Şırnak:
+    postcode: 73100
+    neighboorhoods:
+    - Atatürk Mah
+    - Aydınlıkevler Mah
+    - Bahçelievler Mah
+    - Cumhuriyet Mah
+    - Dicle Mah
+    - Gazi Paşa Mah
+    - Gündoğdu Mah
+    - İsmet Paşa Mah
+    - Şehrinuh Mah
+    - Vakıfkent Mah
+    - Yeni Mah
+    - Yeşilyurt Mah
+Silopi:
+  Merkezköyler:
+    postcode: 73402
+    neighboorhoods:
+    - Aksu Köyü
+    - Aktepe Köyü
+    - Akyıldız Köyü
+    - Atatürk Mah (Çalışkan Köyü)
+    - Başvan Mah (Pınarönü Köyü)
+    - Birlikköy Köyü
+    - Boğaz Mah (Görümlü Köyü)
+    - Bostancı Köyü
+    - Buğdaylı Köyü
+    - Ceylan Mah (Yeniköy Köyü)
+    - Cumhuriyet Mah (Başverimli Köyü)
+    - Cumhuriyet Mah (Çalışkan Köyü)
+    - Çardaklı Köyü
+    - Çiçekli Mah (Çardaklı Köyü)
+    - Çiftlikköy Köyü
+    - Çukurca Mah (Yeniköy Köyü)
+    - Damlaca Köyü
+    - Dedeler Köyü
+    - Doruklu Köyü
+    - Eğrikonak Mah (Birlikköy Köyü)
+    - Esenli Köyü
+    - Fatih Mah (Çalışkan Köyü)
+    - Güven Mah (Bostancı Köyü)
+    - Ilıcalar Mah (Çiftlikköy Köyü)
+    - Kapılı Köyü
+    - Kavaközü Köyü
+    - Kavallı Köyü
+    - Köprübaşı Mah (Başverimli Köyü)
+    - Kösreli Köyü
+    - Mahmutlu Köyü
+    - Ortaköy Köyü
+    - Otludere Mah (Mahmutlu Köyü)
+    - Ovaköy Köyü
+    - Özgen Köyü
+    - Pınarönü Köyü
+    - Poyraz Mah (Üçağaç Köyü)
+    - Rihani Mah (Bostancı Köyü)
+    - Selçik Köyü
+    - Seyrantepe Mah (Kavaközü Köyü)
+    - Sisli Mah (Çardaklı Köyü)
+    - Şemalbeg Mah (Üçağaç Köyü)
+    - Taşlıca Mah (Üçağaç Köyü)
+    - Üçağaç Köyü
+    - Vatan Mah (Çalışkan Köyü)
+    - Yamaç Mah (Çardaklı Köyü)
+    - Yankale Mah (Bostancı Köyü)
+    - Yeni Mah (Görümlü Köyü)
+    - Yeniköy Köyü
+    - Yeşilyurt Mah (Kavaközü Köyü)
+    - Yolağızı Mah (Görümlü Köyü)
+    - Yolağzı Köyü
+  Silopi:
+    postcode: 73400
+    neighboorhoods:
+    - Barbaros Mah
+    - Başak Köyü
+    - Başak Mah
+    - Cudi Mah
+    - Cumhuriyet Mah
+    - Dicle Mah
+    - Karşıyaka Mah
+    - Nuh Mah
+    - Ofis Mah
+    - Şht. Harun Boy Mah
+    - Yenişehir Mah
+    - Yeşiltepe Mah
+Uludere:
+  Merkezköyler:
+    postcode: 73602
+    neighboorhoods:
+    - Andaç Köyü
+    - Aslanlı Mah (Andaç Köyü)
+    - Ayyıldız Mah (Şenoba Köyü)
+    - Ayyıldız Mah (Uzungeçit Köyü)
+    - Bağlı Köyü
+    - Bağlıca Köyü
+    - Ballı Köyü
+    - Başkaya Mah (Şenoba Köyü)
+    - Bulakbaşı Mah
+    - Cumhuriyet Mah (Şenoba Köyü)
+    - Dağdibi Köyü
+    - Gazi Mah (Şenoba Köyü)
+    - Gülyazı Köyü
+    - Güneşli Mah (Hilal Köyü)
+    - Işıkveren Köyü
+    - İnceler Köyü
+    - Ortabağ Köyü
+    - Ortaköy Köyü
+    - Ortasu Köyü
+    - Pınarbaşı Mah (Uzungeçit Köyü)
+    - Şehan Mah (Hilal Köyü)
+    - Tanin Mah (Uzungeçit Köyü)
+    - Taşdelen Köyü
+    - Yemişli Köyü
+    - Yenişehir Mah (Uzungeçit Köyü)
+    - Yıldız Mah (Hilal Köyü)
+  Uludere:
+    postcode: 73600
+    neighboorhoods:
+    - Gündoğdu Mah
+    - Kılaban Mah
+    - Küçükçay Mah
+    - Ödül Mah
+    - Özelli Mah
+    - Yeşilyova Mah

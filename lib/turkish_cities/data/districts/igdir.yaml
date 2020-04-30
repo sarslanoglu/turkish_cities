@@ -1,0 +1,272 @@
+---
+Aralık:
+  Aralık:
+    postcode: 76500
+    neighboorhoods:
+    - Aras Mah
+    - Karasu Mah
+    - Karşıyaka Mah
+    - Köprüler Mah
+    - Ortaköy Mah
+  Merkezköyler:
+    postcode: 76502
+    neighboorhoods:
+    - Adetli Köyü
+    - Aşağıaratan Köyü
+    - Aşağıçamurlu Köyü
+    - Aşağıçiftlik Köyü
+    - Aşağıtopraklı Köyü
+    - Babacan Köyü
+    - Emince Köyü
+    - Esenkaya Mah (Karahacılı Köyü)
+    - Gödekli Köyü
+    - Hacıağa Köyü
+    - Hasanhan Köyü
+    - Hıdırlı Mah (Adetli Köyü)
+    - Karahacılı Köyü
+    - Kırçiçeği Köyü
+    - Kolikent Köyü
+    - Ortalar Mah (Aşağıçamurlu Köyü)
+    - Ramazankent Köyü
+    - Saraçlı Köyü
+    - Tarlabaşı Köyü
+    - Tazeköy Köyü
+    - Tigem Mah (Emince Köyü)
+    - Yenidoğan Köyü
+    - Yukarıaratan Köyü
+    - Yukarıçamurlu Köyü
+    - Yukarıçiftlik Köyü
+    - Yukarıtopraklı Köyü
+Karakoyunlu:
+  Karakoyunlu:
+    postcode: 76700
+    neighboorhoods:
+    - Ergenekon Mah
+    - Fatih Mah
+  Merkezköyler:
+    postcode: 76702
+    neighboorhoods:
+    - Aktaş Köyü
+    - Aşağıalican Köyü
+    - Bayatdoğanşalı Köyü
+    - Bekirhanlı Köyü
+    - Bulakbaşı Köyü
+    - Cennetabat Köyü
+    - Gökçeli Köyü
+    - Göl Mah (Zülfikarköy Köyü)
+    - İslamköy Köyü
+    - Kacardoğanşalı Köyü
+    - Kerimbeyli Köyü
+    - Koçkıran Köyü
+    - Merkez Mah (Taşburun Köyü)
+    - Mürşitali Köyü
+    - Orta Alican Köyü
+    - Seferkulu Mah (Şıracı Köyü)
+    - Şıracı Köyü
+    - Yazlık Köyü
+    - Yukarıalican Köyü
+    - Zülfikarköy Köyü
+Merkez:
+  Iğdır:
+    postcode: 76103
+    neighboorhoods:
+    - 14 Kasım Mah
+    - Ali Kamerli Mah
+    - Atatürk Mah
+    - Bağlar Mah
+    - Cumhuriyet Mah
+    - Emek Mah
+    - Hakveyis Mah
+    - Karaağaç Mah
+    - Konaklı Mah
+    - Özgür Mah
+    - Pir Sultan Abdal Mah
+    - Söğütlü Mah
+    - Topçular Mah
+    - Yeni Mah
+  Merkezköyler:
+    postcode: 76002
+    neighboorhoods:
+    - Ağaver Köyü
+    - Akyumak Köyü
+    - Ali Köçek Mah (Zor Köyü)
+    - Alibeyköy Köyü
+    - Asma Köyü
+    - Aşağıçarıkçı Köyü
+    - Aşağıerhacı Köyü
+    - Bahçelievler Mah (Halfeli Köyü)
+    - Bayraktutan Köyü
+    - Belalak Mah (Kavaktepe Köyü)
+    - Bendemurat Köyü
+    - Bezirhane Mah (Çilli Köyü)
+    - Çakırtaş Köyü
+    - Çalpala Köyü
+    - Çalpalaosb Mah (Çalpala Köyü)
+    - Çiko Mah (Çilli Köyü)
+    - Çilli Köyü
+    - Elmagöl Köyü
+    - Enginalan Köyü
+    - Evci Köyü
+    - Faruktoka Mah (Hoşhaber Köyü)
+    - Gülpınar Köyü
+    - Güneşli Mah (Melekli Köyü)
+    - Güngörmez Köyü
+    - Hakmehmet Köyü
+    - Harmandöven Köyü
+    - Kadıkışlak Köyü
+    - Kanal Yolu Mah (Enginalan Köyü)
+    - Karagüney Köyü
+    - Karahisar Mah (Taşlıca Köyü)
+    - Karakuyu Köyü
+    - Kasımcan Köyü
+    - Kavaktepe Köyü
+    - Kazancı Köyü
+    - Kervansaray Mah (Harmandöven Köyü)
+    - Kızılkule Mah (Güngörmez Köyü)
+    - Korhan Mah (Suveren Köyü)
+    - Köprüköy Mah (Çilli Köyü)
+    - Kuç Mah (Mezraa Köyü)
+    - Kuzugüden Köyü
+    - Küllük Köyü
+    - Mehmet Akif Ersoy Mah (Melekli Köyü)
+    - Mezraa Köyü
+    - Mirza Mah (Kavaktepe Köyü)
+    - Namık Kemal Mah (Melekli Köyü)
+    - Necefali Köyü
+    - Nişankaya Köyü
+    - Obaköy Köyü
+    - Örüşmüş Köyü
+    - Özvatan Mah (Halfeli Köyü)
+    - Panik Köyü
+    - Pınarbaşı Köyü
+    - Said Nursi Mah (Halfeli Köyü)
+    - Sarıçoban Köyü
+    - Suveren Köyü
+    - Şanlımırza Mah (Suveren Köyü)
+    - Tacirli Köyü
+    - Taşlıca Köyü
+    - Turgut Özal Mah (Halfeli Köyü)
+    - Yaycı Köyü
+    - Yeni Mah (Hoşhaber Köyü)
+    - Yukarıçarıkcı Köyü
+    - Yukarıerhacı Mah (Aşağıerhacı Köyü)
+    - Yunus Emre Mah (Halfeli Köyü)
+    - Yüzbaşılar Köyü
+    - Zor Köyü
+Tuzluca:
+  Merkezköyler:
+    postcode: 76902
+    neighboorhoods:
+    - Abbasgöl Köyü
+    - Adalet Mah (Canderviş Köyü)
+    - Afet Konutları Mah (Kula Köyü)
+    - Ağabey Köyü
+    - Akdeğirmen Köyü
+    - Akdiz Köyü
+    - Akoluk Köyü
+    - Alçalı Mah (Kayaören Köyü)
+    - Alhanlı Köyü
+    - Aliköse Köyü
+    - Arslanlı Köyü
+    - Aşağı Çıyrıklı Köyü
+    - Aşağıaktaş Köyü
+    - Aşağıcivanlı Köyü
+    - Aşağıkatırlı Köyü
+    - Aşağısutaşı Köyü
+    - Aşık Hüseyin Mah (Aşağıkatırlı Köyü)
+    - Badilli Köyü
+    - Bağlan Köyü
+    - Bahçecik Köyü
+    - Bahçelimeydan Köyü
+    - Başsinek Mah (Ombulak Köyü)
+    - Beyoğlu Köyü
+    - Bostanlı Köyü
+    - Boyluca Mah (Yağlı Köyü)
+    - Buruksu Köyü
+    - Canderviş Köyü
+    - Çıraklı Köyü
+    - Çiçekli Köyü
+    - Değirmen Mah (Sürmeli Köyü)
+    - Dipsiz Mah (Bahçecik Köyü)
+    - Doğanyurt Köyü
+    - Eğrekdere Köyü
+    - Elmalık Köyü
+    - Gaziler Köyü
+    - Gedikli Köyü
+    - Göktaş Köyü
+    - Gülahmet Mah (Yağlı Köyü)
+    - Güllüce Köyü
+    - Gültepe Mah (Güllüce Köyü)
+    - Güzeldere Köyü
+    - Hadımlı Köyü
+    - Hamurkesen Köyü
+    - Hasankent Köyü
+    - İnce Köyü
+    - İncesu Köyü
+    - Kalaça Köyü
+    - Kamışlı Köyü
+    - Kandilli Köyü
+    - Karabulak Köyü
+    - Karacören Köyü
+    - Karagüney Mah (Doğanyurt Köyü)
+    - Karakoyun Köyü
+    - Karanlık Köyü
+    - Karataş Köyü
+    - Kayakışlak Köyü
+    - Kayaören Köyü
+    - Kazkoparan Köyü
+    - Kelekli Köyü
+    - Kılıçlı Köyü
+    - Kırkbulak Köyü
+    - Kızılkelefe Mah (Yağlı Köyü)
+    - Kıznefer Köyü
+    - Koçbaşı Mah (Taşuçan Köyü)
+    - Konaklı Mah (Ombulak Köyü)
+    - Köprübaşı Köyü
+    - Kula Köyü
+    - Kumbulak Köyü
+    - Kuruağaç Köyü
+    - Küçükova Köyü
+    - Laleli Köyü
+    - Lebi Mah (Kalaça Köyü)
+    - Mollakamer Köyü
+    - Nahırkıran Köyü
+    - Ombulak Köyü
+    - Ortabucak Köyü
+    - Osmanköy Köyü
+    - Pınar Mah (Abbasgöl Köyü)
+    - Pirdemir Köyü
+    - Pirli Mah (Sürmeli Köyü)
+    - Rağbet Mah (Bahçecik Köyü)
+    - Sarıabdal Köyü
+    - Sarıbulak Köyü
+    - Soğukbulak Köyü
+    - Söğütlü Köyü
+    - Sürmeli Köyü
+    - Taşköprü Mah (Kandilli Köyü)
+    - Taşuçan Köyü
+    - Tezekçi Köyü
+    - Turabi Köyü
+    - Tutak Köyü
+    - Uğruca Köyü
+    - Üçkaya Köyü
+    - Ünlendi Köyü
+    - Yağlı Köyü
+    - Yassıbulak Köyü
+    - Yaylacık Köyü
+    - Yeniköy Mah (Göktaş Köyü)
+    - Yeniköy Mah (Ombulak Köyü)
+    - Yukarı Sutaşı Mah (Aşağısutaşı Köyü)
+    - Yukarıaktaş Köyü
+    - Yukarıcivanlı Köyü
+    - Yukarıçıyrıklı Mah (Aşağı Çıyrıklı Köyü)
+    - Yüceotak Köyü
+    - Zarifhane Mah (Ombulak Köyü)
+  Tuzluca:
+    postcode: 76900
+    neighboorhoods:
+    - Aşağı Mah
+    - Cumhuriyet Mah
+    - Orta Mah
+    - Yeni Mah
+    - Yukarı Mah

@@ -1,0 +1,396 @@
+---
+Çıldır:
+  Çıldır:
+    postcode: 75400
+    neighboorhoods:
+    - Aşıkşenlik Mah
+    - Çankaya Mah
+    - Çay Mah
+    - Dedekorkut Mah
+    - Suhara Mah
+    - Ufuktepe Mah
+    - Yakınsu Mah
+    - Yeni Mah
+    - Yıldırımtepe Mah
+  Merkezköyler:
+    postcode: 75402
+    neighboorhoods:
+    - Ağıllı Köyü
+    - Akçakale Köyü
+    - Akçıl Köyü
+    - Akdarı Köyü
+    - Akkiraz Köyü
+    - Aşağıcambaz Köyü
+    - Baltalı Köyü
+    - Başköy Köyü
+    - Damlıca Köyü
+    - Dirsekkaya Köyü
+    - Doğankaya Köyü
+    - Eskibeyrehatun Köyü
+    - Eşmepınar Köyü
+    - Gölbelen Köyü
+    - Gölebakan Köyü
+    - Güvenocak Köyü
+    - Horozöttü Mah (Kenardere Köyü)
+    - Karakale Köyü
+    - Kaşlıkaya Köyü
+    - Kayabeyi Köyü
+    - Kenarbel Köyü
+    - Kotanlı Köyü
+    - Kotanlı Yayla Evleri Mah (Kotanlı Köyü)
+    - Kurtkale Köyü
+    - Kuzukaya Köyü
+    - Merkez Mah (Kenardere Köyü)
+    - Meryemköy Köyü
+    - Öncül Köyü
+    - Övündü Köyü
+    - Sabaholdu Köyü
+    - Saymalı Köyü
+    - Sazlısu Köyü
+    - Semihaşakir Köyü
+    - Taşdeğirmen Köyü
+    - Yenibeyrehatun Köyü
+    - Yukarıcambaz Köyü
+Damal:
+  Damal:
+    postcode: 75600
+    neighboorhoods:
+    - Ata Mah
+    - Cumhuriyet Mah
+    - Çaybaşı Mah
+    - İnönü Mah
+    - Kalender Mah
+    - Konuk Sever Mah
+    - Mustafa Kemal Mah
+    - Serhat Mah
+  Merkezköyler:
+    postcode: 75602
+    neighboorhoods:
+    - Burmadere Köyü
+    - Dereköy Köyü
+    - Dereköy Köyü Yayla Evleri
+    - Eskikılıç Köyü
+    - Eskikılıç Köyü Yayla Evleri
+    - İkizdere Köyü
+    - İkizdere Köyü Yayla Evleri
+    - Otağlı Köyü
+    - Seyitören Köyü
+    - Tepeköy Köyü Merkez
+    - Tepeköy Yayla Evleri Mah (Tepeköy Köyü)
+Göle:
+  Göle:
+    postcode: 75700
+    neighboorhoods:
+    - Fevzi Çakmak Mah
+    - Kazım Karabekir Mah
+    - Kubilay Bey Mah
+    - Salim Bey Mah
+  Merkezköyler:
+    postcode: 75702
+    neighboorhoods:
+    - Arpaşen Köyü
+    - Balçeşme Köyü
+    - Bellitepe Köyü
+    - Budaklı Köyü
+    - Büyükaltınbulak Köyü
+    - Çakıldere Köyü
+    - Çakırüzüm Köyü
+    - Çalıdere Köyü
+    - Çardaklı Köyü
+    - Çayırbaşı Köyü
+    - Çullu Köyü
+    - Damlasu Köyü
+    - Dedekılıcı Köyü
+    - Dedeşen Mah (Köprülü Köyü)
+    - Dengeli Köyü
+    - Dereyolu Köyü
+    - Dölekçayır Köyü
+    - Durançam Mah (Köprülü Köyü)
+    - Esenboğaz Köyü
+    - Esenyayla Köyü
+    - Eskidemirkapı Köyü
+    - Filizli Köyü
+    - Gedik Köyü
+    - Gevrik Mah (Büyükaltınbulak Köyü)
+    - Gülçeşme Mah (Çobanköy Köyü)
+    - Güldere Mah (Çobanköy Köyü)
+    - Gülistan Köyü
+    - Günorta Köyü
+    - Hoşdülbent Köyü
+    - Kalecik Köyü
+    - Karlıyazı Köyü
+    - Kayaaltı Köyü
+    - Kore Mah (Durucasu Köyü)
+    - Koyunlu Köyü
+    - Köprübaşı Mah (Dedekılıcı Köyü)
+    - Köprülü Merkez Mah (Köprülü Köyü)
+    - Kuytuca Köyü
+    - Kuzupınarı Mah (Köprülü Köyü)
+    - Küçükaltınbulak Köyü
+    - Mollahasan Köyü
+    - Okçu Köyü
+    - Samandöken Köyü
+    - Senemoğlu Köyü
+    - Serinçayır Köyü
+    - Sürügüden Köyü
+    - Tahtakıran Köyü
+    - Tellioğlu Köyü
+    - Toptaş Köyü
+    - Uğurtaşı Köyü
+    - Yağmuroğlu Köyü
+    - Yanatlı Köyü
+    - Yavuzlar Köyü
+    - Yeleçli Köyü
+    - Yenidemirkapı Köyü
+    - Yeniköy Köyü
+    - Yiğitkonağı Köyü
+Hanak:
+  Hanak:
+    postcode: 75900
+    neighboorhoods:
+    - Alaçam Mah
+    - Atalar Mah
+    - Avcılar Mah
+    - Hürriyet Mah
+    - Ortakent Merkez Mah
+    - Selam Verdi Mah
+  Merkezköyler:
+    postcode: 75902
+    neighboorhoods:
+    - Altınemek Köyü
+    - Arıkonak Köyü
+    - Aşağı Çat Mah (Çatköy Köyü)
+    - Aşağıaydere Köyü
+    - Baştoklu Köyü
+    - Binbaşak Köyü
+    - Börk Köyü
+    - Çavdarlı Köyü
+    - Çayağzı Köyü
+    - Çiçeklidağ Köyü
+    - Çimliçayır Köyü
+    - Dilekdere Köyü
+    - Geç Köyü
+    - Güneşgören Köyü
+    - İncedere Köyü
+    - Karakale Köyü
+    - Karşı Mah (Çimliçayır Köyü)
+    - Kırkpınar Mah (Koyunpınarı Köyü)
+    - Kireçhane Mah (Koyunpınarı Köyü)
+    - Koyunpınarı Köyü
+    - Oğuzyolu Köyü
+    - Sazlıçayır Köyü
+    - Serinkuyu Köyü
+    - Serinkuyu Yaylası Mah (Serinkuyu Köyü)
+    - Sevimli Köyü
+    - Sevimli Yayla Evleri Mah (Sevimli Köyü)
+    - Sulakçayır Köyü
+    - Yamaçyolu Köyü
+    - Yamçılı Köyü
+    - Yayla Evleri Mah (Çatköy Köyü)
+    - Yayla Evleri Mah (Çimliçayır Köyü)
+    - Yayla Evleri Mah (Güneşgören Köyü)
+    - Yayla Mah (Çayağzı Köyü)
+    - Yayla Mah (Çiçeklidağ Köyü)
+    - Yayla Mah (İncedere Köyü)
+    - Yukarı Çat Mah (Çatköy Köyü)
+    - Yukarıaydere Köyü
+    - Yünbüken Köyü
+Merkez:
+  Ardahan:
+    postcode: 75100
+    neighboorhoods:
+    - Atatürk Mah
+    - Gürçayır Mah
+    - Halilefendi Mah
+    - İnönü Mah
+    - Kaptanpaşa Mah
+    - Karagöl Mah
+    - Yeni Mah
+  Hasköy:
+    postcode: 75110
+    neighboorhoods:
+    - Ağaçlı Köyü
+    - Aşağı Mah (Çağlayık Köyü)
+    - Aşağı Mah (Ömerağa Köyü)
+    - Aşağı Mah (Samanbeyli Köyü)
+    - Aşağıkurtoğlu Köyü
+    - Bayramoğlu Köyü
+    - Beşiktaş Köyü
+    - Binbaşar Köyü
+    - Çalabaş Köyü
+    - Dağcı Köyü
+    - Değirmen Mah (Nebioğlu Köyü)
+    - Eski Mah (Taşlıdere Köyü)
+    - Giriş Mah (Nebioğlu Köyü)
+    - Hacıali Köyü
+    - Höçvan Bucağı Hasköy Köyü
+    - Köprübaşı Mah (Höçvan Bucağı Hasköy Köyü)
+    - Köprücük Köyü
+    - Lehimli Köyü
+    - Merkez Mah (Çağlayık Köyü)
+    - Mezra Mah (Çağlayık Köyü)
+    - Orta Mah (Nebioğlu Köyü)
+    - Otbiçen Köyü
+    - Taşlıdere Köyü
+    - Tazeköy Köyü
+    - Tunçoluk Köyü
+    - Yeni Mah (Taşlıdere Köyü)
+    - Yukarı Mah (Ömerağa Köyü)
+    - Yukarı Mah (Samanbeyli Köyü)
+    - Yukarıkurtoğlu Köyü
+  Merkezköyler:
+    postcode: 75002
+    neighboorhoods:
+    - Ağzıpek Köyü
+    - Alagöz Köyü
+    - Altaş Köyü
+    - Aşağı Mah (Açıkyazı Köyü)
+    - Aşağı Mah (Kocaköy Köyü)
+    - Balıkçılar Köyü
+    - Büyüksütlüce Köyü
+    - Çamlıçatak Köyü
+    - Çamlıçatak Mah (Çamlıçatak Köyü)
+    - Çataldere Köyü
+    - Çerme Mah (Ölçek Köyü)
+    - Çiftlik Mah (Büyüksütlüce Köyü)
+    - Değirmenli Köyü
+    - Dere Mah (Ölçek Köyü)
+    - Gölgeli Köyü
+    - Güzçimeni Köyü
+    - Güzelyurt Köyü
+    - Kartalpınar Köyü
+    - Kartalpınarosb Mah (Kartalpınar Köyü)
+    - Kazlıköy Köyü
+    - Kızılkilise Mah (Güzelyurt Köyü)
+    - Küçüksütlüce Köyü
+    - Meşedibi Köyü
+    - Ortageçit Köyü
+    - Ortageçit Mah (Ortageçit Köyü)
+    - Ovapınar Köyü
+    - Sarıyamaç Köyü
+    - Sugöze Köyü
+    - Sulakyurt Köyü
+    - Sulakyurt Mah (Sulakyurt Köyü)
+    - Şehiryolu Mah (Tepesuyu Köyü)
+    - Tepesuyu Köyü
+    - Tulumba Mah (Ölçek Köyü)
+    - Yaylacık Köyü
+    - Yaylacık Mah (Gölgeli Köyü)
+    - Yaylacık Mah (Yaylacık Köyü)
+    - Yokuşdibi Köyü
+    - Yukarı Mah (Açıkyazı Köyü)
+    - Yukarı Mah (Kocaköy Köyü)
+  Yanlızçam:
+    postcode: 75210
+    neighboorhoods:
+    - Akyaka Köyü
+    - Ardıçdere Köyü
+    - Bağdaşen Köyü
+    - Çatalköprü Köyü
+    - Çeğilli Köyü
+    - Çetinsu Köyü
+    - Çimenkaya Köyü
+    - Dağevi Köyü
+    - Dedegül Köyü
+    - Derindere Köyü
+    - Edegül Köyü
+    - Hasköy Köyü
+    - Kıraç Köyü
+    - Tepeler Köyü
+    - Uzunova Köyü
+    - Yanlızçam Köyü
+Posof:
+  Merkezköyler:
+    postcode: 75802
+    neighboorhoods:
+    - Akballı Köyü
+    - Alabalık Köyü
+    - Alköy Köyü
+    - Arılı Köyü
+    - Armutveren Köy Yaylası
+    - Armutveren Köyü
+    - Asmakonak Köyü
+    - Aşağı Mah (Demirdöver Köyü)
+    - Aşağı Mah (Günlüce Köyü)
+    - Aşıküzeyir Köyü
+    - Aşıkzülali Köyü
+    - Balgözü Köyü
+    - Binbaşıeminbey Köyü
+    - Binbaşıeminbey Köyü Yayla Evleri
+    - Cadeze Mah (Günlüce Köyü)
+    - Cami Mah (Kolköy Köyü)
+    - Cumatel Mah (Baykent Köyü)
+    - Çakırkoç Köyü
+    - Çambeli Köyü
+    - Çamyazı Köyü
+    - Çayırçimen Köyü
+    - Damala Mah (Kırköy Köyü)
+    - Derindere Köyü
+    - Derinsu Mah (Binbaşıeminbey Köyü)
+    - Erim Köyü
+    - Gönülaçan Köyü
+    - Gönülaçan Köyü Yaylası
+    - Gümüşkavak Köyü
+    - Günbatan Köyü
+    - Gürarmut Köyü
+    - Hurgeşen Mah (Demirdöver Köyü)
+    - İncedere Köyü
+    - Kaleönü Köyü
+    - Kaleönü Köyü Yaylaları
+    - Kalkankaya Köyü
+    - Kapan Mah (Gürarmut Köyü)
+    - Kayadibi Mah (Kolköy Köyü)
+    - Kayınlı Köyü
+    - Kır Mah (Kırköy Köyü)
+    - Kısa Mah (Kolköy Köyü)
+    - Kışla Yaylası Mah (Akballı Köyü)
+    - Kopuzlu Köyü
+    - Kumlukoz Köyü
+    - Kurşunçavuş Köyü
+    - Marzolat Mah (Arılı Köyü)
+    - Merkez Mah (Baykent Köyü)
+    - Orta Mah (Kolköy Köyü)
+    - Özbaşı Köyü
+    - Sarıçiçek Köyü
+    - Sarıdarı Köyü
+    - Savaşır Köyü
+    - Sekene Mah (Kolköy Köyü)
+    - Söğütlükaya Köyü
+    - Söğütlükaya Köyü Yaylaları
+    - Süngülü Köyü
+    - Sütoluk Köyü
+    - Sütoluk Yayla Evleri Mah (Sütoluk Köyü)
+    - Taşkıran Köyü
+    - Tikas Mah (Demirdöver Köyü)
+    - Türgözü Köyü
+    - Türkgözü Mah (Türgözü Köyü)
+    - Uğurca Köy Yaylaları
+    - Uğurca Köyü
+    - Uluçam Köyü
+    - Yayla Evi Mah (Baykent Köyü)
+    - Yayla Evleri Mah (Derindere Köyü)
+    - Yayla Evleri Mah (Kolköy Köyü)
+    - Yayla Evleri Mah (Kopuzlu Köyü)
+    - Yayla Evleri Mah (Kurşunçavuş Köyü)
+    - Yayla Evleri Mah (Savaşır Köyü)
+    - Yayla Evleri Mah (Süngülü Köyü)
+    - Yayla Evleri Mah (Taşkıran Köyü)
+    - Yayla Mah (Aşıkzülali Köyü)
+    - Yayla Mah (Gümüşkavak Köyü)
+    - Yayla Mah (İncedere Köyü)
+    - Yayla Mah (Kumlukoz Köyü)
+    - Yayla Mah (Yaylaaltı Köyü)
+    - Yayla Mah (Yolağzı Köyü)
+    - Yaylaaltı Köyü
+    - Yeniköy Köyü
+    - Yolağzı Köyü
+    - Yukarı Mah (Baykent Köyü)
+    - Yukarı Mah (Demirdöver Köyü)
+    - Yukarı Mah (Günlüce Köyü)
+    - Yurtbaşı Köyü
+    - Yurtbekler Köyü
+  Posof:
+    postcode: 75800
+    neighboorhoods:
+    - Doğrular Mah
+    - Merkez Mah
