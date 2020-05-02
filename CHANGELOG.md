@@ -4,6 +4,10 @@
 
 ### New features
 
+* [#29](https://github.com/sarslanoglu/turkish_cities/issues/29): Add ```district``` class and ```list_subdistricts``` method for listing subdistricts
+
+* [#27](https://github.com/sarslanoglu/turkish_cities/issues/27): Add all subdistricts and neighboorhoods of all Turkish cities
+
 * [#25](https://github.com/sarslanoglu/turkish_cities/issues/25): Add district data to each city at yaml file and add new method ```list_districts``` for listing disctricts of cities alphabetically sorted
 
 ## 0.1.3 (2020-04-20)
