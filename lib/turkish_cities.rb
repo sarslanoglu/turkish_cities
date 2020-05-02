@@ -1,7 +1,8 @@
 # frozen_string_literal: true
 
-require 'turkish_cities/city'
-require 'turkish_cities/version'
+require_relative '../lib/turkish_cities/city'
+require_relative '../lib/turkish_cities/district'
+require_relative '../lib/turkish_cities/version'
 
 class TurkishCities
   def self.find_name_by_plate_number(plate_number)
@@ -26,5 +27,9 @@ class TurkishCities
 
   def self.list_districts(city_name)
     City.new.list_districts(city_name)
+  end
+
+  def self.list_subdistricts(city_name, district_name)
+    District.new.list_subdistricts(city_name, district_name)
   end
 end
