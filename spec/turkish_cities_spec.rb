@@ -204,6 +204,8 @@ RSpec.describe TurkishCities do
 
     context 'when input is not supported' do
       it 'gives city_not_found_error' do
+        expect(TurkishCities.list_subdistricts('filansehir', 'Beşiktaş'))
+          .to eq "Couldn't find district name with 'Beşiktaş' of 'filansehir'"
         expect(TurkishCities.list_subdistricts('İstanbul', 'filanmevki'))
           .to eq "Couldn't find district name with 'filanmevki' of 'İstanbul'"
       end
