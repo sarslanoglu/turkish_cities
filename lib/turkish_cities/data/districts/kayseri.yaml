@@ -2,7 +2,7 @@
 Akkışla:
   Akkışla:
     postcode: 38830
-    neighboorhoods:
+    neighborhoods:
     - Akin Mah
     - Alevkışla Mah
     - Ganişeyh Mah
@@ -21,7 +21,7 @@ Akkışla:
 Bünyan:
   Bünyan:
     postcode: 38600
-    neighboorhoods:
+    neighborhoods:
     - Ağcalı Mah
     - Akçatı Mah
     - Akmescit Mah
@@ -71,7 +71,7 @@ Bünyan:
 Develi:
   Develi:
     postcode: 38400
-    neighboorhoods:
+    neighborhoods:
     - Abdulbaki Mah
     - Alpaslan Mah
     - Aşağıeverek Mah
@@ -152,7 +152,7 @@ Develi:
 Felahiye:
   Felahiye:
     postcode: 38750
-    neighboorhoods:
+    neighborhoods:
     - Acırlı Mah
     - Alparslan Mah
     - Beyler Mah
@@ -173,7 +173,7 @@ Felahiye:
 Hacılar:
   Hacılar:
     postcode: 38310
-    neighboorhoods:
+    neighborhoods:
     - Akdam Mah
     - Akyazı Mah
     - Aşağı Mah
@@ -183,16 +183,16 @@ Hacılar:
     - Yediağaç Mah
     - Yeni Mah
     - Yukarı Mah
-  Hacılar köyler:
+  Hacılar Köyler:
     postcode: 38315
-    neighboorhoods:
+    neighborhoods:
     - Hürmetci Mah
     - Karpuzsekisi Mah
     - Sakarçiftliği Mah
 İncesu:
   İncesu:
     postcode: 38560
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Bahçesaray Mah
     - Bulgurcu Mah
@@ -227,7 +227,7 @@ Hacılar:
 Kocasinan:
   Ankarayoluköyler:
     postcode: 38090
-    neighboorhoods:
+    neighborhoods:
     - Bayramhacı Mah
     - Beydeğirmeni Mah
     - Boğazköprü Mah
@@ -249,7 +249,7 @@ Kocasinan:
     - Yuvalı Mah
   Argıncık:
     postcode: 38030
-    neighboorhoods:
+    neighborhoods:
     - Alsancak Mah
     - Argıncık Mah
     - Cırgalan Mah
@@ -258,21 +258,21 @@ Kocasinan:
     - Talatpaşa Mah
   Beyazşehir:
     postcode: 38080
-    neighboorhoods:
+    neighborhoods:
     - Ahi Evran Mah
     - Beyazşehir Mah
     - Kocasinan Mah
     - Yavuz Selim Mah
   Erkilet:
     postcode: 38050
-    neighboorhoods:
+    neighborhoods:
     - Camikebir Mah
     - Dere Mah
     - General Emir Mah
     - Osmangazi Mah
-  Erkilet köyler:
+  Erkilet Köyler:
     postcode: 38055
-    neighboorhoods:
+    neighborhoods:
     - Akin Mah
     - Boyacı Mah
     - Çevril Mah
@@ -284,9 +284,9 @@ Kocasinan:
     - Kuşçu Mah
     - Taşhan Mah
     - Yazır Mah
-  Fevzi çakmak:
+  Fevzi Çakmak:
     postcode: 38020
-    neighboorhoods:
+    neighborhoods:
     - Erciyesevler Mah
     - Fevzi Çakmak Mah
     - Mimarsinan Mah
@@ -294,7 +294,7 @@ Kocasinan:
     - Yıldızevler Mah
   Güneşli:
     postcode: 38095
-    neighboorhoods:
+    neighborhoods:
     - Akcatepe Mah
     - Amarat Mah
     - Barsama Mah
@@ -313,23 +313,23 @@ Kocasinan:
     - Salur Mah
     - Vatan Mah
     - Yüreğil Mah
-  Kazım karabekir:
+  Kazım Karabekir:
     postcode: 38070
-    neighboorhoods:
+    neighborhoods:
     - Şeker Mah
   Sanayi:
     postcode: 38010
-    neighboorhoods:
+    neighborhoods:
     - Gevher Nesibe Mah
     - Hacı Saki Mah
     - Sanayi Mah
   Valilik:
     postcode: 38015
-    neighboorhoods:
+    neighborhoods:
     - Sahabiye Mah
-  Yeni mahalle:
+  Yeni Mahalle:
     postcode: 38040
-    neighboorhoods:
+    neighborhoods:
     - Boztepe Mah
     - Elagöz Mah
     - Hoca Ahmet Yesevi Mah
@@ -344,7 +344,7 @@ Kocasinan:
     - Zümrüt Mah
   Yenişehir:
     postcode: 38060
-    neighboorhoods:
+    neighborhoods:
     - Barbaros Mah
     - Mithatpaşa Mah
     - Oruçreis Mah
@@ -357,7 +357,7 @@ Kocasinan:
 Melikgazi:
   Battalgazi:
     postcode: 38150
-    neighboorhoods:
+    neighborhoods:
     - Battalgazi Mah
     - Becen Mah
     - Danişmentgazi Mah
@@ -368,7 +368,7 @@ Melikgazi:
     - Tacettinveli Mah
   Belsin:
     postcode: 38170
-    neighboorhoods:
+    neighborhoods:
     - 19 Mayıs Mah
     - 30 Ağustos Mah
     - Anafartalar Mah
@@ -382,11 +382,11 @@ Melikgazi:
     - Tınaztepe Mah
   Çarşı:
     postcode: 38110
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
   Gesi:
     postcode: 38190
-    neighboorhoods:
+    neighborhoods:
     - Bağpınar Mah
     - Gesi Mah
     - Güzelköy Mah
@@ -395,7 +395,7 @@ Melikgazi:
     - Yeşilyurt Mah
   Gürpınar:
     postcode: 38195
-    neighboorhoods:
+    neighborhoods:
     - Ağırnas Mah
     - Büyük Bürüngüz Mah
     - Gürpınar Mah
@@ -405,12 +405,12 @@ Melikgazi:
     - Turan Mah
   Hisarcık:
     postcode: 38155
-    neighboorhoods:
+    neighborhoods:
     - Hisarcık Mah
     - Kıranardı Mah
   Hürriyet:
     postcode: 38120
-    neighboorhoods:
+    neighborhoods:
     - Altınoluk Mah
     - Aydınlıkevler Mah
     - Eğribucak Mah
@@ -419,18 +419,18 @@ Melikgazi:
     - Yeniköy Mah
   İldem:
     postcode: 38180
-    neighboorhoods:
+    neighborhoods:
     - Gesi Fatih Mah
     - İldem Cumhuriyet Mah
-  Kazım karabekir:
+  Kazım Karabekir:
     postcode: 38130
-    neighboorhoods:
+    neighborhoods:
     - Esentepe Mah
     - Kazımkarabekir Mah
     - Osman Kavuncu Mah
   Kılıçaslan:
     postcode: 38140
-    neighboorhoods:
+    neighborhoods:
     - Alpaslan Mah
     - Gültepe Mah
     - Hunat Mah
@@ -439,7 +439,7 @@ Melikgazi:
     - Yıldırım Beyazıt Mah
   Mimarsinan:
     postcode: 38165
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Demokrasi Mah
     - Fatih Mah
@@ -452,7 +452,7 @@ Melikgazi:
 Özvatan:
   Çukur:
     postcode: 38770
-    neighboorhoods:
+    neighborhoods:
     - Alparslan Mah
     - Aşağı Boğaziçi Mah
     - Bahçeli Evler Mah
@@ -469,7 +469,7 @@ Melikgazi:
 Pınarbaşı:
   Pınarbaşı:
     postcode: 38700
-    neighboorhoods:
+    neighborhoods:
     - Akören Mah
     - Akpınar Mah
     - Alagazili Mah
@@ -595,7 +595,7 @@ Pınarbaşı:
 Sarıoğlan:
   Sarıoğlan:
     postcode: 38820
-    neighboorhoods:
+    neighborhoods:
     - Alamettin Mah
     - Bakarcak Mah
     - Burunören Mah
@@ -626,7 +626,7 @@ Sarıoğlan:
 Sarız:
   Sarız:
     postcode: 38660
-    neighboorhoods:
+    neighborhoods:
     - Akoluk Mah
     - Altısöğüt Mah
     - Avşarobası Mah
@@ -674,7 +674,7 @@ Sarız:
 Talas:
   Talas:
     postcode: 38280
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Han Mah
     - Harman Mah
@@ -683,9 +683,9 @@ Talas:
     - Tablakaya Mah
     - Yenidoğan Mah
     - Yukarı Mah
-  Talas köyler:
+  Talas Köyler:
     postcode: 38300
-    neighboorhoods:
+    neighborhoods:
     - Akçakaya Mah
     - Alaybeyli Mah
     - Ardıç Mah
@@ -711,7 +711,7 @@ Talas:
 Tomarza:
   Tomarza:
     postcode: 38900
-    neighboorhoods:
+    neighborhoods:
     - Akdere Mah
     - Akmezar Mah
     - Arslantaş Mah
@@ -769,7 +769,7 @@ Tomarza:
 Yahyalı:
   Yahyalı:
     postcode: 38500
-    neighboorhoods:
+    neighborhoods:
     - 100.yıl Mah
     - 75.yıl Mah
     - Ağcaşar Mah
@@ -814,7 +814,7 @@ Yahyalı:
 Yeşilhisar:
   Yeşilhisar:
     postcode: 38800
-    neighboorhoods:
+    neighborhoods:
     - Akköy Mah
     - Araplı Mah
     - Başköy Mah

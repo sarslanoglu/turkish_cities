@@ -2,7 +2,7 @@
 Çerkezköy:
   Çerkezköy:
     postcode: 59500
-    neighboorhoods:
+    neighborhoods:
     - Bağlık Mah
     - Cumhuriyet Mah
     - Fatih Mah
@@ -23,7 +23,7 @@
 Çorlu:
   Çorlu:
     postcode: 59850
-    neighboorhoods:
+    neighborhoods:
     - Alipaşa Mah
     - Cumhuriyet Mah
     - Çobançeşme Mah
@@ -47,7 +47,7 @@
     - Zafer Mah
   Silahtar:
     postcode: 59860
-    neighboorhoods:
+    neighborhoods:
     - Cemaliye Mah
     - Hatip Mah
     - Kazımiye Mah
@@ -57,7 +57,7 @@
 Ergene:
   Marmaracık:
     postcode: 59930
-    neighboorhoods:
+    neighborhoods:
     - Ahimehmet Mah
     - Bakırca Mah
     - Cumhuriyet Mah
@@ -82,7 +82,7 @@ Ergene:
 Hayrabolu:
   Hayrabolu:
     postcode: 59400
-    neighboorhoods:
+    neighborhoods:
     - Ataköy Mah
     - Avluobası Mah
     - Aydınevler Mah
@@ -139,7 +139,7 @@ Hayrabolu:
 Kapaklı:
   Kapaklı:
     postcode: 59510
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Bahçeağıl Mah
     - Bahçelievler Mah
@@ -160,7 +160,7 @@ Kapaklı:
 Malkara:
   Malkara:
     postcode: 59300
-    neighboorhoods:
+    neighborhoods:
     - Ahievren Mah
     - Ahmetpaşa Mah
     - Aksakal Mah
@@ -241,7 +241,7 @@ Malkara:
 Marmaraereğlisi:
   Marmaraereğlisi:
     postcode: 59740
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Cedit Ali Paşa Mah
     - Çeşmeli Mah
@@ -255,7 +255,7 @@ Marmaraereğlisi:
 Muratlı:
   Muratlı:
     postcode: 59700
-    neighboorhoods:
+    neighborhoods:
     - Arzulu Mah
     - Aşağısevindikli Mah
     - Aydınköy Mah
@@ -280,7 +280,7 @@ Muratlı:
 Saray:
   Saray:
     postcode: 59600
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Ayaspaşa Mah
     - Ayvacık Mah
@@ -313,21 +313,21 @@ Saray:
 Süleymanpaşa:
   Altınova:
     postcode: 59100
-    neighboorhoods:
+    neighborhoods:
     - 100. Yıl Mah
     - Altınova Mah
     - Ertuğrul Mah
     - Yavuz Mah
   Aydoğdu:
     postcode: 59200
-    neighboorhoods:
+    neighborhoods:
     - Aydoğdu Mah
     - Çınarlı Mah
     - Karadeniz Mah
     - Zafer Mah
   Eskicami:
     postcode: 59030
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Değirmenaltı Mah
     - Eskicami-ortacami Mah
@@ -336,12 +336,12 @@ Süleymanpaşa:
     - Namık Kemal Mah
   Kumbağ:
     postcode: 59060
-    neighboorhoods:
+    neighborhoods:
     - Barbaros Mah
     - Kumbağ Mah
   Süleymanpaşa:
     postcode: 59070
-    neighboorhoods:
+    neighborhoods:
     - Ahmedikli Mah
     - Ahmetçe Mah
     - Akçahalil Mah
@@ -402,7 +402,7 @@ Süleymanpaşa:
 Şarköy:
   Şarköy:
     postcode: 59800
-    neighboorhoods:
+    neighborhoods:
     - Aşağıkalamış Mah
     - Beyoğlu Mah
     - Bulgur Mah

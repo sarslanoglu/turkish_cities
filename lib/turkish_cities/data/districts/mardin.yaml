@@ -2,11 +2,11 @@
 Artuklu:
   Gökçe:
     postcode: 47420
-    neighboorhoods:
+    neighborhoods:
     - Gökçe Mah
   İstasyon:
     postcode: 47060
-    neighboorhoods:
+    neighborhoods:
     - Acar Mah
     - Ahmetli Mah
     - Akbağ Mah
@@ -78,17 +78,17 @@ Artuklu:
     - Yüce Mah
   Kabala:
     postcode: 47080
-    neighboorhoods:
+    neighborhoods:
     - Kabala Mah
   Nur:
     postcode: 47200
-    neighboorhoods:
+    neighborhoods:
     - 13 Mart Mah
     - Nur Mah
     - Yenişehir Mah
   Savurkapı:
     postcode: 47100
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Çabuk Mah
     - Diyarbakır Kapı Mah
@@ -110,7 +110,7 @@ Artuklu:
 Dargeçit:
   Dargeçit:
     postcode: 47750
-    neighboorhoods:
+    neighborhoods:
     - Akçaköy Mah
     - Akyol Mah
     - Alayunt Mah
@@ -155,7 +155,7 @@ Dargeçit:
 Derik:
   Derik:
     postcode: 47800
-    neighboorhoods:
+    neighborhoods:
     - Adak Mah
     - Adakent Mah
     - Ahmetli Mah
@@ -239,7 +239,7 @@ Derik:
 Kızıltepe:
   Kızıltepe:
     postcode: 47400
-    neighboorhoods:
+    neighborhoods:
     - Akalın Mah
     - Akça Mah
     - Akçapınar Mah
@@ -427,7 +427,7 @@ Kızıltepe:
 Mazıdağı:
   Mazıdağı:
     postcode: 47700
-    neighboorhoods:
+    neighborhoods:
     - Aksu Mah
     - Arıköy Mah
     - Arısu Mah
@@ -484,7 +484,7 @@ Mazıdağı:
 Midyat:
   Eskimidyat:
     postcode: 47510
-    neighboorhoods:
+    neighborhoods:
     - Akçakaya Mah
     - Cumhuriyet Mah
     - Gölcük Mah
@@ -492,7 +492,7 @@ Midyat:
     - Sanayi Mah
   Hükümet:
     postcode: 47500
-    neighboorhoods:
+    neighborhoods:
     - Acırlı Mah
     - Adaklı Mah
     - Altıntaş Mah
@@ -563,7 +563,7 @@ Midyat:
 Nusaybin:
   Nusaybin:
     postcode: 47300
-    neighboorhoods:
+    neighborhoods:
     - 8 Mart Mah
     - Abdulkadirpaşa Mah
     - Açıkköy Mah
@@ -650,7 +650,7 @@ Nusaybin:
 Ömerli:
   Ömerli:
     postcode: 47570
-    neighboorhoods:
+    neighborhoods:
     - Akyokuş Mah
     - Alıçlı Mah
     - Anıttepe Mah
@@ -700,7 +700,7 @@ Nusaybin:
 Savur:
   Savur:
     postcode: 47860
-    neighboorhoods:
+    neighborhoods:
     - Akyürek Mah
     - Armutalan Mah
     - Bağyaka Mah
@@ -745,7 +745,7 @@ Savur:
 Yeşilli:
   Yeşilli:
     postcode: 47650
-    neighboorhoods:
+    neighborhoods:
     - Alıçlı Mah
     - Bahçebaşı Mah
     - Bülbül Mah

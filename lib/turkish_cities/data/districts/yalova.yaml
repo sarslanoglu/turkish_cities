@@ -2,13 +2,13 @@
 Altınova:
   Altınova:
     postcode: 77700
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Hersek Mah
     - Hürriyet Mah
   Merkezköyler:
     postcode: 77702
-    neighboorhoods:
+    neighborhoods:
     - Ahmediye Köyü
     - Aktoprak Köyü
     - Altınkent Mah (Subaşı Köyü)
@@ -32,13 +32,13 @@ Altınova:
 Armutlu:
   Armutlu:
     postcode: 77500
-    neighboorhoods:
+    neighborhoods:
     - 50. Yıl Mah
     - Bayır Mah
     - Karşıyaka Mah
   Merkezköyler:
     postcode: 77502
-    neighboorhoods:
+    neighborhoods:
     - Hayriye Merkez Mah (Hayriye Köyü)
     - İhsaniye Mah (Mecidiye Köyü)
     - Köy Merkezi Mah (Fıstıklı Köyü)
@@ -49,7 +49,7 @@ Armutlu:
 Çınarcık:
   Çınarcık:
     postcode: 77300
-    neighboorhoods:
+    neighborhoods:
     - Çamlık Mah
     - Harmanlar Mah
     - Hasanbaba Mah
@@ -57,7 +57,7 @@ Armutlu:
     - Taşliman Mah
   Merkezköyler:
     postcode: 77302
-    neighboorhoods:
+    neighborhoods:
     - Aliye Hanım Mah (Esenköy Köyü)
     - Atakent Mah (Koru Köyü)
     - Cumhuriyet Mah (Koru Köyü)
@@ -74,7 +74,7 @@ Armutlu:
 Çiftlikköy:
   Çiftlikköy:
     postcode: 77600
-    neighboorhoods:
+    neighborhoods:
     - 500 Evler Mah
     - Çiftlik Mah
     - Mehmet Akif Ersoy Mah
@@ -83,7 +83,7 @@ Armutlu:
     - Sultaniye Mah
   Merkezköyler:
     postcode: 77602
-    neighboorhoods:
+    neighborhoods:
     - Burhaniye Köyü
     - Dereköy Köyü
     - Gacık Mah (Gacık Köyü)
@@ -103,7 +103,7 @@ Armutlu:
 Merkez:
   Bağlarbaşı:
     postcode: 77200
-    neighboorhoods:
+    neighborhoods:
     - Adnan Menderes Mah
     - Bağlarbaşı Mah
     - Bahçelievler Mah
@@ -119,7 +119,7 @@ Merkez:
     - Süleyman Bey Mah
   Merkezköyler:
     postcode: 77202
-    neighboorhoods:
+    neighborhoods:
     - Güneyköy Mah (Güneyköy Köyü)
     - Merkez Mah (Elmalık Köyü)
     - Merkez Mah (Esadiye Köyü)
@@ -141,11 +141,11 @@ Merkez:
 Termal:
   Merkezköyler:
     postcode: 77402
-    neighboorhoods:
+    neighborhoods:
     - Köyiçi Mah (Akköy Köyü)
     - Köyiçi Mah (Yenimahalle Köyü)
   Termal:
     postcode: 77400
-    neighboorhoods:
+    neighborhoods:
     - Gökçedere Mah
     - Üvezpınar Mah

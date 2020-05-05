@@ -2,7 +2,7 @@
 Aliağa:
   Aliağa:
     postcode: 35800
-    neighboorhoods:
+    neighborhoods:
     - Aşağışakran Mah
     - Atatürk Mah
     - B.hayrettin Paşa Mah
@@ -34,12 +34,12 @@ Aliağa:
     - Yüksekköy Mah
   Helvacı:
     postcode: 35820
-    neighboorhoods:
+    neighborhoods:
     - Fatih Mah
 Balçova:
   Balçova:
     postcode: 35330
-    neighboorhoods:
+    neighborhoods:
     - Bahçelerarası Mah
     - Çetin Emeç Mah
     - Eğitim Mah
@@ -51,7 +51,7 @@ Balçova:
 Bayındır:
   Bayındır:
     postcode: 35840
-    neighboorhoods:
+    neighborhoods:
     - Alankıyı Mah
     - Alanköy Mah
     - Arıkbaşı Mah
@@ -105,13 +105,13 @@ Bayındır:
     - Zeytinova Mah
   Canlı:
     postcode: 35845
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Cumhuriyet Mah
     - Karaveliler Mah
   Çırpı:
     postcode: 35843
-    neighboorhoods:
+    neighborhoods:
     - Çırpı Cami Mah
     - Hasköy Mah
     - İbrahimçavuş Mah
@@ -120,7 +120,7 @@ Bayındır:
 Bayraklı:
   Alpaslan:
     postcode: 35540
-    neighboorhoods:
+    neighborhoods:
     - 75. Yıl Mah
     - Alpaslan Mah
     - Cengizhan Mah
@@ -131,14 +131,14 @@ Bayraklı:
     - Turan Mah
   Bayraklı:
     postcode: 35530
-    neighboorhoods:
+    neighborhoods:
     - Adalet Mah
     - Bayraklı Mah
     - Çay Mah
     - Tepekule Mah
   Gümüşpala:
     postcode: 35510
-    neighboorhoods:
+    neighborhoods:
     - Doğançay Mah
     - Emek Mah
     - Gümüşpala Mah
@@ -146,13 +146,13 @@ Bayraklı:
     - Yamanlar Mah
   Manavkuyu:
     postcode: 35535
-    neighboorhoods:
+    neighborhoods:
     - Manavkuyu Mah
     - Mansuroğlu Mah
     - Osmangazi Mah
   Soğukkuyu:
     postcode: 35520
-    neighboorhoods:
+    neighborhoods:
     - Körfez Mah
     - Onur Mah
     - Postacılar Mah
@@ -160,7 +160,7 @@ Bayraklı:
 Bergama:
   Bergama:
     postcode: 35700
-    neighboorhoods:
+    neighborhoods:
     - Ahmetbeyler Mah
     - Akçenger Mah
     - Alacalar Mah
@@ -302,7 +302,7 @@ Bergama:
 Beydağ:
   Beydağ:
     postcode: 35790
-    neighboorhoods:
+    neighborhoods:
     - Adaküre Mah
     - Aktepe Mah
     - Alakeçili Mah
@@ -331,7 +331,7 @@ Beydağ:
 Bornova:
   Altındağ:
     postcode: 35080
-    neighboorhoods:
+    neighborhoods:
     - Birlik Mah
     - Çamkule Mah
     - Koşukavak Mah
@@ -341,14 +341,14 @@ Bornova:
     - Zafer Mah
   Atatürk:
     postcode: 35030
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Evka 4 Mah
     - İnönü Mah
     - Kızılay Mah
   Bornova:
     postcode: 35040
-    neighboorhoods:
+    neighborhoods:
     - Beşyol Mah
     - Çamiçi Mah
     - Çiçekli Mah
@@ -365,7 +365,7 @@ Bornova:
     - Yakaköy Mah
   Çamdibi:
     postcode: 35090
-    neighboorhoods:
+    neighborhoods:
     - Barbaros Mah
     - Çınar Mah
     - Gazi Osman Paşa Mah
@@ -375,17 +375,17 @@ Bornova:
     - Yıldırım Beyazıt Mah
   Işıkkent:
     postcode: 35070
-    neighboorhoods:
+    neighborhoods:
     - Egemenlik Mah
     - Işıklar Mah
     - Karacaoğlan Mah
   Kazımdirik:
     postcode: 35100
-    neighboorhoods:
+    neighborhoods:
     - Kazımdirik Mah
   Naldöken:
     postcode: 35050
-    neighboorhoods:
+    neighborhoods:
     - Doğanlar Mah
     - Evka 3 Mah
     - Mevlana Mah
@@ -393,7 +393,7 @@ Bornova:
     - Yeşilçam Mah
   Pınarbaşı:
     postcode: 35060
-    neighboorhoods:
+    neighborhoods:
     - Gürpınar Mah
     - Kemalpaşa Mah
     - Ümit Mah
@@ -401,7 +401,7 @@ Bornova:
 Buca:
   Buca:
     postcode: 35390
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Belenbaşı Mah
     - Buca Koop Mah
@@ -417,7 +417,7 @@ Buca:
     - Yıldız Mah
   Evka1:
     postcode: 35400
-    neighboorhoods:
+    neighborhoods:
     - Adatepe Mah
     - Aydoğdu Mah
     - Bucaosb Mah
@@ -432,7 +432,7 @@ Buca:
     - Yaylacık Mah
   İşçievleri:
     postcode: 35370
-    neighboorhoods:
+    neighborhoods:
     - Barış Mah
     - Çaldıran Mah
     - Çamlık Mah
@@ -445,13 +445,13 @@ Buca:
     - Yiğitler Mah
   Kaynaklar:
     postcode: 35395
-    neighboorhoods:
+    neighborhoods:
     - 29 Ekim Mah
     - Yıldızlar Mah
     - Zafer Mah
   Şirinyer:
     postcode: 35380
-    neighboorhoods:
+    neighborhoods:
     - Akıncılar Mah
     - Efeler Mah
     - Fırat Mah
@@ -465,11 +465,11 @@ Buca:
 Çeşme:
   Alaçatı:
     postcode: 35937
-    neighboorhoods:
+    neighborhoods:
     - Alaçatı Mah
   Çeşme:
     postcode: 35930
-    neighboorhoods:
+    neighborhoods:
     - 16 Eylül Mah
     - Altınkum Mah
     - Altınyunus Mah
@@ -493,14 +493,14 @@ Buca:
     - Yalı Mah
   Dalyan:
     postcode: 35932
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Dalyan Mah
     - Üniversite Mah
 Çiğli:
   Büyükçiğli:
     postcode: 35640
-    neighboorhoods:
+    neighborhoods:
     - Ahmet Taner Kışlalı Mah
     - Aydınlıkevler Mah
     - Evka-2 Mah
@@ -512,7 +512,7 @@ Buca:
     - Yakakent Mah
   Çiğli:
     postcode: 35620
-    neighboorhoods:
+    neighborhoods:
     - Aosb Mah
     - Ataşehir Mah
     - Balatçık Mah
@@ -522,7 +522,7 @@ Buca:
     - Yeni Mahalle Mah
   Egekent:
     postcode: 35610
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Çağdaş Mah
     - Egekent Mah
@@ -531,7 +531,7 @@ Buca:
     - İzkent Mah
   Harmandalı:
     postcode: 35650
-    neighboorhoods:
+    neighborhoods:
     - Ahmet Efendi Mah
     - Cumhuriyet Mah
     - Harmandalı Gazi Mustafa Kemal Atatürk Mah
@@ -540,7 +540,7 @@ Buca:
 Dikili:
   Dikili:
     postcode: 35980
-    neighboorhoods:
+    neighborhoods:
     - Bademli Mah
     - Bahçeli Mah
     - Cumhuriyet Mah
@@ -574,12 +574,12 @@ Dikili:
 Foça:
   Bağarası:
     postcode: 35683
-    neighboorhoods:
+    neighborhoods:
     - Hacıveli Mah
     - Kazım Dirik Mah
   Foça:
     postcode: 35680
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Fevzipaşa Mah
     - Ilıpınar Mah
@@ -593,14 +593,14 @@ Foça:
     - Yeniköy Mah
   Yenifoça:
     postcode: 35687
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Fatih Mah
     - Fevzi Çakmak Mah
 Gaziemir:
   Gaziemir:
     postcode: 35410
-    neighboorhoods:
+    neighborhoods:
     - Aktepe Mah
     - Atatürk Mah
     - Atıfbey Mah
@@ -621,7 +621,7 @@ Gaziemir:
 Güzelbahçe:
   Güzelbahçe:
     postcode: 35310
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Çamlı Mah
     - Çelebi Mah
@@ -637,7 +637,7 @@ Güzelbahçe:
 Karabağlar:
   Fahrettinaltay:
     postcode: 35140
-    neighboorhoods:
+    neighborhoods:
     - Adnan Süvari Mah
     - Esentepe Mah
     - Esenyalı Mah
@@ -651,13 +651,13 @@ Karabağlar:
     - Üçkuyular Mah
   Hatay:
     postcode: 35150
-    neighboorhoods:
+    neighborhoods:
     - Arap Hasan Mah
     - Bahçelievler Mah
     - Basın Sitesi Mah
   Karabağlar:
     postcode: 35130
-    neighboorhoods:
+    neighborhoods:
     - Aydın Mah
     - Barış Mah
     - Günaltay Mah
@@ -670,7 +670,7 @@ Karabağlar:
     - Yunus Emre Mah
   Kibar:
     postcode: 35120
-    neighboorhoods:
+    neighborhoods:
     - Abdi İpekçi Mah
     - Cennetçeşme Mah
     - Devrim Mah
@@ -684,7 +684,7 @@ Karabağlar:
     - Yüzbaşı Şerafettin Mah
   Yeşilyurt:
     postcode: 35160
-    neighboorhoods:
+    neighborhoods:
     - Ali Fuat Cebesoy Mah
     - Ali Fuat Erden Mah
     - Bahriye Üçok Mah
@@ -699,7 +699,7 @@ Karabağlar:
     - Vatan Mah
   Zincirlikuyu:
     postcode: 35110
-    neighboorhoods:
+    neighborhoods:
     - Aşık Veysel Mah
     - Bahar Mah
     - Bozyaka Mah
@@ -714,7 +714,7 @@ Karabağlar:
 Karaburun:
   Karaburun:
     postcode: 35960
-    neighboorhoods:
+    neighborhoods:
     - Anbarseki Mah
     - Bozköy Mah
     - Eğlenhoca Mah
@@ -732,12 +732,12 @@ Karaburun:
     - Yayla Mah
   Mordoğan:
     postcode: 35970
-    neighboorhoods:
+    neighborhoods:
     - Mordoğan Mah
 Karşıyaka:
   Alaybey:
     postcode: 35600
-    neighboorhoods:
+    neighborhoods:
     - Alaybey Mah
     - Bahariye Mah
     - Bahçelievler Mah
@@ -745,26 +745,26 @@ Karşıyaka:
     - Tuna Mah
   Cumhuriyet:
     postcode: 35570
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - İnönü Mah
     - Mustafa Kemal Mah
     - Zübeyde Hanım Mah
   Denizbostanlısı:
     postcode: 35590
-    neighboorhoods:
+    neighborhoods:
     - Atakent Mah
     - Bostanlı Mah
     - Mavişehir Mah
   İmbatlı:
     postcode: 35575
-    neighboorhoods:
+    neighborhoods:
     - İmbatlı Mah
     - Latife Hanım Mah
     - Örnekköy Mah
   Karşıyaka:
     postcode: 35580
-    neighboorhoods:
+    neighborhoods:
     - Aksoy Mah
     - Bahriye Üçok Mah
     - Donanmacı Mah
@@ -772,7 +772,7 @@ Karşıyaka:
     - Yamanlar Mah
   Nergiz:
     postcode: 35560
-    neighboorhoods:
+    neighborhoods:
     - Dedebaşı Mah
     - Demirköprü Mah
     - Fikri Altay Mah
@@ -781,17 +781,17 @@ Karşıyaka:
     - Şemikler Mah
   Yalı:
     postcode: 35550
-    neighboorhoods:
+    neighborhoods:
     - Yalı Mah
 Kemalpaşa:
   Armutlu:
     postcode: 35737
-    neighboorhoods:
+    neighborhoods:
     - 85.yıl Cumhuriyet Mah
     - Hürriyet Mah
   Bağyurdu:
     postcode: 35743
-    neighboorhoods:
+    neighborhoods:
     - 29 Ekim Mah
     - Halilbeyli Mah
     - Kazımpaşa Mah
@@ -799,7 +799,7 @@ Kemalpaşa:
     - Yeni Mah
   Kemalpaşa:
     postcode: 35730
-    neighboorhoods:
+    neighborhoods:
     - 75.yıl Cumhuriyet Mah
     - Akalan Mah
     - Ansızca Mah
@@ -842,18 +842,18 @@ Kemalpaşa:
     - Zeamet Mah
   Ören:
     postcode: 35733
-    neighboorhoods:
+    neighborhoods:
     - Egemen Mah
   Ulucak:
     postcode: 35735
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - İstiklal Mah
     - Mustafa Kemal Atatürk Mah
 Kınık:
   Kınık:
     postcode: 35990
-    neighboorhoods:
+    neighborhoods:
     - Arpadere Mah
     - Arpaseki Mah
     - Aşağı Mah
@@ -895,7 +895,7 @@ Kınık:
 Kiraz:
   Kiraz:
     postcode: 35890
-    neighboorhoods:
+    neighborhoods:
     - Ahmetler Mah
     - Akpınar Mah
     - Altınoluk Mah
@@ -955,13 +955,13 @@ Kiraz:
 Konak:
   Alsancak:
     postcode: 35220
-    neighboorhoods:
+    neighborhoods:
     - Alsancak Mah
     - Kültür Mah
     - Mimar Sinan Mah
   Basmane:
     postcode: 35240
-    neighboorhoods:
+    neighborhoods:
     - Akarcalı Mah
     - Akıncı Mah
     - Ali Reis Mah
@@ -986,7 +986,7 @@ Konak:
     - Yeni Mah
   Eşrefpaşa:
     postcode: 35270
-    neighboorhoods:
+    neighborhoods:
     - 1.kadriye Mah
     - 19 Mayıs Mah
     - 2.kadriye Mah
@@ -1007,7 +1007,7 @@ Konak:
     - Zafertepe Mah
   Gültepe:
     postcode: 35190
-    neighboorhoods:
+    neighborhoods:
     - 26 Ağustos Mah
     - Anadolu Mah
     - Atamer Mah
@@ -1023,7 +1023,7 @@ Konak:
     - Zeybek Mah
   Gürçeşme:
     postcode: 35180
-    neighboorhoods:
+    neighborhoods:
     - Boğaziçi Mah
     - Cengiz Topel Mah
     - Emir Sultan Mah
@@ -1038,20 +1038,20 @@ Konak:
     - Zeytinlik Mah
   Güzelyalı:
     postcode: 35290
-    neighboorhoods:
+    neighborhoods:
     - Göztepe Mah
     - Güzelyalı Mah
     - Mehmet Ali Akman Mah
   Kahramanlar:
     postcode: 35230
-    neighboorhoods:
+    neighborhoods:
     - Ege Mah
     - Kahramanlar Mah
     - Oğuzlar Mah
     - Umurbey Mah
   Kemeraltı:
     postcode: 35250
-    neighboorhoods:
+    neighborhoods:
     - Güneş Mah
     - Güzelyurt Mah
     - Kestelli Mah
@@ -1059,7 +1059,7 @@ Konak:
     - Yenigün Mah
   Konak:
     postcode: 35260
-    neighboorhoods:
+    neighborhoods:
     - Altıntaş Mah
     - Barbaros Mah
     - Bozkurt Mah
@@ -1080,7 +1080,7 @@ Konak:
     - Yıldız Mah
   Küçükyalı:
     postcode: 35280
-    neighboorhoods:
+    neighborhoods:
     - Akın Simav Mah
     - Çankaya Mah
     - Kemal Reis Mah
@@ -1091,12 +1091,12 @@ Konak:
     - Turgut Reis Mah
   Pasaport:
     postcode: 35210
-    neighboorhoods:
+    neighborhoods:
     - Akdeniz Mah
     - İsmet Kaptan Mah
   Yenişehir:
     postcode: 35170
-    neighboorhoods:
+    neighborhoods:
     - Çınarlı Mah
     - Halkapınar Mah
     - Hilal Mah
@@ -1105,36 +1105,36 @@ Konak:
 Menderes:
   Ataköy:
     postcode: 35479
-    neighboorhoods:
+    neighborhoods:
     - Ataköy Mah
   Değirmendere:
     postcode: 35472
-    neighboorhoods:
+    neighborhoods:
     - Değirmendere Mah
   Develi:
     postcode: 35474
-    neighboorhoods:
+    neighborhoods:
     - Develi Mah
   Görece:
     postcode: 35473
-    neighboorhoods:
+    neighborhoods:
     - Ata Mah
     - Görece Cumhuriyet Mah
     - Hürriyet Mah
   Gümüldür:
     postcode: 35480
-    neighboorhoods:
+    neighborhoods:
     - Gümüldür Atatürk Mah
     - Gümüldür Cumhuriyet Mah
     - Gümüldür Fevzi Çakmak Mah
     - Gümüldür İnönü Mah
   Kısık:
     postcode: 35476
-    neighboorhoods:
+    neighborhoods:
     - Kısık Mah
   Menderes:
     postcode: 35471
-    neighboorhoods:
+    neighborhoods:
     - Ahmetbeyli Mah
     - Akçaköy Mah
     - Altıntepe Mah
@@ -1166,19 +1166,19 @@ Menderes:
     - Yeniköy Mah
   Özdere:
     postcode: 35495
-    neighboorhoods:
+    neighborhoods:
     - Çukuraltı Mah
     - Orta Mah
     - Özdere Cumhuriyet Mah
   Tekeli:
     postcode: 35477
-    neighboorhoods:
+    neighborhoods:
     - Tekeli Atatürk Mah
     - Tekeli Fevzi Çakmak Mah
 Menemen:
   Menemen:
     postcode: 35660
-    neighboorhoods:
+    neighborhoods:
     - 29 Ekim Mah
     - 30 Ağustos Mah
     - 75.yıl Cumhuriyet Mah
@@ -1249,7 +1249,7 @@ Menemen:
 Narlıdere:
   Narlıdere:
     postcode: 35320
-    neighboorhoods:
+    neighborhoods:
     - 2. İnönü Mah
     - Altıevler Mah
     - Atatürk Mah
@@ -1264,7 +1264,7 @@ Narlıdere:
 Ödemiş:
   Ödemiş:
     postcode: 35750
-    neighboorhoods:
+    neighborhoods:
     - Akıncılar Mah
     - Alaşarlı Mah
     - Anafartalar Mah
@@ -1367,13 +1367,13 @@ Narlıdere:
 Seferihisar:
   Doğanbey:
     postcode: 35465
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Cumhuriyet Mah
     - Payamlı Mah
   Seferihisar:
     postcode: 35460
-    neighboorhoods:
+    neighborhoods:
     - Beyler Mah
     - Camikebir Mah
     - Çamtepe Mah
@@ -1392,13 +1392,13 @@ Seferihisar:
     - Ulamış Mah
   Ürkmez:
     postcode: 35485
-    neighboorhoods:
+    neighborhoods:
     - Bengiler Mah
     - Mersin Alanı Mah
 Selçuk:
   Selçuk:
     postcode: 35920
-    neighboorhoods:
+    neighborhoods:
     - 14 Mayıs Mah
     - Acarlar Mah
     - Atatürk Mah
@@ -1416,7 +1416,7 @@ Selçuk:
 Tire:
   Tire:
     postcode: 35900
-    neighboorhoods:
+    neighborhoods:
     - 4 Eylül Mah
     - Adnan Menderes Mah
     - Akçaşehir Mah
@@ -1509,33 +1509,33 @@ Tire:
 Torbalı:
   Ayrancılar:
     postcode: 35870
-    neighboorhoods:
+    neighborhoods:
     - Ayrancılar Mah
     - Fevzi Çakmak Mah
     - İnönü Mah
     - Türkmenköy Mah
   Çaybaşı:
     postcode: 35880
-    neighboorhoods:
+    neighborhoods:
     - Çaybaşı Mah
     - Karşıyaka Mah
     - Mustafa Kemal Atatürk Mah
     - Yeni Mah
   Pancar:
     postcode: 35865
-    neighboorhoods:
+    neighborhoods:
     - Kazım Karabekir Mah
     - Organize Sanayi Bölgesi Mah
     - Pancar Mah
   Subaşı:
     postcode: 35885
-    neighboorhoods:
+    neighborhoods:
     - 19 Mayıs Mah
     - Pamukyazı Mah
     - Subaşı Mah
   Torbalı:
     postcode: 35860
-    neighboorhoods:
+    neighborhoods:
     - Ahmetli Mah
     - Alpkent Mah
     - Arslanlar Mah
@@ -1582,49 +1582,49 @@ Torbalı:
     - Yoğurtçular Mah
   Yazıbaşı:
     postcode: 35875
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - İstiklal Mah
     - Yazıbaşı Mah
   Yeniköyosb:
     postcode: 35862
-    neighboorhoods:
+    neighborhoods:
     - Yeniköy Osb Mah
 Urla:
   Bademler:
     postcode: 35432
-    neighboorhoods:
+    neighborhoods:
     - Bademler Mah
   Balıklıova:
     postcode: 35436
-    neighboorhoods:
+    neighborhoods:
     - Balıklıova Mah
   Çeşmealtı:
     postcode: 35450
-    neighboorhoods:
+    neighborhoods:
     - Denizli Mah
     - Güvendik Mah
   İskele:
     postcode: 35441
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - İskele Mah
     - Kalabak Mah
   İyte:
     postcode: 35433
-    neighboorhoods:
+    neighborhoods:
     - Gülbahçe Mah
   Kuşçular:
     postcode: 35437
-    neighboorhoods:
+    neighborhoods:
     - Kuşçular Mah
   Özbek:
     postcode: 35434
-    neighboorhoods:
+    neighborhoods:
     - Özbek Mah
   Urla:
     postcode: 35430
-    neighboorhoods:
+    neighborhoods:
     - Altıntaş Mah
     - Barbaros Mah
     - Birgi Mah
@@ -1650,7 +1650,7 @@ Urla:
     - Zeytinler Mah
   Zeytinalanı:
     postcode: 35445
-    neighboorhoods:
+    neighborhoods:
     - Çamlıçay Mah
     - M.fevzi Çakmak Mah
     - Şirinkent Mah

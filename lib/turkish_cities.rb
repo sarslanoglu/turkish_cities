@@ -32,4 +32,8 @@ class TurkishCities
   def self.list_subdistricts(city_name, district_name)
     District.new.list_subdistricts(city_name, district_name)
   end
+
+  def self.list_neighborhoods(city_name, district_name, subdistrict_name = nil)
+    District.new.list_neighborhoods(city_name, district_name, subdistrict_name)
+  end
 end

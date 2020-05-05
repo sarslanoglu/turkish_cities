@@ -2,25 +2,25 @@
 Adalar:
   Burgazada:
     postcode: 34975
-    neighboorhoods:
+    neighborhoods:
     - Burgazada Mah
   Büyükada:
     postcode: 34970
-    neighboorhoods:
+    neighborhoods:
     - Maden Mah
     - Nizam Mah
   Heybeliada:
     postcode: 34973
-    neighboorhoods:
+    neighborhoods:
     - Heybeliada Mah
   Kınalıada:
     postcode: 34977
-    neighboorhoods:
+    neighborhoods:
     - Kınalıada Mah
 Arnavutköy:
   Arnavutköy:
     postcode: 34275
-    neighboorhoods:
+    neighborhoods:
     - Anadolu Mah
     - Arnavutköy Merkez Mah
     - İmrahor Mah
@@ -30,7 +30,7 @@ Arnavutköy:
     - Yavuz Selim Mah
   Baklalı:
     postcode: 34277
-    neighboorhoods:
+    neighborhoods:
     - Adnan Menderes Mah
     - Baklalı Mah
     - Balaban Mah
@@ -48,19 +48,19 @@ Arnavutköy:
     - Yeniköy Mah
   Boğazköy:
     postcode: 34285
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Boğazköy İstiklal Mah
     - Yunus Emre Mah
   Bolluca:
     postcode: 34287
-    neighboorhoods:
+    neighborhoods:
     - Bolluca Mah
     - Hicret Mah
     - Mavigöl Mah
   Hadımköy:
     postcode: 34555
-    neighboorhoods:
+    neighborhoods:
     - Deliklikaya Mah
     - Hadımköy Mah
     - Hastane Mah
@@ -68,79 +68,79 @@ Arnavutköy:
     - Yeşilbayır Mah
   Haraççı:
     postcode: 34281
-    neighboorhoods:
+    neighborhoods:
     - Haraççı Mah
     - Karlıbayır Mah
   Taşoluk:
     postcode: 34283
-    neighboorhoods:
+    neighborhoods:
     - Mareşal Fevzi Çakmak Mah
     - Mehmet Akif Ersoy Mah
     - Taşoluk Mah
 Ataşehir:
   Atatürk:
     postcode: 34758
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
   Ferhatpaşa:
     postcode: 34888
-    neighboorhoods:
+    neighborhoods:
     - Ferhatpaşa Mah
   İçerenköy:
     postcode: 34752
-    neighboorhoods:
+    neighborhoods:
     - İçerenköy Mah
   Kayışdağı:
     postcode: 34755
-    neighboorhoods:
+    neighborhoods:
     - İnönü Mah
     - Kayışdağı Mah
   Küçükbakkalköy:
     postcode: 34750
-    neighboorhoods:
+    neighborhoods:
     - Küçükbakkalköy Mah
   Mustafakemal:
     postcode: 34707
-    neighboorhoods:
+    neighborhoods:
     - Aşıkveysel Mah
     - Mustafa Kemal Mah
   Örnek:
     postcode: 34704
-    neighboorhoods:
+    neighborhoods:
     - Esatpaşa Mah
     - Fetih Mah
     - Örnek Mah
   Yeniçamlıca:
     postcode: 34779
-    neighboorhoods:
+    neighborhoods:
     - Mevlana Mah
     - Mimar Sinan Mah
     - Yeni Çamlıca Mah
     - Yenişehir Mah
   Yenisahra:
     postcode: 34746
-    neighboorhoods:
+    neighborhoods:
     - Barbaros Mah
     - Yenisahra Mah
 Avcılar:
   Ambarlı:
     postcode: 34315
-    neighboorhoods:
+    neighborhoods:
     - Ambarlı Mah
     - Denizköşkler Mah
   Avcılar:
     postcode: 34310
-    neighboorhoods:
+    neighborhoods:
     - Cihangir Mah
     - Merkez Mah
   Firuzköy:
     postcode: 34325
-    neighboorhoods:
+    neighborhoods:
     - Firuzköy Mah
     - Yeşilkent Mah
   Gümüşpala:
     postcode: 34320
-    neighboorhoods:
+    neighborhoods:
     - Gümüşpala Mah
     - Mustafa Kemalpaşa Mah
     - Tahtakale Mah
@@ -148,7 +148,7 @@ Avcılar:
 Bağcılar:
   Bağcılar:
     postcode: 34200
-    neighboorhoods:
+    neighborhoods:
     - Barbaros Mah
     - Çınar Mah
     - Fevzi Çakmak Mah
@@ -161,7 +161,7 @@ Bağcılar:
     - Yıldıztepe Mah
   Güneşli:
     postcode: 34212
-    neighboorhoods:
+    neighborhoods:
     - 15 Temmuz Mah
     - Bağlar Mah
     - Güneşli Mah
@@ -170,7 +170,7 @@ Bağcılar:
     - Yenimahalle Mah
   Mahmutbey:
     postcode: 34218
-    neighboorhoods:
+    neighborhoods:
     - 100. Yıl Mah
     - Demirkapı Mah
     - Fatih Mah
@@ -180,20 +180,20 @@ Bağcılar:
 Bahçelievler:
   Bahçelievler:
     postcode: 34180
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Cumhuriyet Mah
     - Siyavuşpaşa Mah
     - Soğanlı Mah
   Şirinevler:
     postcode: 34188
-    neighboorhoods:
+    neighborhoods:
     - Hürriyet Mah
     - Kocasinan Merkez Mah
     - Şirinevler Mah
   Yenibosna:
     postcode: 34197
-    neighboorhoods:
+    neighborhoods:
     - Çobançeşme Mah
     - Fevzi Çakmak Mah
     - Yenibosna Merkez Mah
@@ -201,165 +201,165 @@ Bahçelievler:
 Bakırköy:
   Ataköy:
     postcode: 34158
-    neighboorhoods:
+    neighborhoods:
     - Ataköy 1. Kısım Mah
     - Ataköy 2-5-6. Kısım Mah
     - Ataköy 3-4-11. Kısım Mah
     - Ataköy 7-8-9-10. Kısım Mah
   Cevizlik:
     postcode: 34142
-    neighboorhoods:
+    neighborhoods:
     - Cevizlik Mah
     - Sakızağacı Mah
     - Yenimahalle Mah
   Florya:
     postcode: 34153
-    neighboorhoods:
+    neighborhoods:
     - Basınköy Mah
     - Şenlikköy Mah
   Kartaltepe:
     postcode: 34145
-    neighboorhoods:
+    neighborhoods:
     - Kartaltepe Mah
   Osmaniye:
     postcode: 34146
-    neighboorhoods:
+    neighborhoods:
     - Osmaniye Mah
   Yeşilköy:
     postcode: 34149
-    neighboorhoods:
+    neighborhoods:
     - Yeşilköy Mah
     - Yeşilköy Sb Mah
     - Yeşilyurt Mah
   Zeytinlik:
     postcode: 34140
-    neighboorhoods:
+    neighborhoods:
     - Zeytinlik Mah
   Zuhuratbaba:
     postcode: 34147
-    neighboorhoods:
+    neighborhoods:
     - Zuhuratbaba Mah
 Başakşehir:
   Altınşehir:
     postcode: 34494
-    neighboorhoods:
+    neighborhoods:
     - Altınşehir Mah
     - Güvercintepe Mah
     - Kayabaşı Mah
     - Şahintepe Mah
   Bahçeşehir:
     postcode: 34488
-    neighboorhoods:
+    neighborhoods:
     - Bahçeşehir 1. Kısım Mah
     - Bahçeşehir 2. Kısım Mah
   Başakşehir:
     postcode: 34480
-    neighboorhoods:
+    neighborhoods:
     - Başak Mah
     - Başakşehir Mah
   İkitelli:
     postcode: 34490
-    neighboorhoods:
+    neighborhoods:
     - İkitelli Osb Mah
     - Ziya Gökalp Mah
   Şamlar:
     postcode: 34492
-    neighboorhoods:
+    neighborhoods:
     - Şamlar Mah
 Bayrampaşa:
   Altıntepsi:
     postcode: 34035
-    neighboorhoods:
+    neighborhoods:
     - Altıntepsi Mah
     - Terazidere Mah
     - Vatan Mah
   Muratpaşa:
     postcode: 34040
-    neighboorhoods:
+    neighborhoods:
     - İsmet Paşa Mah
     - Kartaltepe Mah
     - Muratpaşa Mah
   Numunebağ:
     postcode: 34030
-    neighboorhoods:
+    neighborhoods:
     - Orta Mah
     - Yenidoğan Mah
   Yıldırım:
     postcode: 34045
-    neighboorhoods:
+    neighborhoods:
     - Cevatpaşa Mah
     - Kocatepe Mah
     - Yıldırım Mah
 Beşiktaş:
   Abbasağa:
     postcode: 34022
-    neighboorhoods:
+    neighborhoods:
     - Abbasağa Mah
     - Cihannüma Mah
     - Sinanpaşa Mah
   Akatlar:
     postcode: 34335
-    neighboorhoods:
+    neighborhoods:
     - Akat Mah
   Arnavutköy:
     postcode: 34345
-    neighboorhoods:
+    neighborhoods:
     - Arnavutköy Mah
     - Kuruçeşme Mah
   Bebek:
     postcode: 34342
-    neighboorhoods:
+    neighborhoods:
     - Bebek Mah
   Etiler:
     postcode: 34337
-    neighboorhoods:
+    neighborhoods:
     - Etiler Mah
   Gayrettepe:
     postcode: 34349
-    neighboorhoods:
+    neighborhoods:
     - Balmumcu Mah
     - Dikilitaş Mah
     - Gayrettepe Mah
     - Yıldız Mah
   Levazım:
     postcode: 34340
-    neighboorhoods:
+    neighborhoods:
     - Kültür Mah
     - Levazım Mah
     - Nisbetiye Mah
     - Ulus Mah
   Levent:
     postcode: 34330
-    neighboorhoods:
+    neighborhoods:
     - Konaklar Mah
     - Levent Mah
   Ortaköy:
     postcode: 34347
-    neighboorhoods:
+    neighborhoods:
     - Mecidiye Mah
     - Ortaköy Mah
   Türkali:
     postcode: 34357
-    neighboorhoods:
+    neighborhoods:
     - Muradiye Mah
     - Türkali Mah
     - Vişnezade Mah
 Beykoz:
   Anadoluhisarı:
     postcode: 34810
-    neighboorhoods:
+    neighborhoods:
     - Anadolu Hisarı Mah
     - Kanlıca Mah
     - Kavacık Mah
   Beykoz:
     postcode: 34820
-    neighboorhoods:
+    neighborhoods:
     - Gümüşsuyu Mah
     - Merkez Mah
     - Yalıköy Mah
   Çavuşbaşı:
     postcode: 34830
-    neighboorhoods:
+    neighborhoods:
     - Baklacı Mah
     - Çengeldere Mah
     - Çiftlik Mah
@@ -367,18 +367,18 @@ Beykoz:
     - Yavuz Selim Mah
   Çubuklu:
     postcode: 34805
-    neighboorhoods:
+    neighborhoods:
     - Çubuklu Mah
     - Rüzgarlıbahçe Mah
   Göksu:
     postcode: 34815
-    neighboorhoods:
+    neighborhoods:
     - Göksu Mah
     - Göztepe Mah
     - Yeni Mahalle Mah
   Paşabahçe:
     postcode: 34800
-    neighboorhoods:
+    neighborhoods:
     - Acarlar Mah
     - Çiğdem Mah
     - İncirköy Mah
@@ -386,7 +386,7 @@ Beykoz:
     - Soğuksu Mah
   Polonezköy:
     postcode: 34829
-    neighboorhoods:
+    neighborhoods:
     - Alibahadır Mah
     - Anadolufeneri Mah
     - Bozhane Mah
@@ -404,7 +404,7 @@ Beykoz:
     - Zerzavatçı Mah
   Tokatköy:
     postcode: 34825
-    neighboorhoods:
+    neighborhoods:
     - Akbaba Mah
     - Anadolu Kavağı Mah
     - Çamlıbahçe Mah
@@ -417,20 +417,20 @@ Beykoz:
 Beylikdüzü:
   Beylikdüzü:
     postcode: 34520
-    neighboorhoods:
+    neighborhoods:
     - Barış Mah
     - Büyükşehir Mah
     - Cumhuriyet Mah
     - Kavaklı Mah
   Gürpınar:
     postcode: 34528
-    neighboorhoods:
+    neighborhoods:
     - Adnan Kahveci Mah
     - Dereağzı Mah
     - Gürpınar Mah
   Yakuplu:
     postcode: 34524
-    neighboorhoods:
+    neighborhoods:
     - Beylikdüzüosb Mah
     - Marmara Mah
     - Sahil Mah
@@ -438,14 +438,14 @@ Beylikdüzü:
 Beyoğlu:
   Arapcami:
     postcode: 34421
-    neighboorhoods:
+    neighborhoods:
     - Arap Cami Mah
     - Bereketzade Mah
     - Emekyemez Mah
     - Şahkulu Mah
   Cihangir:
     postcode: 34433
-    neighboorhoods:
+    neighborhoods:
     - Cihangir Mah
     - Katipmustafa Çelebi Mah
     - Kılıçali Paşa Mah
@@ -453,7 +453,7 @@ Beyoğlu:
     - Tomtom Mah
   Halıcıoğlu:
     postcode: 34445
-    neighboorhoods:
+    neighborhoods:
     - Fetihtepe Mah
     - Halıcıoğlu Mah
     - Keçeci Piri Mah
@@ -462,13 +462,13 @@ Beyoğlu:
     - Sütlüce Mah
   İstiklal:
     postcode: 34430
-    neighboorhoods:
+    neighborhoods:
     - Asmalı Mescit Mah
     - Çatma Mescit Mah
     - Evliya Çelebi Mah
   Kasımpaşa:
     postcode: 34440
-    neighboorhoods:
+    neighborhoods:
     - Bedrettin Mah
     - Camiikebir Mah
     - Hacıahmet Mah
@@ -481,24 +481,24 @@ Beyoğlu:
     - Yahya Kahya Mah
   Kemankeş:
     postcode: 34425
-    neighboorhoods:
+    neighborhoods:
     - Firuzağa Mah
     - Hacımimi Mah
     - Kemankeş Karamustafapaşa Mah
     - Müeyyetzade Mah
   Pürtelaş:
     postcode: 34427
-    neighboorhoods:
+    neighborhoods:
     - Ömer Avni Mah
     - Pürtelaş Hasan Efendi Mah
   Taksim:
     postcode: 34437
-    neighboorhoods:
+    neighborhoods:
     - Gümüşsuyu Mah
     - Kocatepe Mah
   Tarlabaşı:
     postcode: 34435
-    neighboorhoods:
+    neighborhoods:
     - Bostan Mah
     - Bülbül Mah
     - Çukur Mah
@@ -511,7 +511,7 @@ Beyoğlu:
 Büyükçekmece:
   Büyükçekmece:
     postcode: 34500
-    neighboorhoods:
+    neighborhoods:
     - 19 Mayıs Mah
     - Alkent 2000 Mah
     - Atatürk Mah
@@ -523,19 +523,19 @@ Büyükçekmece:
     - Pınartepe Mah
   Celaliye:
     postcode: 34534
-    neighboorhoods:
+    neighborhoods:
     - Celaliye Mah
     - Kamiloba Mah
   Kumburgaz:
     postcode: 34530
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Güzelce Mah
     - Kumburgaz Mah
     - Yenimahalle Mah
   Mimarsinan:
     postcode: 34535
-    neighboorhoods:
+    neighborhoods:
     - Ekinoba Mah
     - Mimaroba Mah
     - Mimarsinan Mah
@@ -543,7 +543,7 @@ Büyükçekmece:
     - Sinanoba Mah
   Tepecik:
     postcode: 34537
-    neighboorhoods:
+    neighborhoods:
     - Ahmediye Mah
     - Hürriyet Mah
     - Türkoba Mah
@@ -551,7 +551,7 @@ Büyükçekmece:
 Çatalca:
   Çatalca:
     postcode: 34540
-    neighboorhoods:
+    neighborhoods:
     - Akalan Mah
     - Atatürk Mah
     - Aydınlar Mah
@@ -595,14 +595,14 @@ Büyükçekmece:
 Çekmeköy:
   Alemdağ:
     postcode: 34794
-    neighboorhoods:
+    neighborhoods:
     - Alemdağ Mah
     - Çatalmeşe Mah
     - Ekşioğlu Mah
     - Nişantepe Mah
   Çekmeköy:
     postcode: 34782
-    neighboorhoods:
+    neighborhoods:
     - Çamlık Mah
     - Hamidiye Mah
     - Mehmet Akif Mah
@@ -610,7 +610,7 @@ Büyükçekmece:
     - Mimar Sinan Mah
   Ömerli:
     postcode: 34799
-    neighboorhoods:
+    neighborhoods:
     - Hüseyinli Mah
     - Koçullu Mah
     - Ömerli Mah
@@ -618,7 +618,7 @@ Büyükçekmece:
     - Sırapınar Mah
   Taşdelen:
     postcode: 34788
-    neighboorhoods:
+    neighborhoods:
     - Aydınlar Mah
     - Cumhuriyet Mah
     - Güngören Mah
@@ -629,14 +629,14 @@ Büyükçekmece:
 Esenler:
   Atışalanı:
     postcode: 34230
-    neighboorhoods:
+    neighborhoods:
     - 15 Temmuz Mah
     - Birlik Mah
     - Havaalanı Mah
     - Kemer Mah
   Esenler:
     postcode: 34220
-    neighboorhoods:
+    neighborhoods:
     - Çifte Havuzlar Mah
     - Davutpaşa Mah
     - Fevzi Çakmak Mah
@@ -646,20 +646,20 @@ Esenler:
     - Yavuz Selim Mah
   Karabayır:
     postcode: 34225
-    neighboorhoods:
+    neighborhoods:
     - Fatih Mah
     - Kazım Karabekir Mah
     - Menderes Mah
     - Tuna Mah
   Sanayi:
     postcode: 34235
-    neighboorhoods:
+    neighborhoods:
     - Oruçreis Mah
     - Turgut Reis Mah
 Esenyurt:
   Esenyurt:
     postcode: 34517
-    neighboorhoods:
+    neighborhoods:
     - Bağlarçeşme Mah
     - Çınar Mah
     - Örnek Mah
@@ -667,7 +667,7 @@ Esenyurt:
     - Selahaddin Eyyubi Mah
   İncirtepe:
     postcode: 34510
-    neighboorhoods:
+    neighborhoods:
     - Akşemseddin Mah
     - Ardıçlı Mah
     - Aşık Veysel Mah
@@ -681,7 +681,7 @@ Esenyurt:
     - Yunus Emre Mah
   Kıraç:
     postcode: 34522
-    neighboorhoods:
+    neighborhoods:
     - Akçaburgaz Mah
     - Atatürk Mah
     - Barbaros Hayrettin Paşa Mah
@@ -694,7 +694,7 @@ Esenyurt:
     - Şehitler Mah
   Mehterçeşme:
     postcode: 34515
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Güzelyurt Mah
     - Mehmet Akif Ersoy Mah
@@ -704,7 +704,7 @@ Esenyurt:
     - Yeşilkent Mah
   Saadetdere:
     postcode: 34513
-    neighboorhoods:
+    neighborhoods:
     - Akevler Mah
     - Fatih Mah
     - Namık Kemal Mah
@@ -715,24 +715,24 @@ Esenyurt:
     - Zafer Mah
   Sanayi:
     postcode: 34538
-    neighboorhoods:
+    neighborhoods:
     - Koza Mah
     - Orhan Gazi Mah
 Eyüpsultan:
   Alibeyköy:
     postcode: 34060
-    neighboorhoods:
+    neighborhoods:
     - Alibeyköy Mah
     - Emniyettepe Mah
     - Güzeltepe Mah
   Çırçır:
     postcode: 34070
-    neighboorhoods:
+    neighborhoods:
     - Akşemsettin Mah
     - Çırçır Mah
   Eyüp:
     postcode: 34050
-    neighboorhoods:
+    neighborhoods:
     - Defterdar Mah
     - İslambey Mah
     - Merkez Mah
@@ -741,11 +741,11 @@ Eyüpsultan:
     - Silahtarağa Mah
   Göktürk:
     postcode: 34077
-    neighboorhoods:
+    neighborhoods:
     - Göktürk Merkez Mah
   Işıklar:
     postcode: 34076
-    neighboorhoods:
+    neighborhoods:
     - Ağaçlı Mah
     - Akpınar Mah
     - Çiftalan Mah
@@ -755,66 +755,66 @@ Eyüpsultan:
     - Pirinççi Mah
   Kemerburgaz:
     postcode: 34075
-    neighboorhoods:
+    neighborhoods:
     - Mimar Sinan Mah
     - Mithatpaşa Mah
   Rami:
     postcode: 34055
-    neighboorhoods:
+    neighborhoods:
     - Düğmeciler Mah
     - Rami Cuma Mah
     - Rami Yeni Mah
     - Topçular Mah
   Yeşilpınar:
     postcode: 34065
-    neighboorhoods:
+    neighborhoods:
     - Esentepe Mah
     - Karadolap Mah
     - Yeşilpınar Mah
 Fatih:
   Aksaray:
     postcode: 34096
-    neighboorhoods:
+    neighborhoods:
     - Aksaray Mah
     - Haseki Sultan Mah
   Balat:
     postcode: 34087
-    neighboorhoods:
+    neighborhoods:
     - Atikali Mah
     - Ayvansaray Mah
     - Balat Mah
     - Derviş Ali Mah
   Bayazıt:
     postcode: 34126
-    neighboorhoods:
+    neighborhoods:
     - Beyazıt Mah
     - Emin Sinan Mah
     - Mimar Hayrettin Mah
     - Şehsuvar Bey Mah
   Eminönü:
     postcode: 34110
-    neighboorhoods:
+    neighborhoods:
     - Alemdar Mah
     - Hocapaşa Mah
   İskenderpaşa:
     postcode: 34080
-    neighboorhoods:
+    neighborhoods:
     - Akşemsettin Mah
     - İskenderpaşa Mah
   Karagümrük:
     postcode: 34091
-    neighboorhoods:
+    neighborhoods:
     - Hırka-i Şerif Mah
     - Karagümrük Mah
   Kocamustafapaşa:
     postcode: 34098
-    neighboorhoods:
+    neighborhoods:
     - Cerrahpaşa Mah
     - Koca Mustafapaşa Mah
     - Seyyid Ömer Mah
   Kumkapı:
     postcode: 34130
-    neighboorhoods:
+    neighborhoods:
     - Katip Kasım Mah
     - Mesihpaşa Mah
     - Mimar Kemalettin Mah
@@ -823,41 +823,41 @@ Fatih:
     - Saraç İshak Mah
   Mahmutpaşa:
     postcode: 34120
-    neighboorhoods:
+    neighborhoods:
     - Molla Fenari Mah
     - Sururi Mah
     - Taya Hatun Mah
   Sirkeci:
     postcode: 34112
-    neighboorhoods:
+    neighborhoods:
     - Hobyar Mah
   Sultanahmet:
     postcode: 34122
-    neighboorhoods:
+    neighborhoods:
     - Binbirdirek Mah
     - Cankurtaran Mah
     - Küçük Ayasofya Mah
     - Sultan Ahmet Mah
   Şehremini:
     postcode: 34104
-    neighboorhoods:
+    neighborhoods:
     - Mevlanakapı Mah
     - Şehremini Mah
   Tahtakale:
     postcode: 34116
-    neighboorhoods:
+    neighborhoods:
     - Mercan Mah
     - Rüstempaşa Mah
     - Süleymaniye Mah
     - Tahtakale Mah
   Topkapı:
     postcode: 34093
-    neighboorhoods:
+    neighborhoods:
     - Molla Gürani Mah
     - Topkapı Mah
   Vefa:
     postcode: 34134
-    neighboorhoods:
+    neighborhoods:
     - Balabanağa Mah
     - Demirtaş Mah
     - Hacı Kadın Mah
@@ -869,13 +869,13 @@ Fatih:
     - Yavuz Sinan Mah
   Yedikule:
     postcode: 34107
-    neighboorhoods:
+    neighborhoods:
     - Silivrikapı Mah
     - Sümbül Efendi Mah
     - Yedikule Mah
   Zeyrek:
     postcode: 34083
-    neighboorhoods:
+    neighborhoods:
     - Ali Kuşçu Mah
     - Cibali Mah
     - Yavuz Sultan Selim Mah
@@ -883,13 +883,13 @@ Fatih:
 Gaziosmanpaşa:
   Gaziosmanpaşa:
     postcode: 34245
-    neighboorhoods:
+    neighborhoods:
     - Bağlarbaşı Mah
     - Merkez Mah
     - Sarıgöl Mah
   Küçükköy:
     postcode: 34250
-    neighboorhoods:
+    neighborhoods:
     - Barbaros Hayrettin Paşa Mah
     - Hürriyet Mah
     - Karadeniz Mah
@@ -897,14 +897,14 @@ Gaziosmanpaşa:
     - Yeni Mahalle Mah
   Mevlana:
     postcode: 34255
-    neighboorhoods:
+    neighborhoods:
     - Fevzi Çakmak Mah
     - Karayolları Mah
     - Kazım Karabekir Mah
     - Mevlana Mah
   Yıldıztabya:
     postcode: 34240
-    neighboorhoods:
+    neighborhoods:
     - Karlıtepe Mah
     - Pazariçi Mah
     - Yenidoğan Mah
@@ -912,206 +912,206 @@ Gaziosmanpaşa:
 Güngören:
   Akıncılar:
     postcode: 34160
-    neighboorhoods:
+    neighborhoods:
     - Akıncılar Mah
     - Güven Mah
     - Haznedar Mah
     - Mareşal Çakmak Mah
   Güngören:
     postcode: 34164
-    neighboorhoods:
+    neighborhoods:
     - Güneştepe Mah
     - Merkez Mah
   Sanayi:
     postcode: 34165
-    neighboorhoods:
+    neighborhoods:
     - Gençosman Mah
     - Sanayi Mah
   Tozkoparan:
     postcode: 34173
-    neighboorhoods:
+    neighborhoods:
     - Abdurrahman Nafiz Gürman Mah
     - Mehmet Nesih Özmen Mah
     - Tozkoparan Mah
 Kadıköy:
   Bostancı:
     postcode: 34744
-    neighboorhoods:
+    neighborhoods:
     - Bostancı Mah
   Caddebostan:
     postcode: 34728
-    neighboorhoods:
+    neighborhoods:
     - Caddebostan Mah
   Caferağa:
     postcode: 34710
-    neighboorhoods:
+    neighborhoods:
     - Caferağa Mah
   Eğitim:
     postcode: 34722
-    neighboorhoods:
+    neighborhoods:
     - Eğitim Mah
     - Hasanpaşa Mah
   Erenköy:
     postcode: 34738
-    neighboorhoods:
+    neighborhoods:
     - Erenköy Mah
   Fenerbahçe:
     postcode: 34726
-    neighboorhoods:
+    neighborhoods:
     - Fenerbahçe Mah
   Feneryolu:
     postcode: 34724
-    neighboorhoods:
+    neighborhoods:
     - Feneryolu Mah
     - Zühtüpaşa Mah
   Fikirtepe:
     postcode: 34720
-    neighboorhoods:
+    neighborhoods:
     - Dumlupınar Mah
     - Fikirtepe Mah
   Göztepe:
     postcode: 34730
-    neighboorhoods:
+    neighborhoods:
     - Göztepe Mah
   Koşuyolu:
     postcode: 34718
-    neighboorhoods:
+    neighborhoods:
     - Acıbadem Mah
     - Koşuyolu Mah
   Kozyatağı:
     postcode: 34742
-    neighboorhoods:
+    neighborhoods:
     - Kozyatağı Mah
   Merdivenköy:
     postcode: 34732
-    neighboorhoods:
+    neighborhoods:
     - Merdivenköy Mah
   Ondokuzmayıs:
     postcode: 34736
-    neighboorhoods:
+    neighborhoods:
     - 19 Mayıs Mah
   Osmanağa:
     postcode: 34714
-    neighboorhoods:
+    neighborhoods:
     - Osmanağa Mah
   Rasimpaşa:
     postcode: 34716
-    neighboorhoods:
+    neighborhoods:
     - Rasimpaşa Mah
   Sahrayıcedit:
     postcode: 34734
-    neighboorhoods:
+    neighborhoods:
     - Sahrayıcedit Mah
   Suadiye:
     postcode: 34740
-    neighboorhoods:
+    neighborhoods:
     - Suadiye Mah
 Kağıthane:
   Çağlayan:
     postcode: 34403
-    neighboorhoods:
+    neighborhoods:
     - Çağlayan Mah
     - Hürriyet Mah
   Çeliktepe:
     postcode: 34413
-    neighboorhoods:
+    neighborhoods:
     - Çeliktepe Mah
     - Ortabayır Mah
   Gültepe:
     postcode: 34410
-    neighboorhoods:
+    neighborhoods:
     - Gültepe Mah
     - Harmantepe Mah
     - Telsizler Mah
     - Yahya Kemal Mah
   Gürsel:
     postcode: 34400
-    neighboorhoods:
+    neighborhoods:
     - Gürsel Mah
     - Mehmet Akif Ersoy Mah
     - Talatpaşa Mah
   Hamidiye:
     postcode: 34408
-    neighboorhoods:
+    neighborhoods:
     - Hamidiye Mah
-  Kağıthane merkez:
+  Kağıthane Merkez:
     postcode: 34406
-    neighboorhoods:
+    neighborhoods:
     - Merkez Mah
     - Nurtepe Mah
   Seyrantepe:
     postcode: 34418
-    neighboorhoods:
+    neighborhoods:
     - Seyrantepe Mah
     - Yeşilce Mah
   Şirintepe:
     postcode: 34415
-    neighboorhoods:
+    neighborhoods:
     - Emniyet Evleri Mah
     - Sultan Selim Mah
     - Şirintepe Mah
 Kartal:
   Atalar:
     postcode: 34862
-    neighboorhoods:
+    neighborhoods:
     - Atalar Mah
     - Petrol İş Mah
   Esentepe:
     postcode: 34870
-    neighboorhoods:
+    neighborhoods:
     - Esentepe Mah
     - Karlıktepe Mah
   Kartal:
     postcode: 34860
-    neighboorhoods:
+    neighborhoods:
     - Kordonboyu Mah
     - Yukarı Mah
   Orhantepe:
     postcode: 34865
-    neighboorhoods:
+    neighborhoods:
     - Cevizli Mah
     - Orhantepe Mah
   Soğanlık:
     postcode: 34880
-    neighboorhoods:
+    neighborhoods:
     - Gümüşpınar Mah
     - Orta Mah
     - Soğanlık Yeni Mah
   Topselvi:
     postcode: 34873
-    neighboorhoods:
+    neighborhoods:
     - Çavuşoğlu Mah
     - Topselvi Mah
     - Yalı Mah
     - Yunus Mah
-  Uğur mumcu:
+  Uğur Mumcu:
     postcode: 34882
-    neighboorhoods:
+    neighborhoods:
     - Uğur Mumcu Mah
     - Yakacık Yeni Mah
   Yakacık:
     postcode: 34876
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Hürriyet Mah
     - Yakacık Çarşı Mah
 Küçükçekmece:
   Atakent:
     postcode: 34307
-    neighboorhoods:
+    neighborhoods:
     - Atakent Mah
     - Atatürk Mah
     - Küçükçekmece İkitelliosb Mah
     - Mehmet Akif Mah
   Halkalı:
     postcode: 34303
-    neighboorhoods:
+    neighborhoods:
     - Halkalı Merkez Mah
     - İstasyon Mah
     - Yarımburgaz Mah
   Küçükçekmece:
     postcode: 34290
-    neighboorhoods:
+    neighborhoods:
     - Cennet Mah
     - Cumhuriyet Mah
     - Fatih Mah
@@ -1119,7 +1119,7 @@ Küçükçekmece:
     - Yeni Mahalle Mah
   Sefaköy:
     postcode: 34295
-    neighboorhoods:
+    neighborhoods:
     - Beşyol Mah
     - Fevzi Çakmak Mah
     - Gültepe Mah
@@ -1133,80 +1133,80 @@ Küçükçekmece:
 Maltepe:
   Aydınevler:
     postcode: 34854
-    neighboorhoods:
+    neighborhoods:
     - Aydınevler Mah
     - Başıbüyük Mah
     - Fındıklı Mah
   Büyükbakkalköy:
     postcode: 34858
-    neighboorhoods:
+    neighborhoods:
     - Büyükbakkalköy Mah
   Cevizli:
     postcode: 34846
-    neighboorhoods:
+    neighborhoods:
     - Cevizli Mah
   Feyzullah:
     postcode: 34843
-    neighboorhoods:
+    neighborhoods:
     - Altayçeşme Mah
     - Feyzullah Mah
   Gülsuyu:
     postcode: 34848
-    neighboorhoods:
+    neighborhoods:
     - Esenkent Mah
     - Gülensu Mah
     - Gülsuyu Mah
   İdealtepe:
     postcode: 34841
-    neighboorhoods:
+    neighborhoods:
     - Çınar Mah
     - İdealtepe Mah
   Küçükyalı:
     postcode: 34840
-    neighboorhoods:
+    neighborhoods:
     - Altıntepe Mah
     - Küçükyalı Merkez Mah
   Yalı:
     postcode: 34844
-    neighboorhoods:
+    neighborhoods:
     - Bağlarbaşı Mah
     - Yalı Mah
   Zümrütevler:
     postcode: 34852
-    neighboorhoods:
+    neighborhoods:
     - Girne Mah
     - Zümrütevler Mah
 Pendik:
   Bahçelievler:
     postcode: 34893
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Sapan Bağları Mah
     - Yeni Mah
     - Yeşilbağlar Mah
   Çamçeşme:
     postcode: 34899
-    neighboorhoods:
+    neighborhoods:
     - Çamçeşme Mah
     - Esenler Mah
     - Fevzi Çakmak Mah
     - Kavakpınar Mah
   Çarşı:
     postcode: 34890
-    neighboorhoods:
+    neighborhoods:
     - Batı Mah
     - Doğu Mah
     - Kaynarca Mah
   Çınardere:
     postcode: 34896
-    neighboorhoods:
+    neighborhoods:
     - Çınardere Mah
     - Dumlupınar Mah
     - Orta Mah
     - Velibaba Mah
   Esenyalı:
     postcode: 34903
-    neighboorhoods:
+    neighborhoods:
     - Ahmet Yesevi Mah
     - Esenyalı Mah
     - Fatih Mah
@@ -1214,7 +1214,7 @@ Pendik:
     - Orhangazi Mah
   Kurna:
     postcode: 34916
-    neighboorhoods:
+    neighborhoods:
     - Ballıca Mah
     - Emirli Mah
     - Göçbeyli Mah
@@ -1222,20 +1222,20 @@ Pendik:
     - Kurtdoğmuş Mah
   Şeyhli:
     postcode: 34906
-    neighboorhoods:
+    neighborhoods:
     - Güllü Bağlar Mah
     - Ramazanoğlu Mah
     - Sanayi Mah
     - Şeyhli Mah
   Yayalar:
     postcode: 34909
-    neighboorhoods:
+    neighborhoods:
     - Ertuğrul Gazi Mah
     - Sülüntepe Mah
     - Yayalar Mah
   Yenişehir:
     postcode: 34912
-    neighboorhoods:
+    neighborhoods:
     - Çamlık Mah
     - Harmandere Mah
     - Kurtköy Mah
@@ -1243,19 +1243,19 @@ Pendik:
 Sancaktepe:
   Eyüpsultan:
     postcode: 34885
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Mah
     - Eyüp Sultan Mah
     - Fatih Mah
     - Veysel Karani Mah
   Osmangazi:
     postcode: 34887
-    neighboorhoods:
+    neighborhoods:
     - Abdurrahmangazi Mah
     - Osmangazi Mah
   Sarıgazi:
     postcode: 34785
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Emek Mah
     - İnönü Mah
@@ -1264,7 +1264,7 @@ Sancaktepe:
     - Sarıgazi Mah
   Yenidoğan:
     postcode: 34791
-    neighboorhoods:
+    neighborhoods:
     - Hilal Mah
     - Merve Mah
     - Mevlana Mah
@@ -1275,43 +1275,43 @@ Sancaktepe:
 Sarıyer:
   Bahçeköy:
     postcode: 34473
-    neighboorhoods:
+    neighborhoods:
     - Bahçeköy Kemer Mah
     - Bahçeköy Merkez Mah
     - Bahçeköy Yeni Mah
   Büyükdere:
     postcode: 34453
-    neighboorhoods:
+    neighborhoods:
     - Büyükdere Mah
     - Çayırbaşı Mah
     - Kocataş Mah
     - Ptt Evleri Mah
   Emirgan:
     postcode: 34467
-    neighboorhoods:
+    neighborhoods:
     - Emirgan Mah
     - Reşitpaşa Mah
   İstinye:
     postcode: 34460
-    neighboorhoods:
+    neighborhoods:
     - İstinye Mah
     - Pınar Mah
     - Poligon Mah
   Maslak:
     postcode: 34485
-    neighboorhoods:
+    neighborhoods:
     - Ayazağa Mah
     - Huzur Mah
     - Maslak Mah
   Rumelihisarı:
     postcode: 34470
-    neighboorhoods:
+    neighborhoods:
     - Baltalimanı Mah
     - Fatih Sultan Mehmet Mah
     - Rumelihisarı Mah
   Sarıyer:
     postcode: 34450
-    neighboorhoods:
+    neighborhoods:
     - Demirciköy Mah
     - Garipçe Mah
     - Gümüşdere Mah
@@ -1327,7 +1327,7 @@ Sarıyer:
     - Zekeriyaköy Mah
   Tarabya:
     postcode: 34457
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Çamlıtepe Mah
     - Darüşşafaka Mah
@@ -1336,12 +1336,12 @@ Sarıyer:
     - Tarabya Mah
   Yeniköy:
     postcode: 34464
-    neighboorhoods:
+    neighborhoods:
     - Yeniköy Mah
 Silivri:
   Büyükçavuşlu:
     postcode: 34594
-    neighboorhoods:
+    neighborhoods:
     - Beyciler Mah
     - Büyük Çavuşlu Mah
     - Büyük Sinekli Mah
@@ -1351,17 +1351,17 @@ Silivri:
     - Sayalar Mah
   Çanta:
     postcode: 34580
-    neighboorhoods:
+    neighborhoods:
     - Balaban Mah
     - Sancaktepe Mah
   Değirmenköy:
     postcode: 34586
-    neighboorhoods:
+    neighborhoods:
     - Fevzipaşa Mah
     - İsmetpaşa Mah
   Fener:
     postcode: 34582
-    neighboorhoods:
+    neighborhoods:
     - Bekirli Mah
     - Büyük Kılıçlı Mah
     - Çeltik Mah
@@ -1372,27 +1372,27 @@ Silivri:
     - Yolçatı Mah
   Gümüşyaka:
     postcode: 34588
-    neighboorhoods:
+    neighborhoods:
     - Gümüşyaka Mah
   Kavaklı:
     postcode: 34596
-    neighboorhoods:
+    neighborhoods:
     - Hürriyet Mah
     - Kavaklı Mah
   Ortaköy:
     postcode: 34592
-    neighboorhoods:
+    neighborhoods:
     - Akören Mah
     - Gazitepe Mah
     - Kadıköy Mah
     - Ortaköy Mah
   Selimpaşa:
     postcode: 34590
-    neighboorhoods:
+    neighborhoods:
     - Selimpaşa Mah
   Silivri:
     postcode: 34570
-    neighboorhoods:
+    neighborhoods:
     - Alibey Mah
     - Alipaşa Mah
     - Cumhuriyet Mah
@@ -1404,20 +1404,20 @@ Silivri:
 Sultanbeyli:
   Mehmetakif:
     postcode: 34920
-    neighboorhoods:
+    neighborhoods:
     - Abdurrahmangazi Mah
     - Fatih Mah
     - Hasanpaşa Mah
     - Mehmet Akif Mah
   Mimarsinan:
     postcode: 34935
-    neighboorhoods:
+    neighborhoods:
     - Adil Mah
     - Battalgazi Mah
     - Mimar Sinan Mah
   Necipfazıl:
     postcode: 34925
-    neighboorhoods:
+    neighborhoods:
     - Akşemsettin Mah
     - Hamidiye Mah
     - Necip Fazıl Mah
@@ -1425,14 +1425,14 @@ Sultanbeyli:
     - Yavuz Selim Mah
   Turgutreis:
     postcode: 34930
-    neighboorhoods:
+    neighborhoods:
     - Ahmet Yesevi Mah
     - Mecidiye Mah
     - Turgut Reis Mah
 Sultangazi:
   Sultançiftliği:
     postcode: 34265
-    neighboorhoods:
+    neighborhoods:
     - 50. Yıl Mah
     - Cumhuriyet Mah
     - Esentepe Mah
@@ -1440,7 +1440,7 @@ Sultangazi:
     - Uğur Mumcu Mah
   Sultangazi:
     postcode: 34270
-    neighboorhoods:
+    neighborhoods:
     - Cebeci Mah
     - Eski Habipler Mah
     - Habibler Mah
@@ -1449,7 +1449,7 @@ Sultangazi:
     - Yayla Mah
   Zübeydehanım:
     postcode: 34260
-    neighboorhoods:
+    neighborhoods:
     - 75. Yıl Mah
     - Gazi Mah
     - Yunus Emre Mah
@@ -1457,7 +1457,7 @@ Sultangazi:
 Şile:
   Ağva:
     postcode: 34990
-    neighboorhoods:
+    neighborhoods:
     - Ağva Merkez Mah
     - Bucaklı Mah
     - Çataklı Mah
@@ -1475,7 +1475,7 @@ Sultangazi:
     - Şuayipli Mah
   Ahmetli:
     postcode: 34983
-    neighboorhoods:
+    neighborhoods:
     - Ağaçdere Mah
     - Ahmetli Mah
     - Akçakese Mah
@@ -1521,7 +1521,7 @@ Sultangazi:
     - Yeşilvadi Mah
   Şile:
     postcode: 34980
-    neighboorhoods:
+    neighborhoods:
     - Balibey Mah
     - Çavuş Mah
     - Hacı Kasım Mah
@@ -1529,51 +1529,51 @@ Sultangazi:
 Şişli:
   Bozkurt:
     postcode: 34375
-    neighboorhoods:
+    neighborhoods:
     - Bozkurt Mah
     - Eskişehir Mah
   Cumhuriyet:
     postcode: 34380
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
   Duatepe:
     postcode: 34379
-    neighboorhoods:
+    neighborhoods:
     - Duatepe Mah
     - Paşa Mah
   Esentepe:
     postcode: 34394
-    neighboorhoods:
+    neighborhoods:
     - Esentepe Mah
     - Fulya Mah
     - Gülbahar Mah
   Feriköy:
     postcode: 34377
-    neighboorhoods:
+    neighborhoods:
     - Feriköy Mah
     - Yayla Mah
   Halaskargazi:
     postcode: 34371
-    neighboorhoods:
+    neighborhoods:
     - Halaskargazi Mah
   Harbiye:
     postcode: 34367
-    neighboorhoods:
+    neighborhoods:
     - Harbiye Mah
   Mecidiyeköy:
     postcode: 34381
-    neighboorhoods:
+    neighborhoods:
     - İzzet Paşa Mah
     - Kuştepe Mah
     - Mecidiyeköy Mah
   Meşrutiyet:
     postcode: 34363
-    neighboorhoods:
+    neighborhoods:
     - 19 Mayıs Mah
     - Meşrutiyet Mah
   Okmeydanı:
     postcode: 34384
-    neighboorhoods:
+    neighborhoods:
     - Halide Edip Adıvar Mah
     - Halil Rıfat Paşa Mah
     - Kaptanpaşa Mah
@@ -1581,23 +1581,23 @@ Sultangazi:
     - Merkez Mah
   Pangaltı:
     postcode: 34373
-    neighboorhoods:
+    neighborhoods:
     - Ergenekon Mah
     - İnönü Mah
   Teşvikiye:
     postcode: 34365
-    neighboorhoods:
+    neighborhoods:
     - Teşvikiye Mah
 Tuzla:
   Akfırat:
     postcode: 34959
-    neighboorhoods:
+    neighborhoods:
     - Akfırat Mah
     - Tepeoren İtosb Mah
     - Tepeören Mah
   Aydınlı:
     postcode: 34953
-    neighboorhoods:
+    neighborhoods:
     - Aydınlı - Birlik Osb Mah
     - Aydınlı - İstanbul Ayosb Mah
     - Aydınlı Mah
@@ -1605,23 +1605,23 @@ Tuzla:
     - Aydınlı-kosb Mah
   Çarşı:
     postcode: 34940
-    neighboorhoods:
+    neighborhoods:
     - Cami Mah
     - İstasyon Mah
     - Postane Mah
   İçmeler:
     postcode: 34947
-    neighboorhoods:
+    neighborhoods:
     - Aydıntepe Mah
     - İçmeler Mah
   Mimarsinan:
     postcode: 34950
-    neighboorhoods:
+    neighborhoods:
     - Mimar Sinan Mah
     - Şifa Mah
   Orhanlı:
     postcode: 34956
-    neighboorhoods:
+    neighborhoods:
     - Anadolu Mah
     - Deri Osb Mah
     - Fatih Mah
@@ -1630,13 +1630,13 @@ Tuzla:
     - Orta Mah
   Tersaneler:
     postcode: 34944
-    neighboorhoods:
+    neighborhoods:
     - Evliya Çelebi Mah
     - Yayla Mah
 Ümraniye:
   Aşağıdudullu:
     postcode: 34773
-    neighboorhoods:
+    neighborhoods:
     - Adem Yavuz Mah
     - Aşağı Dudullu Mah
     - Huzur Mah
@@ -1644,7 +1644,7 @@ Tuzla:
     - Parseller Mah
   Atakent:
     postcode: 34760
-    neighboorhoods:
+    neighborhoods:
     - Armağanevler Mah
     - Atakent Mah
     - Finanskent Mah
@@ -1652,52 +1652,52 @@ Tuzla:
     - Yenişehir Mah
   Atatürk:
     postcode: 34764
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Elmalıkent Mah
     - Tantavi Mah
   Çakmak:
     postcode: 34774
-    neighboorhoods:
+    neighborhoods:
     - Çakmak Mah
     - Çamlık Mah
     - Mehmet Akif Mah
     - Tatlısu Mah
   Esenşehir:
     postcode: 34776
-    neighboorhoods:
+    neighborhoods:
     - Esenkent Mah
     - Esenşehir Mah
     - Madenler Mah
   Ihlamurkuyu:
     postcode: 34771
-    neighboorhoods:
+    neighborhoods:
     - Cemil Meriç Mah
     - Fatih Sultan Mehmet Mah
     - Ihlamurkuyu Mah
     - Tepeüstü Mah
   İnkılap:
     postcode: 34768
-    neighboorhoods:
+    neighborhoods:
     - İnkılap Mah
     - Saray Mah
     - Yamanevler Mah
   Kazımkarabekir:
     postcode: 34766
-    neighboorhoods:
+    neighborhoods:
     - Dumlupınar Mah
     - Hekimbaşı Mah
     - Kazım Karabekir Mah
     - Topağacı Mah
   Namıkkemal:
     postcode: 34762
-    neighboorhoods:
+    neighborhoods:
     - Esenevler Mah
     - İstiklal Mah
     - Namık Kemal Mah
   Yukarıdudullu:
     postcode: 34775
-    neighboorhoods:
+    neighborhoods:
     - Altınşehir Mah
     - Dudullu Osb Mah
     - Şerifali Mah
@@ -1705,89 +1705,89 @@ Tuzla:
 Üsküdar:
   Acıbadem:
     postcode: 34660
-    neighboorhoods:
+    neighborhoods:
     - Acıbadem Mah
   Altunizade:
     postcode: 34662
-    neighboorhoods:
+    neighborhoods:
     - Altunizade Mah
     - Barbaros Mah
   Bahçelievler:
     postcode: 34688
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
   Beylerbeyi:
     postcode: 34676
-    neighboorhoods:
+    neighborhoods:
     - Beylerbeyi Mah
     - Burhaniye Mah
     - Küplüce Mah
   Bulgurlu:
     postcode: 34696
-    neighboorhoods:
+    neighborhoods:
     - Bulgurlu Mah
     - Küçük Çamlıca Mah
   Cumhuriyet:
     postcode: 34697
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
   Çengelköy:
     postcode: 34680
-    neighboorhoods:
+    neighborhoods:
     - Çengelköy Mah
     - Güzeltepe Mah
   Ferah:
     postcode: 34692
-    neighboorhoods:
+    neighborhoods:
     - Ferah Mah
     - Kısıklı Mah
   Kandilli:
     postcode: 34684
-    neighboorhoods:
+    neighborhoods:
     - Kandilli Mah
     - Kuleli Mah
     - Küçüksu Mah
   Kirazlıtepe:
     postcode: 34682
-    neighboorhoods:
+    neighborhoods:
     - Kirazlıtepe Mah
     - Mehmet Akif Ersoy Mah
   Kuzguncuk:
     postcode: 34674
-    neighboorhoods:
+    neighborhoods:
     - İcadiye Mah
     - Kuzguncuk Mah
     - Sultantepe Mah
   Mimarsinan:
     postcode: 34672
-    neighboorhoods:
+    neighborhoods:
     - Ahmediye Mah
     - Aziz Mahmut Hüdayi Mah
     - Mimar Sinan Mah
   Muratreis:
     postcode: 34664
-    neighboorhoods:
+    neighborhoods:
     - Muratreis Mah
     - Selami Ali Mah
     - Valide-i Atik Mah
   Selimiye:
     postcode: 34668
-    neighboorhoods:
+    neighborhoods:
     - Salacak Mah
     - Selimiye Mah
     - Zeynep Kamil Mah
   Ünalan:
     postcode: 34700
-    neighboorhoods:
+    neighborhoods:
     - Ünalan Mah
   Yavuztürk:
     postcode: 34690
-    neighboorhoods:
+    neighborhoods:
     - Yavuztürk Mah
 Zeytinburnu:
   Çırpıcı:
     postcode: 34025
-    neighboorhoods:
+    neighborhoods:
     - Çırpıcı Mah
     - Nuripaşa Mah
     - Sümer Mah
@@ -1795,12 +1795,12 @@ Zeytinburnu:
     - Yeşiltepe Mah
   Seyitnizam:
     postcode: 34015
-    neighboorhoods:
+    neighborhoods:
     - Merkezefendi Mah
     - Seyitnizam Mah
   Telsiz:
     postcode: 34020
-    neighboorhoods:
+    neighborhoods:
     - Beştelsiz Mah
     - Gökalp Mah
     - Kazlıçeşme Mah
@@ -1808,5 +1808,5 @@ Zeytinburnu:
     - Yenidoğan Mah
   Topkapı:
     postcode: 34010
-    neighboorhoods:
+    neighborhoods:
     - Maltepe Mah

@@ -2,7 +2,7 @@
 Altıntaş:
   Altıntaş:
     postcode: 43800
-    neighboorhoods:
+    neighborhoods:
     - Bozbay Mah
     - Cumhuriyet Mah
     - Cumhuriyet Mah (Zafertepeçalköy Köyü)
@@ -15,7 +15,7 @@ Altıntaş:
     - Zafer Mah (Zafertepeçalköy Köyü)
   Merkezköyler:
     postcode: 43802
-    neighboorhoods:
+    neighborhoods:
     - Akçaköy Köyü
     - Alıncık Köyü
     - Alibey Köyü
@@ -53,14 +53,14 @@ Altıntaş:
 Aslanapa:
   Aslanapa:
     postcode: 43210
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Hürriyet Mah
     - Pınarbaşı Mah
     - Yalnızsaray Mah
   Merkezköyler:
     postcode: 43212
-    neighboorhoods:
+    neighborhoods:
     - Abaş Köyü
     - Ada Köyü
     - Ahmet Çavuşlar Mah (Çömlekçi Köyü)
@@ -103,14 +103,14 @@ Aslanapa:
 Çavdarhisar:
   Çavdarhisar:
     postcode: 43710
-    neighboorhoods:
+    neighborhoods:
     - Cereller Mah
     - Kemaller Mah
     - Meydan Mah
     - Yukarı Mah
   Merkezköyler:
     postcode: 43712
-    neighboorhoods:
+    neighborhoods:
     - Afşar Köyü
     - Ağarı Köyü
     - Akpınar Köyü
@@ -138,14 +138,14 @@ Aslanapa:
 Domaniç:
   Domaniç:
     postcode: 43850
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Hasantepe Mah
     - Hisar Mah
     - Karşıyaka Mah
   Merkezköyler:
     postcode: 43852
-    neighboorhoods:
+    neighborhoods:
     - Akkaya Mah (Erikli Köyü)
     - Aksu Köyü
     - Bahçelievler Mah (Durabey Köyü)
@@ -190,14 +190,14 @@ Domaniç:
 Dumlupınar:
   Dumlupınar:
     postcode: 43820
-    neighboorhoods:
+    neighborhoods:
     - Cafergazi Mah
     - Cumhuriyet Mah
     - Turgut Özal Mah
     - Zafer Mah
   Merkezköyler:
     postcode: 43822
-    neighboorhoods:
+    neighborhoods:
     - Ağaç Köyü
     - Allıören Köyü
     - Arpalı Köyü
@@ -211,7 +211,7 @@ Dumlupınar:
 Emet:
   Emet:
     postcode: 43700
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Mah
     - Cumhuriyet Mah
     - Dere Mah
@@ -221,7 +221,7 @@ Emet:
     - Kaynarca Mah
   Merkezköyler:
     postcode: 43702
-    neighboorhoods:
+    neighborhoods:
     - Abaş Köyü
     - Alipaşa Mah (Örencik Köyü)
     - Bahatlar Köyü
@@ -274,7 +274,7 @@ Emet:
 Gediz:
   Gediz:
     postcode: 43600
-    neighboorhoods:
+    neighborhoods:
     - Dayınlar Mah
     - Ergenekon Mah
     - Gazikemal Mah
@@ -290,7 +290,7 @@ Gediz:
     - Umurbey Mah
   Merkezköyler:
     postcode: 43602
-    neighboorhoods:
+    neighborhoods:
     - Abide Köyü
     - Akçaalan Mah (Eskigediz Köyü)
     - Akkaya Köyü
@@ -391,7 +391,7 @@ Gediz:
 Hisarcık:
   Hisarcık:
     postcode: 43780
-    neighboorhoods:
+    neighborhoods:
     - 82.yıl Mah
     - Cumhuriyet Mah
     - Cumhuriyet Mah (Karbasan Köyü)
@@ -403,7 +403,7 @@ Hisarcık:
     - Yeşilhisar Mah
   Merkezköyler:
     postcode: 43782
-    neighboorhoods:
+    neighborhoods:
     - Alıdede Mah (Şeyhler Köyü)
     - Alınören Köyü
     - Aşağı Beyköy Mah (Beyköy Köyü)
@@ -438,7 +438,7 @@ Hisarcık:
 Merkez:
   Alipaşa:
     postcode: 43020
-    neighboorhoods:
+    neighborhoods:
     - Alipaşa Mah
     - Cumhuriyet Mah
     - Dumlupınar Mah
@@ -450,7 +450,7 @@ Merkez:
     - Zafertepe Mah
   Börekçiler:
     postcode: 43050
-    neighboorhoods:
+    neighborhoods:
     - Balıklı Mah
     - Börekçiler Mah
     - Cemalettin Mah
@@ -461,7 +461,7 @@ Merkez:
     - Servi Mah
   Hamidiye:
     postcode: 43100
-    neighboorhoods:
+    neighborhoods:
     - 100. Yıl Mah
     - 30 Ağustos Mah
     - 75. Yıl Mah
@@ -513,7 +513,7 @@ Merkez:
     - Ziraat Mah
   Merkezköyler:
     postcode: 43270
-    neighboorhoods:
+    neighborhoods:
     - Ağaçköy Köyü
     - Ağızören Köyü
     - Ahiler Köyü
@@ -647,12 +647,12 @@ Merkez:
     - Yumaklı Köyü
   Seyitömer:
     postcode: 43290
-    neighboorhoods:
+    neighborhoods:
     - Gültepe Mah
 Pazarlar:
   Merkezköyler:
     postcode: 43532
-    neighboorhoods:
+    neighborhoods:
     - Akşinik Köyü
     - Atatürk Mah (Sofular Köyü)
     - Kepez Mah (Sofular Köyü)
@@ -665,7 +665,7 @@ Pazarlar:
     - Yenice Köyü
   Pazarlar:
     postcode: 43530
-    neighboorhoods:
+    neighborhoods:
     - Adnanmenderes Mah
     - Atatürk Mah
     - Ayvalı Mah
@@ -677,7 +677,7 @@ Pazarlar:
 Simav:
   Merkezköyler:
     postcode: 43502
-    neighboorhoods:
+    neighborhoods:
     - Ahlatlıçeşme Köyü
     - Ahmetli Köyü
     - Akpınar Köyü
@@ -817,7 +817,7 @@ Simav:
     - Yukarıdolaylar Köyü
   Simav:
     postcode: 43500
-    neighboorhoods:
+    neighborhoods:
     - 101 Evler Mah
     - 4 Eylül Mah
     - Cuma Mah
@@ -838,7 +838,7 @@ Simav:
 Şaphane:
   Merkezköyler:
     postcode: 43952
-    neighboorhoods:
+    neighborhoods:
     - Asmalı Mah (Kızılkoltuk Köyü)
     - Atatürk Mah (Üçbaş Köyü)
     - Ayvacık Köyü
@@ -861,7 +861,7 @@ Simav:
     - Yeşilalan Mah (Karamanca Köyü)
   Şaphane:
     postcode: 43950
-    neighboorhoods:
+    neighborhoods:
     - Hacı Hasanlar Mah
     - Kalabak Mah
     - Karaağıl Mah
@@ -872,7 +872,7 @@ Simav:
 Tavşanlı:
   Merkezköyler:
     postcode: 43302
-    neighboorhoods:
+    neighborhoods:
     - 1 Mah (Çobanlar Köyü)
     - 2 Mah (Çaltılı Köyü)
     - 3 Mah (Çaltılı Köyü)
@@ -1020,7 +1020,7 @@ Tavşanlı:
     - Yörgüç Köyü
   Tavşanlı:
     postcode: 43300
-    neighboorhoods:
+    neighborhoods:
     - Ada Mah
     - Bağlık Mah
     - Beyköy Mah

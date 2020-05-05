@@ -2,7 +2,7 @@
 Kelkit:
   Kelkit:
     postcode: 29600
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Bahçelievler Mah
     - Büyükcami Mah
@@ -11,7 +11,7 @@ Kelkit:
     - Küçükcami Mah
   Merkezköyler:
     postcode: 29602
-    neighboorhoods:
+    neighborhoods:
     - Ağıl Köyü
     - Ağlık Köyü
     - Ahmet Yesevi Mah
@@ -120,7 +120,7 @@ Kelkit:
 Köse:
   Köse:
     postcode: 29650
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Cumhuriyet Mah
     - Fatih Mah
@@ -128,7 +128,7 @@ Köse:
     - Yeni Mah
   Merkezköyler:
     postcode: 29652
-    neighboorhoods:
+    neighborhoods:
     - Akbaba Mah (Akbaba Köyü)
     - Altıntaş Mah (Altıntaş Köyü)
     - Bizgili Mah (Bizgili Köyü)
@@ -147,7 +147,7 @@ Köse:
 Kürtün:
   Kürtün:
     postcode: 29830
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Uluköy Mah
     - Cami Yanı Mah
     - Köyiçi Mah
@@ -156,7 +156,7 @@ Kürtün:
     - Yukarı Uluköy Mah
   Merkezköyler:
     postcode: 29832
-    neighboorhoods:
+    neighborhoods:
     - Akbaba Mah (Ekinciler Köyü)
     - Akköy Mah (Üçtaş Köyü)
     - Alacainek Mah (Üçtaş Köyü)
@@ -405,7 +405,7 @@ Kürtün:
 Merkez:
   Gümüşhane:
     postcode: 29010
-    neighboorhoods:
+    neighborhoods:
     - Bağlarbaşı Mah
     - Canca Mah
     - Çamlıca Mah
@@ -421,7 +421,7 @@ Merkez:
     - Yeni Mah
   Merkezköyler:
     postcode: 29100
-    neighboorhoods:
+    neighborhoods:
     - Acısu Mah (Yağlıdere Köyü)
     - Ağalık Mah (Çamlı Köyü)
     - Ağılören Mah (Olucak Köyü)
@@ -805,7 +805,7 @@ Merkez:
 Şiran:
   Merkezköyler:
     postcode: 29702
-    neighboorhoods:
+    neighborhoods:
     - Akbulak Yaylası Mah (Akbulak Köyü)
     - Aksaray Köyü
     - Akyayla Mah (Yeşilbük Köyü)
@@ -905,7 +905,7 @@ Merkez:
     - Yukarıkulaca Köyü
   Şiran:
     postcode: 29700
-    neighboorhoods:
+    neighborhoods:
     - Erenkaya Mah
     - Fatih Mah
     - Karaca Mah
@@ -915,7 +915,7 @@ Merkez:
 Torul:
   Merkezköyler:
     postcode: 29802
-    neighboorhoods:
+    neighborhoods:
     - Acekise Mh. (İlecik Köyü)
     - Acenkise Mah (İlecik Köyü)
     - Adisa Yaylası Mah (Yıldız Köyü)
@@ -1174,7 +1174,7 @@ Torul:
     - Zuysa Mah (Herek Köyü)
   Torul:
     postcode: 29800
-    neighboorhoods:
+    neighborhoods:
     - Bahçecik Mah
     - Çamlıca Mah
     - Kaledibi Mah

@@ -2,14 +2,14 @@
 Ağın:
   Ağın:
     postcode: 23960
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Mah
     - Başpınar Mah
     - Merkez Mah
     - Şenpınar Mah
   Merkezköyler:
     postcode: 23962
-    neighboorhoods:
+    neighborhoods:
     - Afet Evleri Mah (Yeni Yerleşim Yeri Mah) (Demirçarık Köyü)
     - Altınayva Köyü
     - Armutlu Mah (Samançay Köyü)
@@ -37,7 +37,7 @@ Ağın:
 Alacakaya:
   Alacakaya:
     postcode: 23410
-    neighboorhoods:
+    neighborhoods:
     - Altınçanak Mah
     - Altıoluk Mah
     - Gülaman Mah
@@ -46,7 +46,7 @@ Alacakaya:
     - Sularbaşı Mah
   Merkezköyler:
     postcode: 23412
-    neighboorhoods:
+    neighborhoods:
     - Bağin Mah (Yalnızdamlar Köyü)
     - Bakladamlar Köyü
     - Çakmakkaya Köyü
@@ -66,7 +66,7 @@ Alacakaya:
 Arıcak:
   Arıcak:
     postcode: 23510
-    neighboorhoods:
+    neighborhoods:
     - Gümüşyaka Mah
     - Halil Yavuz Mah
     - Hürriyet Mah
@@ -77,7 +77,7 @@ Arıcak:
     - Vali Göktayoğlu Mah
   Merkezköyler:
     postcode: 23512
-    neighboorhoods:
+    neighborhoods:
     - Akyıldız Mah (Küplüce Köyü)
     - Albayrak Mah (Küplüce Köyü)
     - Boğazlı Mah (Kayahisar Köyü)
@@ -114,7 +114,7 @@ Arıcak:
 Baskil:
   Baskil:
     postcode: 23800
-    neighboorhoods:
+    neighborhoods:
     - Canbeyler Mah
     - Cumhuriyet Mah
     - Eskibaskil Mah
@@ -123,7 +123,7 @@ Baskil:
     - Şefkat Mah
   Merkezköyler:
     postcode: 23802
-    neighboorhoods:
+    neighborhoods:
     - Adacık Mah (Topaluşağı Köyü)
     - Akarsu Mah (Emirhan Köyü)
     - Akbayır Mah (Eskiköy Köyü)
@@ -415,7 +415,7 @@ Baskil:
 Karakoçan:
   Karakoçan:
     postcode: 23600
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Gölpınar Mah
     - Karşıyaka Mah
@@ -425,7 +425,7 @@ Karakoçan:
     - Yeni Mah
   Merkezköyler:
     postcode: 23602
-    neighboorhoods:
+    neighborhoods:
     - Abdalan Mah (Okçular Köyü)
     - Ağamezrası Köyü
     - Akarbaşı Köyü
@@ -573,14 +573,14 @@ Karakoçan:
 Keban:
   Keban:
     postcode: 23700
-    neighboorhoods:
+    neighborhoods:
     - Baraj Mah
     - Değirmenbaşı Mah
     - Fırat Mah
     - Kallar Mah
   Merkezköyler:
     postcode: 23702
-    neighboorhoods:
+    neighborhoods:
     - Acısu Mah (Akçatepe Köyü)
     - Akçatepe Köyü
     - Akgömlek Köyü
@@ -659,7 +659,7 @@ Keban:
 Kovancılar:
   Kovancılar:
     postcode: 23850
-    neighboorhoods:
+    neighborhoods:
     - Bağlar Mah
     - Bahçelievler Mah
     - Çarşı Başı Mah
@@ -675,7 +675,7 @@ Kovancılar:
     - Yeni Mah
   Merkezköyler:
     postcode: 23852
-    neighboorhoods:
+    neighborhoods:
     - Adalı Köyü
     - Akmezra Köyü
     - Akpınar Mah (Karaman Köyü)
@@ -811,12 +811,12 @@ Kovancılar:
 Maden:
   Maden:
     postcode: 23400
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Camii Kebir Mah
   Merkezköyler:
     postcode: 23402
-    neighboorhoods:
+    neighborhoods:
     - Acıbadem Mah (Çitliköy Köyü)
     - Ağadibek Köyü
     - Akboğa Köyü
@@ -933,13 +933,13 @@ Maden:
 Merkez:
   Abdullahpaşa:
     postcode: 23270
-    neighboorhoods:
+    neighborhoods:
     - Abdullah Paşa Mah
     - Cumhuriyet Mah
     - Hilalkent Mah
   Aksaray:
     postcode: 23050
-    neighboorhoods:
+    neighborhoods:
     - Aksaray Mah
     - Ala Yaprak Mah
     - Çaydaçıra Mah
@@ -951,11 +951,11 @@ Merkez:
     - Yıldız Bağları Mah
   Doğukent:
     postcode: 23280
-    neighboorhoods:
+    neighborhoods:
     - Doğu Kent Mah
   Hankendi:
     postcode: 23150
-    neighboorhoods:
+    neighborhoods:
     - Ağılcık Mah (Çalıca Köyü)
     - Akçakale Mah (Akçakale Köyü)
     - Ali Çavuş Mah (Öksüzuşağı Köyü)
@@ -1036,7 +1036,7 @@ Merkez:
     - Zeynikler Mah (Öksüzuşağı Köyü)
   Harput:
     postcode: 23370
-    neighboorhoods:
+    neighborhoods:
     - Alibey Mah (Aydıncık Köyü)
     - Aydıncık Mah (Aydıncık Köyü)
     - Beşoluk Mah (Beşoluk Köyü)
@@ -1079,7 +1079,7 @@ Merkez:
     - Yılangeçiren Mah (Salkaya Köyü)
   İzzetpaşa:
     postcode: 23200
-    neighboorhoods:
+    neighborhoods:
     - Esen Tepe Mah
     - Fevzi Çakmak Mah
     - İcadiye Mah
@@ -1090,7 +1090,7 @@ Merkez:
     - Yeni Mah
   Merkezköyler:
     postcode: 23350
-    neighboorhoods:
+    neighborhoods:
     - Acıpayam Mah (Acıpayam Köyü)
     - Akmezra Sahil Önü Mah (Yurtbaşı Köyü)
     - Alaca Mah (Merkez Mah) (Alaca Köyü)
@@ -1265,7 +1265,7 @@ Merkez:
     - Zafer Mah (Akçakiraz Köyü)
   Mollakendi:
     postcode: 23250
-    neighboorhoods:
+    neighborhoods:
     - Alamutsitesi Mah (Gölardı Köyü)
     - Alikaya Mah (Karasaz Köyü)
     - Cevizdere Mah (Cevizdere Köyü)
@@ -1295,7 +1295,7 @@ Merkez:
     - Yünlüce Mah (Merkez Mah) (Yünlüce Köyü)
   Mustafapaşa:
     postcode: 23300
-    neighboorhoods:
+    neighborhoods:
     - Çatal Çeşme Mah
     - Harput Mah
     - Karşıyaka Mah
@@ -1306,7 +1306,7 @@ Merkez:
     - Ulu Kent Mah
   Nailbey:
     postcode: 23100
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Mah
     - Çarşı Mah
     - Kültür Mah
@@ -1315,7 +1315,7 @@ Merkez:
     - Sarayatik Mah
   Sürsürü:
     postcode: 23040
-    neighboorhoods:
+    neighborhoods:
     - Ataşehir Mah
     - Hicret Mah
     - Olgunlar Mah
@@ -1323,14 +1323,14 @@ Merkez:
 Palu:
   Beyhanı:
     postcode: 23530
-    neighboorhoods:
+    neighborhoods:
     - Girne Mah (Beyhan Köyü)
     - Güney Mah (Beyhan Köyü)
     - İstasyon Mah (Beyhan Köyü)
     - Karşıyaka Mah (Beyhan Köyü)
   Merkezköyler:
     postcode: 23502
-    neighboorhoods:
+    neighborhoods:
     - Akbulut Köyü
     - Akdemir Mah (Gökdere Köyü)
     - Aksaray Mah (Karataş Köyü)
@@ -1395,7 +1395,7 @@ Palu:
     - Yeşilbayır Köyü
   Palu:
     postcode: 23500
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Mah
     - Cumhuriyet Mah
     - Çarşı Mah
@@ -1409,7 +1409,7 @@ Palu:
 Sivrice:
   Merkezköyler:
     postcode: 23902
-    neighboorhoods:
+    neighborhoods:
     - Ağılözü Mah (Kürkköy Köyü)
     - Akbuğday Köyü
     - Akseki Köyü
@@ -1550,7 +1550,7 @@ Sivrice:
     - Ziyalar Mah (Canuşağı Köyü)
   Sivrice:
     postcode: 23900
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Mah
     - Gölbaşı Mah
     - Hazar Mah

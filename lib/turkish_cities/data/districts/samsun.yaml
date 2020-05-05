@@ -1,8 +1,8 @@
 ---
-19 mayıs:
-  19 mayıs ballıca:
+19 Mayıs:
+  19 Mayıs:
     postcode: 55420
-    neighboorhoods:
+    neighborhoods:
     - Aydınpınar Mah
     - Bahçelievler Mah
     - Ballıca Mah
@@ -44,7 +44,7 @@
 Alaçam:
   Alaçam:
     postcode: 55800
-    neighboorhoods:
+    neighborhoods:
     - Akbulut Mah
     - Akgüney Mah
     - Alidedebölmesi Mah
@@ -113,7 +113,7 @@ Alaçam:
 Asarcık:
   Asarcık:
     postcode: 55860
-    neighboorhoods:
+    neighborhoods:
     - Acısu Mah
     - Akyazı Mah
     - Alan Mah
@@ -149,7 +149,7 @@ Asarcık:
 Atakum:
   Atakum:
     postcode: 55200
-    neighboorhoods:
+    neighborhoods:
     - Akalan Mah
     - Aksu Mah
     - Alanlı Mah
@@ -198,7 +198,7 @@ Atakum:
     - Yukarıaksu Mah
   Kurupelit:
     postcode: 55270
-    neighboorhoods:
+    neighborhoods:
     - Büyükoyumca Mah
     - Çakırlar Mah
     - Güzelyalı Mah
@@ -212,7 +212,7 @@ Atakum:
 Ayvacık:
   Ayvacık:
     postcode: 55550
-    neighboorhoods:
+    neighborhoods:
     - Ardıç Mah
     - Başalan Mah
     - Çamalan Mah
@@ -259,7 +259,7 @@ Ayvacık:
 Bafra:
   Bafra:
     postcode: 55400
-    neighboorhoods:
+    neighborhoods:
     - Adaköy Mah
     - Ağcaalan Mah
     - Ağıllar Mah
@@ -402,7 +402,7 @@ Bafra:
 Canik:
   Canik:
     postcode: 55080
-    neighboorhoods:
+    neighborhoods:
     - Adatepe Mah
     - Alibeyli Mah
     - Ambarpınar Mah
@@ -459,7 +459,7 @@ Canik:
 Çarşamba:
   Çarşamba:
     postcode: 55500
-    neighboorhoods:
+    neighborhoods:
     - Acıklı Mah
     - Ağcagüney Mah
     - Ahubaba Mah
@@ -606,7 +606,7 @@ Canik:
 Havza:
   Havza:
     postcode: 55700
-    neighboorhoods:
+    neighborhoods:
     - 19 Mayıs Mah
     - 25 Mayıs Mah
     - Ağcamahmut Mah
@@ -708,12 +708,12 @@ Havza:
 İlkadım:
   Bahçelievler:
     postcode: 55070
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Yenidoğan Mah
   İstasyon:
     postcode: 55060
-    neighboorhoods:
+    neighborhoods:
     - Adalet Mah
     - Çay Mah
     - Çiftlik Mah
@@ -725,21 +725,21 @@ Havza:
     - Zafer Mah
   Kadıköy:
     postcode: 55040
-    neighboorhoods:
+    neighborhoods:
     - Anadolu Mah
     - Çatalarmut Mah
     - Kadıköy Mah
     - Zeytinlik Mah
   Kale:
     postcode: 55030
-    neighboorhoods:
+    neighborhoods:
     - Hürriyet Mah
     - Kale Mah
     - Saitbey Mah
     - Ulugazi Mah
   Liman:
     postcode: 55100
-    neighboorhoods:
+    neighborhoods:
     - Baruthane Mah
     - Cedit Mah
     - Kadifekale Mah
@@ -748,7 +748,7 @@ Havza:
     - Selahiye Mah
   Rasathane:
     postcode: 55050
-    neighboorhoods:
+    neighborhoods:
     - Fatih Mah
     - İlyasköy Mah
     - Kışla Mah
@@ -757,7 +757,7 @@ Havza:
     - Yaşardoğu Mah
   Unkapanı:
     postcode: 55020
-    neighboorhoods:
+    neighborhoods:
     - 19 Mayıs Mah
     - Akgöl Mah
     - Aşağıavdan Mah
@@ -783,7 +783,7 @@ Havza:
     - Yeşiltepe Mah
   Yeşilkent:
     postcode: 55090
-    neighboorhoods:
+    neighborhoods:
     - Ahulu Mah
     - Ataköy Mah
     - Derecik Mah
@@ -795,7 +795,7 @@ Havza:
 Kavak:
   Kavak:
     postcode: 55850
-    neighboorhoods:
+    neighborhoods:
     - 19 Mayıs Mah
     - Ağcakise Mah
     - Ahurlu Mah
@@ -891,7 +891,7 @@ Kavak:
 Ladik:
   Ladik:
     postcode: 55760
-    neighboorhoods:
+    neighborhoods:
     - Ağcakaya Mah
     - Ahmetsaray Mah
     - Akpınar Mah
@@ -962,7 +962,7 @@ Ladik:
 Salıpazarı:
   Salıpazarı:
     postcode: 55530
-    neighboorhoods:
+    neighborhoods:
     - Alan Mah
     - Alanyaykın Mah
     - Albak Mah
@@ -1010,16 +1010,16 @@ Salıpazarı:
 Tekkeköy:
   Aşağıçinik:
     postcode: 55320
-    neighboorhoods:
+    neighborhoods:
     - Yavuzlar Mah
   Büyüklü:
     postcode: 55310
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - İstiklal Mah
   Kutlukent:
     postcode: 55330
-    neighboorhoods:
+    neighborhoods:
     - 19 Mayıs Mah
     - Altınkaya Mah
     - Asarağaç Mah
@@ -1029,7 +1029,7 @@ Tekkeköy:
     - Şabanoğlu Mah
   Tekkeköy:
     postcode: 55300
-    neighboorhoods:
+    neighborhoods:
     - 19 Mayısosb Mah
     - 23 Nisan Mah
     - Akbaşlar Mah
@@ -1089,7 +1089,7 @@ Tekkeköy:
 Terme:
   Terme:
     postcode: 55600
-    neighboorhoods:
+    neighborhoods:
     - Ahmetbey Mah
     - Akbucak Mah
     - Akçagün Mah
@@ -1175,12 +1175,12 @@ Terme:
 Vezirköprü:
   Merkezköyler:
     postcode: 55902
-    neighboorhoods:
+    neighborhoods:
     - Özgüney Mah
     - Saraylı Mah
   Vezirköprü:
     postcode: 55900
-    neighboorhoods:
+    neighborhoods:
     - Abdulgani Mah
     - Adatepe Mah
     - Ağcaalan Mah
@@ -1343,7 +1343,7 @@ Vezirköprü:
 Yakakent:
   Yakakent:
     postcode: 55810
-    neighboorhoods:
+    neighborhoods:
     - Asmapınar Mah
     - Büyükkırık Mah
     - Çamalan Mah

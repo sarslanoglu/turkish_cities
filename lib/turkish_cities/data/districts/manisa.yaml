@@ -2,7 +2,7 @@
 Ahmetli:
   Ahmetli:
     postcode: 45450
-    neighboorhoods:
+    neighborhoods:
     - Alahıdır Mah
     - Altıeylül Mah
     - Ataköy Mah
@@ -27,12 +27,12 @@ Ahmetli:
     - Zafer Mah
   Gökkaya:
     postcode: 45453
-    neighboorhoods:
+    neighborhoods:
     - Gökkaya Mah
 Akhisar:
   Akhisar:
     postcode: 45200
-    neighboorhoods:
+    neighborhoods:
     - Akçaalan Mah
     - Akçeşme Mah
     - Akkocalı Mah
@@ -146,7 +146,7 @@ Akhisar:
 Alaşehir:
   Alaşehir:
     postcode: 45600
-    neighboorhoods:
+    neighborhoods:
     - Akkeçili Mah
     - Alhan Mah
     - Aydoğdu Mah
@@ -230,32 +230,32 @@ Alaşehir:
     - Yuvacalı Mah
   Kavaklıdere:
     postcode: 45610
-    neighboorhoods:
+    neighborhoods:
     - Kavaklıdere Mah
   Kemaliye:
     postcode: 45630
-    neighboorhoods:
+    neighborhoods:
     - Kemaliye Mah
   Killik:
     postcode: 45650
-    neighboorhoods:
+    neighborhoods:
     - Killik Mah
   Piyadeler:
     postcode: 45615
-    neighboorhoods:
+    neighborhoods:
     - Piyadeler Mah
   Uluderbent:
     postcode: 45660
-    neighboorhoods:
+    neighborhoods:
     - Uluderbent Mah
   Yeşilyurt:
     postcode: 45620
-    neighboorhoods:
+    neighborhoods:
     - Yeşilyurt Mah
 Demirci:
   Demirci:
     postcode: 45900
-    neighboorhoods:
+    neighborhoods:
     - Ahatlar Mah
     - Ahmetler Mah
     - Akdere Mah
@@ -357,16 +357,16 @@ Demirci:
     - Yiğitler Mah
   Durhasan:
     postcode: 45903
-    neighboorhoods:
+    neighborhoods:
     - Durhasan Mah
   Mahmutlar:
     postcode: 45904
-    neighboorhoods:
+    neighborhoods:
     - Mahmutlar Mah
 Gölmarmara:
   Gölmarmara:
     postcode: 45580
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Ayanlar Mah
     - Beyler Mah
@@ -391,11 +391,11 @@ Gölmarmara:
 Gördes:
   Çiçekli:
     postcode: 45753
-    neighboorhoods:
+    neighborhoods:
     - Çiçekli Mah
   Gördes:
     postcode: 45750
-    neighboorhoods:
+    neighborhoods:
     - Adnan Menderes Mah
     - Akpınar Mah
     - Atatürk Mah
@@ -458,33 +458,33 @@ Gördes:
     - Yeşilyurt Mah
   Güneşli:
     postcode: 45760
-    neighboorhoods:
+    neighborhoods:
     - Evciler Mah
     - Güneşli Mah
   Kayacık:
     postcode: 45770
-    neighboorhoods:
+    neighborhoods:
     - Kayacık Mah
 Kırkağaç:
   Bakır:
     postcode: 45730
-    neighboorhoods:
+    neighborhoods:
     - Bakır Mah
   Gelenbe:
     postcode: 45720
-    neighboorhoods:
+    neighborhoods:
     - Gelenbe Mah
   İlyaslar:
     postcode: 45740
-    neighboorhoods:
+    neighborhoods:
     - İlyaslar Mah
   Karakurt:
     postcode: 45707
-    neighboorhoods:
+    neighborhoods:
     - Karakurt Mah
   Kırkağaç:
     postcode: 45700
-    neighboorhoods:
+    neighborhoods:
     - Alacalar Mah
     - Alifakı Mah
     - Bademli Mah
@@ -531,7 +531,7 @@ Kırkağaç:
 Köprübaşı:
   Köprübaşı:
     postcode: 45930
-    neighboorhoods:
+    neighborhoods:
     - Akçaalan Mah
     - Alanyolu Mah
     - Armağan Mah
@@ -581,7 +581,7 @@ Köprübaşı:
 Kula:
   Kula:
     postcode: 45170
-    neighboorhoods:
+    neighborhoods:
     - 4 Eylül Mah
     - Ahmetli Mah
     - Akgün Mah
@@ -645,15 +645,15 @@ Kula:
 Salihli:
   Adala:
     postcode: 45320
-    neighboorhoods:
+    neighborhoods:
     - Adala Mah
   Durasıllı:
     postcode: 45350
-    neighboorhoods:
+    neighborhoods:
     - Durasıllı Mah
   Poyraz:
     postcode: 45340
-    neighboorhoods:
+    neighborhoods:
     - Akçaköy Mah
     - Akören Mah
     - Akyar Mah
@@ -731,7 +731,7 @@ Salihli:
     - Yeşilova Mah
   Salihli:
     postcode: 45300
-    neighboorhoods:
+    neighborhoods:
     - Aksoy Mah
     - Atatürk Mah
     - Barış Mah
@@ -760,12 +760,12 @@ Salihli:
     - Zafer Mah
   Sart:
     postcode: 45330
-    neighboorhoods:
+    neighborhoods:
     - Sart Mah
 Sarıgöl:
   Sarıgöl:
     postcode: 45470
-    neighboorhoods:
+    neighborhoods:
     - Afşar Mah
     - Ahmetağa Mah
     - Alemşahlı Mah
@@ -804,59 +804,59 @@ Sarıgöl:
 Saruhanlı:
   Alibeyli:
     postcode: 45880
-    neighboorhoods:
+    neighborhoods:
     - Alibeyli Mah
   Büyükbelen:
     postcode: 45830
-    neighboorhoods:
+    neighborhoods:
     - Büyükbelen Mah
   Dilek:
     postcode: 45804
-    neighboorhoods:
+    neighborhoods:
     - Dilek Mah
   Gökçeköy:
     postcode: 45815
-    neighboorhoods:
+    neighborhoods:
     - Gökçeköy Mah
   Gümülceli:
     postcode: 45805
-    neighboorhoods:
+    neighborhoods:
     - Gümülceli Mah
   Hacırahmanlı:
     postcode: 45810
-    neighboorhoods:
+    neighborhoods:
     - Hacırahmanlı Mah
   Halitpaşa:
     postcode: 45850
-    neighboorhoods:
+    neighborhoods:
     - Halitpaşa Mah
   İshakçelebi:
     postcode: 45820
-    neighboorhoods:
+    neighborhoods:
     - İshakçelebi Mah
   Koldere:
     postcode: 45840
-    neighboorhoods:
+    neighborhoods:
     - Koldere Mah
   Kumkuyucak:
     postcode: 45835
-    neighboorhoods:
+    neighborhoods:
     - Kumkuyucak Mah
   Mütevelli:
     postcode: 45860
-    neighboorhoods:
+    neighborhoods:
     - Mütevelli Mah
   Nuriye:
     postcode: 45870
-    neighboorhoods:
+    neighborhoods:
     - Nuriye Mah
   Paşaköy:
     postcode: 45890
-    neighboorhoods:
+    neighborhoods:
     - Paşaköy Mah
   Saruhanlı:
     postcode: 45800
-    neighboorhoods:
+    neighborhoods:
     - Adiloba Mah
     - Apak Mah
     - Atatürk Mah
@@ -897,7 +897,7 @@ Saruhanlı:
 Selendi:
   Selendi:
     postcode: 45970
-    neighboorhoods:
+    neighborhoods:
     - Akçakertil Mah
     - Altınköy Mah
     - Aşağıtefen Mah
@@ -958,15 +958,15 @@ Selendi:
 Soma:
   Avdan:
     postcode: 45520
-    neighboorhoods:
+    neighborhoods:
     - Avdan Mah
   Cenkyeri:
     postcode: 45530
-    neighboorhoods:
+    neighborhoods:
     - Cenkyeri Mah
   Soma:
     postcode: 45500
-    neighboorhoods:
+    neighborhoods:
     - Adil Mah
     - Akçaavlu Mah
     - Atatürk Mah
@@ -1036,20 +1036,20 @@ Soma:
     - Zafer Mah
   Turgutalp:
     postcode: 45540
-    neighboorhoods:
+    neighborhoods:
     - Turgutalp Mah
   Yağcılı:
     postcode: 45510
-    neighboorhoods:
+    neighborhoods:
     - Yağcılı Mah
 Şehzadeler:
   Aşağıçobanisa:
     postcode: 45060
-    neighboorhoods:
+    neighborhoods:
     - Aşağıçobanisa Mah
   Çarşı:
     postcode: 45020
-    neighboorhoods:
+    neighborhoods:
     - 1.anafartalar Mah
     - 2.anafartalar Mah
     - Alaybey Mah
@@ -1062,15 +1062,15 @@ Soma:
     - Yarhasanlar Mah
   Hacıhaliller:
     postcode: 45090
-    neighboorhoods:
+    neighborhoods:
     - Hacıhaliller Mah
   Karaağaçlı:
     postcode: 45080
-    neighboorhoods:
+    neighborhoods:
     - Karaağaçlı Mah
   Karaköy:
     postcode: 45010
-    neighboorhoods:
+    neighborhoods:
     - Adakale Mah
     - Akıncılar Mah
     - Bayındırlık Mah
@@ -1089,11 +1089,11 @@ Soma:
     - Utku Mah
   Karaoğlanlı:
     postcode: 45070
-    neighboorhoods:
+    neighborhoods:
     - Karaoğlanlı Mah
   Kuzey:
     postcode: 45040
-    neighboorhoods:
+    neighborhoods:
     - Adnan Menderes Mah
     - Ahmet Bedevi Mah
     - Akpınar Mah
@@ -1103,11 +1103,11 @@ Soma:
     - Turgut Özal Mah
   Sancaklıbozköy:
     postcode: 45072
-    neighboorhoods:
+    neighborhoods:
     - Sancaklıbozköy Mah
   Şehzadeler:
     postcode: 45050
-    neighboorhoods:
+    neighborhoods:
     - Ayvacık Mah
     - Belenyenice Mah
     - Çamköy Mah
@@ -1138,11 +1138,11 @@ Soma:
 Turgutlu:
   Derbent:
     postcode: 45415
-    neighboorhoods:
+    neighborhoods:
     - Derbent Mah
   Turgutlu:
     postcode: 45400
-    neighboorhoods:
+    neighborhoods:
     - Acarlar Mah
     - Akçapınar Mah
     - Akköy Mah
@@ -1205,12 +1205,12 @@ Turgutlu:
     - Yunusdere Mah
   Urganlı:
     postcode: 45420
-    neighboorhoods:
+    neighborhoods:
     - Urganlı Mah
 Yunusemre:
   50.yıl:
     postcode: 45125
-    neighboorhoods:
+    neighborhoods:
     - 50.yıl Mah
     - Atatürk Mah
     - Barbaros Mah
@@ -1218,7 +1218,7 @@ Yunusemre:
     - Spil Mah
   Laleli:
     postcode: 45030
-    neighboorhoods:
+    neighborhoods:
     - 75. Yıl Mah
     - Cumhuriyet Mah
     - Fatih Mah
@@ -1232,21 +1232,21 @@ Yunusemre:
     - Yeni Mahalle Mah
   Muradiye:
     postcode: 45140
-    neighboorhoods:
+    neighborhoods:
     - Muradiye Mah
   Tevfikiye:
     postcode: 45120
-    neighboorhoods:
+    neighborhoods:
     - Ayni Ali Mah
     - Merkez Efendi Mah
     - Tevfikiye Mah
   Üçpınar:
     postcode: 45150
-    neighboorhoods:
+    neighborhoods:
     - Üçpınar Mah
   Yunusemre:
     postcode: 45110
-    neighboorhoods:
+    neighborhoods:
     - Akçaköy Mah
     - Akgedik Mah
     - Akmescit Mah

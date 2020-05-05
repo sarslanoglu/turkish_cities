@@ -2,7 +2,7 @@
 Bahşılı:
   Bahşılı:
     postcode: 71460
-    neighboorhoods:
+    neighborhoods:
     - Atadönmez Mah
     - Bahçeli Mah
     - Doğanay Mah
@@ -10,7 +10,7 @@ Bahşılı:
     - Yeşilköy Mah
   Merkezköyler:
     postcode: 71462
-    neighboorhoods:
+    neighborhoods:
     - Bağevleri Mah (Çamlıca Köyü)
     - Bahçelievler Mah (Karaahmetli Köyü)
     - Çamlıca Köyü
@@ -26,14 +26,14 @@ Bahşılı:
 Balışeyh:
   Balışeyh:
     postcode: 71520
-    neighboorhoods:
+    neighborhoods:
     - Ballı Mah
     - Oba Mah
     - Toki Mah
     - Yeni Mah
   Merkezköyler:
     postcode: 71522
-    neighboorhoods:
+    neighborhoods:
     - Akçakavak Köyü
     - Aşağıkarakısık Köyü
     - Aydınşıh Köyü
@@ -77,14 +77,14 @@ Balışeyh:
 Çelebi:
   Çelebi:
     postcode: 71810
-    neighboorhoods:
+    neighborhoods:
     - Barbaros Mah
     - Fatih Mah
     - Gülveren Mah
     - Yeni Mah
   Merkezköyler:
     postcode: 71812
-    neighboorhoods:
+    neighborhoods:
     - Alıcıyeniyapan Köyü
     - Hacıyusuflu Köyü
     - Halildede Köyü
@@ -101,7 +101,7 @@ Balışeyh:
 Delice:
   Delice:
     postcode: 71700
-    neighboorhoods:
+    neighborhoods:
     - Aktepe Mah
     - Cumhuriyet Mah
     - Fatih Mah
@@ -112,7 +112,7 @@ Delice:
     - Mimar Sinan Mah
   Merkezköyler:
     postcode: 71702
-    neighboorhoods:
+    neighborhoods:
     - Akboğaz Köyü
     - Alcılı Köyü
     - Arbişli Köyü
@@ -169,7 +169,7 @@ Delice:
 Karakeçili:
   Karakeçili:
     postcode: 71500
-    neighboorhoods:
+    neighborhoods:
     - Fatih Sultan Mehmet Mah
     - Hoca Ahmet Yesevi Mah
     - Karşıyaka Mah
@@ -180,13 +180,13 @@ Karakeçili:
     - Zafer Mah
   Merkezköyler:
     postcode: 71502
-    neighboorhoods:
+    neighborhoods:
     - Akkoşan Köyü
     - Sulubük Köyü
 Keskin:
   Keskin:
     postcode: 71800
-    neighboorhoods:
+    neighborhoods:
     - Altuntaş Mah
     - Bozkurt Mah
     - Gündoğdu Mah
@@ -195,7 +195,7 @@ Keskin:
     - Yenice Mah
   Merkezköyler:
     postcode: 71860
-    neighboorhoods:
+    neighborhoods:
     - Acıçiftliği Mah (Ceritobası Köyü)
     - Armutlu Köyü
     - Aşağı Olunlu Mah (Olunlu Köyü)
@@ -273,7 +273,7 @@ Keskin:
 Merkez:
   Fabrikalar:
     postcode: 71100
-    neighboorhoods:
+    neighborhoods:
     - Aşağımahmutlar Mah
     - Çalılıöz Mah
     - Çullu Mah
@@ -282,7 +282,7 @@ Merkez:
     - Yenimahalle Mah
   Merkezköyler:
     postcode: 71010
-    neighboorhoods:
+    neighborhoods:
     - Altınova Mah (Hacılar Köyü)
     - Bağlar Mah (Hasandede Köyü)
     - Bahçelievler Mah (Hasandede Köyü)
@@ -302,7 +302,7 @@ Merkez:
     - Yukarımahmutlar Köyü
   Sanayi:
     postcode: 71400
-    neighboorhoods:
+    neighborhoods:
     - Akşemsettin Mah
     - Bağlarbaşı Mah
     - Etiler Mah
@@ -314,7 +314,7 @@ Merkez:
     - Sanayi Mah
   Tepebaşı:
     postcode: 71200
-    neighboorhoods:
+    neighborhoods:
     - Gürler Mah
     - Güzeltepe Mah
     - Hüseyin Kahya Mah
@@ -324,7 +324,7 @@ Merkez:
     - Yenidoğan Mah
   Yuva:
     postcode: 71300
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Karşıyaka Mah
     - Kızılırmak Mah
@@ -334,7 +334,7 @@ Merkez:
 Sulakyurt:
   Merkezköyler:
     postcode: 71902
-    neighboorhoods:
+    neighborhoods:
     - Ağaylı Köyü
     - Akkuyu Köyü
     - Alişeyhli Köyü
@@ -369,7 +369,7 @@ Sulakyurt:
     - Yunus Emre Mah (Güzelyurt Köyü)
   Sulakyurt:
     postcode: 71900
-    neighboorhoods:
+    neighborhoods:
     - Yayla Mah
     - Yeni Mah
     - Yeni Öz Mah
@@ -380,7 +380,7 @@ Sulakyurt:
 Yahşihan:
   Merkezköyler:
     postcode: 71452
-    neighboorhoods:
+    neighborhoods:
     - Aktaşlar Yaylası Mah (Mahmutlar Köyü)
     - Araplı Mevkii Mah (Mahmutlar Köyü)
     - Bahçelievler Mah (Kılıçlar Köyü)
@@ -413,7 +413,7 @@ Yahşihan:
     - Yeşilöz Mah (Irmak Köyü)
   Yahşihan:
     postcode: 71450
-    neighboorhoods:
+    neighborhoods:
     - Alaaddin Mah
     - Doğanlık Mah
     - Emirler Mah

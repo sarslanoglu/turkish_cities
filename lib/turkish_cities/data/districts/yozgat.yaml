@@ -2,7 +2,7 @@
 Akdağmadeni:
   Akdağmadeni:
     postcode: 66300
-    neighboorhoods:
+    neighborhoods:
     - Ahishavi Mah
     - Çamlık Mah
     - Emek Mah
@@ -16,7 +16,7 @@ Akdağmadeni:
     - Yeşiltepe Mah
   Merkezköyler:
     postcode: 66302
-    neighboorhoods:
+    neighborhoods:
     - Abdurrahmanlı Köyü
     - Ağaçlı Köyü
     - Akbaş Köyü
@@ -107,14 +107,14 @@ Akdağmadeni:
 Aydıncık:
   Aydıncık:
     postcode: 66510
-    neighboorhoods:
+    neighborhoods:
     - Baştürk Mah
     - Danlıdağ Mah
     - Yeni Mah
     - Yenice Mah
   Merkezköyler:
     postcode: 66512
-    neighboorhoods:
+    neighborhoods:
     - Ağıllı Köyü
     - Aşağıkuyucak Köyü
     - Aydınlık Mah (Kazankaya Köyü)
@@ -142,7 +142,7 @@ Aydıncık:
 Boğazlıyan:
   Boğazlıyan:
     postcode: 66400
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Karakoç Mah
     - Aşağı Mah
     - Bağlarbaşı Mah
@@ -156,7 +156,7 @@ Boğazlıyan:
     - Yukarı Mah
   Merkezköyler:
     postcode: 66402
-    neighboorhoods:
+    neighborhoods:
     - Abdilli Köyü
     - Aşağıhasinli Mah (Ovakent Köyü)
     - Aşağısarıkaya Mah (Yenipazar Köyü)
@@ -207,7 +207,7 @@ Boğazlıyan:
 Çandır:
   Çandır:
     postcode: 66620
-    neighboorhoods:
+    neighborhoods:
     - Abdullah Efendi Mah
     - Atatürk Mah
     - Bahçelievler Mah
@@ -220,7 +220,7 @@ Boğazlıyan:
     - Yenimeydan Mah
   Merkezköyler:
     postcode: 66622
-    neighboorhoods:
+    neighborhoods:
     - Gülpınar Köyü
     - İğdeli Köyü
     - Karşıyaka Mah (Büyükkışla Köyü)
@@ -230,7 +230,7 @@ Boğazlıyan:
 Çayıralan:
   Çayıralan:
     postcode: 66600
-    neighboorhoods:
+    neighborhoods:
     - Avcılar Mah
     - Bağlarbaşı Mah
     - Cumhuriyet Mah
@@ -239,7 +239,7 @@ Boğazlıyan:
     - Yeni Mah
   Merkezköyler:
     postcode: 66602
-    neighboorhoods:
+    neighborhoods:
     - Alidemirci Köyü
     - Aşağıtekke Köyü
     - Aşağıyahyasaray Köyü
@@ -271,7 +271,7 @@ Boğazlıyan:
 Çekerek:
   Çekerek:
     postcode: 66500
-    neighboorhoods:
+    neighborhoods:
     - Bağlarbaşı Mah
     - Bahçelievler Mah
     - Mevlana Mah
@@ -280,7 +280,7 @@ Boğazlıyan:
     - Yunus Emre Mah
   Merkezköyler:
     postcode: 66502
-    neighboorhoods:
+    neighborhoods:
     - Alıçlı Köyü
     - Arpaç Köyü
     - Bağlarbaşı Mah (Özükavak Köyü)
@@ -330,7 +330,7 @@ Boğazlıyan:
 Kadışehri:
   Kadışehri:
     postcode: 66540
-    neighboorhoods:
+    neighborhoods:
     - Çaypınar Mah
     - Gümüşdiğin Mah
     - Kadıoğlu Mah
@@ -340,7 +340,7 @@ Kadışehri:
     - Yeni Mah
   Merkezköyler:
     postcode: 66542
-    neighboorhoods:
+    neighborhoods:
     - Akçakale Mah (Halıköy Köyü)
     - Aşağıkızılöz Köyü
     - Bahçeli Evler Mah (Halıköy Köyü)
@@ -371,7 +371,7 @@ Kadışehri:
 Merkez:
   Merkezköyler:
     postcode: 66010
-    neighboorhoods:
+    neighborhoods:
     - Aktaş Köyü
     - Akyamaç Köyü
     - Alemdar Köyü
@@ -488,7 +488,7 @@ Merkez:
     - Yukarı Çatma Mah (Çatma Köyü)
   Yozgat:
     postcode: 66100
-    neighboorhoods:
+    neighborhoods:
     - Agahefendi Mah
     - Aşağı Çatak Mah
     - Aşağınohutlu Mah
@@ -515,7 +515,7 @@ Merkez:
 Saraykent:
   Merkezköyler:
     postcode: 66322
-    neighboorhoods:
+    neighborhoods:
     - Altınsu Köyü
     - Balkaya Mah (Dedefakılı Köyü)
     - Başpınar Köyü
@@ -536,7 +536,7 @@ Saraykent:
     - Söğütlü Köyü
   Saraykent:
     postcode: 66320
-    neighboorhoods:
+    neighborhoods:
     - Büyük Camii Mah
     - Divanlı Mah
     - Fatih Sultan Mehmet Mah
@@ -548,7 +548,7 @@ Saraykent:
 Sarıkaya:
   Merkezköyler:
     postcode: 66652
-    neighboorhoods:
+    neighborhoods:
     - Akbenli Köyü
     - Akbucak Köyü
     - Akçadam Köyü
@@ -615,7 +615,7 @@ Sarıkaya:
     - Yeni Mah (Babayağmur Köyü)
   Sarıkaya:
     postcode: 66650
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Battalgazi Mah
     - Beyazıt Mah
@@ -634,7 +634,7 @@ Sarıkaya:
 Sorgun:
   Merkezköyler:
     postcode: 66702
-    neighboorhoods:
+    neighborhoods:
     - Ağcın Köyü
     - Ahmetfakılı Mah (Yeniyer Köyü)
     - Akocak Mah (Eymir Köyü)
@@ -746,7 +746,7 @@ Sorgun:
     - Yeni Mah (Doğankent Köyü)
   Sorgun:
     postcode: 66700
-    neighboorhoods:
+    neighborhoods:
     - Agahefendi Mah
     - Ahmetefendi Mah
     - Aydınlıkevler Mah
@@ -765,7 +765,7 @@ Sorgun:
 Şefaatli:
   Merkezköyler:
     postcode: 66802
-    neighboorhoods:
+    neighborhoods:
     - Akcami Köyü
     - Akçakoyunlu Köyü
     - Alifakılı Köyü
@@ -814,7 +814,7 @@ Sorgun:
     - Yenicami Mah (Paşaköy Köyü)
   Şefaatli:
     postcode: 66800
-    neighboorhoods:
+    neighborhoods:
     - Bağlarbaşı Mah
     - Bahçelievler Mah
     - Bahçelievler Mah (Kuzayca Köyü)
@@ -830,7 +830,7 @@ Sorgun:
 Yenifakılı:
   Merkezköyler:
     postcode: 66472
-    neighboorhoods:
+    neighborhoods:
     - Başağa Mah (Bektaşlı Köyü)
     - Başpınar Köyü
     - Camikebir Mah (Bektaşlı Köyü)
@@ -843,7 +843,7 @@ Yenifakılı:
     - Zafer Mah (Bektaşlı Köyü)
   Yenifakılı:
     postcode: 66470
-    neighboorhoods:
+    neighborhoods:
     - Altındağ Mah
     - Cankurtaran Mah
     - Mehmet Akif Ersoy Mah
@@ -852,7 +852,7 @@ Yenifakılı:
 Yerköy:
   Merkezköyler:
     postcode: 66902
-    neighboorhoods:
+    neighborhoods:
     - Abdallar Mah (Delice Köyü)
     - Akpınar Köyü
     - Arifeoğlu Köyü
@@ -922,7 +922,7 @@ Yerköy:
     - Zencir Köyü
   Yerköy:
     postcode: 66900
-    neighboorhoods:
+    neighborhoods:
     - 100.yıl Mah
     - Ali Galip Gençoğlu Mah
     - Altmış Evler Mah

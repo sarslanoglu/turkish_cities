@@ -2,7 +2,7 @@
 Altunhisar:
   Altunhisar:
     postcode: 51600
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Mah
     - İstiklal Mah
     - Orta Mah
@@ -11,19 +11,19 @@ Altunhisar:
     - Yukarı Mah
   Karakapı:
     postcode: 51603
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah (Karakapı Köyü)
     - Yaka Mah (Karakapı Köyü)
     - Yeni Mah (Karakapı Köyü)
   Keçikalesi:
     postcode: 51604
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah (Keçikalesi Köyü)
     - Erenler Mah (Keçikalesi Köyü)
     - Selçuk Mah (Keçikalesi Köyü)
   Merkezköyler:
     postcode: 51602
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah (Akçaören Köyü)
     - Cumhuriyet Mah (Çömlekçi Köyü)
     - Cumhuriyet Mah (Ulukışla Köyü)
@@ -43,7 +43,7 @@ Altunhisar:
 Bor:
   Bor:
     postcode: 51700
-    neighboorhoods:
+    neighborhoods:
     - Acıgöl Mah
     - Ahmet Kuddusi Mah
     - Armutlu Mah
@@ -67,7 +67,7 @@ Bor:
     - Yenigöçmen Mah
   Merkezköyler:
     postcode: 51702
-    neighboorhoods:
+    neighborhoods:
     - Akbaş Mah (Balcı Köyü)
     - Altınova Mah (Tepeköy Köyü)
     - Azizler Mah (Kızılca Köyü)
@@ -115,14 +115,14 @@ Bor:
 Çamardı:
   Çamardı:
     postcode: 51660
-    neighboorhoods:
+    neighborhoods:
     - Bereketli Mah
     - Maden Mah
     - Yeni Çarşı Mah
     - Yunus Emre Mah
   Merkezköyler:
     postcode: 51662
-    neighboorhoods:
+    neighborhoods:
     - Bademli Mah (Bademdere Köyü)
     - Bahçeli Mah (Bademdere Köyü)
     - Bekçili Köyü
@@ -152,7 +152,7 @@ Bor:
 Çiftlik:
   Merkezköyler:
     postcode: 51802
-    neighboorhoods:
+    neighborhoods:
     - 1.ci Küme Mah (Çardak Köyü)
     - 2.ci Küme Mah (Çardak Köyü)
     - 3.ci Küme Mah (Çardak Köyü)
@@ -190,7 +190,7 @@ Bor:
     - Yukarı Mevki Mah (Şeyhler Köyü)
   Özyurt:
     postcode: 51800
-    neighboorhoods:
+    neighborhoods:
     - Asmasız Mah
     - Çarşı Mah
     - Çiftçi Mah
@@ -198,7 +198,7 @@ Bor:
 Merkez:
   Afetevleri:
     postcode: 51200
-    neighboorhoods:
+    neighborhoods:
     - Alaaddin Mah
     - Aşağı Kayabaşı Mah
     - Dere Mah
@@ -209,7 +209,7 @@ Merkez:
     - Yukarı Kayabaşı Mah
   Merkezköyler:
     postcode: 51300
-    neighboorhoods:
+    neighborhoods:
     - Ağcaşar Köyü
     - Aşağı Mah (Değirmenli Köyü)
     - Aşağı Mah (Koyunlu Köyü)
@@ -314,7 +314,7 @@ Merkez:
     - Zafer Mah (Karaatlı Köyü)
   Sungurbey:
     postcode: 51100
-    neighboorhoods:
+    neighborhoods:
     - Ahipaşa Mah
     - Balhasan Mah
     - Burhan Mah
@@ -333,7 +333,7 @@ Merkez:
 Ulukışla:
   Merkezköyler:
     postcode: 51902
-    neighboorhoods:
+    neighborhoods:
     - Ardıçlı Köyü
     - Atatürk Mah (Darboğaz Köyü)
     - Atatürk Mah (Yeniyıldız Köyü)
@@ -426,7 +426,7 @@ Ulukışla:
     - Zafer Mah (Kılan Köyü)
   Ulukışla:
     postcode: 51900
-    neighboorhoods:
+    neighborhoods:
     - Alpağut Mah
     - Ballık Mah
     - Çövek Mah

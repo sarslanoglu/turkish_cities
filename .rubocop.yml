@@ -13,6 +13,8 @@ Lint/StructNewOverride:
   Enabled: true
 Metrics/BlockLength:
   ExcludedMethods: ['describe', 'context']
+Metrics/MethodLength:
+  Max: 15
 Style/Documentation:
   Enabled: false
 Style/ExponentialNotation:

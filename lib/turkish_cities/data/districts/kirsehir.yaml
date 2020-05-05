@@ -2,13 +2,13 @@
 Akçakent:
   Akçakent:
     postcode: 40720
-    neighboorhoods:
+    neighborhoods:
     - Şehricedid Mah
     - Yenikent Mah
     - Yeniyapan Mah
   Kösefakılı:
     postcode: 40723
-    neighboorhoods:
+    neighborhoods:
     - Aliefendi Mah (Mahsenli Köyü)
     - Derefakılı Köyü
     - Güneşli Mah (Yetikli Köyü)
@@ -26,7 +26,7 @@ Akçakent:
     - Yetikli Köyü
   Merkezköyler:
     postcode: 40722
-    neighboorhoods:
+    neighborhoods:
     - Avanoğlu Köyü
     - Ayvalı Köyü
     - Çökelek Mah (Avanoğlu Köyü)
@@ -42,7 +42,7 @@ Akçakent:
 Akpınar:
   Akpınar:
     postcode: 40320
-    neighboorhoods:
+    neighborhoods:
     - Alipaşa Mah
     - Cumhuriyet Mah
     - Hacı Hüseyin Efendi Mah
@@ -51,7 +51,7 @@ Akpınar:
     - Yenidoğan Mah
   Merkezköyler:
     postcode: 40322
-    neighboorhoods:
+    neighborhoods:
     - Alişar Köyü
     - Bahçelievler Mah (Büyükabdiuşağı Köyü)
     - Berecik Mah (Hanyerisarıkaya Köyü)
@@ -92,13 +92,13 @@ Akpınar:
 Boztepe:
   Boztepe:
     postcode: 40020
-    neighboorhoods:
+    neighborhoods:
     - Bağbaşı Mah
     - Orta Mah
     - Yeni Mah
   Merkezköyler:
     postcode: 40060
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah (Karacaören Köyü)
     - Büyükkışla Köyü
     - Çamalak Köyü
@@ -121,7 +121,7 @@ Boztepe:
 Çiçekdağı:
   Çiçekdağı:
     postcode: 40700
-    neighboorhoods:
+    neighborhoods:
     - Bağlarbaşı Mah
     - Boyalık Mah
     - Fatih Mah
@@ -131,7 +131,7 @@ Boztepe:
     - Yenişehir Mah
   Merkezköyler:
     postcode: 40702
-    neighboorhoods:
+    neighborhoods:
     - A Grubu Mah (Hacıhasanlı Köyü)
     - Acıköy Köyü
     - Akbıyıklı Köyü
@@ -205,7 +205,7 @@ Boztepe:
 Kaman:
   Kaman:
     postcode: 40300
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Bahçelievler Mah (Çağırkan Köyü)
     - Bahçelievler Mah (Kurancılı Köyü)
@@ -230,7 +230,7 @@ Kaman:
     - Ziyarettepe Mah
   Merkezköyler:
     postcode: 40302
-    neighboorhoods:
+    neighborhoods:
     - Ağapınar Köyü
     - Ahievran Mah (Demirli Köyü)
     - Aydınlar Köyü
@@ -301,7 +301,7 @@ Kaman:
 Merkez:
   Çarşı:
     postcode: 40100
-    neighboorhoods:
+    neighborhoods:
     - Ahievran Mah
     - Aşıkpaşa Mah
     - Bağbaşı Mah
@@ -319,7 +319,7 @@ Merkez:
     - Yenice Mah
   Merkezköyler:
     postcode: 40002
-    neighboorhoods:
+    neighborhoods:
     - Akçaağıl Köyü
     - Aşağı Köy Mah (Saraycık Köyü)
     - Bağderesi Mah (Kortulu Köyü)
@@ -405,7 +405,7 @@ Merkez:
 Mucur:
   Merkezköyler:
     postcode: 40502
-    neighboorhoods:
+    neighborhoods:
     - Aksaklı Köyü
     - Altınyazı Köyü
     - Asma Mah (Asmakaradam Köyü)
@@ -465,7 +465,7 @@ Mucur:
     - Yürücek Köyü
   Mucur:
     postcode: 40500
-    neighboorhoods:
+    neighborhoods:
     - Acıöz Mah
     - Hamidiye Mah
     - Karşıyaka Mah

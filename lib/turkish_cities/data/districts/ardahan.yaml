@@ -2,7 +2,7 @@
 Çıldır:
   Çıldır:
     postcode: 75400
-    neighboorhoods:
+    neighborhoods:
     - Aşıkşenlik Mah
     - Çankaya Mah
     - Çay Mah
@@ -14,7 +14,7 @@
     - Yıldırımtepe Mah
   Merkezköyler:
     postcode: 75402
-    neighboorhoods:
+    neighborhoods:
     - Ağıllı Köyü
     - Akçakale Köyü
     - Akçıl Köyü
@@ -54,7 +54,7 @@
 Damal:
   Damal:
     postcode: 75600
-    neighboorhoods:
+    neighborhoods:
     - Ata Mah
     - Cumhuriyet Mah
     - Çaybaşı Mah
@@ -65,7 +65,7 @@ Damal:
     - Serhat Mah
   Merkezköyler:
     postcode: 75602
-    neighboorhoods:
+    neighborhoods:
     - Burmadere Köyü
     - Dereköy Köyü
     - Dereköy Köyü Yayla Evleri
@@ -80,14 +80,14 @@ Damal:
 Göle:
   Göle:
     postcode: 75700
-    neighboorhoods:
+    neighborhoods:
     - Fevzi Çakmak Mah
     - Kazım Karabekir Mah
     - Kubilay Bey Mah
     - Salim Bey Mah
   Merkezköyler:
     postcode: 75702
-    neighboorhoods:
+    neighborhoods:
     - Arpaşen Köyü
     - Balçeşme Köyü
     - Bellitepe Köyü
@@ -147,7 +147,7 @@ Göle:
 Hanak:
   Hanak:
     postcode: 75900
-    neighboorhoods:
+    neighborhoods:
     - Alaçam Mah
     - Atalar Mah
     - Avcılar Mah
@@ -156,7 +156,7 @@ Hanak:
     - Selam Verdi Mah
   Merkezköyler:
     postcode: 75902
-    neighboorhoods:
+    neighborhoods:
     - Altınemek Köyü
     - Arıkonak Köyü
     - Aşağı Çat Mah (Çatköy Köyü)
@@ -198,7 +198,7 @@ Hanak:
 Merkez:
   Ardahan:
     postcode: 75100
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Gürçayır Mah
     - Halilefendi Mah
@@ -208,7 +208,7 @@ Merkez:
     - Yeni Mah
   Hasköy:
     postcode: 75110
-    neighboorhoods:
+    neighborhoods:
     - Ağaçlı Köyü
     - Aşağı Mah (Çağlayık Köyü)
     - Aşağı Mah (Ömerağa Köyü)
@@ -240,7 +240,7 @@ Merkez:
     - Yukarıkurtoğlu Köyü
   Merkezköyler:
     postcode: 75002
-    neighboorhoods:
+    neighborhoods:
     - Ağzıpek Köyü
     - Alagöz Köyü
     - Altaş Köyü
@@ -282,7 +282,7 @@ Merkez:
     - Yukarı Mah (Kocaköy Köyü)
   Yanlızçam:
     postcode: 75210
-    neighboorhoods:
+    neighborhoods:
     - Akyaka Köyü
     - Ardıçdere Köyü
     - Bağdaşen Köyü
@@ -302,7 +302,7 @@ Merkez:
 Posof:
   Merkezköyler:
     postcode: 75802
-    neighboorhoods:
+    neighborhoods:
     - Akballı Köyü
     - Alabalık Köyü
     - Alköy Köyü
@@ -391,6 +391,6 @@ Posof:
     - Yurtbekler Köyü
   Posof:
     postcode: 75800
-    neighboorhoods:
+    neighborhoods:
     - Doğrular Mah
     - Merkez Mah

@@ -2,7 +2,7 @@
 Akseki:
   Akseki:
     postcode: 7630
-    neighboorhoods:
+    neighborhoods:
     - Akşahap Mah
     - Alaçeşme Mah
     - Aşağıaşıklar Mah
@@ -55,12 +55,12 @@ Akseki:
     - Yarpuz Mah
   Cevizli:
     postcode: 7650
-    neighboorhoods:
+    neighborhoods:
     - Cevizli Mah
 Aksu:
   Aksu:
     postcode: 7112
-    neighboorhoods:
+    neighborhoods:
     - Alaylı Mah
     - Altıntaş Mah
     - Atatürk Mah
@@ -99,7 +99,7 @@ Aksu:
 Alanya:
   Alanya:
     postcode: 7400
-    neighboorhoods:
+    neighborhoods:
     - Akçatı Mah
     - Akdam Mah
     - Alacami Mah
@@ -177,7 +177,7 @@ Alanya:
     - Yeniköy Mah
   Avsallar:
     postcode: 7410
-    neighboorhoods:
+    neighborhoods:
     - Avsallar Mah
     - İncekum Mah
     - Konaklı Mah
@@ -186,15 +186,15 @@ Alanya:
     - Türkler Mah
   Demirtaş:
     postcode: 7430
-    neighboorhoods:
+    neighborhoods:
     - Demirtaş Mah
   Kestel:
     postcode: 7425
-    neighboorhoods:
+    neighborhoods:
     - Kestel Mah
   Mahmutlar:
     postcode: 7450
-    neighboorhoods:
+    neighborhoods:
     - Aliefendi Mah
     - Beyreli Mah
     - Büyükpınar Mah
@@ -217,7 +217,7 @@ Alanya:
 Demre:
   Davazlar:
     postcode: 7572
-    neighboorhoods:
+    neighborhoods:
     - Belören Mah
     - Çağman Mah
     - Çevreli Mah
@@ -228,7 +228,7 @@ Demre:
     - Yavu Mah
   Demre:
     postcode: 7570
-    neighboorhoods:
+    neighborhoods:
     - Alakent Mah
     - Büyükkum Mah
     - Gökyazı Mah
@@ -237,14 +237,14 @@ Demre:
     - Yaylakaya Mah
   Kale:
     postcode: 7571
-    neighboorhoods:
+    neighborhoods:
     - Beymelek Mah
     - Kayaaltı Mah
     - Köşkerler Mah
 Döşemealtı:
   Döşemealtı:
     postcode: 7190
-    neighboorhoods:
+    neighborhoods:
     - Ahırtaş Mah
     - Akkoç Mah
     - Altınkale Mah
@@ -283,11 +283,11 @@ Döşemealtı:
 Elmalı:
   Akçay:
     postcode: 7770
-    neighboorhoods:
+    neighborhoods:
     - Akçay Mah
   Elmalı:
     postcode: 7700
-    neighboorhoods:
+    neighborhoods:
     - Afşar Mah
     - Ahatlı Mah
     - Akçaeniş Mah
@@ -350,7 +350,7 @@ Elmalı:
 Finike:
   Finike:
     postcode: 7740
-    neighboorhoods:
+    neighborhoods:
     - Akçaalan Mah
     - Alacadağ Mah
     - Arif Mah
@@ -380,7 +380,7 @@ Finike:
 Gazipaşa:
   Gazipaşa:
     postcode: 7900
-    neighboorhoods:
+    neighborhoods:
     - Akoluk Mah
     - Aydın Mah
     - Aydıncık Mah
@@ -437,7 +437,7 @@ Gazipaşa:
 Gündoğmuş:
   Gündoğmuş:
     postcode: 7860
-    neighboorhoods:
+    neighborhoods:
     - Akyar Mah
     - Balkaya Mah
     - Bedan Mah
@@ -470,7 +470,7 @@ Gündoğmuş:
 İbradı:
   Aydınkent:
     postcode: 7680
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Mah
     - Aydınyayla Mah
     - Başlar Mah
@@ -483,7 +483,7 @@ Gündoğmuş:
 Kaş:
   Cemre:
     postcode: 7582
-    neighboorhoods:
+    neighborhoods:
     - Beldibi Mah
     - Cemre Mah
     - Çamlıköy Mah
@@ -495,11 +495,11 @@ Kaş:
     - Yuvacık Mah
   Gömbe:
     postcode: 7780
-    neighboorhoods:
+    neighborhoods:
     - Gömbe Mah
   Kalkan:
     postcode: 7960
-    neighboorhoods:
+    neighborhoods:
     - Aklar Mah
     - Bezirgan Mah
     - Çavdır Mah
@@ -514,7 +514,7 @@ Kaş:
     - Üzümlü Mah
   Kaş:
     postcode: 7580
-    neighboorhoods:
+    neighborhoods:
     - Ağullu Mah
     - Ahatlı Mah
     - Akörü Mah
@@ -546,38 +546,38 @@ Kaş:
     - Yeniköy Mah
   Kınık:
     postcode: 7970
-    neighboorhoods:
+    neighborhoods:
     - Kınık Mah
   Ova:
     postcode: 7974
-    neighboorhoods:
+    neighborhoods:
     - Ova Mah
   Yeşilköy:
     postcode: 7965
-    neighboorhoods:
+    neighborhoods:
     - Yeşilköy Mah
 Kemer:
   Beldibi:
     postcode: 7985
-    neighboorhoods:
+    neighborhoods:
     - Beldibi Mah
   Beycik:
     postcode: 7982
-    neighboorhoods:
+    neighborhoods:
     - Beycik Mah
     - Ovacık Mah
     - Ulupınar Mah
   Çamyuva:
     postcode: 7990
-    neighboorhoods:
+    neighborhoods:
     - Çamyuva Mah
   Göynük:
     postcode: 7994
-    neighboorhoods:
+    neighborhoods:
     - Göynük Mah
   Kemer:
     postcode: 7980
-    neighboorhoods:
+    neighborhoods:
     - Arslanbucak Mah
     - Kiriş Mah
     - Kuzdere Mah
@@ -585,12 +585,12 @@ Kemer:
     - Yeni Mah
   Tekirova:
     postcode: 7995
-    neighboorhoods:
+    neighborhoods:
     - Tekirova Mah
 Kepez:
   Ahatlı:
     postcode: 7090
-    neighboorhoods:
+    neighborhoods:
     - Ahatlı Mah
     - Fabrikalar Mah
     - Kepez Mah
@@ -599,13 +599,13 @@ Kepez:
     - Yeni Doğan Mah
   Altınova:
     postcode: 7170
-    neighboorhoods:
+    neighborhoods:
     - Altınova Düden Mah
     - Altınova Orta Mah
     - Altınova Sinan Mah
   Dokuma:
     postcode: 7025
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Özgürlük Mah
     - Ulus Mah
@@ -614,7 +614,7 @@ Kepez:
     - Zafer Mah
   Duraliler:
     postcode: 7220
-    neighboorhoods:
+    neighborhoods:
     - Avni Tolunay Mah
     - Duraliler Mah
     - Gülveren Mah
@@ -623,7 +623,7 @@ Kepez:
     - Yeşilyurt Mah
   Düdenbaşı:
     postcode: 7260
-    neighboorhoods:
+    neighborhoods:
     - Beşkonaklılar Mah
     - Düdenbaşı Mah
     - Göksu Mah
@@ -631,7 +631,7 @@ Kepez:
     - Teomanpaşa Mah
   Erenköy:
     postcode: 7080
-    neighboorhoods:
+    neighborhoods:
     - Barış Mah
     - Çamlıbel Mah
     - Çankaya Mah
@@ -645,7 +645,7 @@ Kepez:
     - Yavuz Selim Mah
   Sütçüler:
     postcode: 7320
-    neighboorhoods:
+    neighborhoods:
     - Baraj Mah
     - Gazi Mah
     - Habibler Mah
@@ -654,7 +654,7 @@ Kepez:
     - Sütçüler Mah
   Varsak:
     postcode: 7020
-    neighboorhoods:
+    neighborhoods:
     - Aktoprak Mah
     - Altıayak Mah
     - Ayanoğlu Mah
@@ -670,7 +670,7 @@ Kepez:
     - Zeytinlik Mah
   Yeniemek:
     postcode: 7060
-    neighboorhoods:
+    neighborhoods:
     - Başköy Mah
     - Çamlıca Mah
     - Duacı Mah
@@ -686,7 +686,7 @@ Kepez:
 Konyaaltı:
   Arapsuyu:
     postcode: 7070
-    neighboorhoods:
+    neighborhoods:
     - Akdamlar Mah
     - Akkuyu Mah
     - Altınkum Mah
@@ -716,7 +716,7 @@ Konyaaltı:
     - Yarbaşçandır Mah
   Liman:
     postcode: 7130
-    neighboorhoods:
+    neighborhoods:
     - Aydınlık Mah
     - Bahtılı Mah
     - Çakırlar Mah
@@ -733,7 +733,7 @@ Konyaaltı:
 Korkuteli:
   Korkuteli:
     postcode: 7800
-    neighboorhoods:
+    neighborhoods:
     - Akyar Mah
     - Alaaddin Mah
     - Aşağıpazar Mah
@@ -795,7 +795,7 @@ Korkuteli:
 Kumluca:
   Kumluca:
     postcode: 7350
-    neighboorhoods:
+    neighborhoods:
     - Adrasan Mah
     - Altınyaka Mah
     - Bağlık Mah
@@ -838,17 +838,17 @@ Kumluca:
     - Yeşilköy Mah
   Mavikent:
     postcode: 7390
-    neighboorhoods:
+    neighborhoods:
     - Mavikent Mah
 Manavgat:
   Çolaklı:
     postcode: 7620
-    neighboorhoods:
+    neighborhoods:
     - Çolaklı Mah
     - Evrenseki Mah
   Manavgat:
     postcode: 7600
-    neighboorhoods:
+    neighborhoods:
     - A. Hisar Mah
     - A. Pazarcı Mah
     - Ahmetler Mah
@@ -929,11 +929,11 @@ Manavgat:
     - Yukarıışıklar Mah
   Side:
     postcode: 7330
-    neighboorhoods:
+    neighborhoods:
     - Side Mah
   Taşağıl:
     postcode: 7550
-    neighboorhoods:
+    neighborhoods:
     - Altınkaya Mah
     - Ballıbucak Mah
     - Bereket Mah
@@ -962,7 +962,7 @@ Manavgat:
 Muratpaşa:
   Bahçelievler:
     postcode: 7050
-    neighboorhoods:
+    neighborhoods:
     - Altındağ Mah
     - Bahçelievler Mah
     - Deniz Mah
@@ -971,7 +971,7 @@ Muratpaşa:
     - Yıldız Mah
   Çarşı:
     postcode: 7040
-    neighboorhoods:
+    neighborhoods:
     - Balbey Mah
     - Elmalı Mah
     - Kışla Mah
@@ -980,7 +980,7 @@ Muratpaşa:
     - Üçgen Mah
   Eskisanayi:
     postcode: 7010
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Dutlubahçe Mah
     - Etiler Mah
@@ -989,13 +989,13 @@ Muratpaşa:
     - Sedir Mah
   Fener:
     postcode: 7160
-    neighboorhoods:
+    neighborhoods:
     - Fener Mah
     - Şirinyalı Mah
     - Yeşilbahçe Mah
   Gençlik:
     postcode: 7100
-    neighboorhoods:
+    neighborhoods:
     - Barbaros Mah
     - Çaybaşı Mah
     - Demircikara Mah
@@ -1008,7 +1008,7 @@ Muratpaşa:
     - Zerdalilik Mah
   Kızıltoprak:
     postcode: 7300
-    neighboorhoods:
+    neighborhoods:
     - Doğuyaka Mah
     - Gebizli Mah
     - Kızılarık Mah
@@ -1020,7 +1020,7 @@ Muratpaşa:
     - Yüksekalan Mah
   Lara:
     postcode: 7230
-    neighboorhoods:
+    neighborhoods:
     - Çağlayan Mah
     - Ermenek Mah
     - Güzelbağ Mah
@@ -1028,14 +1028,14 @@ Muratpaşa:
     - Yenigöl Mah
   Meltem:
     postcode: 7030
-    neighboorhoods:
+    neighborhoods:
     - Bayındır Mah
     - Güvenlik Mah
     - Meltem Mah
     - Soğuksu Mah
   Meydankavağı:
     postcode: 7200
-    neighboorhoods:
+    neighborhoods:
     - Güzeloluk Mah
     - Kırcami Mah
     - Meydankavağı Mah
@@ -1045,7 +1045,7 @@ Muratpaşa:
 Serik:
   Serik:
     postcode: 7500
-    neighboorhoods:
+    neighborhoods:
     - Abdurrahmanlar Mah
     - Akbaş Mah
     - Akçaalan Mah

@@ -2,7 +2,7 @@
 Ağlasun:
   Ağlasun:
     postcode: 15800
-    neighboorhoods:
+    neighborhoods:
     - Bala Mah
     - Çınar Mah
     - Hamam Mah
@@ -11,7 +11,7 @@ Ağlasun:
     - Sakarca Mah
   Merkezköyler:
     postcode: 15802
-    neighboorhoods:
+    neighborhoods:
     - Aşağıyumrutaş Köyü
     - Bakırlı Mah (Yumrutaş Köyü)
     - Çamlıdere Köyü
@@ -32,14 +32,14 @@ Ağlasun:
 Altınyayla:
   Dirmil:
     postcode: 15420
-    neighboorhoods:
+    neighborhoods:
     - Gülpınar Mah
     - Heybeli Mah
     - Taşyaka Mah
     - Yeni Mah
   Merkezköyler:
     postcode: 15422
-    neighboorhoods:
+    neighborhoods:
     - Bel Mah (Ballık Köyü)
     - Çukurkavak Mah (Ballık Köyü)
     - Kavakpınarı Mah (Çörten Köyü)
@@ -54,7 +54,7 @@ Altınyayla:
 Bucak:
   Bucak:
     postcode: 15300
-    neighboorhoods:
+    neighborhoods:
     - Alaattin Mah
     - Atilla Mah
     - Barboros Mah
@@ -74,12 +74,12 @@ Bucak:
     - Yunus Emre Mah
   Kızılkaya:
     postcode: 15310
-    neighboorhoods:
+    neighborhoods:
     - Pazar Mah
     - Yeni Mah
   Kocaaliler:
     postcode: 15325
-    neighboorhoods:
+    neighborhoods:
     - Cami Mah (Kızılseki Köyü)
     - Esirlik Mah (Kızılseki Köyü)
     - Sarıotlu Mah (Kızılseki Köyü)
@@ -88,7 +88,7 @@ Bucak:
     - Yoncaağaç Mah (Kızılseki Köyü)
   Merkezköyler:
     postcode: 15302
-    neighboorhoods:
+    neighborhoods:
     - Afetler Mah (Taşyayla Köyü)
     - Akçapınar Mah (Kuşbaba Köyü)
     - Ali Hüseyin Sarınçları Mah (Kuyubaşı Köyü)
@@ -176,7 +176,7 @@ Bucak:
 Çavdır:
   Çavdır:
     postcode: 15900
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Bayır Mah
     - Çınar Mah
@@ -184,7 +184,7 @@ Bucak:
     - Menevşelik Mah
   Merkezköyler:
     postcode: 15902
-    neighboorhoods:
+    neighborhoods:
     - Anbarcık Köyü
     - Belen Mah (Kozağacı Köyü)
     - Bölmepınar Köyü
@@ -207,12 +207,12 @@ Bucak:
 Çeltikçi:
   Çeltikçi:
     postcode: 15070
-    neighboorhoods:
+    neighborhoods:
     - Camii Mah
     - Konak Mah
   Merkezköyler:
     postcode: 15072
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Mah (Güvenli Köyü)
     - Bucak Çay Kenarı Mah (Çebiş Köyü)
     - Değirmenönü Mah (Kuzköy Köyü)
@@ -230,7 +230,7 @@ Bucak:
 Gölhisar:
   Gölhisar:
     postcode: 15400
-    neighboorhoods:
+    neighborhoods:
     - Armutlu Mah
     - Çakmak Mah
     - Çeşme Mah
@@ -243,7 +243,7 @@ Gölhisar:
     - Yusufça Mah (Yusufça Köyü)
   Merkezköyler:
     postcode: 15402
-    neighboorhoods:
+    neighborhoods:
     - Asmalı Köyü
     - Balcılar Mah (Elmalıyurt Köyü)
     - Başpınar Mah (Elmalıyurt Köyü)
@@ -289,7 +289,7 @@ Gölhisar:
 Karamanlı:
   Karamanlı:
     postcode: 15700
-    neighboorhoods:
+    neighborhoods:
     - Barbaros Mah
     - Cafer Mah
     - Camii Mah
@@ -304,7 +304,7 @@ Karamanlı:
     - Zafer Mah
   Merkezköyler:
     postcode: 15702
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Mah (Bademli Köyü)
     - Aşağı Mah (Manca Köyü)
     - Cami Mah (Kılçan Köyü)
@@ -328,13 +328,13 @@ Karamanlı:
 Kemer:
   Kemer:
     postcode: 15090
-    neighboorhoods:
+    neighborhoods:
     - Konak Mah
     - Saray Mah
     - Yeni Camii Mah
   Merkezköyler:
     postcode: 15092
-    neighboorhoods:
+    neighborhoods:
     - Akçaören Köyü
     - Akören Köyü
     - Aşağı Mah (Belenli Köyü)
@@ -351,7 +351,7 @@ Kemer:
 Merkez:
   Bahçelievler:
     postcode: 15100
-    neighboorhoods:
+    neighborhoods:
     - Armağan İlci Mah
     - Atatürk Mah
     - Bağlar Mah
@@ -363,7 +363,7 @@ Merkez:
     - Şeker Evleri Mah
   Çeşmedamı:
     postcode: 15200
-    neighboorhoods:
+    neighborhoods:
     - Burç Mah
     - Çeşmedamı Mah
     - Değirmenler Mah
@@ -379,7 +379,7 @@ Merkez:
     - Zafer Mah
   Merkezköyler:
     postcode: 15050
-    neighboorhoods:
+    neighborhoods:
     - Aksu Köyü
     - Akyaka Köyü
     - Armut Mah (Gökçebağ Köyü)
@@ -467,14 +467,14 @@ Merkez:
     - Yukarı Tekkeönü Mah (Askeriye Köyü)
   Sanayi:
     postcode: 15040
-    neighboorhoods:
+    neighborhoods:
     - Aydınlıkevler Mah
     - Kışla Mah
     - Kışlaosb Mah
     - Şirinevler Mah
   Yenice:
     postcode: 15030
-    neighboorhoods:
+    neighborhoods:
     - Akın Mah
     - Bozkurt Mah
     - Cemil Mah
@@ -488,7 +488,7 @@ Merkez:
 Tefenni:
   Merkezköyler:
     postcode: 15602
-    neighboorhoods:
+    neighborhoods:
     - Aşıklar Mah (Hasanpaşa Köyü)
     - Başpınar Köyü
     - Bayramlar Köyü
@@ -510,7 +510,7 @@ Tefenni:
     - Zafer Mah (Beyköy Köyü)
   Tefenni:
     postcode: 15600
-    neighboorhoods:
+    neighborhoods:
     - Esentepe Mah
     - Eşeler Mah
     - Fatih Mah
@@ -522,7 +522,7 @@ Tefenni:
 Yeşilova:
   Merkezköyler:
     postcode: 15502
-    neighboorhoods:
+    neighborhoods:
     - 1.küme Evler Mah (Orhanlı Köyü)
     - 2.küme Evler Mah (Orhanlı Köyü)
     - Armut Köyü
@@ -582,7 +582,7 @@ Yeşilova:
     - Yukarı Müslümler Mah (Yarışlı Köyü)
   Yeşilova:
     postcode: 15500
-    neighboorhoods:
+    neighborhoods:
     - Bahcelievler Mah
     - Değirmen Mah
     - Emek Mah

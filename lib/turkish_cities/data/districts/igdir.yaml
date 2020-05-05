@@ -2,7 +2,7 @@
 Aralık:
   Aralık:
     postcode: 76500
-    neighboorhoods:
+    neighborhoods:
     - Aras Mah
     - Karasu Mah
     - Karşıyaka Mah
@@ -10,7 +10,7 @@ Aralık:
     - Ortaköy Mah
   Merkezköyler:
     postcode: 76502
-    neighboorhoods:
+    neighborhoods:
     - Adetli Köyü
     - Aşağıaratan Köyü
     - Aşağıçamurlu Köyü
@@ -40,12 +40,12 @@ Aralık:
 Karakoyunlu:
   Karakoyunlu:
     postcode: 76700
-    neighboorhoods:
+    neighborhoods:
     - Ergenekon Mah
     - Fatih Mah
   Merkezköyler:
     postcode: 76702
-    neighboorhoods:
+    neighborhoods:
     - Aktaş Köyü
     - Aşağıalican Köyü
     - Bayatdoğanşalı Köyü
@@ -69,7 +69,7 @@ Karakoyunlu:
 Merkez:
   Iğdır:
     postcode: 76103
-    neighboorhoods:
+    neighborhoods:
     - 14 Kasım Mah
     - Ali Kamerli Mah
     - Atatürk Mah
@@ -86,7 +86,7 @@ Merkez:
     - Yeni Mah
   Merkezköyler:
     postcode: 76002
-    neighboorhoods:
+    neighborhoods:
     - Ağaver Köyü
     - Akyumak Köyü
     - Ali Köçek Mah (Zor Köyü)
@@ -156,7 +156,7 @@ Merkez:
 Tuzluca:
   Merkezköyler:
     postcode: 76902
-    neighboorhoods:
+    neighborhoods:
     - Abbasgöl Köyü
     - Adalet Mah (Canderviş Köyü)
     - Afet Konutları Mah (Kula Köyü)
@@ -264,7 +264,7 @@ Tuzluca:
     - Zarifhane Mah (Ombulak Köyü)
   Tuzluca:
     postcode: 76900
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Mah
     - Cumhuriyet Mah
     - Orta Mah

@@ -2,7 +2,7 @@
 Acıpayam:
   Acıpayam:
     postcode: 20800
-    neighboorhoods:
+    neighborhoods:
     - Akalan Mah
     - Akşar Mah
     - Alaattin Mah
@@ -62,7 +62,7 @@ Acıpayam:
 Babadağ:
   Babadağ:
     postcode: 20480
-    neighboorhoods:
+    neighborhoods:
     - Ahıllı Mah
     - Bekirler Mah
     - Cumhuriyet Mah
@@ -78,7 +78,7 @@ Babadağ:
 Baklan:
   Baklan:
     postcode: 20770
-    neighboorhoods:
+    neighborhoods:
     - Balca Mah
     - Beyelli Mah
     - Boğaziçi Mah
@@ -96,7 +96,7 @@ Baklan:
 Bekilli:
   Bekilli:
     postcode: 20930
-    neighboorhoods:
+    neighborhoods:
     - Bahçeli Mah
     - Bükrüce Mah
     - Çamköy Mah
@@ -115,7 +115,7 @@ Bekilli:
 Beyağaç:
   Beyağaç:
     postcode: 20590
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Çamlık Mah
     - Eşenler Mah
@@ -134,7 +134,7 @@ Beyağaç:
 Bozkurt:
   Bozkurt:
     postcode: 20370
-    neighboorhoods:
+    neighborhoods:
     - Alikurt Mah
     - Armutalanı Mah
     - Avdan Mah
@@ -158,7 +158,7 @@ Bozkurt:
 Buldan:
   Buldan:
     postcode: 20400
-    neighboorhoods:
+    neighborhoods:
     - Aktaş Mah
     - Alacaoğlu Mah
     - Alandız Mah
@@ -207,7 +207,7 @@ Buldan:
 Çal:
   Çal:
     postcode: 20700
-    neighboorhoods:
+    neighborhoods:
     - Akkent Mah
     - Alfaklar Mah
     - Aşağıseyit Mah
@@ -245,7 +245,7 @@ Buldan:
 Çameli:
   Çameli:
     postcode: 20980
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Mah
     - Arıkaya Mah
     - Ayvacık Mah
@@ -280,7 +280,7 @@ Buldan:
 Çardak:
   Çardak:
     postcode: 20350
-    neighboorhoods:
+    neighborhoods:
     - Ayvaz Mah
     - Bahçelievler Mah
     - Beylerli Mah
@@ -301,7 +301,7 @@ Buldan:
 Çivril:
   Çivril:
     postcode: 20600
-    neighboorhoods:
+    neighborhoods:
     - Akçaköy Mah
     - Akpınar Mah
     - Aktaş Mah
@@ -382,7 +382,7 @@ Buldan:
 Güney:
   Güney:
     postcode: 20460
-    neighboorhoods:
+    neighborhoods:
     - Adıgüzeller Mah
     - Aşağıçeşme Mah
     - Aydoğdu Mah
@@ -410,7 +410,7 @@ Güney:
 Honaz:
   Honaz:
     postcode: 20330
-    neighboorhoods:
+    neighborhoods:
     - Afşın Bey Mah
     - Akbaş Mah
     - Aşağıdağdere Mah
@@ -437,7 +437,7 @@ Honaz:
 Kale:
   Kale:
     postcode: 20570
-    neighboorhoods:
+    neighborhoods:
     - Adamharmanı Mah
     - Alanyurt Mah
     - Belenköy Mah
@@ -473,7 +473,7 @@ Kale:
 Merkezefendi:
   Adalet:
     postcode: 20040
-    neighboorhoods:
+    neighborhoods:
     - Adalet Mah
     - Bahçelievler Mah
     - Barutçular Mah
@@ -486,7 +486,7 @@ Merkezefendi:
     - Yenişehir Mah
   Gümüşler:
     postcode: 20030
-    neighboorhoods:
+    neighborhoods:
     - Alpaslan Mah
     - Gültepe Mah
     - Gümüşçay Mah
@@ -498,7 +498,7 @@ Merkezefendi:
     - Yenişafak Mah
   Saraylar:
     postcode: 20010
-    neighboorhoods:
+    neighborhoods:
     - Akkonak Mah
     - Altıntop Mah
     - Değirmenönü Mah
@@ -510,7 +510,7 @@ Merkezefendi:
     - Sırakapılar Mah
   Sümer:
     postcode: 20020
-    neighboorhoods:
+    neighborhoods:
     - Akçeşme Mah
     - Bozburun Mah
     - Eskihisar Mah
@@ -520,7 +520,7 @@ Merkezefendi:
     - Zafer Mah
   Üçler:
     postcode: 20050
-    neighboorhoods:
+    neighborhoods:
     - 1200 Evler Mah
     - Altındere Mah
     - Barbaros Mah
@@ -534,7 +534,7 @@ Merkezefendi:
     - Yeşilyayla Mah
   Üzerlik:
     postcode: 20060
-    neighboorhoods:
+    neighborhoods:
     - Aşağışamlı Mah
     - Çeltikçi Mah
     - Salihağa Mah
@@ -542,14 +542,14 @@ Merkezefendi:
 Pamukkale:
   Akköy:
     postcode: 20260
-    neighboorhoods:
+    neighborhoods:
     - Akköy Mah
     - Karahayıt Mah
     - Pamukkale Mah
     - Yeniköy Mah
   Çeşmebaşı:
     postcode: 20190
-    neighboorhoods:
+    neighborhoods:
     - Akçapınar Mah
     - Akdere Mah
     - Belenardıç Mah
@@ -572,7 +572,7 @@ Pamukkale:
     - Yukarışamlı Mah
   İstiklal:
     postcode: 20150
-    neighboorhoods:
+    neighborhoods:
     - 15 Mayıs Mah
     - Atalar Mah
     - Fesleğen Mah
@@ -585,7 +585,7 @@ Pamukkale:
     - Topraklık Mah
   Karşıyaka:
     postcode: 20170
-    neighboorhoods:
+    neighborhoods:
     - Akhan Mah
     - Aktepe Mah
     - Anafartalar Mah
@@ -600,7 +600,7 @@ Pamukkale:
     - Pınarkent Mah
   Kınıklı:
     postcode: 20160
-    neighboorhoods:
+    neighborhoods:
     - Asmalıevler Mah
     - Bağbaşı Mah
     - Cankurtaran Mah
@@ -619,7 +619,7 @@ Pamukkale:
 Sarayköy:
   Sarayköy:
     postcode: 20300
-    neighboorhoods:
+    neighborhoods:
     - Acıdere Mah
     - Acısu Mah
     - Ada Mah
@@ -656,7 +656,7 @@ Sarayköy:
 Serinhisar:
   Serinhisar:
     postcode: 20430
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Mah
     - Ayaz Mah
     - Cumhuriyet Mah
@@ -671,7 +671,7 @@ Serinhisar:
 Tavas:
   Tavas:
     postcode: 20500
-    neighboorhoods:
+    neighborhoods:
     - Akıncılar Mah
     - Akyar Mah
     - Alpa Mah

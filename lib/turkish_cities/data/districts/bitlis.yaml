@@ -2,7 +2,7 @@
 Adilcevaz:
   Adilcevaz:
     postcode: 13500
-    neighboorhoods:
+    neighborhoods:
     - Alacaatlı Mah
     - Atatürk Mah
     - Cevizli Mah
@@ -13,7 +13,7 @@ Adilcevaz:
     - Selçuklu Mah
   Merkezköyler:
     postcode: 13502
-    neighboorhoods:
+    neighborhoods:
     - Akçıra Köyü
     - Akyazı Köyü
     - Asvalt Üstü Mah (Erikbağı Köyü)
@@ -61,7 +61,7 @@ Adilcevaz:
 Ahlat:
   Ahlat:
     postcode: 13400
-    neighboorhoods:
+    neighborhoods:
     - Erkizan Mah
     - Haraba Şehir Mah
     - İki Kubbe Mah
@@ -74,7 +74,7 @@ Ahlat:
     - Tunus Mah
   Merkezköyler:
     postcode: 13402
-    neighboorhoods:
+    neighborhoods:
     - 1.küme Mah (Cemalettin Köyü)
     - 1.küme Mah (Çatalağzı Köyü)
     - 1.küme Mah (Saka Köyü)
@@ -100,7 +100,7 @@ Ahlat:
     - Yuvadamı Köyü
   Ovakışla:
     postcode: 13403
-    neighboorhoods:
+    neighborhoods:
     - 1. Küme Mah (Güzelsu Köyü)
     - 1.küme Mah (Alakır Köyü)
     - 2.küme Mah (Alakır Köyü)
@@ -124,7 +124,7 @@ Ahlat:
 Güroymak:
   Güroymak:
     postcode: 13800
-    neighboorhoods:
+    neighborhoods:
     - Bağlar Mah
     - Barajyolu Mah
     - Barış Mah
@@ -142,7 +142,7 @@ Güroymak:
     - Yeşilova Mah
   Merkezköyler:
     postcode: 13802
-    neighboorhoods:
+    neighborhoods:
     - Akbulut Mah (Çayarası Köyü)
     - Arpacık Köyü
     - Aşağıkolbaşı Köyü
@@ -193,7 +193,7 @@ Güroymak:
 Hizan:
   Hizan:
     postcode: 13600
-    neighboorhoods:
+    neighborhoods:
     - Altınoluk Mah
     - Aşağıkarasu Mah
     - Bahçelievler Mah
@@ -206,7 +206,7 @@ Hizan:
     - Yeşil Ova Mah
   Merkezköyler:
     postcode: 13602
-    neighboorhoods:
+    neighborhoods:
     - Ağaçlı Mah (Gayda Köyü)
     - Ağılözü Köyü
     - Akbaş Mah (Horozdere Köyü)
@@ -394,7 +394,7 @@ Hizan:
 Merkez:
   Bitlis:
     postcode: 13100
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Beş Minare Mah
     - Gazi Bey Mah
@@ -410,7 +410,7 @@ Merkez:
     - Zeydan Mah
   Bölükyazı:
     postcode: 13001
-    neighboorhoods:
+    neighborhoods:
     - Akçalı Köyü
     - Arıdağ Köyü
     - Aşağıbalcılar Köyü
@@ -448,7 +448,7 @@ Merkez:
     - Yuvacık Köyü
   Merkezköyler:
     postcode: 13002
-    neighboorhoods:
+    neighborhoods:
     - Ağaçdere Köyü
     - Ağaçköprü Köyü
     - Ağaçpınar Köyü
@@ -535,7 +535,7 @@ Merkez:
 Mutki:
   Geyikpınar:
     postcode: 13703
-    neighboorhoods:
+    neighborhoods:
     - Bağ Mah (Çiğdemalan Köyü)
     - Beyaz Su Mah (Yuvalıdam Köyü)
     - Çiğdemalan Köyü
@@ -556,7 +556,7 @@ Mutki:
     - Yuvalıdam Köyü
   Merkezköyler:
     postcode: 13702
-    neighboorhoods:
+    neighborhoods:
     - Ağıllı Mah (Bozburun Köyü)
     - Akçaağaç Köyü
     - Akıncı Köyü
@@ -636,7 +636,7 @@ Mutki:
     - Yüksekova Mah (Kavakbaşı Köyü)
   Meydan:
     postcode: 13704
-    neighboorhoods:
+    neighborhoods:
     - Açıkalan Köyü
     - Akarsu Mah (Bağarası Köyü)
     - Aşağı Uzunyar Mah (Uzunyar Köyü)
@@ -683,7 +683,7 @@ Mutki:
     - Zeydan Mah (Meydan Köyü)
   Mutki:
     postcode: 13700
-    neighboorhoods:
+    neighborhoods:
     - Pınarbaşı Mah
     - Taşlı Pınar Mah
     - Yeni Mah
@@ -691,7 +691,7 @@ Mutki:
 Tatvan:
   Merkezköyler:
     postcode: 13202
-    neighboorhoods:
+    neighborhoods:
     - 2.km Mah (Adabağ Köyü)
     - Adabağ Köyü
     - Benekli Köyü
@@ -704,7 +704,7 @@ Tatvan:
     - Yumurtatepe Köyü
   Tatvan:
     postcode: 13200
-    neighboorhoods:
+    neighborhoods:
     - Aydınlar Mah
     - Bahçelievler Mah
     - Cumhuriyet Mah
@@ -729,7 +729,7 @@ Tatvan:
     - Yeşilmezra Mah
   Yelkenli:
     postcode: 13201
-    neighboorhoods:
+    neighborhoods:
     - Aksoğan Mah (Alacabük Köyü)
     - Aktoprak Mah (Dönertaş Köyü)
     - Alacabük Köyü

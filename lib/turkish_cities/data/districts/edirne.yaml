@@ -2,13 +2,13 @@
 Enez:
   Enez:
     postcode: 22700
-    neighboorhoods:
+    neighborhoods:
     - Çataltepe Mah
     - Gaziömerbey Mah
     - Yeni Mah
   Merkezköyler:
     postcode: 22750
-    neighboorhoods:
+    neighborhoods:
     - Abdurrahim Köyü
     - Büyükevren Köyü
     - Çandır Köyü
@@ -31,7 +31,7 @@ Enez:
 Havsa:
   Hasköy:
     postcode: 22530
-    neighboorhoods:
+    neighborhoods:
     - Arpaç Köyü
     - Habiller Köyü
     - Hasköy Köyü
@@ -39,7 +39,7 @@ Havsa:
     - Söğütlüdere Köyü
   Havsa:
     postcode: 22500
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Hacıgazi Mah
     - Hacıisa Mah
@@ -48,7 +48,7 @@ Havsa:
     - Yeni Mah
   Merkezköyler:
     postcode: 22532
-    neighboorhoods:
+    neighborhoods:
     - Abalar Mah (Abalar Köyü)
     - Abalar Merkez Mah (Abalar Köyü)
     - Azatlı Köyü
@@ -72,7 +72,7 @@ Havsa:
 İpsala:
   İpsala:
     postcode: 22400
-    neighboorhoods:
+    neighborhoods:
     - Bayrambey Mah
     - Bozkurt Mah
     - Fatih Mah
@@ -81,7 +81,7 @@ Havsa:
     - Saraç İlyas Mah
   Merkezköyler:
     postcode: 22490
-    neighboorhoods:
+    neighborhoods:
     - Aliçopehlivan Köyü
     - Atatürk Mah (Esetçe Köyü)
     - Atatürk Mah (Kocahıdır Köyü)
@@ -117,7 +117,7 @@ Havsa:
 Keşan:
   Keşan:
     postcode: 22800
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Zaferiye Mah
     - Büyük Cami Mah
     - Cumhuriyet Mah
@@ -129,7 +129,7 @@ Keşan:
     - Yukarı Zaferiye Mah
   Mecidiye:
     postcode: 22410
-    neighboorhoods:
+    neighborhoods:
     - Akhoca Köyü
     - Atatürk Mah (Mecidiye Köyü)
     - Barağı Köyü
@@ -152,7 +152,7 @@ Keşan:
     - Yeşilköy Köyü
   Merkezköyler:
     postcode: 22880
-    neighboorhoods:
+    neighborhoods:
     - Akçeşme Köyü
     - Altıntaş Köyü
     - Atatürk Mah (Yenimuhacir Köyü)
@@ -181,7 +181,7 @@ Keşan:
     - Yeniceçiftlik Köyü
   Yerlisu:
     postcode: 22272
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah (Çamlıca Köyü)
     - Bahçeköy Köyü
     - Büyükdoğanca Köyü
@@ -201,11 +201,11 @@ Keşan:
 Lalapaşa:
   Lalapaşa:
     postcode: 22950
-    neighboorhoods:
+    neighborhoods:
     - Merkez Mah
   Merkezköyler:
     postcode: 22970
-    neighboorhoods:
+    neighborhoods:
     - Büyünlü Köyü
     - Çallıdere Köyü
     - Çatma Köyü
@@ -236,7 +236,7 @@ Lalapaşa:
 Meriç:
   Küplü:
     postcode: 22610
-    neighboorhoods:
+    neighborhoods:
     - Adasarhanlı Köyü
     - Büyükaltıağaç Köyü
     - Gazi Mah (Küplü Köyü)
@@ -246,12 +246,12 @@ Meriç:
     - Şehit Mehmet Aydın Mah (Subaşı Köyü)
   Meriç:
     postcode: 22600
-    neighboorhoods:
+    neighborhoods:
     - B.doğanca Mah
     - K. Doğanca Mah
   Merkezköyler:
     postcode: 22680
-    neighboorhoods:
+    neighborhoods:
     - Akçadam Köyü
     - Akıncılar Köyü
     - Alibey Köyü
@@ -273,7 +273,7 @@ Meriç:
 Merkez:
   Edirne:
     postcode: 22100
-    neighboorhoods:
+    neighborhoods:
     - 1.murat Mah
     - Abdurrahman Mah
     - Babademirtaş Mah
@@ -300,7 +300,7 @@ Merkez:
     - Yıldırım Hacı Sarraf Mah
   Merkezköyler:
     postcode: 22130
-    neighboorhoods:
+    neighborhoods:
     - Ahı Köyü
     - Avarız Köyü
     - Bosna Köyü
@@ -341,7 +341,7 @@ Merkez:
 Süloğlu:
   Merkezköyler:
     postcode: 22580
-    neighboorhoods:
+    neighborhoods:
     - Akardere Köyü
     - Büyük Gerdelli Köyü
     - Domurcalı Köyü
@@ -354,7 +354,7 @@ Süloğlu:
     - Yağcılı Köyü
   Süloğlu:
     postcode: 22560
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Merkez Mah
     - Organize Sanayi Bölgesi Mah
@@ -363,7 +363,7 @@ Süloğlu:
 Uzunköprü:
   Aşçıoğlu:
     postcode: 22300
-    neighboorhoods:
+    neighborhoods:
     - Aşçıoğlu Mah
     - Atatürk Mah
     - Demirtaş Mah
@@ -371,7 +371,7 @@ Uzunköprü:
     - Muradiye Mah
   Çöpköy:
     postcode: 22270
-    neighboorhoods:
+    neighborhoods:
     - Başağıl Köyü
     - Bayramlı Köyü
     - Beykonak Köyü
@@ -388,7 +388,7 @@ Uzunköprü:
     - Yağmurca Köyü
   Hamidiye:
     postcode: 22402
-    neighboorhoods:
+    neighborhoods:
     - Alıç Köyü
     - Altınyazı Köyü
     - Atatürk Mah (Kurtbey Köyü)
@@ -413,7 +413,7 @@ Uzunköprü:
     - Türkobası Köyü
   Kırcasalih:
     postcode: 22260
-    neighboorhoods:
+    neighborhoods:
     - Aslıhan Köyü
     - Balaban Mah (Kırcasalih Köyü)
     - Cumhuriyet Mah (Kırcasalih Köyü)
@@ -423,7 +423,7 @@ Uzunköprü:
     - Sazlımalkoç Köyü
   Merkezköyler:
     postcode: 22360
-    neighboorhoods:
+    neighborhoods:
     - Çakmak Köyü
     - Çalı Köyü
     - Çiftlik Köyü
@@ -443,7 +443,7 @@ Uzunköprü:
     - Sığırcılı Köyü
   Uzunköprü:
     postcode: 22200
-    neighboorhoods:
+    neighborhoods:
     - Büyük Şehsuvarbey Mah
     - Cumhuriyet Mah
     - Çöpköy Mah

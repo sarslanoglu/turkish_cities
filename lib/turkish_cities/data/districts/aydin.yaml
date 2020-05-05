@@ -2,7 +2,7 @@
 Bozdoğan:
   Bozdoğan:
     postcode: 9760
-    neighboorhoods:
+    neighborhoods:
     - Akçay Mah
     - Akseki Mah
     - Akyaka Mah
@@ -61,7 +61,7 @@ Bozdoğan:
 Buharkent:
   Çubukdağı:
     postcode: 9670
-    neighboorhoods:
+    neighborhoods:
     - Ericek Mah
     - Feslek Mah
     - Gelenbe Mah
@@ -79,7 +79,7 @@ Buharkent:
 Çine:
   Çine:
     postcode: 9500
-    neighboorhoods:
+    neighborhoods:
     - Akçaova Mah
     - Akdam Mah
     - Alabayır Mah
@@ -155,11 +155,11 @@ Buharkent:
 Didim:
   Akyeniköy:
     postcode: 9320
-    neighboorhoods:
+    neighborhoods:
     - Ak-yeniköy Mah
   Yenihisar:
     postcode: 9270
-    neighboorhoods:
+    neighborhoods:
     - Akbük Mah
     - Akköy Mah
     - Altınkum Mah
@@ -178,7 +178,7 @@ Didim:
 Efeler:
   Çarşı:
     postcode: 9100
-    neighboorhoods:
+    neighborhoods:
     - Alatepe Mah
     - Ambarcık Mah
     - Balıkköy Mah
@@ -198,7 +198,7 @@ Efeler:
     - Zeytinköy Mah
   Kurtuluş:
     postcode: 9020
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Efeler Mah
     - Fatih Mah
@@ -215,7 +215,7 @@ Efeler:
     - Zeybek Mah
   Sanayi:
     postcode: 9010
-    neighboorhoods:
+    neighborhoods:
     - Adnan Menderes Mah
     - Alanlı Mah
     - Armutlu Mah
@@ -255,7 +255,7 @@ Efeler:
     - Zafer Mah
   Umurlu:
     postcode: 9630
-    neighboorhoods:
+    neighborhoods:
     - Aşağıkayacık Mah
     - Çayyüzü Mah
     - Eğrikavak Mah
@@ -275,7 +275,7 @@ Efeler:
 Germencik:
   Germencik:
     postcode: 9700
-    neighboorhoods:
+    neighborhoods:
     - Alangüllü Mah
     - Bozköy Mah
     - Camikebir Mah
@@ -300,7 +300,7 @@ Germencik:
     - Yeni Mah
   Ortaklar:
     postcode: 9330
-    neighboorhoods:
+    neighborhoods:
     - Abdurrahmanlar Mah
     - Balatçık Mah
     - Dağyeni Mah
@@ -318,7 +318,7 @@ Germencik:
 İncirliova:
   İncirliova:
     postcode: 9600
-    neighboorhoods:
+    neighborhoods:
     - Acarlar Mah
     - Akçeşme Mah
     - Arpadere Mah
@@ -350,7 +350,7 @@ Germencik:
 Karacasu:
   Karacasu:
     postcode: 9370
-    neighboorhoods:
+    neighborhoods:
     - Alemler Mah
     - Aşağıgörle Mah
     - Ataeymir Mah
@@ -392,7 +392,7 @@ Karacasu:
 Karpuzlu:
   Karpuzlu:
     postcode: 9540
-    neighboorhoods:
+    neighborhoods:
     - Abak Mah
     - Akçaabat Mah
     - Bayraktepe Mah
@@ -419,7 +419,7 @@ Karpuzlu:
 Koçarlı:
   Koçarlı:
     postcode: 9970
-    neighboorhoods:
+    neighborhoods:
     - Adnan Menderes Mah
     - Akmescit Mah
     - Atatürk Mah
@@ -475,7 +475,7 @@ Koçarlı:
 Köşk:
   Köşk:
     postcode: 9570
-    neighboorhoods:
+    neighborhoods:
     - Ahatlar Mah
     - Akçaköy Mah
     - Altıeylül Mah
@@ -507,7 +507,7 @@ Köşk:
 Kuşadası:
   Kuşadası:
     postcode: 9400
-    neighboorhoods:
+    neighborhoods:
     - Alacamescit Mah
     - Bayraklıdede Mah
     - Caferli Mah
@@ -534,7 +534,7 @@ Kuşadası:
 Kuyucak:
   Kuyucak:
     postcode: 9930
-    neighboorhoods:
+    neighborhoods:
     - Aksaz Mah
     - Aydınoğlu Mah
     - Azizabat Mah
@@ -574,7 +574,7 @@ Kuyucak:
 Nazilli:
   Nazilli:
     postcode: 9800
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Mah
     - Aksu Mah
     - Altıntaş Mah
@@ -652,7 +652,7 @@ Nazilli:
     - Zafer Mah
   Sümer:
     postcode: 9900
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Çapahasan Mah
     - Dumlupınar Mah
@@ -664,7 +664,7 @@ Nazilli:
 Söke:
   Söke:
     postcode: 9200
-    neighboorhoods:
+    neighborhoods:
     - Ağaçlı Mah
     - Akçakaya Mah
     - Akçakonak Mah
@@ -718,7 +718,7 @@ Söke:
 Sultanhisar:
   Sultanhisar:
     postcode: 9470
-    neighboorhoods:
+    neighborhoods:
     - Atça Mah
     - Beşeylül Mah
     - Demirhan Mah
@@ -740,7 +740,7 @@ Sultanhisar:
 Yenipazar:
   Yenipazar:
     postcode: 9350
-    neighboorhoods:
+    neighborhoods:
     - Alhan Mah
     - Alioğullar Mah
     - Çarşı Mah

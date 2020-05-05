@@ -2,7 +2,7 @@
 Akçakale:
   Akçakale:
     postcode: 63500
-    neighboorhoods:
+    neighborhoods:
     - Acıkuyu Mah
     - Adnan Menderes Mah
     - Akbilek Mah
@@ -125,7 +125,7 @@ Akçakale:
 Birecik:
   Birecik:
     postcode: 63400
-    neighboorhoods:
+    neighborhoods:
     - Abdallı Mah
     - Akarçay Mah
     - Akpınar Mah
@@ -212,7 +212,7 @@ Birecik:
 Bozova:
   Bozova:
     postcode: 63850
-    neighboorhoods:
+    neighborhoods:
     - Çatak Mah
     - Gölbaşı Mah
     - Kevik Mah
@@ -220,7 +220,7 @@ Bozova:
     - Norçin Mah
   Yaylak:
     postcode: 63853
-    neighboorhoods:
+    neighborhoods:
     - 75.yıl Mah
     - Akmağara Mah
     - Altınlı Mah
@@ -307,7 +307,7 @@ Bozova:
 Ceylanpınar:
   Ceylanpınar:
     postcode: 63570
-    neighboorhoods:
+    neighborhoods:
     - 15 Temmuz Mah
     - Adnan Menderes Mah
     - Akbulut Mah
@@ -361,7 +361,7 @@ Ceylanpınar:
 Eyyübiye:
   Çarşı:
     postcode: 63210
-    neighboorhoods:
+    neighborhoods:
     - 15 Temmuz Mah
     - Beykapusu Mah
     - Bıçakçı Mah
@@ -378,7 +378,7 @@ Eyyübiye:
     - Yusufpaşa Mah
   Eyyübiye:
     postcode: 63200
-    neighboorhoods:
+    neighborhoods:
     - Abdurrahmandede Mah
     - Açmalı Mah
     - Akabe Mah
@@ -530,7 +530,7 @@ Eyyübiye:
 Halfeti:
   Halfeti:
     postcode: 63950
-    neighboorhoods:
+    neighborhoods:
     - Altınova Mah
     - Argaç Mah
     - Argıl Mah
@@ -583,7 +583,7 @@ Halfeti:
 Haliliye:
   Bağlarbaşı:
     postcode: 63050
-    neighboorhoods:
+    neighborhoods:
     - Acaryurt Mah
     - Açıkyazı Mah
     - Ahmet Yesevi Mah
@@ -734,7 +734,7 @@ Haliliye:
     - Yukarıkoymat Mah
   Bahçelievler:
     postcode: 63100
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Bahçelievler Mah
     - Cengiz Topel Mah
@@ -744,7 +744,7 @@ Haliliye:
     - Şehitlik Mah
   Şairnabi:
     postcode: 63040
-    neighboorhoods:
+    neighborhoods:
     - Bamyasuyu Mah
     - İmam Bakır Mah
     - Kamberiye Mah
@@ -753,7 +753,7 @@ Haliliye:
     - Şair Nabi Mah
   Yenişehir:
     postcode: 63300
-    neighboorhoods:
+    neighborhoods:
     - Ertuğrul Gazi Mah
     - Hamidiye Mah
     - Osman Gazi Mah
@@ -766,7 +766,7 @@ Haliliye:
 Harran:
   Harran:
     postcode: 63510
-    neighboorhoods:
+    neighborhoods:
     - 15 Temmuz Mah
     - Ağcıl Mah
     - Ahmetkara Mah
@@ -894,7 +894,7 @@ Harran:
 Hilvan:
   Hilvan:
     postcode: 63900
-    neighboorhoods:
+    neighborhoods:
     - Ağılmus Mah
     - Ağveren Mah
     - Akçakebir Mah
@@ -968,7 +968,7 @@ Hilvan:
 Karaköprü:
   Karaköprü:
     postcode: 63320
-    neighboorhoods:
+    neighborhoods:
     - Ağılcık Mah
     - Ağızhan Mah
     - Akbayır Mah
@@ -1072,7 +1072,7 @@ Karaköprü:
 Siverek:
   Siverek:
     postcode: 63600
-    neighboorhoods:
+    neighborhoods:
     - Abdalağa Mah
     - Alagün Mah
     - Alanyurt Mah
@@ -1256,7 +1256,7 @@ Siverek:
 Suruç:
   Suruç:
     postcode: 63800
-    neighboorhoods:
+    neighborhoods:
     - Ağırtaş Mah
     - Akören Mah
     - Alanyurt Mah
@@ -1355,7 +1355,7 @@ Suruç:
 Viranşehir:
   Viranşehir:
     postcode: 63700
-    neighboorhoods:
+    neighborhoods:
     - Abalar Mah
     - Adaköy Mah
     - Akçataş Mah

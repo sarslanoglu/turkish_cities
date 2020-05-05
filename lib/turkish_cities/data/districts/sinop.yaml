@@ -2,7 +2,7 @@
 Ayancık:
   Ayancık:
     postcode: 57400
-    neighboorhoods:
+    neighborhoods:
     - Beşiktaş Mah
     - Cevizli Mah
     - Çayiçi Mah
@@ -10,7 +10,7 @@ Ayancık:
     - Yalı Mah
   Merkezköyler:
     postcode: 57402
-    neighboorhoods:
+    neighborhoods:
     - Abazalar Mah (Yenice Köyü)
     - Abdullahoğlu Mah (Kozcuğaz Köyü)
     - Akbıyık Mah (Yenice Köyü)
@@ -318,7 +318,7 @@ Ayancık:
 Boyabat:
   Boyabat:
     postcode: 57200
-    neighboorhoods:
+    neighborhoods:
     - Camiikebir Mah
     - Çamlıca Mah
     - Esentepe Mah
@@ -329,7 +329,7 @@ Boyabat:
     - Zincirlikuyu Mah
   Merkezköyler:
     postcode: 57202
-    neighboorhoods:
+    neighborhoods:
     - Acamlar Mah (Curkuşlar Köyü)
     - Adnan Menderes Mah (Daylı Köyü)
     - Ahlatlı Yaylası Mah (Şıhlar Köyü)
@@ -656,13 +656,13 @@ Boyabat:
 Dikmen:
   Dikmen:
     postcode: 57660
-    neighboorhoods:
+    neighborhoods:
     - Babalıoğlu Mah
     - Çorak Mah
     - Kırçal Mah
   Merkezköyler:
     postcode: 57662
-    neighboorhoods:
+    neighborhoods:
     - Ağacalı Mah (Kadıköy Köyü)
     - Ağcaalan Mah (Bucak Köyü)
     - Ahmetkovanlığı Mah (Karakoyun Köyü)
@@ -822,7 +822,7 @@ Dikmen:
 Durağan:
   Durağan:
     postcode: 57700
-    neighboorhoods:
+    neighborhoods:
     - Altınkaya Mah
     - Buzluk Mah
     - Gökırmak Mah
@@ -830,7 +830,7 @@ Durağan:
     - Yeşilyurt Mah
   Merkezköyler:
     postcode: 57702
-    neighboorhoods:
+    neighborhoods:
     - Ağcakaya Mah (Boyabükü Köyü)
     - Akbelçayı Mah (Aşağıkaracaören Köyü)
     - Akıska Mah (Uzunöz Köyü)
@@ -1001,13 +1001,13 @@ Durağan:
 Erfelek:
   Erfelek:
     postcode: 57800
-    neighboorhoods:
+    neighborhoods:
     - Kınık Mah
     - Merkez Mah
     - Salavat Mah
   Merkezköyler:
     postcode: 57802
-    neighboorhoods:
+    neighborhoods:
     - A.doğan Yuvası Mah (Aydınlar Köyü)
     - Abidinoğlu Mah (Hamidiye Köyü)
     - Acısu Mah (Gökçebel Köyü)
@@ -1262,7 +1262,7 @@ Erfelek:
 Gerze:
   Gerze:
     postcode: 57600
-    neighboorhoods:
+    neighborhoods:
     - 19 Mayıs Mah
     - Atatürk Mah
     - Cumhuriyet Mah
@@ -1272,7 +1272,7 @@ Gerze:
     - Yeni Mah
   Merkezköyler:
     postcode: 57602
-    neighboorhoods:
+    neighborhoods:
     - Abdaloğlu Mah (Abdaloğlu Köyü)
     - Ağustoslu Mah (Altınyayla Köyü)
     - Ahmetoğlu Mah (Abdaloğlu Köyü)
@@ -1552,7 +1552,7 @@ Gerze:
 Merkez:
   Merkezköyler:
     postcode: 57002
-    neighboorhoods:
+    neighborhoods:
     - Abazalar Mah (Erikli Köyü)
     - Afet Evleri Konutları Mah (Yalı Köyü)
     - Agcelli Mah (Çiftlik Köyü)
@@ -1788,7 +1788,7 @@ Merkez:
     - Zenginoğlu Mah (Melikşah Köyü)
   Sinop:
     postcode: 57010
-    neighboorhoods:
+    neighborhoods:
     - Ada Mah
     - Bostancılı Mah
     - Camikebir Mah
@@ -1805,7 +1805,7 @@ Merkez:
 Saraydüzü:
   Merkezköyler:
     postcode: 57302
-    neighboorhoods:
+    neighborhoods:
     - Akbelen Köyü
     - Aluç Mah (Avluca Köyü)
     - Asarcıkcamili Köyü
@@ -1870,12 +1870,12 @@ Saraydüzü:
     - Zeyve Mah (Bahşaşlı Köyü)
   Saraydüzü:
     postcode: 57300
-    neighboorhoods:
+    neighborhoods:
     - Merkez Mah
 Türkeli:
   Merkezköyler:
     postcode: 57902
-    neighboorhoods:
+    neighborhoods:
     - Abaza Mah (Direkli Köyü)
     - Aca Mah (Düz Köyü)
     - Ağa Mah (Ayaz Köyü)
@@ -2055,7 +2055,7 @@ Türkeli:
     - Yukarı Usva Mah (Satı Köyü)
   Türkeli:
     postcode: 57900
-    neighboorhoods:
+    neighborhoods:
     - Gemiyanı Mah
     - Güzelyurt Mah
     - Tümerkan Mah

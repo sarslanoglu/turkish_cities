@@ -2,14 +2,14 @@
 Aladağ:
   Aladağ:
     postcode: 1720
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Mah
     - Başpınar Mah
     - Mansurlu Mah
     - Sinanpaşa Mah
   Madenli:
     postcode: 1722
-    neighboorhoods:
+    neighborhoods:
     - Akören Mah
     - Boztahta Mah
     - Büyüksofulu Mah
@@ -40,7 +40,7 @@ Aladağ:
 Ceyhan:
   Büyükmangıt:
     postcode: 1922
-    neighboorhoods:
+    neighborhoods:
     - Adapınar Mah
     - Adatepe Mah
     - Ağaçlı Mah
@@ -125,7 +125,7 @@ Ceyhan:
     - Yılankale Mah
   Ceyhan:
     postcode: 1920
-    neighboorhoods:
+    neighborhoods:
     - Altıocak Mah
     - Atatürk Mah
     - Aydemiroğlu Mah
@@ -158,18 +158,18 @@ Ceyhan:
     - Zübeyde Hanım Mah
   Mustafabeyli:
     postcode: 1924
-    neighboorhoods:
+    neighborhoods:
     - Mustafabeyli Mah
 Çukurova:
   Huzurevleri:
     postcode: 1360
-    neighboorhoods:
+    neighborhoods:
     - Belediye Evleri Mah
     - Huzurevleri Mah
     - Yüzüncüyıl Mah
   Mahfesığmaz:
     postcode: 1170
-    neighboorhoods:
+    neighborhoods:
     - Beyazevler Mah
     - Bozcalar Mah
     - Dörtler Mah
@@ -195,12 +195,12 @@ Ceyhan:
     - Yurt Mah
   Salbaş:
     postcode: 1780
-    neighboorhoods:
+    neighborhoods:
     - Salbaş Esentepe Mah
 Feke:
   Akkaya:
     postcode: 1662
-    neighboorhoods:
+    neighborhoods:
     - Akkaya Mah
     - Akoluk Mah
     - Bağdatlı Mah
@@ -242,7 +242,7 @@ Feke:
     - Yerebakan Mah
   Feke:
     postcode: 1660
-    neighboorhoods:
+    neighborhoods:
     - Belenköy Mah
     - Gökçeli Mah
     - İslam Mah
@@ -255,7 +255,7 @@ Feke:
 İmamoğlu:
   İmamoğlu:
     postcode: 1700
-    neighboorhoods:
+    neighborhoods:
     - Adalet Mah
     - Cumhuriyet Mah
     - Fatih Mah
@@ -264,7 +264,7 @@ Feke:
     - Tuna Mah
   Saygeçit:
     postcode: 1702
-    neighboorhoods:
+    neighborhoods:
     - Ağzıkaraca Mah
     - Alaybeyi Mah
     - Aliler Mah
@@ -289,7 +289,7 @@ Feke:
 Karaisalı:
   Karaisalı:
     postcode: 1770
-    neighboorhoods:
+    neighborhoods:
     - Akçalı Mah
     - Aktaş Mah
     - Altınova Mah
@@ -355,7 +355,7 @@ Karaisalı:
 Karataş:
   Karataş:
     postcode: 1900
-    neighboorhoods:
+    neighborhoods:
     - Adalı Mah
     - Ataköy Mah
     - Bahçe Mah
@@ -402,12 +402,12 @@ Karataş:
 Kozan:
   Hacıbeyli:
     postcode: 1555
-    neighboorhoods:
+    neighborhoods:
     - Gazi Mah
     - Hacıbeyli Mah
   Kahveli:
     postcode: 1502
-    neighboorhoods:
+    neighborhoods:
     - Acarmantaş Mah
     - Akarca Mah
     - Akçalıuşağı Mah
@@ -496,7 +496,7 @@ Kozan:
     - Zerdali Mah
   Kozan:
     postcode: 1500
-    neighboorhoods:
+    neighborhoods:
     - Ağlıboğaz Mah
     - Arslanpaşa Mah
     - Bağlar Mah
@@ -515,11 +515,11 @@ Kozan:
 Pozantı:
   Akçatekir:
     postcode: 1490
-    neighboorhoods:
+    neighborhoods:
     - Akçatekir Mah
   Gökbez:
     postcode: 1472
-    neighboorhoods:
+    neighborhoods:
     - Alpu Mah
     - Aşçıbekirli Mah
     - Belemedik Mah
@@ -538,7 +538,7 @@ Pozantı:
     - Yukarıbelemedik Mah
   Pozantı:
     postcode: 1470
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - İstiklal Mah
     - Kurtuluş Mah
@@ -546,7 +546,7 @@ Pozantı:
 Saimbeyli:
   Saimbeyli:
     postcode: 1740
-    neighboorhoods:
+    neighborhoods:
     - Aksaağaç Mah
     - Avcıpınarı Mah
     - Ayvacık Mah
@@ -578,24 +578,24 @@ Saimbeyli:
 Sarıçam:
   Baklalı:
     postcode: 1410
-    neighboorhoods:
+    neighborhoods:
     - Acıdereosb Mah
   Buruk:
     postcode: 1460
-    neighboorhoods:
+    neighborhoods:
     - Beyceli Mah
     - Buruk Cumhuriyet Mah
     - İstiklal Mah
     - Sofudede Mah
   İncirlik:
     postcode: 1340
-    neighboorhoods:
+    neighborhoods:
     - Hürriyet Mah
     - Kemalpaşa Mah
     - Yeni Mah
   Osmangazi:
     postcode: 1790
-    neighboorhoods:
+    neighborhoods:
     - Acıdere Mah
     - Aflak Mah
     - Akkuyu Mah
@@ -649,7 +649,7 @@ Sarıçam:
     - Yürekli Mah
   Remzioğuzarık:
     postcode: 1250
-    neighboorhoods:
+    neighborhoods:
     - Balcalı Mah
     - Esentepe Mah
     - Gültepe Mah
@@ -663,12 +663,12 @@ Sarıçam:
 Seyhan:
   Akkapı:
     postcode: 1040
-    neighboorhoods:
+    neighborhoods:
     - Akkapı Mah
     - Dağlıoğlu Mah
   Denizli:
     postcode: 1130
-    neighboorhoods:
+    neighborhoods:
     - Ahmet Remzi Yüreğir Mah
     - Denizli Mah
     - Kurtuluş Mah
@@ -676,40 +676,40 @@ Seyhan:
     - Sakarya Mah
   Emek:
     postcode: 1080
-    neighboorhoods:
+    neighborhoods:
     - Emek Mah
     - Ova Mah
     - Şakirpaşa Mah
     - Uçak Mah
   Fevzipaşa:
     postcode: 1190
-    neighboorhoods:
+    neighborhoods:
     - Aydınlar Mah
     - Barış Mah
     - Fevzipaşa Mah
   Gazipaşa:
     postcode: 1120
-    neighboorhoods:
+    neighborhoods:
     - Cemalpaşa Mah
     - Reşatbey Mah
   Gülbahçesi:
     postcode: 1050
-    neighboorhoods:
+    neighborhoods:
     - Gülbahçesi Mah
   Gürselpaşa:
     postcode: 1200
-    neighboorhoods:
+    neighborhoods:
     - 2000 Evler Mah
     - Bahçeşehir Mah
     - Gürselpaşa Mah
     - Yeni Mah
   Hadırlı:
     postcode: 1365
-    neighboorhoods:
+    neighborhoods:
     - Hadırlı Mah
   Hükümet:
     postcode: 1020
-    neighboorhoods:
+    neighborhoods:
     - Alidede Mah
     - Beşocak Mah
     - Mestanzade Mah
@@ -719,7 +719,7 @@ Seyhan:
     - Yenibey Mah
   Karayusuflu:
     postcode: 1355
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Büyükçıldırım Mah
     - Büyükdikili Mah
@@ -746,7 +746,7 @@ Seyhan:
     - Zeytinli Mah
   Kuruköprü:
     postcode: 1060
-    neighboorhoods:
+    neighborhoods:
     - Çınarlı Mah
     - Döşeme Mah
     - Hanedan Mah
@@ -756,20 +756,20 @@ Seyhan:
     - Kuruköprü Mah
   Küçükdikili:
     postcode: 1430
-    neighboorhoods:
+    neighborhoods:
     - Kavaklı Mah
     - Koza Mah
     - Küçükdikili Mah
     - Mekan Mah
-  Mavi bulvar yurt:
+  Mavi Bulvar - Yurt:
     postcode: 1160
-    neighboorhoods:
+    neighborhoods:
     - Fatih Mah
     - Pınar Mah
     - Tellidere Mah
   Meydan:
     postcode: 1070
-    neighboorhoods:
+    neighborhoods:
     - Dumlupınar Mah
     - Gülpınar Mah
     - Meydan Mah
@@ -777,7 +777,7 @@ Seyhan:
     - Yeşilyuva Mah
   Saydam:
     postcode: 1030
-    neighboorhoods:
+    neighborhoods:
     - Barbaros Mah
     - Bey Mah
     - Havuzlubahçe Mah
@@ -786,36 +786,36 @@ Seyhan:
     - Sucuzade Mah
   Şakirpaşa:
     postcode: 1100
-    neighboorhoods:
+    neighborhoods:
     - Onur Mah
     - Yeşiloba Mah
   Yağcami:
     postcode: 1010
-    neighboorhoods:
+    neighborhoods:
     - Karasoku Mah
     - Kayalıbağ Mah
     - Tepebağ Mah
     - Ulucamii Mah
   Yeşilevler:
     postcode: 1180
-    neighboorhoods:
+    neighborhoods:
     - Demetevler Mah
     - İsmetpaşa Mah
     - Narlıca Mah
     - Yeşilevler Mah
   Yeşiloba:
     postcode: 1110
-    neighboorhoods:
+    neighborhoods:
     - Sarıhamzalı Mah
     - Söğütlü Mah
   Yeşilyurt:
     postcode: 1150
-    neighboorhoods:
+    neighborhoods:
     - Yenibaraj Mah
     - Yeşilyurt Mah
   Ziyapaşa:
     postcode: 1140
-    neighboorhoods:
+    neighborhoods:
     - Gazipaşa Mah
     - Namık Kemal Mah
     - Sümer Mah
@@ -823,7 +823,7 @@ Seyhan:
 Tufanbeyli:
   Damlalı:
     postcode: 1642
-    neighboorhoods:
+    neighborhoods:
     - Akçal Mah
     - Akpınar Mah
     - Ayvat Mah
@@ -856,14 +856,14 @@ Tufanbeyli:
     - Yeşilova Mah
   Tufanbeyli:
     postcode: 1640
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - İstiklal Mah
     - Yenicami Mah
 Yumurtalık:
   Kalemli:
     postcode: 1682
-    neighboorhoods:
+    neighborhoods:
     - Asmalı Mah
     - Ayvalık Mah
     - Demirtaş Mah
@@ -884,7 +884,7 @@ Yumurtalık:
     - Zeytinbeli Mah
   Yumurtalık:
     postcode: 1680
-    neighboorhoods:
+    neighborhoods:
     - Akdeniz Mah
     - Akyuva Mah
     - Ayas Mah
@@ -894,11 +894,11 @@ Yumurtalık:
 Yüreğir:
   Abdioğlu:
     postcode: 1358
-    neighboorhoods:
+    neighborhoods:
     - Yakapınar Mah
   Alihocalı:
     postcode: 1415
-    neighboorhoods:
+    neighborhoods:
     - Abdioğlu Cumhuriyet Mah
     - Ağzıbüyük Mah
     - Akarcalı Mah
@@ -959,7 +959,7 @@ Yüreğir:
     - Zağarlı Mah
   Bahçelievler:
     postcode: 1285
-    neighboorhoods:
+    neighborhoods:
     - 19 Mayıs Mah
     - Anadolu Mah
     - Bahçelievler Mah
@@ -972,25 +972,25 @@ Yüreğir:
     - Yunus Emre Mah
   Doğankent:
     postcode: 1370
-    neighboorhoods:
+    neighborhoods:
     - Doğankent Bahçelievler Mah
     - Doğankent Cumhuriyet Mah
     - Doğankent Kışla Mah
     - Gazipaşa Mah
   Havutlu:
     postcode: 1375
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Havutlu Mah
     - Solaklı Cumhuriyet Mah
     - Solaklı Hürriyet Mah
   İncirlik:
     postcode: 1965
-    neighboorhoods:
+    neighborhoods:
     - İncirlik Cumhuriyet Mah
   Karacaoğlan:
     postcode: 1260
-    neighboorhoods:
+    neighborhoods:
     - Atakent Mah
     - Çamlıbel Mah
     - Dervişler Mah
@@ -1001,22 +1001,22 @@ Yüreğir:
     - Ulubatlı Hasan Mah
   Karşıyaka:
     postcode: 1280
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Güneşli Mah
   Kazımkarabekir:
     postcode: 1230
-    neighboorhoods:
+    neighborhoods:
     - Kazım Karabekir Mah
     - Kışla Mah
     - Köprülü Mah
   Keresteciler:
     postcode: 1263
-    neighboorhoods:
+    neighborhoods:
     - Yenidoğan Mah
   Pttevleri:
     postcode: 1240
-    neighboorhoods:
+    neighborhoods:
     - Dadaloğlu Mah
     - Karacaoğlan Mah
     - P.t.t Mah
@@ -1024,18 +1024,18 @@ Yüreğir:
     - Serinevler Mah
   Yakapınar:
     postcode: 1350
-    neighboorhoods:
+    neighborhoods:
     - Eski Misis Mah
   Yamaçlı:
     postcode: 1291
-    neighboorhoods:
+    neighborhoods:
     - Akdeniz Mah
     - Haydaroğlu Mah
     - Seyhan Mah
     - Yamaçlı Mah
   Yavuzlar:
     postcode: 1220
-    neighboorhoods:
+    neighborhoods:
     - Akıncılar Mah
     - Özgür Mah
     - Sarıçam Mah

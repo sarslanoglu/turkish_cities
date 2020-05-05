@@ -2,7 +2,7 @@
 Altınözü:
   Altınözü:
     postcode: 31750
-    neighboorhoods:
+    neighborhoods:
     - Akamber Mah
     - Akdarı Mah
     - Alakent Mah
@@ -54,7 +54,7 @@ Altınözü:
 Antakya:
   Esentepe:
     postcode: 31040
-    neighboorhoods:
+    neighborhoods:
     - Altınçay Mah
     - Cumhuriyet Mah
     - Emek Mah
@@ -63,7 +63,7 @@ Antakya:
     - Gazi Mah
   Haraparası:
     postcode: 31060
-    neighboorhoods:
+    neighborhoods:
     - Açıkdere Mah
     - Akcurun Mah
     - Akçaova Mah
@@ -137,7 +137,7 @@ Antakya:
     - Zülüflühan Mah
   Kanatlı:
     postcode: 31030
-    neighboorhoods:
+    neighborhoods:
     - Akasya Mah
     - Akevler Mah
     - Aksaray Mah
@@ -150,7 +150,7 @@ Antakya:
     - Ürgen Paşa Mah
   Kışlasaray:
     postcode: 31070
-    neighboorhoods:
+    neighborhoods:
     - Bağrıyanık Mah
     - Fevzi Çakmak Mah
     - Gazi Paşa Mah
@@ -162,7 +162,7 @@ Antakya:
 Arsuz:
   Arsuz:
     postcode: 31225
-    neighboorhoods:
+    neighborhoods:
     - Akçalı Mah
     - Arpaçiftlik Mah
     - Arpagedik Mah
@@ -192,7 +192,7 @@ Arsuz:
     - Yukarıkepirce Mah
   Karaağaç:
     postcode: 31290
-    neighboorhoods:
+    neighborhoods:
     - Arpaderesi Mah
     - Harlısu Mah
     - Karaağaç Cumhuriyet Mah
@@ -207,7 +207,7 @@ Arsuz:
 Belen:
   Belen:
     postcode: 31350
-    neighboorhoods:
+    neighborhoods:
     - Atik Mah
     - Bakras Mah
     - Benlidere Mah
@@ -230,7 +230,7 @@ Belen:
 Defne:
   Defne:
     postcode: 31160
-    neighboorhoods:
+    neighborhoods:
     - Akdeniz Mah
     - Aknehir Mah
     - Armutlu Mah
@@ -271,7 +271,7 @@ Defne:
 Dörtyol:
   Dörtyol:
     postcode: 31600
-    neighboorhoods:
+    neighborhoods:
     - Altınçağ Mah
     - Çatköy Mah
     - Çaylı Mah
@@ -290,7 +290,7 @@ Dörtyol:
 Erzin:
   Erzin:
     postcode: 31960
-    neighboorhoods:
+    neighborhoods:
     - Aşağıburnaz Mah
     - Bahçelievler Mah
     - Başlamış Mah
@@ -314,7 +314,7 @@ Erzin:
 Hassa:
   Hassa:
     postcode: 31700
-    neighboorhoods:
+    neighborhoods:
     - 15 Kasım Mah
     - Akbez Mah
     - Akkülek Mah
@@ -357,7 +357,7 @@ Hassa:
 İskenderun:
   Azganlık:
     postcode: 31280
-    neighboorhoods:
+    neighborhoods:
     - Akarca Mah
     - Akçay Mah
     - Aşkarbeyli Mah
@@ -378,7 +378,7 @@ Hassa:
     - Suçıkağı Mah
   Cumhuriyet:
     postcode: 31200
-    neighboorhoods:
+    neighborhoods:
     - Barbaros Mah
     - Cumhuriyet Mah
     - Hürriyet Mah
@@ -389,7 +389,7 @@ Hassa:
     - Yenişehir Mah
   Meydan:
     postcode: 31230
-    neighboorhoods:
+    neighborhoods:
     - Gürsel Mah
     - İsmet İnönü Mah
     - Meydan Mah
@@ -398,7 +398,7 @@ Hassa:
     - Pınarbaşı Mah
   Sanayi:
     postcode: 31300
-    neighboorhoods:
+    neighborhoods:
     - Çay Mah
     - Dumlupınar Mah
     - Fatih Sultan Mehmet Mah
@@ -409,7 +409,7 @@ Hassa:
     - Yunus Emre Mah
   Tepeler:
     postcode: 31240
-    neighboorhoods:
+    neighborhoods:
     - Barıştepe Mah
     - Buluttepe Mah
     - Esentepe Mah
@@ -419,7 +419,7 @@ Hassa:
 Kırıkhan:
   Kırıkhan:
     postcode: 31440
-    neighboorhoods:
+    neighborhoods:
     - 408 Evler Mah
     - Abalaklı Mah
     - Adalar Mah
@@ -496,7 +496,7 @@ Kırıkhan:
 Kumlu:
   Kumlu:
     postcode: 31520
-    neighboorhoods:
+    neighborhoods:
     - Akkerpiç Mah
     - Akkuyu Mah
     - Akpınar Mah
@@ -516,7 +516,7 @@ Kumlu:
 Payas:
   Payas:
     postcode: 31900
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Çağlalık Mah
     - Fatih Mah
@@ -533,7 +533,7 @@ Payas:
 Reyhanlı:
   Reyhanlı:
     postcode: 31500
-    neighboorhoods:
+    neighborhoods:
     - Adabucak Mah
     - Ahmetbeyli Mah
     - Akyayla Mah
@@ -584,7 +584,7 @@ Reyhanlı:
 Samandağ:
   Samandağ:
     postcode: 31800
-    neighboorhoods:
+    neighborhoods:
     - Ataköy Mah
     - Atatürk Mah
     - Avcılar Mah
@@ -630,7 +630,7 @@ Samandağ:
 Yayladağı:
   Yayladağı:
     postcode: 31550
-    neighboorhoods:
+    neighborhoods:
     - Arslanyazı Mah
     - Aşağıpulluyazı Mah
     - Aydınbahçe Mah

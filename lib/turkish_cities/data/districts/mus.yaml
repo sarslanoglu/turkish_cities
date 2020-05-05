@@ -2,7 +2,7 @@
 Bulanık:
   Bulanık:
     postcode: 49500
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Güllüova Mah
     - İnönü Mah
@@ -13,7 +13,7 @@ Bulanık:
     - Zafer Mah
   Erentepe:
     postcode: 49510
-    neighboorhoods:
+    neighborhoods:
     - Abdalbeyazıt Mah (Uzgörür Köyü)
     - Akçaarmut Köyü
     - Alagez Mah (Uzgörür Köyü)
@@ -55,7 +55,7 @@ Bulanık:
     - Ziyaret Mah (Dokuzpınar Köyü)
   Merkezköyler:
     postcode: 49502
-    neighboorhoods:
+    neighborhoods:
     - Adıvar Köyü
     - Akçakaynak Köyü
     - Altınoluk Köyü
@@ -142,13 +142,13 @@ Bulanık:
 Hasköy:
   Hasköy:
     postcode: 49700
-    neighboorhoods:
+    neighborhoods:
     - Kültür Mah
     - Sayanlar Mah
     - Sunay Mah
   Merkezköyler:
     postcode: 49702
-    neighboorhoods:
+    neighborhoods:
     - 15 Temmuz Mah
     - Aşağıüçdam Köyü
     - Azıklı Köyü
@@ -181,13 +181,13 @@ Hasköy:
 Korkut:
   Korkut:
     postcode: 49800
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Kültür Mah
     - Şehitler Mah
   Merkezköyler:
     postcode: 49802
-    neighboorhoods:
+    neighborhoods:
     - Akyıldız Köyü
     - Aladino Mah (İçboğaz Köyü)
     - Alazlı Köyü
@@ -233,7 +233,7 @@ Korkut:
 Malazgirt:
   Aktuzla:
     postcode: 49540
-    neighboorhoods:
+    neighborhoods:
     - 1 Mah (Ağılbaşı Köyü)
     - 2 Mah (Ağılbaşı Köyü)
     - Bademözü Köyü
@@ -269,7 +269,7 @@ Malazgirt:
     - Yurtseven Köyü
   Karahasan:
     postcode: 49430
-    neighboorhoods:
+    neighborhoods:
     - Adaksu Köyü
     - Akören Köyü
     - Bekirhan Mah (Karaali Köyü)
@@ -289,7 +289,7 @@ Malazgirt:
     - Yaramış Köyü
   Malazgirt:
     postcode: 49400
-    neighboorhoods:
+    neighborhoods:
     - Adalar Mah
     - Afşin Mah
     - Aksungur Mah
@@ -304,7 +304,7 @@ Malazgirt:
     - Şekerbulak Mah
   Merkezköyler:
     postcode: 49402
-    neighboorhoods:
+    neighborhoods:
     - Alınca Mah (Mezraaköy Köyü)
     - Alyar Köyü
     - Aradere Köyü
@@ -329,7 +329,7 @@ Malazgirt:
     - Tatlıca Köyü
   Nurettin:
     postcode: 49420
-    neighboorhoods:
+    neighborhoods:
     - 1 Mah (Bahçe Köyü)
     - 2 Mah (Bahçe Köyü)
     - Akalan Köyü
@@ -354,7 +354,7 @@ Malazgirt:
 Merkez:
   Merkez:
     postcode: 49001
-    neighboorhoods:
+    neighborhoods:
     - Dere Mah
     - Hürriyet Mah
     - Kale Mah
@@ -368,7 +368,7 @@ Merkez:
     - Zafer Mah
   Merkezköyler:
     postcode: 49250
-    neighboorhoods:
+    neighborhoods:
     - 15 Temmuz Milli İrade Mah
     - Ağaçlık Mah (Ağaçlık Köyü)
     - Ağartı Köyü
@@ -594,7 +594,7 @@ Merkez:
 Varto:
   Çaylar:
     postcode: 49610
-    neighboorhoods:
+    neighborhoods:
     - Abbas Mah (Kartaldere Köyü)
     - Alabalık Köyü
     - Ali Mah (Köprücük Köyü)
@@ -640,7 +640,7 @@ Varto:
     - Yeşiltepe Mah (Beşikkaya Köyü)
   Merkezköyler:
     postcode: 49602
-    neighboorhoods:
+    neighborhoods:
     - Acarkent Köyü
     - Ada Mevkii Mah (Zorabat Köyü)
     - Ağaçaltı Köyü
@@ -739,7 +739,7 @@ Varto:
     - Zorabat Köyü
   Varto:
     postcode: 49600
-    neighboorhoods:
+    neighborhoods:
     - Alagöz Mah
     - Bahçelievler Mah
     - Gümgüm Mah

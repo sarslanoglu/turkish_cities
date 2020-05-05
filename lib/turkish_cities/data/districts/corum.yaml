@@ -2,7 +2,7 @@
 Alaca:
   Alaca:
     postcode: 19600
-    neighboorhoods:
+    neighborhoods:
     - Ayhan Mah
     - Cengizhan Mah
     - Cumhuriyet Mah
@@ -12,7 +12,7 @@ Alaca:
     - Yıldızhan Mah
   Merkezköyler:
     postcode: 19602
-    neighboorhoods:
+    neighborhoods:
     - Akçaköy Köyü
     - Akçiçek Köyü
     - Akören Köyü
@@ -120,7 +120,7 @@ Alaca:
 Bayat:
   Bayat:
     postcode: 19800
-    neighboorhoods:
+    neighborhoods:
     - Dere Mah
     - Kayabaşı Mah
     - Tepebayat Mah
@@ -128,7 +128,7 @@ Bayat:
     - Yeni Mah
   Merkezköyler:
     postcode: 19802
-    neighboorhoods:
+    neighborhoods:
     - Akkaya Mah (Saray Köyü)
     - Akseki Köyü
     - Alibey Mah (Eskialibey Köyü)
@@ -234,13 +234,13 @@ Bayat:
 Boğazkale:
   Boğazkale:
     postcode: 19310
-    neighboorhoods:
+    neighborhoods:
     - Çarşı Mah
     - Hattusas Mah
     - Hisar Mah
   Merkezköyler:
     postcode: 19312
-    neighboorhoods:
+    neighborhoods:
     - Bağlarbaşı Mah (Yekbas Köyü)
     - Bahçelievler Mah (Yekbas Köyü)
     - Çarşıcuma Köyü
@@ -262,7 +262,7 @@ Boğazkale:
 Dodurga:
   Dodurga:
     postcode: 19060
-    neighboorhoods:
+    neighborhoods:
     - Çatar Mah
     - Doğu Mah
     - Esentepe Mah
@@ -271,7 +271,7 @@ Dodurga:
     - Yenimahalle Mah
   Merkezköyler:
     postcode: 19062
-    neighboorhoods:
+    neighborhoods:
     - Akkaya Köyü
     - Camii Mah (Alpagut Köyü)
     - Cumhuriyet Mah (Alpagut Köyü)
@@ -298,7 +298,7 @@ Dodurga:
 İskilip:
   İskilip:
     postcode: 19400
-    neighboorhoods:
+    neighborhoods:
     - Bahabey Mah
     - Büyüktaş Mah
     - Çavuş Mah
@@ -315,7 +315,7 @@ Dodurga:
     - Yenicami Mah
   Merkezköyler:
     postcode: 19402
-    neighboorhoods:
+    neighborhoods:
     - Acıpınar Mah (Musular Köyü)
     - Ahlat Mah (Karaçukur Köyü)
     - Ahlatcık Köyü
@@ -510,7 +510,7 @@ Dodurga:
 Kargı:
   Kargı:
     postcode: 19900
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Fatih Mah
     - İmambey Mah
@@ -519,7 +519,7 @@ Kargı:
     - Yeni Mah
   Merkezköyler:
     postcode: 19902
-    neighboorhoods:
+    neighborhoods:
     - Abdi Mah (Saraçlar Köyü)
     - Acekse Mah (Bademce Köyü)
     - Akçayazı Mah (Arık Köyü)
@@ -734,13 +734,13 @@ Kargı:
 Laçin:
   Laçin:
     postcode: 19020
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Fatih Mah
     - Yeni Mah
   Merkezköyler:
     postcode: 19022
-    neighboorhoods:
+    neighborhoods:
     - Ada Mah (Narlı Köyü)
     - Bağlarbaşı Mah (Narlı Köyü)
     - Cavraşlar Mah (Narlı Köyü)
@@ -765,7 +765,7 @@ Laçin:
 Mecitözü:
   Mecitözü:
     postcode: 19700
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Bahçelievler Mah (Elvançelebi Köyü)
     - Camikebir Mah
@@ -779,7 +779,7 @@ Mecitözü:
     - Tutluk Mah
   Merkezköyler:
     postcode: 19702
-    neighboorhoods:
+    neighborhoods:
     - Ağcakoyun Köyü
     - Akpınar Köyü
     - Alancık Köyü
@@ -842,20 +842,20 @@ Mecitözü:
 Merkez:
   Gülabibey:
     postcode: 19100
-    neighboorhoods:
+    neighborhoods:
     - Gülabibey Mah
     - Kale Mah
     - Mimarsinan Mah
   Karakeçili:
     postcode: 19030
-    neighboorhoods:
+    neighborhoods:
     - Buharaevler Mah
     - Karakeçili Mah
     - Pınarçayosb Mah
     - Üçtutlar Mah
   Merkezköyler:
     postcode: 19010
-    neighboorhoods:
+    neighborhoods:
     - Abdalata Köyü
     - Ahiilyas Köyü
     - Ahiilyas Mah (Ahiilyas Köyü)
@@ -1154,7 +1154,7 @@ Merkez:
     - Yunusemre Mah (Seydim Köyü)
   Ulukavak:
     postcode: 19040
-    neighboorhoods:
+    neighborhoods:
     - Ak Kent Mah
     - Çepni Mah
     - Çöplü Mah
@@ -1162,14 +1162,14 @@ Merkez:
     - Ulukavak Mah
   Yeniyol:
     postcode: 19200
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Yavruturna Mah
     - Yeniyol Mah
 Oğuzlar:
   Karaören:
     postcode: 19070
-    neighboorhoods:
+    neighborhoods:
     - Asarçay Mah
     - Birtatlı Mah
     - Çarşı Mah
@@ -1179,7 +1179,7 @@ Oğuzlar:
     - Kızılcapelit Mah
   Merkezköyler:
     postcode: 19072
-    neighboorhoods:
+    neighborhoods:
     - Aşırlık Mah (Ağaççamı Köyü)
     - Çaparahmetler Mah (Ağaççamı Köyü)
     - Çemal Mah (Ağaççamı Köyü)
@@ -1212,7 +1212,7 @@ Oğuzlar:
 Ortaköy:
   Merkezköyler:
     postcode: 19952
-    neighboorhoods:
+    neighborhoods:
     - Akyar Mah (Senemoğlu Köyü)
     - Asar Köyü
     - Bahçelievler Mah (Aştavul Köyü)
@@ -1234,14 +1234,14 @@ Ortaköy:
     - Yukarı Kuyucak Köyü
   Ortaköy:
     postcode: 19950
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Cumhuriyet Mah
     - Suyolu Mah
 Osmancık:
   Merkezköyler:
     postcode: 19502
-    neighboorhoods:
+    neighborhoods:
     - Ağıroğlan Köyü
     - Ağızsuyu Mah (Gecek Köyü)
     - Ahatlı Mah (Karalargüney Köyü)
@@ -1379,7 +1379,7 @@ Osmancık:
     - Zeyneller Mah (Sarıalan Köyü)
   Osmancık:
     postcode: 19500
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Çay Mah
     - Çiftlikler Mah
@@ -1401,7 +1401,7 @@ Osmancık:
 Sungurlu:
   Merkezköyler:
     postcode: 19302
-    neighboorhoods:
+    neighborhoods:
     - Akçakoyunlu Köyü
     - Akçalı Köyü
     - Akdere Köyü
@@ -1526,7 +1526,7 @@ Sungurlu:
     - Zafer Mah (Kaledere Köyü)
   Sungurlu:
     postcode: 19300
-    neighboorhoods:
+    neighborhoods:
     - Akçakent Mah
     - Akçay Mah
     - Bahçelievler Mah
@@ -1545,7 +1545,7 @@ Sungurlu:
 Uğurludağ:
   Merkezköyler:
     postcode: 19412
-    neighboorhoods:
+    neighborhoods:
     - Anbarcı Köyü
     - Aşılıarmut Köyü
     - Belkavak Köyü
@@ -1568,7 +1568,7 @@ Uğurludağ:
     - Yeniyapan Köyü
   Uğurludağ:
     postcode: 19410
-    neighboorhoods:
+    neighborhoods:
     - Karşıyaka Mah
     - Tutpınar Mah
     - Yenicamii Mah

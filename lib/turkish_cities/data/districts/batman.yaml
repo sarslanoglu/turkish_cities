@@ -2,7 +2,7 @@
 Beşiri:
   Beşiri:
     postcode: 72200
-    neighboorhoods:
+    neighborhoods:
     - Bağdu Mah
     - Behrem Yoğun Mah
     - Cumhuriyet Mah
@@ -11,7 +11,7 @@ Beşiri:
     - Milli Egemenlik Mah
   Merkezköyler:
     postcode: 72202
-    neighboorhoods:
+    neighborhoods:
     - Ağılcık Mah (Örmegöze Köyü)
     - Aktaş Mah (Kaşüstü Köyü)
     - Alaca Köyü
@@ -123,13 +123,13 @@ Beşiri:
 Gercüş:
   Gercüş:
     postcode: 72300
-    neighboorhoods:
+    neighborhoods:
     - Bağlarbaşı Mah
     - Çukurçeşme Mah
     - Pınarbaşı Mah
   Merkezköyler:
     postcode: 72302
-    neighboorhoods:
+    neighborhoods:
     - Akarca Mah (Ardıçlı Köyü)
     - Akbaş Mah (Ardıçlı Köyü)
     - Akburç Köyü
@@ -212,12 +212,12 @@ Gercüş:
 Hasankeyf:
   Hasankeyf:
     postcode: 72350
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Kale Mah
   Merkezköyler:
     postcode: 72352
-    neighboorhoods:
+    neighborhoods:
     - Akalın Köyü
     - Aksu Köyü
     - Atlıhan Mah (Kumluca Köyü)
@@ -249,7 +249,7 @@ Hasankeyf:
 Kozluk:
   Kozluk:
     postcode: 72400
-    neighboorhoods:
+    neighborhoods:
     - Aşağıgüneşli Mah
     - Çaybaşı Mah
     - Değirmendere Mah
@@ -266,7 +266,7 @@ Kozluk:
     - Yukarı Güneşli Mah
   Merkezköyler:
     postcode: 72402
-    neighboorhoods:
+    neighborhoods:
     - Adnan Menderes Mah (Bekirhan Köyü)
     - Ağaçlık Mah
     - Ağılbaş Mah (Beşkonak Köyü)
@@ -471,7 +471,7 @@ Kozluk:
 Merkez:
   Çarşı:
     postcode: 72050
-    neighboorhoods:
+    neighborhoods:
     - 19 Mayıs Mah
     - Aydınlıkevler Mah
     - Beşevler Mah
@@ -485,7 +485,7 @@ Merkez:
     - Yeşiltepe Mah
   Gap:
     postcode: 72070
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Bayındır Mah
     - Belde Mah
@@ -501,7 +501,7 @@ Merkez:
     - Tilmerc Mah
   Kültür:
     postcode: 72060
-    neighboorhoods:
+    neighborhoods:
     - Bağlar Mah
     - Girbereşik Mah
     - Hilal Mah
@@ -513,7 +513,7 @@ Merkez:
     - Ziyagökalp Mah
   Merkezköyler:
     postcode: 72100
-    neighboorhoods:
+    neighborhoods:
     - Akça Köyü
     - Akoba Köyü
     - Aziziye Mah (Yaylıca Köyü)
@@ -585,7 +585,7 @@ Merkez:
     - Yolveren Köyü
   Petrol:
     postcode: 72040
-    neighboorhoods:
+    neighborhoods:
     - Akyürek Mah
     - Çamlıca Mah
     - Güneykent Mah
@@ -599,7 +599,7 @@ Merkez:
 Sason:
   Merkezköyler:
     postcode: 72502
-    neighboorhoods:
+    neighborhoods:
     - Acar Köyü
     - Ağakünük Mah (Dörtbölük Köyü)
     - Ahkar Mezra Mah (Derince Köyü)
@@ -759,7 +759,7 @@ Sason:
     - Zornik Mezra Mah (Taşyuva Köyü)
   Sason:
     postcode: 72500
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Mah
     - Aykut Ozan Mah
     - Beşevler Mah

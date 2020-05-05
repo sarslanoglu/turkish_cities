@@ -2,7 +2,7 @@
 Ardeşen:
   Ardeşen:
     postcode: 53400
-    neighboorhoods:
+    neighborhoods:
     - Bahar Mah
     - Barış Mah
     - Baş Mah
@@ -26,7 +26,7 @@ Ardeşen:
     - Yeni Mah
   Merkezköyler:
     postcode: 53480
-    neighboorhoods:
+    neighborhoods:
     - Açıkmeşe Mah (Çıraklar Köyü)
     - Ada Mah (Tunca Köyü)
     - Akarsu Mah (Güney Köyü)
@@ -186,7 +186,7 @@ Ardeşen:
 Çamlıhemşin:
   Çamlıhemşin:
     postcode: 53750
-    neighboorhoods:
+    neighborhoods:
     - Aşağıçamlıca Mah
     - Aşağışimşirli Mah
     - Kadıköy Mah
@@ -199,7 +199,7 @@ Ardeşen:
     - Yukarıçamlıca Mah
   Merkezköyler:
     postcode: 53780
-    neighboorhoods:
+    neighborhoods:
     - Armağan Mah (Meydanköy Köyü)
     - Aşağı Mah (Köprübaşı Köyü)
     - Aşağı Mah (Yolkıyı Köyü)
@@ -278,7 +278,7 @@ Ardeşen:
 Çayeli:
   Büyükköy:
     postcode: 53210
-    neighboorhoods:
+    neighborhoods:
     - Aloğlu Mah (Karaağaç Köyü)
     - Arıcılar Mah (Derecik Köyü)
     - Aşağı Sırt Mah (Karaağaç Köyü)
@@ -346,7 +346,7 @@ Ardeşen:
     - Yıldırımlar Mah (Armutlu Köyü)
   Çayeli:
     postcode: 53200
-    neighboorhoods:
+    neighborhoods:
     - Adalar Mah
     - Büyükcaferpaşa Mah
     - Büyüktaşhane Mah
@@ -366,7 +366,7 @@ Ardeşen:
     - Yenipazar Mah
   Merkezköyler:
     postcode: 53260
-    neighboorhoods:
+    neighborhoods:
     - Alıcanlar Mah (Beyazsu Köyü)
     - Aloğlu Mah (Madenli Köyü)
     - Alt Mah (Başköy Köyü)
@@ -599,7 +599,7 @@ Ardeşen:
 Derepazarı:
   Derepazarı:
     postcode: 53900
-    neighboorhoods:
+    neighborhoods:
     - Çalışkanlar Mah
     - Eriklimanı Mah
     - Fıçıcılar Mah
@@ -609,7 +609,7 @@ Derepazarı:
     - Tersane Mah
   Merkezköyler:
     postcode: 53940
-    neighboorhoods:
+    neighborhoods:
     - Bahattinpaşa Köyü
     - Bürücek Köyü
     - Çakmakçılar Köyü
@@ -624,7 +624,7 @@ Derepazarı:
 Fındıklı:
   Fındıklı:
     postcode: 53700
-    neighboorhoods:
+    neighborhoods:
     - Aksu Mah
     - Hürriyet Mah
     - Ilıca Mah
@@ -635,7 +635,7 @@ Fındıklı:
     - Yeni Mah
   Merkezköyler:
     postcode: 53740
-    neighboorhoods:
+    neighborhoods:
     - Abdoğlu Mah (Cennet Köyü)
     - Aile Mah (Meyvalı Köyü)
     - Akıncılar Mah (Gürsu Köyü)
@@ -749,7 +749,7 @@ Fındıklı:
 Güneysu:
   Güneysu:
     postcode: 53350
-    neighboorhoods:
+    neighborhoods:
     - Adacami Mah
     - Aşağı Kiremit Mah
     - Başaran Mah
@@ -760,7 +760,7 @@ Güneysu:
     - Ulucamii Mah
   Merkezköyler:
     postcode: 53390
-    neighboorhoods:
+    neighborhoods:
     - Ada Mah (İslahiye Köyü)
     - Alicik Mah (1 Mah) (Gürgen Köyü)
     - Alicik Mah (2 Mah) (Gürgen Köyü)
@@ -814,14 +814,14 @@ Güneysu:
 Hemşin:
   Hemşin:
     postcode: 53550
-    neighboorhoods:
+    neighborhoods:
     - Bahar Mah
     - Mutlu Mah
     - Ortaköy Mah
     - Yeniköy Mah
   Merkezköyler:
     postcode: 53560
-    neighboorhoods:
+    neighborhoods:
     - Akyamaç Köyü
     - Bilenköy Köyü
     - Çamlıtepe Köyü
@@ -833,7 +833,7 @@ Hemşin:
 İkizdere:
   İkizdere:
     postcode: 53650
-    neighboorhoods:
+    neighborhoods:
     - Çağrankaya Mah
     - Çarşı Mah
     - Gündoğdu Mah
@@ -843,7 +843,7 @@ Hemşin:
     - Zafer Mah
   Merkezköyler:
     postcode: 53690
-    neighboorhoods:
+    neighborhoods:
     - Ahmetli Mah (Diktaş Köyü)
     - Aprojli Mah (Ballıköy Köyü)
     - Arkanet Mah (Diktaş Köyü)
@@ -924,7 +924,7 @@ Hemşin:
 İyidere:
   İyidere:
     postcode: 53600
-    neighboorhoods:
+    neighborhoods:
     - Çanakçeşme Mah
     - Fethiye Mah
     - Fıçıtaşı Mah
@@ -936,7 +936,7 @@ Hemşin:
     - Yapraklar Mah
   Merkezköyler:
     postcode: 53610
-    neighboorhoods:
+    neighborhoods:
     - Büyükçiftlikköyü Köyü
     - Çiftlik Köyü
     - Denizgören Köyü
@@ -947,7 +947,7 @@ Hemşin:
 Kalkandere:
   Kalkandere:
     postcode: 53500
-    neighboorhoods:
+    neighborhoods:
     - Adalar Mah
     - Aksu Mah
     - Aşağı Tatlısu Mah
@@ -962,7 +962,7 @@ Kalkandere:
     - Yukarı Tatlısu Mah
   Merkezköyler:
     postcode: 53540
-    neighboorhoods:
+    neighborhoods:
     - Aksu Osb Mah
     - Armutlu Mah (Yolbaşı Köyü)
     - Aşağı Mah (Yeşilköy Köyü)
@@ -1012,7 +1012,7 @@ Kalkandere:
 Merkez:
   Gündoğdu:
     postcode: 53800
-    neighboorhoods:
+    neighborhoods:
     - Akarsu Köyü
     - Akarsu Mah (Akarsu Köyü)
     - Ardına Mah (Balıkçılar Köyü)
@@ -1065,7 +1065,7 @@ Merkez:
     - Yukarı Mah (Söğütlü Köyü)
   Merkezköyler:
     postcode: 53870
-    neighboorhoods:
+    neighborhoods:
     - Akıncılar Mah (Elmalı Köyü)
     - Aktepe Mah (Pazarköy Köyü)
     - Alik Mah (Güzelyurt Köyü)
@@ -1243,7 +1243,7 @@ Merkez:
     - Yukarı Mah (Yemişlik Köyü)
   Rize:
     postcode: 53020
-    neighboorhoods:
+    neighborhoods:
     - Alipaşa Mah
     - Atmeydanı Mah
     - Bağdatlı Mah
@@ -1296,7 +1296,7 @@ Merkez:
 Pazar:
   Merkezköyler:
     postcode: 53340
-    neighboorhoods:
+    neighborhoods:
     - Akbucak Köyü
     - Akmescit Köyü
     - Aktepe Köyü
@@ -1434,7 +1434,7 @@ Pazar:
     - Yukarı Mevki Mah (Yemişli Köyü)
   Pazar:
     postcode: 53300
-    neighboorhoods:
+    neighborhoods:
     - Beyaztaş Mah
     - Cumhuriyet Mah
     - Gazi Mah

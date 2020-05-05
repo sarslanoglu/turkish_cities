@@ -7,6 +7,8 @@ Layout/LineLength:
   Max: 100
 Metrics/BlockLength:
   ExcludedMethods: ['describe', 'context']
+Metrics/MethodLength:
+  Max: 15
 Style/Documentation:
   Enabled: false
 Style/HashEachMethods:

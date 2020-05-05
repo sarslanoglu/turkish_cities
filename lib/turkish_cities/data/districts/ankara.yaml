@@ -2,7 +2,7 @@
 Akyurt:
   Akyurt:
     postcode: 6750
-    neighboorhoods:
+    neighborhoods:
     - Ahmetadil Mah
     - Atatürk Mah
     - Balıkhisar Mah
@@ -32,17 +32,17 @@ Akyurt:
 Altındağ:
   Altındağ:
     postcode: 6080
-    neighboorhoods:
+    neighborhoods:
     - Atıfbey Mah
     - Gültepe Mah
     - Örnek Mah
   Aydınlıkevler:
     postcode: 6130
-    neighboorhoods:
+    neighborhoods:
     - Aydınlıkevler Mah
   Hasköy:
     postcode: 6140
-    neighboorhoods:
+    neighborhoods:
     - Baraj Mah
     - Doğantepe Mah
     - Güneşevler Mah
@@ -50,20 +50,20 @@ Altındağ:
     - Yıldıztepe Mah
   İskitler:
     postcode: 6070
-    neighboorhoods:
+    neighborhoods:
     - Zübeyde Hanım Mah
   Karacaören:
     postcode: 6150
-    neighboorhoods:
+    neighborhoods:
     - Karacaören Mah
   Samanpazarı:
     postcode: 6230
-    neighboorhoods:
+    neighborhoods:
     - Hacettepe Mah
     - Kale Mah
   Ulubey:
     postcode: 6360
-    neighboorhoods:
+    neighborhoods:
     - Aydıncık Mah
     - Başpınar Mah
     - Battalgazi Mah
@@ -78,12 +78,12 @@ Altındağ:
     - Ulubey Mah
   Ulus:
     postcode: 6050
-    neighboorhoods:
+    neighborhoods:
     - Hacı Bayram Mah
 Ayaş:
   Ayaş:
     postcode: 6710
-    neighboorhoods:
+    neighborhoods:
     - Akkaya Mah
     - Başayaş Mah
     - Başbereket Mah
@@ -120,7 +120,7 @@ Ayaş:
 Bala:
   Bala:
     postcode: 6720
-    neighboorhoods:
+    neighborhoods:
     - Abazlı Mah
     - Afşar Mah
     - Ahmetçayırı Mah
@@ -179,7 +179,7 @@ Bala:
 Beypazarı:
   Beypazarı:
     postcode: 6730
-    neighboorhoods:
+    neighborhoods:
     - Acısu Mah
     - Adaören Mah
     - Akçakavak Mah
@@ -261,7 +261,7 @@ Beypazarı:
 Çamlıdere:
   Çamlıdere:
     postcode: 6740
-    neighboorhoods:
+    neighborhoods:
     - Ahatlar Mah
     - Akkaya Mah
     - Alakoç Mah
@@ -313,7 +313,7 @@ Beypazarı:
 Çankaya:
   100.yıl:
     postcode: 6530
-    neighboorhoods:
+    neighborhoods:
     - Çiğdem Mah
     - Çukurambar Mah
     - İşçi Blokları Mah
@@ -322,17 +322,17 @@ Beypazarı:
     - Söğütözü Mah
   Ahlatlıbel:
     postcode: 6805
-    neighboorhoods:
+    neighborhoods:
     - Ahlatlıbel Mah
   Bahçelievler:
     postcode: 6490
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Emek Mah
     - Yukarı Bahçelievler Mah
   Balgat:
     postcode: 6520
-    neighboorhoods:
+    neighborhoods:
     - Balgat Mah
     - Cevizlidere Mah
     - Ehlibeyt Mah
@@ -340,18 +340,18 @@ Beypazarı:
     - Oğuzlar Mah
   Bilkent:
     postcode: 6800
-    neighboorhoods:
+    neighborhoods:
     - Beytepe Mah
     - Mutlukent Mah
     - Üniversiteler Mah
   Birlik:
     postcode: 6610
-    neighboorhoods:
+    neighborhoods:
     - Birlik Mah
     - Kırkkonaklar Mah
   Cebeci:
     postcode: 6590
-    neighboorhoods:
+    neighborhoods:
     - 50.yıl Mah
     - Arka Topraklık Mah
     - Cebeci Mah
@@ -366,7 +366,7 @@ Beypazarı:
     - Topraklık Mah
   Çankaya:
     postcode: 6690
-    neighboorhoods:
+    neighborhoods:
     - Ayrancı Mah
     - Aziziye Mah
     - Çankaya Mah
@@ -374,7 +374,7 @@ Beypazarı:
     - Güzeltepe Mah
   Çayyolu:
     postcode: 6810
-    neighboorhoods:
+    neighborhoods:
     - Alacaatlı Mah
     - Çayyolu Mah
     - Dodurga Mah
@@ -385,7 +385,7 @@ Beypazarı:
     - Yaşamkent Mah
   Dikmen:
     postcode: 6450
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Mah
     - Gökkuşağı Mah
     - İlkadım Mah
@@ -399,7 +399,7 @@ Beypazarı:
     - Osman Temiz Mah
   Esat:
     postcode: 6660
-    neighboorhoods:
+    neighborhoods:
     - Doğuş Mah
     - Esatoğlu Mah
     - Küçükesat Mah
@@ -408,7 +408,7 @@ Beypazarı:
     - Tınaztepe Mah
   Karataş:
     postcode: 6705
-    neighboorhoods:
+    neighborhoods:
     - Akarlar Mah
     - Aşağı İmrahor Mah
     - Çavuşlu Mah
@@ -423,7 +423,7 @@ Beypazarı:
     - Yeşilkent Mah
   Kavaklıdere:
     postcode: 6680
-    neighboorhoods:
+    neighborhoods:
     - 100.yıl Mah
     - Barbaros Mah
     - Büyükesat Mah
@@ -433,7 +433,7 @@ Beypazarı:
     - Remzi Oğuz Arık Mah
   Maltepe:
     postcode: 6570
-    neighboorhoods:
+    neighborhoods:
     - Anıttepe Mah
     - Eti Mah
     - Maltepe Mah
@@ -441,7 +441,7 @@ Beypazarı:
     - Yücetepe Mah
   Öveçler:
     postcode: 6460
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Öveçler Mah
     - Ata Mah
     - Aydınlar Mah
@@ -454,7 +454,7 @@ Beypazarı:
     - Yukarı Öveçler Mah
   Yenişehir:
     postcode: 6420
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Devlet Mah
     - Fidanlık Mah
@@ -467,7 +467,7 @@ Beypazarı:
     - Sağlık Mah
   Yıldız:
     postcode: 6550
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Dikmen Mah
     - Hilal Mah
     - İlkbahar Mah
@@ -477,7 +477,7 @@ Beypazarı:
     - Yukarı Dikmen Mah
   Zafertepe:
     postcode: 6670
-    neighboorhoods:
+    neighborhoods:
     - Aşıkpaşa Mah
     - Bademlidere Mah
     - Bağcılar Mah
@@ -492,7 +492,7 @@ Beypazarı:
 Çubuk:
   Çubuk:
     postcode: 6760
-    neighboorhoods:
+    neighborhoods:
     - Ağılcık Mah
     - Akbayır Mah
     - Akkuzulu Mah
@@ -581,7 +581,7 @@ Beypazarı:
 Elmadağ:
   Elmadağ:
     postcode: 6780
-    neighboorhoods:
+    neighborhoods:
     - Akçaali Mah
     - Aşağıkamışlı Mah
     - Deliler Mah
@@ -608,7 +608,7 @@ Elmadağ:
     - Yukarıkamışlı Mah
   Hasanoğlan:
     postcode: 6850
-    neighboorhoods:
+    neighborhoods:
     - Hasanoğlan Bahçelievler Mah
     - Hasanoğlan Fatih Mah
     - Hasanoğlan Havuzbaşı Mah
@@ -618,7 +618,7 @@ Elmadağ:
 Etimesgut:
   30ağustos:
     postcode: 6794
-    neighboorhoods:
+    neighborhoods:
     - 30 Ağustos Mah
     - Ahi Mesut Mah
     - Elvan Mah
@@ -627,11 +627,11 @@ Etimesgut:
     - Süvari Mah
   Bahçekapı:
     postcode: 6797
-    neighboorhoods:
+    neighborhoods:
     - Bahçekapı Mah
   Elvankent:
     postcode: 6796
-    neighboorhoods:
+    neighborhoods:
     - Atakent Mah
     - Ayyıldız Mah
     - Etiler Mah
@@ -640,13 +640,13 @@ Etimesgut:
     - Yeşilova Mah
   Eryamanevleri:
     postcode: 6824
-    neighboorhoods:
+    neighborhoods:
     - Eryaman Mah
     - Şeyh Şamil Mah
     - Tunahan Mah
   Etimesgut:
     postcode: 6790
-    neighboorhoods:
+    neighborhoods:
     - Alsancak Mah
     - Bağlıca Mah
     - Erler Mah
@@ -655,19 +655,19 @@ Etimesgut:
     - Yapracık Mah
   Göksu:
     postcode: 6820
-    neighboorhoods:
+    neighborhoods:
     - Altay Mah
     - Göksu Mah
     - Şehit Osman Avcı Mah
     - Şeker Mah
   Güzelkent:
     postcode: 6827
-    neighboorhoods:
+    neighborhoods:
     - Güzelkent Mah
     - Yavuz Selim Mah
   Yurtçu:
     postcode: 6815
-    neighboorhoods:
+    neighborhoods:
     - Aşağıyurtçu Mah
     - Atayurt Mah
     - Balıkuyumcu Mah
@@ -679,7 +679,7 @@ Etimesgut:
 Evren:
   Evren:
     postcode: 6770
-    neighboorhoods:
+    neighborhoods:
     - Altınbaşak Mah
     - Cebirli Mah
     - Çatalpınar Mah
@@ -696,7 +696,7 @@ Evren:
 Gölbaşı:
   Gölbaşı:
     postcode: 6830
-    neighboorhoods:
+    neighborhoods:
     - Ahiboz Mah
     - Akörençarşak Mah
     - Altunçanak Mah
@@ -754,7 +754,7 @@ Gölbaşı:
 Güdül:
   Güdül:
     postcode: 6840
-    neighboorhoods:
+    neighborhoods:
     - Adalıkuzu Mah
     - Afşar Mah
     - Akbaş Mah
@@ -789,7 +789,7 @@ Güdül:
 Haymana:
   Haymana:
     postcode: 6860
-    neighboorhoods:
+    neighborhoods:
     - Ahırlıkuyu Mah
     - Alaçık Mah
     - Alahacılı Mah
@@ -871,7 +871,7 @@ Haymana:
 Kahramankazan:
   Kazan:
     postcode: 6980
-    neighboorhoods:
+    neighborhoods:
     - Ahi Mah
     - Akçaören Mah
     - Akıncı Mah
@@ -924,7 +924,7 @@ Kahramankazan:
 Kalecik:
   Kalecik:
     postcode: 6870
-    neighboorhoods:
+    neighborhoods:
     - Afşar Mah
     - Ahikemalşenyurt Mah
     - Ahiler Yenice Mah
@@ -985,7 +985,7 @@ Kalecik:
 Keçiören:
   Aktepe:
     postcode: 6300
-    neighboorhoods:
+    neighborhoods:
     - 23 Nisan Mah
     - Adnan Menderes Mah
     - Aktepe Mah
@@ -1002,7 +1002,7 @@ Keçiören:
     - Yeşiltepe Mah
   Bağlum:
     postcode: 6291
-    neighboorhoods:
+    neighborhoods:
     - Bağlum Güzelyurt Mah
     - Çalseki Mah
     - Hisar Mah
@@ -1013,7 +1013,7 @@ Keçiören:
     - Sarıbeyler Mah
   Esertepe:
     postcode: 6220
-    neighboorhoods:
+    neighborhoods:
     - Esertepe Mah
     - Sancaktepe Mah
     - Şehit Kubilay Mah
@@ -1021,40 +1021,40 @@ Keçiören:
     - Yükseltepe Mah
   Etlik:
     postcode: 6010
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Eğlence Mah
     - Ayvalı Mah
     - Basınevleri Mah
     - Emrah Mah
     - Etlik Mah
     - İncirli Mah
-  Hasköy s.evleri:
+  Hasköy:
     postcode: 6135
-    neighboorhoods:
+    neighborhoods:
     - Gümüşdere Mah
     - Hasköy Mah
     - Kavacık Subayevleri Mah
   Kalaba:
     postcode: 6120
-    neighboorhoods:
+    neighborhoods:
     - Kalaba Mah
     - Karargahtepe Mah
   Sanatoryum:
     postcode: 6290
-    neighboorhoods:
+    neighborhoods:
     - 19 Mayıs Mah
     - Çiçekli Mah
     - Kuşcağız Mah
     - Tepebaşı Mah
   Şenlik:
     postcode: 6310
-    neighboorhoods:
+    neighborhoods:
     - Güçlükaya Mah
     - Şenlik Mah
     - Yakacık Mah
   Ufuktepe:
     postcode: 6280
-    neighboorhoods:
+    neighborhoods:
     - Atapark Mah
     - Kanuni Mah
     - Osmangazi Mah
@@ -1064,7 +1064,7 @@ Keçiören:
 Kızılcahamam:
   Kızılcahamam:
     postcode: 6890
-    neighboorhoods:
+    neighborhoods:
     - Akçakese Mah
     - Akçay Mah
     - Akdoğan Mah
@@ -1177,7 +1177,7 @@ Kızılcahamam:
 Mamak:
   Abidinpaşa:
     postcode: 6620
-    neighboorhoods:
+    neighborhoods:
     - Abidinpaşa Mah
     - Aşık Veysel Mah
     - Balkiraz Mah
@@ -1188,7 +1188,7 @@ Mamak:
     - Tuzluçayır Mah
   Akdere:
     postcode: 6630
-    neighboorhoods:
+    neighborhoods:
     - Akdere Mah
     - General Zeki Doğan Mah
     - Kazım Orbay Mah
@@ -1199,7 +1199,7 @@ Mamak:
     - Türközü Mah
   Boğaziçi:
     postcode: 6480
-    neighboorhoods:
+    neighborhoods:
     - Akşemsettin Mah
     - Boğaziçi Mah
     - Cengizhan Mah
@@ -1215,12 +1215,12 @@ Mamak:
     - Yeşilbayır Mah
   Demirlibahçe:
     postcode: 6340
-    neighboorhoods:
+    neighborhoods:
     - Demirlibahçe Mah
     - Şafaktepe Mah
   Gülveren:
     postcode: 6350
-    neighboorhoods:
+    neighborhoods:
     - Altınevler Mah
     - Bahçelerüstü Mah
     - Diriliş Mah
@@ -1228,13 +1228,13 @@ Mamak:
     - Hürel Mah
   Hüseyingazi:
     postcode: 6320
-    neighboorhoods:
+    neighborhoods:
     - Başak Mah
     - Bostancık Mah
     - Ekin Mah
   Kayaş:
     postcode: 6270
-    neighboorhoods:
+    neighborhoods:
     - Araplar Mah
     - Bayındır Mah
     - Derbent Mah
@@ -1252,12 +1252,12 @@ Mamak:
     - Zirvekent Mah
   Lalahan:
     postcode: 6852
-    neighboorhoods:
+    neighborhoods:
     - Karşıyaka Mah
     - Lalahan Mah
   Mamak:
     postcode: 6260
-    neighboorhoods:
+    neighborhoods:
     - Altıağaç Mah
     - Bahçeleriçi Mah
     - Çiğiltepe Mah
@@ -1269,7 +1269,7 @@ Mamak:
 Nallıhan:
   Nallıhan:
     postcode: 6920
-    neighboorhoods:
+    neighborhoods:
     - 100.yıl Mah
     - Akdere Mah
     - Aksu Mah
@@ -1357,7 +1357,7 @@ Nallıhan:
 Polatlı:
   Polatlı:
     postcode: 6900
-    neighboorhoods:
+    neighborhoods:
     - Adatoprakpınar Mah
     - Avdanlı Mah
     - Avşar Mah
@@ -1457,7 +1457,7 @@ Polatlı:
 Pursaklar:
   Pursaklar:
     postcode: 6145
-    neighboorhoods:
+    neighborhoods:
     - Abadan Mah
     - Altınova Mah
     - Ayyıldız Mah
@@ -1482,12 +1482,12 @@ Pursaklar:
 Sincan:
   Ahievran:
     postcode: 6935
-    neighboorhoods:
+    neighborhoods:
     - Ahi Evran Mah
     - Ahi Evran Osb Mah
   Fatih:
     postcode: 6932
-    neighboorhoods:
+    neighborhoods:
     - Fatih Mah
     - Gazi Osmanpaşa Mah
     - Gökçek Mah
@@ -1497,7 +1497,7 @@ Sincan:
     - Yunus Emre Mah
   Sincan:
     postcode: 6930
-    neighboorhoods:
+    neighborhoods:
     - Akşemsettin Mah
     - Anayurt Mah
     - Andiçen Mah
@@ -1522,7 +1522,7 @@ Sincan:
     - Yenipeçenek Mah
   Temelli:
     postcode: 6909
-    neighboorhoods:
+    neighborhoods:
     - Alagöz Mah
     - Alcı Mah
     - Alcı Osb Mah
@@ -1544,7 +1544,7 @@ Sincan:
     - Yenihisar Mah
   Yenikent:
     postcode: 6946
-    neighboorhoods:
+    neighborhoods:
     - 29 Ekim Mah
     - Adalet Mah
     - Akçaören Mah
@@ -1560,7 +1560,7 @@ Sincan:
 Şereflikoçhisar:
   Şereflikoçhisar:
     postcode: 6950
-    neighboorhoods:
+    neighborhoods:
     - Acıkuyu Mah
     - Acıöz Mah
     - Akarca Mah
@@ -1628,13 +1628,13 @@ Sincan:
 Yenimahalle:
   A.o.çiftliği:
     postcode: 6560
-    neighboorhoods:
+    neighborhoods:
     - Beştepe Mah
     - Emniyet Mah
     - Gazi Mah
   Batıkent:
     postcode: 6370
-    neighboorhoods:
+    neighborhoods:
     - Batı Sitesi Mah
     - Ergazi Mah
     - İlkyerleşim Mah
@@ -1646,28 +1646,28 @@ Yenimahalle:
     - Yeni Batı Mah
   Demetevler:
     postcode: 6200
-    neighboorhoods:
+    neighborhoods:
     - 25 Mart Mah
     - Çamlıca Mah
     - Demetevler Mah
     - Demetgül Mah
     - Demetlale Mah
     - Mehmet Akif Ersoy Mah
-  İvedik osb:
+  İvedik OSB:
     postcode: 6378
-    neighboorhoods:
+    neighborhoods:
     - İvedikköy Mah
     - İvedikosb Mah
   Karşıyaka:
     postcode: 6190
-    neighboorhoods:
+    neighborhoods:
     - Barış Mah
     - Karşıyaka Mah
     - Özevler Mah
     - Yeşilevler Mah
   Macunköy:
     postcode: 6105
-    neighboorhoods:
+    neighborhoods:
     - Ata Mah
     - Karacakaya Mah
     - Kuzey Yıldızı Mah
@@ -1678,13 +1678,13 @@ Yenimahalle:
     - Yuvaköy Mah
   Ostim:
     postcode: 6374
-    neighboorhoods:
+    neighborhoods:
     - Ostim Mah
     - Ostim Osb Mah
     - Serhat Mah
   Şentepe:
     postcode: 6210
-    neighboorhoods:
+    neighborhoods:
     - Anadolu Mah
     - Aşağı Yahyalar Mah
     - Avcılar Mah
@@ -1699,7 +1699,7 @@ Yenimahalle:
     - Yukarı Yahyalar Mah
   Yenimahalle:
     postcode: 6170
-    neighboorhoods:
+    neighborhoods:
     - Çarşı Mah
     - Ergenekon Mah
     - Esentepe Mah

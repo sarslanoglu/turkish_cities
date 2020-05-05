@@ -2,14 +2,14 @@
 Ayrancı:
   Ayrancı:
     postcode: 70500
-    neighboorhoods:
+    neighborhoods:
     - Dede Mah
     - Musa Mah
     - Ulu Mah
     - Yeni Mah
   Merkezköyler:
     postcode: 70502
-    neighboorhoods:
+    neighborhoods:
     - Ağızboğaz Köyü
     - Akoluk Mah (Berendi Köyü)
     - Akpınar Köyü
@@ -45,7 +45,7 @@ Ayrancı:
 Başyayla:
   Başyayla:
     postcode: 70700
-    neighboorhoods:
+    neighborhoods:
     - Başköy Mah
     - Göztepe Mah
     - Kirazlıyayla Mah
@@ -53,7 +53,7 @@ Başyayla:
     - Yenimahalle Mah
   Merkezköyler:
     postcode: 70702
-    neighboorhoods:
+    neighborhoods:
     - Bozyaka Köyü
     - Büyükkarapınar Köyü
     - Kışlaköy Köyü
@@ -63,7 +63,7 @@ Başyayla:
 Ermenek:
   Ermenek:
     postcode: 70400
-    neighboorhoods:
+    neighborhoods:
     - Akcamescit Mah
     - Başpınar Mah
     - Çınarlısu Mah
@@ -82,7 +82,7 @@ Ermenek:
     - Taşbaşı Mah
   Kazancı:
     postcode: 70460
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Mah (Sarıvadi Köyü)
     - Beliçekkoz Mah (İkizçınar Köyü)
     - Bucak Mah (Kazancı Köyü)
@@ -101,7 +101,7 @@ Ermenek:
     - Yukarı Mah (Sarıvadi Köyü)
   Merkezköyler:
     postcode: 70402
-    neighboorhoods:
+    neighborhoods:
     - Ağaççatı Köyü
     - Aralık Mah (Güneyyurt Köyü)
     - Aşağıçağlar Köyü
@@ -156,7 +156,7 @@ Ermenek:
 Kazımkarabekir:
   Kazımkarabekir:
     postcode: 70600
-    neighboorhoods:
+    neighborhoods:
     - Boyacı Mah
     - Eminettin Mah
     - Emsalhayat Mah
@@ -167,7 +167,7 @@ Kazımkarabekir:
     - Timsal Mah
   Merkezköyler:
     postcode: 70602
-    neighboorhoods:
+    neighborhoods:
     - Akarköy Köyü
     - Karalgazi Köyü
     - Kızılkuyu Köyü
@@ -177,13 +177,13 @@ Kazımkarabekir:
 Merkez:
   Akçaşehir:
     postcode: 70110
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Fatih Mah
     - Hürriyet Mah
   Hisar:
     postcode: 70200
-    neighboorhoods:
+    neighborhoods:
     - Abbas Mah
     - Ahmet Yesevi Mah
     - Beyazkent Mah
@@ -215,7 +215,7 @@ Merkez:
     - Ziya Gökalp Mah
   Merkezköyler:
     postcode: 70202
-    neighboorhoods:
+    neighborhoods:
     - Ada Köyü
     - Adaysız Mah (Cerit Köyü)
     - Ağaçlı Mah (Erenkavak Köyü)
@@ -393,12 +393,12 @@ Merkez:
     - Zengen Köyü
   Sudurağı:
     postcode: 70140
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Cumhuriyet Mah
   Sümer:
     postcode: 70100
-    neighboorhoods:
+    neighborhoods:
     - Ahiosman Mah
     - Alacasuluk Mah
     - Alişahane Mah
@@ -426,7 +426,7 @@ Merkez:
 Sarıveliler:
   Göktepe:
     postcode: 70810
-    neighboorhoods:
+    neighborhoods:
     - Boyunağıl Mah (Uğurlu Köyü)
     - Cumhuriyet Mah (Göktepe Köyü)
     - Çetince Önü Mah (Uğurlu Köyü)
@@ -443,7 +443,7 @@ Sarıveliler:
     - Yıldız Mah (Göktepe Köyü)
   Merkezköyler:
     postcode: 70802
-    neighboorhoods:
+    neighborhoods:
     - Civandere Köyü
     - Civler Köyü
     - Çukurbağ Mah (Göktepe Köyü)
@@ -463,7 +463,7 @@ Sarıveliler:
     - Yaylalar Mah (Daran Köyü)
   Sarıveliler:
     postcode: 70800
-    neighboorhoods:
+    neighborhoods:
     - Adiller Mah
     - Baş Mah
     - Çakıllar Mah
