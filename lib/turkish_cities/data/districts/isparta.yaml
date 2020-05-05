@@ -2,7 +2,7 @@
 Aksu:
   Aksu:
     postcode: 32510
-    neighboorhoods:
+    neighborhoods:
     - Akçaşar Mah
     - Bahçeli Mah
     - Çay Mah
@@ -14,7 +14,7 @@ Aksu:
     - Tepe Mah
   Merkezköyler:
     postcode: 32512
-    neighboorhoods:
+    neighborhoods:
     - Eldere Köyü
     - Elecik Köyü
     - İmamlar Mah (Yakaafşar Köyü)
@@ -33,7 +33,7 @@ Aksu:
 Atabey:
   Atabey:
     postcode: 32670
-    neighboorhoods:
+    neighborhoods:
     - Altunba Mah
     - Çeşme Mah
     - Gezirler Mah
@@ -45,7 +45,7 @@ Atabey:
     - Yeni Mah
   Merkezköyler:
     postcode: 32672
-    neighboorhoods:
+    neighborhoods:
     - Bayat Köyü
     - Harmanören Köyü
     - Hıdır Mah (İslamköy Köyü)
@@ -57,7 +57,7 @@ Atabey:
 Eğirdir:
   Eğirdir:
     postcode: 32500
-    neighboorhoods:
+    neighborhoods:
     - Ağa Mah
     - Altınkum Mah
     - Bağbuyan Mah
@@ -84,7 +84,7 @@ Eğirdir:
     - Yeşilada Mah
   Merkezköyler:
     postcode: 32502
-    neighboorhoods:
+    neighborhoods:
     - Ağa Mah (Sarıidris Köyü)
     - Ağılköy Köyü
     - Akdoğan Köyü
@@ -145,7 +145,7 @@ Eğirdir:
 Gelendost:
   Gelendost:
     postcode: 32900
-    neighboorhoods:
+    neighborhoods:
     - 17 Eylül Mah
     - Aşağı Mah
     - Bahçelievler Mah
@@ -158,7 +158,7 @@ Gelendost:
     - Yeni Mah
   Merkezköyler:
     postcode: 32902
-    neighboorhoods:
+    neighborhoods:
     - Afşar Köyü
     - Akdağ Köyü
     - Aşağı Mah (Bağıllı Köyü)
@@ -188,7 +188,7 @@ Gelendost:
 Gönen:
   Gönen:
     postcode: 32090
-    neighboorhoods:
+    neighborhoods:
     - Alaca Mescit Mah
     - Cami Mah
     - Göletevleri Mah
@@ -197,7 +197,7 @@ Gönen:
     - Pazar Mah
   Merkezköyler:
     postcode: 32092
-    neighboorhoods:
+    neighborhoods:
     - Baladız Mah (Güneykent Köyü)
     - Gölbaşı Köyü
     - İğdecik Mah (İğdecik Köyü)
@@ -210,7 +210,7 @@ Gönen:
 Keçiborlu:
   Keçiborlu:
     postcode: 32700
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Mah
     - Cumhuriyet Mah
     - Hacı Köyü Mah
@@ -226,7 +226,7 @@ Keçiborlu:
     - Yukarı Mah (Kılıç Köyü)
   Merkezköyler:
     postcode: 32702
-    neighboorhoods:
+    neighborhoods:
     - Ardıçlı Köyü
     - Camii Kebir Mah (Aydoğmuş Köyü)
     - Cumhuriyet Mah (İncesu Köyü)
@@ -253,7 +253,7 @@ Keçiborlu:
 Merkez:
   Çelebıler:
     postcode: 32040
-    neighboorhoods:
+    neighborhoods:
     - Ayazmana Mah
     - Çelebiler Mah
     - Dere Mah
@@ -276,7 +276,7 @@ Merkez:
     - Yenice Mah
   Kepeci:
     postcode: 32300
-    neighboorhoods:
+    neighborhoods:
     - Davraz Mah
     - İstiklal Mah
     - Karaağaç Mah
@@ -284,7 +284,7 @@ Merkez:
     - Sermet Mah
   Kutlubey:
     postcode: 32100
-    neighboorhoods:
+    neighborhoods:
     - Bağlar Mah
     - Batıkent Mah
     - Binbirevler Mah
@@ -296,7 +296,7 @@ Merkez:
     - Yayla Mah
   Merkezköyler:
     postcode: 32005
-    neighboorhoods:
+    neighborhoods:
     - Absarı Mah (Kadılar Köyü)
     - Ağıl Mah (Darıören Köyü)
     - Aliköy Köyü
@@ -350,7 +350,7 @@ Merkez:
     - Yukarı Mah (Savköy Köyü)
   Sanayi:
     postcode: 32200
-    neighboorhoods:
+    neighborhoods:
     - Akkent Mah
     - Anadolu Mah
     - Bahçelievler Mah
@@ -365,7 +365,7 @@ Merkez:
 Senirkent:
   Merkezköyler:
     postcode: 32602
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Mah (Gençali Köyü)
     - Aşağı Mah (Yassıören Köyü)
     - Başköy Köyü
@@ -392,7 +392,7 @@ Senirkent:
     - Zafer Mah (Büyükkabaca Köyü)
   Senirkent:
     postcode: 32600
-    neighboorhoods:
+    neighborhoods:
     - 16 Haziran Mah
     - Cumhuriyet Mah
     - Hamidiye Mah
@@ -405,7 +405,7 @@ Senirkent:
 Sütçüler:
   Merkezköyler:
     postcode: 32952
-    neighboorhoods:
+    neighborhoods:
     - Aşağıyaylabel Köyü
     - Ayvapınarı Mah (Ayvalıpınar Köyü)
     - Bekirağalar Köyü
@@ -447,7 +447,7 @@ Sütçüler:
     - Yeşilyurt Köyü
   Sütçüler:
     postcode: 32950
-    neighboorhoods:
+    neighborhoods:
     - Başkoz Mah
     - Belen Mah
     - Birlik Mah
@@ -458,7 +458,7 @@ Sütçüler:
 Şarkikaraağaç:
   Merkezköyler:
     postcode: 32802
-    neighboorhoods:
+    neighborhoods:
     - Arak Köyü
     - Armutlu Köyü
     - Aslandoğmuş Köyü
@@ -497,7 +497,7 @@ Sütçüler:
     - Yukarıdinek Köyü
   Şarkikaraağaç:
     postcode: 32800
-    neighboorhoods:
+    neighborhoods:
     - Alcıklar Mah
     - Asılkale Mah
     - Aşağıkale Mah
@@ -509,14 +509,14 @@ Sütçüler:
 Uluborlu:
   Merkezköyler:
     postcode: 32652
-    neighboorhoods:
+    neighborhoods:
     - Dere Köyü
     - İleydağı Köyü
     - İnhisar Köyü
     - Küçükkabaca Köyü
   Uluborlu:
     postcode: 32650
-    neighboorhoods:
+    neighborhoods:
     - Güreşyeri Mah
     - Hamideli Mah
     - Kabaağaç Mah
@@ -531,7 +531,7 @@ Uluborlu:
 Yalvaç:
   Merkezköyler:
     postcode: 32402
-    neighboorhoods:
+    neighborhoods:
     - Akçaşar Köyü
     - Altıkapı Köyü
     - Ardıçlı Mah (Kozluçay Köyü)
@@ -634,7 +634,7 @@ Yalvaç:
     - Yusuflar Mah (Bağlarbaşı Köyü)
   Yalvaç:
     postcode: 32400
-    neighboorhoods:
+    neighborhoods:
     - Abacılar Mah
     - Akköprü Mah
     - Bağlar Mah
@@ -665,11 +665,11 @@ Yalvaç:
 Yenişarbademli:
   Merkezköyler:
     postcode: 32852
-    neighboorhoods:
+    neighborhoods:
     - Gölkonak Köyü
   Yenişarbademli:
     postcode: 32850
-    neighboorhoods:
+    neighborhoods:
     - Gündoğdu Mah
     - Pınarbaşı Mah
     - Yenicami Mah

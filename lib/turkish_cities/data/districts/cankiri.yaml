@@ -2,7 +2,7 @@
 Atkaracalar:
   Atkaracalar:
     postcode: 18310
-    neighboorhoods:
+    neighborhoods:
     - Gazibey Mah
     - Hoca Mah
     - İlker Mah
@@ -10,7 +10,7 @@ Atkaracalar:
     - Mollaosman Mah
   Merkezköyler:
     postcode: 18312
-    neighboorhoods:
+    neighborhoods:
     - Bozkuş Mah (Çardaklı Köyü)
     - Budakpınar Köyü
     - Cumhuriyet Mah (Çardaklı Köyü)
@@ -33,13 +33,13 @@ Atkaracalar:
 Bayramören:
   Bayramören:
     postcode: 18320
-    neighboorhoods:
+    neighborhoods:
     - Köprülübey Mah
     - Merkez Mah
     - Zübeyde Hanım Mah
   Merkezköyler:
     postcode: 18322
-    neighboorhoods:
+    neighborhoods:
     - Akgüney Köyü
     - Akseki Mah (Akseki Köyü)
     - Aluç Mah (Akseki Köyü)
@@ -106,7 +106,7 @@ Bayramören:
 Çerkeş:
   Çerkeş:
     postcode: 18600
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Çerkeş Osb Mah
     - İdris Mah
@@ -120,7 +120,7 @@ Bayramören:
     - Yeni Mah
   Merkezköyler:
     postcode: 18602
-    neighboorhoods:
+    neighborhoods:
     - Abdullar Mah (Dağçukurören Köyü)
     - Ağaca Köyü
     - Ahallar Mah (Örenli Köyü)
@@ -218,7 +218,7 @@ Bayramören:
 Eldivan:
   Eldivan:
     postcode: 18700
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Beydere Mah
     - Cami Mah
@@ -227,7 +227,7 @@ Eldivan:
     - Topraklık Mah
   Merkezköyler:
     postcode: 18702
-    neighboorhoods:
+    neighborhoods:
     - Akbulut Köyü
     - Akçalı Köyü
     - Alva Köyü
@@ -250,7 +250,7 @@ Eldivan:
 Ilgaz:
   Ilgaz:
     postcode: 18400
-    neighboorhoods:
+    neighborhoods:
     - Fatih Mah
     - Gazi Dede Mah
     - Karataş Mah
@@ -262,7 +262,7 @@ Ilgaz:
     - Ziraat Mah
   Merkezköyler:
     postcode: 18402
-    neighboorhoods:
+    neighborhoods:
     - Akcaören Köyü
     - Aktaş Köyü
     - Alıç Köyü
@@ -363,13 +363,13 @@ Ilgaz:
 Kızılırmak:
   Kızılırmak:
     postcode: 18280
-    neighboorhoods:
+    neighborhoods:
     - Hüseyinli Mah
     - Osmanlı Mah
     - Yeni Mah
   Merkezköyler:
     postcode: 18282
-    neighboorhoods:
+    neighborhoods:
     - Aşağıalegöz Köyü
     - Aşağıovacık Köyü
     - Bayanpınar Köyü
@@ -402,14 +402,14 @@ Kızılırmak:
 Korgun:
   Korgun:
     postcode: 18260
-    neighboorhoods:
+    neighborhoods:
     - Büyük Mah
     - Büyükosb Mah
     - Doğu Mah
     - Uludağ Mah
   Merkezköyler:
     postcode: 18262
-    neighboorhoods:
+    neighborhoods:
     - Alpsarı Köyü
     - Batıbeli Mah (Dikenli Köyü)
     - Buğay Köyü
@@ -431,7 +431,7 @@ Korgun:
 Kurşunlu:
   Kurşunlu:
     postcode: 18300
-    neighboorhoods:
+    neighborhoods:
     - Beşpınar Mah
     - Cömertler Mah
     - Çal Mah
@@ -444,7 +444,7 @@ Kurşunlu:
     - Yeşil Mah
   Merkezköyler:
     postcode: 18302
-    neighboorhoods:
+    neighborhoods:
     - Ağılözü Köyü
     - Başovacık Köyü
     - Bereket Köyü
@@ -481,7 +481,7 @@ Kurşunlu:
 Merkez:
   Çarşı:
     postcode: 18100
-    neighboorhoods:
+    neighborhoods:
     - Alibey Mah
     - Buğday Pazarı Mah
     - Cumhuriyet Mah
@@ -495,7 +495,7 @@ Merkez:
     - Tabakhane Mah
   Merkezköyler:
     postcode: 18010
-    neighboorhoods:
+    neighborhoods:
     - Ahlat Köyü
     - Akçavakıf Köyü
     - Alıca Köyü
@@ -568,14 +568,14 @@ Merkez:
     - Zafer Mah (Akören Köyü)
   Taşmescit:
     postcode: 18200
-    neighboorhoods:
+    neighborhoods:
     - Abdulhalik Renda Mah
     - Aksu Mah
     - Yeni Mah
 Orta:
   Merkezköyler:
     postcode: 18802
-    neighboorhoods:
+    neighborhoods:
     - Akçaören Mah (Elmalık Köyü)
     - Buğurören Köyü
     - Büğdüz Köyü
@@ -621,7 +621,7 @@ Orta:
     - Yuva Köyü
   Orta:
     postcode: 18800
-    neighboorhoods:
+    neighborhoods:
     - Cem Sultan Mah
     - Eski Yayla Mah
     - Kanlıca Mah
@@ -629,7 +629,7 @@ Orta:
 Şabanözü:
   Merkezköyler:
     postcode: 18652
-    neighboorhoods:
+    neighborhoods:
     - Bakırlı Köyü
     - Bulduk Köyü
     - Bulgurcu Köyü
@@ -657,7 +657,7 @@ Orta:
     - Sırıklı Mah (Gündoğmuş Köyü)
   Şabanözü:
     postcode: 18650
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Gümerdiğin Mah
     - Gürpınar Mah
@@ -669,7 +669,7 @@ Orta:
 Yapraklı:
   Merkezköyler:
     postcode: 18902
-    neighboorhoods:
+    neighborhoods:
     - Aşağıöz Köyü
     - Ayseki Köyü
     - Ayva Köyü
@@ -710,7 +710,7 @@ Yapraklı:
     - Zekeriya Köyü
   Yapraklı:
     postcode: 18900
-    neighboorhoods:
+    neighborhoods:
     - Akyazı Mah
     - Aşağı Mah
     - Camikebir Mah

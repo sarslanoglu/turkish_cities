@@ -2,13 +2,13 @@
 Ayvacık:
   Ayvacık:
     postcode: 17860
-    neighboorhoods:
+    neighborhoods:
     - Fatih Mah
     - Hamdibey Mah
     - Ümmühan Mah
   Küçükkuyu:
     postcode: 17980
-    neighboorhoods:
+    neighborhoods:
     - Adatepe Köyü
     - Adatepebaşı Çamtepe Mah (Adatepe Köyü)
     - Adatepebaşı Değirmendere Mah (Adatepe Köyü)
@@ -41,7 +41,7 @@ Ayvacık:
     - Yeşilyurt Köyü
   Merkezköyler:
     postcode: 17862
-    neighboorhoods:
+    neighborhoods:
     - Acıgöl Mah (Büyükhusun Köyü)
     - Acıgöl Mah (Kösedere Köyü)
     - Ahmetçe Köyü
@@ -165,14 +165,14 @@ Ayvacık:
 Bayramiç:
   Bayramiç:
     postcode: 17700
-    neighboorhoods:
+    neighborhoods:
     - Camicedit Mah
     - Camikebir Mah
     - Menderes Mah
     - Tepecik Mah
   Evciler:
     postcode: 17720
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Mah (Evciler Köyü)
     - Ayazma Yolu Üzeri Mah (Evciler Köyü)
     - Beşik Köyü
@@ -194,7 +194,7 @@ Bayramiç:
     - Yukarı Mah (Evciler Köyü)
   Merkezköyler:
     postcode: 17722
-    neighboorhoods:
+    neighborhoods:
     - Ağaçköy Köyü
     - Ahmetçeli Köyü
     - Akpınar Köyü
@@ -239,7 +239,7 @@ Bayramiç:
     - Zeytinli Köyü
   Yiğitler:
     postcode: 17721
-    neighboorhoods:
+    neighborhoods:
     - Aşağışapcı Köyü
     - Aşağışevik Köyü
     - Bekirler Köyü
@@ -273,7 +273,7 @@ Bayramiç:
 Biga:
   Biga:
     postcode: 17200
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Gazikemal Mah
     - Hamdibey Mah
@@ -283,7 +283,7 @@ Biga:
     - Turan Mah
   Gümüşçay:
     postcode: 17300
-    neighboorhoods:
+    neighborhoods:
     - Adliye Köyü
     - Aşağıdemirci Köyü
     - Cumhuriyet Mah (Gümüşçay Köyü)
@@ -299,7 +299,7 @@ Biga:
     - Yukarıdemirci Köyü
   Karabiga:
     postcode: 17950
-    neighboorhoods:
+    neighborhoods:
     - Aksaz Mah (Aksaz Köyü)
     - Çakırlı Köyü
     - Çınarlı Tarla Mevkii Mah (Çakırlı Köyü)
@@ -316,7 +316,7 @@ Biga:
     - Zeytinlik Mah (Karabiga Köyü)
   Merkezköyler:
     postcode: 17202
-    neighboorhoods:
+    neighborhoods:
     - Abdiağa Köyü
     - Ağaköy Mah (Ağaköy Köyü)
     - Ağaköy Köyü
@@ -423,13 +423,13 @@ Biga:
 Bozcaada:
   Bozcaada:
     postcode: 17680
-    neighboorhoods:
+    neighborhoods:
     - Alaybey Mah
     - Cumhuriyet Mah
 Çan:
   Çan:
     postcode: 17400
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Cumhuriyet Mah
     - Fatih Mah
@@ -439,7 +439,7 @@ Bozcaada:
     - Seramik Mah
   Merkezköyler:
     postcode: 17402
-    neighboorhoods:
+    neighborhoods:
     - Ahlatlıburun Köyü
     - Alibeyçiftliği Köyü
     - Altıkulaç Köyü
@@ -518,12 +518,12 @@ Bozcaada:
 Eceabat:
   Eceabat:
     postcode: 17900
-    neighboorhoods:
+    neighborhoods:
     - İsmetpaşa Mah
     - Kemalpaşa Mah
   Merkezköyler:
     postcode: 17902
-    neighboorhoods:
+    neighborhoods:
     - Ahıldere Altı Mah (Yalova Köyü)
     - Alçıtepe Köyü
     - Azmak Mah (Seddülbahir Köyü)
@@ -549,7 +549,7 @@ Eceabat:
 Ezine:
   Ezine:
     postcode: 17600
-    neighboorhoods:
+    neighborhoods:
     - Camikebir Mah
     - Cumhuriyet Mah
     - Danişment Mah
@@ -557,7 +557,7 @@ Ezine:
     - Seferşah Mah
   Geyikli:
     postcode: 17610
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah (Mahmudiye Köyü)
     - Beşike Eserevler Sitesi Mah (Kumburun Köyü)
     - Bozalan Köyü
@@ -575,7 +575,7 @@ Ezine:
     - Yeniköy Köyü
   Merkezköyler:
     postcode: 17602
-    neighboorhoods:
+    neighborhoods:
     - Ahlatlı Mah (Köprübaşı Köyü)
     - Akçakeçili Köyü
     - Akçakeçili Mah (Akçakeçili Köyü)
@@ -635,7 +635,7 @@ Ezine:
 Gelibolu:
   Evreşe:
     postcode: 17360
-    neighboorhoods:
+    neighborhoods:
     - Adilhan Köyü
     - Armutdere Mah (Adilhan Köyü)
     - Armutdere1 Mah (Adilhan Köyü)
@@ -657,7 +657,7 @@ Gelibolu:
     - Yülüce Köyü
   Gelibolu:
     postcode: 17500
-    neighboorhoods:
+    neighborhoods:
     - Alaeddin Mah
     - Camiikebir Mah
     - Gazi Süleyman Paşa Mah
@@ -665,7 +665,7 @@ Gelibolu:
     - Yazıcızade Mah
   Merkezköyler:
     postcode: 17502
-    neighboorhoods:
+    neighborhoods:
     - Atıfbey Çiftliği Mah (Güneyli Köyü)
     - Bayırköy Köyü
     - Burhanlı Köyü
@@ -727,14 +727,14 @@ Gelibolu:
 Gökçeada:
   İmroz:
     postcode: 17760
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Çınarlı Mah
     - Fatih Mah
     - Yeni Mah
   Merkezköyler:
     postcode: 17762
-    neighboorhoods:
+    neighborhoods:
     - Bademli Köyü
     - Dereköy Köyü
     - Eşelek Köyü
@@ -749,13 +749,13 @@ Gökçeada:
 Lapseki:
   Lapseki:
     postcode: 17800
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Dalyan Mah
     - Gazi Süleyman Paşa Mah
   Merkezköyler:
     postcode: 17802
-    neighboorhoods:
+    neighborhoods:
     - Alpagut Köyü
     - Balcılar Köyü
     - Beyçayırı Köyü
@@ -801,7 +801,7 @@ Lapseki:
     - Yol Üstü Mah (Adatepe Köyü)
   Umurbey:
     postcode: 17820
-    neighboorhoods:
+    neighborhoods:
     - Akçaalan Köyü
     - Beybaş Köyü
     - Büberler Mah (Hacıgelen Köyü)
@@ -821,11 +821,11 @@ Lapseki:
 Merkez:
   Barbaros:
     postcode: 17020
-    neighboorhoods:
+    neighborhoods:
     - Barbaros Mah
   Cevatpaşa:
     postcode: 17010
-    neighboorhoods:
+    neighborhoods:
     - Cevat Paşa Mah
     - Esenler Mah
     - Fevzipaşa Mah
@@ -834,13 +834,13 @@ Merkez:
     - Namık Kemal Mah
   Kepez:
     postcode: 17110
-    neighboorhoods:
+    neighborhoods:
     - Boğazkent Mah (Kepez Köyü)
     - Cumhuriyet Mah (Kepez Köyü)
     - Hamidiye Mah (Kepez Köyü)
   Merkezköyler:
     postcode: 17100
-    neighboorhoods:
+    neighborhoods:
     - Akçalı Köyü
     - Akçapınar Köyü
     - Akçeşme Köyü
@@ -927,7 +927,7 @@ Merkez:
 Yenice:
   Kalkım:
     postcode: 17560
-    neighboorhoods:
+    neighborhoods:
     - Akköy Köyü
     - Armutçuk Köyü
     - Aşağıçavuş Köyü
@@ -949,7 +949,7 @@ Yenice:
     - Yukarıçavuş Köyü
   Merkezköyler:
     postcode: 17552
-    neighboorhoods:
+    neighborhoods:
     - Ahiler Köyü
     - Ahmetler Mah (Suuçtu Köyü)
     - Alancık Köyü
@@ -1028,7 +1028,7 @@ Yenice:
     - Yukarıkaraaşık Köyü
   Yenice:
     postcode: 17550
-    neighboorhoods:
+    neighborhoods:
     - Eski Yenice Mah
     - Kışlalar Mah
     - Kurtuluş Mah

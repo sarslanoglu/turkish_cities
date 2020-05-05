@@ -25,7 +25,7 @@ module DecomposerHelper
   end
 
   def sort_alphabetically(list)
-    turkish_alphabet = ' -abcçdefgğhıijklmnoöprsştuüvyz'
+    turkish_alphabet = ' -0123456789abcçdefgğhıijklmnoöprsştuüvyz'
     list.sort_by do |item|
       item.downcase(:turkic).chars.map { |char| turkish_alphabet.index(char) }
     end

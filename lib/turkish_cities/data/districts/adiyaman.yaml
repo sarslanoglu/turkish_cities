@@ -2,7 +2,7 @@
 Besni:
   Besni:
     postcode: 2300
-    neighboorhoods:
+    neighborhoods:
     - 15 Temmuz Şehitler Mah
     - Aşağısarhan Mah
     - Cirit Meydanı Mah
@@ -18,7 +18,7 @@ Besni:
     - Yukarı Sarhan Mah
   Çakırhüyük:
     postcode: 2320
-    neighboorhoods:
+    neighborhoods:
     - Abımıstık Mah (Çakırhüyük Köyü)
     - Akdurak Köyü
     - Akkuyu Köyü
@@ -59,7 +59,7 @@ Besni:
     - Yusufağa Mah (Akkuyu Köyü)
   Merkezköyler:
     postcode: 2302
-    neighboorhoods:
+    neighborhoods:
     - Ahuri Mah (Sarıkaya Köyü)
     - Akdoğanlar Mah (Berete Köyü)
     - Akpınar Köyü
@@ -130,7 +130,7 @@ Besni:
     - Zormağara Mah (Yeniköy Köyü)
   Suvarlı:
     postcode: 2330
-    neighboorhoods:
+    neighborhoods:
     - Adalet Mah (Suvarlı Köyü)
     - Büyükoba Mah (Karalar Köyü)
     - Cumhuriyet Mah (Suvarlı Köyü)
@@ -147,7 +147,7 @@ Besni:
     - Uzunkuyu Köyü
   Şambayat:
     postcode: 2340
-    neighboorhoods:
+    neighborhoods:
     - Akdere Mah (Başlı Köyü)
     - Akkuyu Mah (Atmalı Köyü)
     - Alişar Köyü
@@ -172,7 +172,7 @@ Besni:
 Çelikhan:
   Çelikhan:
     postcode: 2600
-    neighboorhoods:
+    neighborhoods:
     - Bahçeli Evler Mah
     - Başpınar Mah
     - Cami Mah
@@ -184,7 +184,7 @@ Besni:
     - Zafer Mah
   Merkezköyler:
     postcode: 2602
-    neighboorhoods:
+    neighborhoods:
     - Aksu Köyü
     - Aktaş Mah (Pınarbaşı Köyü)
     - Aligür Mah (Gölbağı Köyü)
@@ -242,14 +242,14 @@ Besni:
 Gerger:
   Gerger:
     postcode: 2700
-    neighboorhoods:
+    neighborhoods:
     - Fatih Mah
     - Keleşan Mah
     - Merkez Mah
     - Yeni Mah
   Merkezköyler:
     postcode: 2702
-    neighboorhoods:
+    neighborhoods:
     - Açma Köyü
     - Ağaçlı Köyü
     - Aksan Mah (Yayladalı Köyü)
@@ -385,12 +385,12 @@ Gerger:
 Gölbaşı:
   Belören:
     postcode: 2540
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah (Belören Köyü)
     - Merkez Mah (Belören Köyü)
   Gölbaşı:
     postcode: 2500
-    neighboorhoods:
+    neighborhoods:
     - Asfalt Mah
     - Fatih Mah
     - Hürriyet Mah
@@ -400,14 +400,14 @@ Gölbaşı:
     - Yeni Mah
   Harmanlı:
     postcode: 2520
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah (Harmanlı Köyü)
     - Çakmak Mah (Harmanlı Köyü)
     - Kalemkas Mah (Harmanlı Köyü)
     - Yeni Mah (Harmanlı Köyü)
   Merkezköyler:
     postcode: 2502
-    neighboorhoods:
+    neighborhoods:
     - Akçabel Köyü
     - Akçakaya Köyü
     - Aktoprak Köyü
@@ -477,7 +477,7 @@ Gölbaşı:
 Kahta:
   Akıncılar:
     postcode: 2450
-    neighboorhoods:
+    neighborhoods:
     - Acoğlu Mah (Geldibuldu Köyü)
     - Adalı Köyü
     - Akalın Köyü
@@ -541,7 +541,7 @@ Kahta:
     - Yolçatı Mah (Oluklu Köyü)
   Kahta:
     postcode: 2400
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Bağlar Mah
     - Bayraktar Mah
@@ -561,7 +561,7 @@ Kahta:
     - Yeni Mah
   Merkezköyler:
     postcode: 2402
-    neighboorhoods:
+    neighborhoods:
     - Abdullah Bey Mah (Arılı Köyü)
     - Akça Mah (Arılı Köyü)
     - Akçalı Mah (Akkuş Köyü)
@@ -728,7 +728,7 @@ Kahta:
 Merkez:
   Akpınar:
     postcode: 2230
-    neighboorhoods:
+    neighborhoods:
     - Ağcin Köyü
     - Akdere Köyü
     - Akıncılar Mah (Çerçiyan Mah) (Akdere Köyü)
@@ -784,7 +784,7 @@ Merkez:
     - Yuvacık Mah (Belikan Mah) (Akdere Köyü)
   Eskisaray:
     postcode: 2100
-    neighboorhoods:
+    neighborhoods:
     - Eskisaray Mah
     - Hocaömer Mah
     - Kapcami Mah
@@ -795,7 +795,7 @@ Merkez:
     - Yunus Emre Mah
   İmamağa:
     postcode: 2200
-    neighboorhoods:
+    neighborhoods:
     - Bahçecik Mah
     - Fatih Mah
     - İmamağa Mah
@@ -808,12 +808,12 @@ Merkez:
     - Yeşilyurt Mah
   Kömür:
     postcode: 2290
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Cumhuriyet Mah
   Kuyucak:
     postcode: 2240
-    neighboorhoods:
+    neighborhoods:
     - Ağaçkonak Köyü
     - Ağikan Köyü
     - Armutlu Mah (Hozik Mah) (Kuyucak Köyü)
@@ -862,7 +862,7 @@ Merkez:
     - Yoğurtlu Mah (Varlık Köyü)
   Merkezköyler:
     postcode: 2010
-    neighboorhoods:
+    neighborhoods:
     - 100. Yıl Mah (100.yıl Köyü)
     - Acempınarı Mah (Kayacık Köyü)
     - Afetevleri Mah (Kayaönü Köyü)
@@ -1041,14 +1041,14 @@ Merkez:
     - Zorköy Mah (Gözebaşı Köyü)
   Sümerevler:
     postcode: 2030
-    neighboorhoods:
+    neighborhoods:
     - Alitaşı Mah
     - Mara Mah
     - Sümerevler Mah
     - Ulucami Mah
   Yenisanayi:
     postcode: 2040
-    neighboorhoods:
+    neighborhoods:
     - Altınşehir Mah
     - Barbaros Hayrettin Mah
     - Esentepe Mah
@@ -1062,7 +1062,7 @@ Merkez:
 Samsat:
   Merkezköyler:
     postcode: 2802
-    neighboorhoods:
+    neighborhoods:
     - Ağaköy Mah (Uzuntepe Köyü)
     - Akdamar Köyü
     - Altıntepe Mah (Kırmacık Köyü)
@@ -1101,7 +1101,7 @@ Samsat:
     - Yeşilbağ Mah (Kırmacık Köyü)
   Samsat:
     postcode: 2800
-    neighboorhoods:
+    neighborhoods:
     - Baraj Mah
     - Kale Mah
     - Örentaş Mah
@@ -1109,7 +1109,7 @@ Samsat:
 Sincik:
   Merkezköyler:
     postcode: 2902
-    neighboorhoods:
+    neighborhoods:
     - Adaklar Mah (Şahinbeyler Köyü)
     - Aksu Köyü
     - Alancık Köyü
@@ -1199,7 +1199,7 @@ Sincik:
     - Zevisimilan Mah (Taşkale Köyü)
   Sincik:
     postcode: 2900
-    neighboorhoods:
+    neighborhoods:
     - Ayengin Mah
     - Cumhuriyet Mah
     - Fatih Mah
@@ -1210,7 +1210,7 @@ Sincik:
 Tut:
   Merkezköyler:
     postcode: 2352
-    neighboorhoods:
+    neighborhoods:
     - Akbel Mah (Çiftlik Köyü)
     - Akçatepe Köyü
     - Boyundere Köyü
@@ -1233,7 +1233,7 @@ Tut:
     - Yeşilyurt Köyü
   Tut:
     postcode: 2350
-    neighboorhoods:
+    neighborhoods:
     - Ayniye Mah
     - Bulanık Mah
     - Cumhuriyet Mah

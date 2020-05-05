@@ -2,7 +2,7 @@
 Ağaçören:
   Ağaçören:
     postcode: 68600
-    neighboorhoods:
+    neighborhoods:
     - Gümüştepe Mah
     - Kale Mah
     - Yeni Mah
@@ -11,7 +11,7 @@ Ağaçören:
     - Zafer Mah
   Merkezköyler:
     postcode: 68602
-    neighboorhoods:
+    neighborhoods:
     - Abalı Köyü
     - Abdiuşağı Köyü
     - Ahırlı Köyü
@@ -44,7 +44,7 @@ Ağaçören:
 Eskil:
   Eskil:
     postcode: 68800
-    neighboorhoods:
+    neighborhoods:
     - Aydınlık Mah
     - Cumhuriyet Mah
     - Fatih Mah
@@ -58,7 +58,7 @@ Eskil:
     - Zafer Mah
   Merkezköyler:
     postcode: 68802
-    neighboorhoods:
+    neighborhoods:
     - Başaran Köyü
     - Bayramdüğün Kümesi Mah (Bayramdüğün Köyü)
     - Bezirci Yaylası Mah (Güneşli Köyü)
@@ -91,14 +91,14 @@ Eskil:
 Gülağaç:
   Gülağaç:
     postcode: 68900
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Fatih Mah
     - Hürriyet Mah
     - Yeni Mah
   Merkezköyler:
     postcode: 68902
-    neighboorhoods:
+    neighborhoods:
     - Akmezar Köyü
     - Camiliören Köyü
     - Cumhuriyet Mah (Bekarlar Köyü)
@@ -131,14 +131,14 @@ Gülağaç:
 Güzelyurt:
   Güzelyurt:
     postcode: 68500
-    neighboorhoods:
+    neighborhoods:
     - Akyamaç Mah
     - Aşağı Mah
     - Yeni Mah
     - Yukarı Mah
   Merkezköyler:
     postcode: 68502
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Mah (Ihlara Köyü)
     - Alanyurt Köyü
     - Belisırma Köyü
@@ -158,12 +158,12 @@ Güzelyurt:
 Merkez:
   Bağlıkaya:
     postcode: 68120
-    neighboorhoods:
+    neighborhoods:
     - Kurtuluş Mah
     - Yenimahalle Mah
   Çarşı:
     postcode: 68100
-    neighboorhoods:
+    neighborhoods:
     - Aratol Bahçeli Mah
     - Aratol İstiklal Mah
     - Bahçeli Mah
@@ -194,12 +194,12 @@ Merkez:
     - Zincirli Mah
   Helvadere:
     postcode: 68165
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Zafer Mah
   Merkezköyler:
     postcode: 68010
-    neighboorhoods:
+    neighborhoods:
     - 1.küme Mah (Hırkatol Köyü)
     - 2.küme Mah (Hırkatol Köyü)
     - 3.küme Mah (Hırkatol Köyü)
@@ -306,7 +306,7 @@ Merkez:
     - Yeşilyur Mah (Sapmaz Köyü)
   Sanayi:
     postcode: 68200
-    neighboorhoods:
+    neighborhoods:
     - Bayrambaba Mah
     - Bedir Muhtar Mah
     - Büyük Bölcek Mah
@@ -325,7 +325,7 @@ Merkez:
     - Tacin Mah
   Taşpınar:
     postcode: 68220
-    neighboorhoods:
+    neighborhoods:
     - 1.küme Mah (Yenipınar Köyü)
     - 2.küme Mah (Yenipınar Köyü)
     - 3.küme Mah (Yenipınar Köyü)
@@ -357,7 +357,7 @@ Merkez:
     - Zafer Mah (Helvadere Köyü)
   Yeşilova:
     postcode: 68180
-    neighboorhoods:
+    neighborhoods:
     - Alasakallı Mah (Yeşilova Köyü)
     - Çalışkan Mah (Yeşiltepe Köyü)
     - Darıhüyük Köyü
@@ -374,7 +374,7 @@ Merkez:
 Ortaköy:
   Balcı:
     postcode: 68601
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Küme Mah (Çatin Köyü)
     - Aşağı Mah (Ozancık Köyü)
     - Bağ Kümesi Mah (Çatin Köyü)
@@ -403,7 +403,7 @@ Ortaköy:
     - Yunus Emre Mah (Sarıkaraman Köyü)
   Merkezköyler:
     postcode: 68402
-    neighboorhoods:
+    neighborhoods:
     - 1. Küme Mah (Akpınar Köyü)
     - 2.küme Mah (Akpınar Köyü)
     - 2.küme Mah (Seksenuşağı Köyü)
@@ -442,7 +442,7 @@ Ortaköy:
     - Zafer Mah (Çiftevi Köyü)
   Ortaköy:
     postcode: 68400
-    neighboorhoods:
+    neighborhoods:
     - Çankaya Mah
     - Esentepe Mah
     - Fatih Mah
@@ -457,7 +457,7 @@ Ortaköy:
 Sarıyahşi:
   Merkezköyler:
     postcode: 68702
-    neighboorhoods:
+    neighborhoods:
     - 15 Temmuz Mah
     - Bekdik Köyü
     - Boğaziçi Mah (Boğazköy Köyü)
@@ -469,7 +469,7 @@ Sarıyahşi:
     - Yenitorunobası Köyü
   Sarıyahşi:
     postcode: 68700
-    neighboorhoods:
+    neighborhoods:
     - Fatih Mah
     - Karşıyaka Mah
     - Kızılırmak Mah
@@ -480,7 +480,7 @@ Sarıyahşi:
 Sultanhanı:
   Sultanhanı:
     postcode: 68190
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Gazi Mah
     - İstikamet Mah

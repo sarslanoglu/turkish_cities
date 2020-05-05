@@ -2,7 +2,7 @@
 Amasra:
   Amasra:
     postcode: 74300
-    neighboorhoods:
+    neighborhoods:
     - Boztepe Mah
     - Fatih Mah
     - Kaleiçi Mah
@@ -10,7 +10,7 @@ Amasra:
     - Kum Mah
   Merkezköyler:
     postcode: 74310
-    neighboorhoods:
+    neighborhoods:
     - Abbas Mah (Makaracı Köyü)
     - Aferen Mah (Kocaköy Köyü)
     - Ağ Mah (Göçkün Köyü)
@@ -105,14 +105,14 @@ Amasra:
 Kurucaşile:
   Kurucaşile:
     postcode: 74500
-    neighboorhoods:
+    neighborhoods:
     - Kargacak Mah
     - Liman Mah
     - Ömerler Mah
     - Şile Mah
   Merkezköyler:
     postcode: 74510
-    neighboorhoods:
+    neighborhoods:
     - Akçabelen Mah (Sarıderesi Köyü)
     - Alapınar Köyü
     - Atakdibi Mah (Kömeç Köyü)
@@ -167,7 +167,7 @@ Kurucaşile:
 Merkez:
   Demirciler:
     postcode: 74100
-    neighboorhoods:
+    neighborhoods:
     - Ağdacı Mah
     - Demirciler Mah
     - Gecen Mah
@@ -184,7 +184,7 @@ Merkez:
     - Tuna Mah
   Kozcağız:
     postcode: 74400
-    neighboorhoods:
+    neighborhoods:
     - Abdullahoğlu Mah (Köyyeri Köyü)
     - Abdullahoğlu Mah (Mamak Köyü)
     - Ağbaşı Mah (Akbaş Köyü)
@@ -354,7 +354,7 @@ Merkez:
     - Zoroğlu Mah (Bedil Köyü)
   Merkezköyler:
     postcode: 74110
-    neighboorhoods:
+    neighborhoods:
     - Ahatlar Mah (Bayıryüzü Köyü)
     - Ahatlı Mah (Ulugeçitkadı Köyü)
     - Ahcıoğlu Mah (Beşköprü Köyü)
@@ -725,7 +725,7 @@ Merkez:
     - Zotlar Mah (Esenyurt Köyü)
   Yenisanayi:
     postcode: 74200
-    neighboorhoods:
+    neighborhoods:
     - Aladağ Mah
     - Cumhuriyet Mah
     - Çaydüzü Mah
@@ -734,7 +734,7 @@ Merkez:
 Ulus:
   Kumluca:
     postcode: 74410
-    neighboorhoods:
+    neighborhoods:
     - Abdaloğlu Mah (Zafer Köyü)
     - Ahmet Sofuoğlu Mah (Konak Köyü)
     - Aksaray Mah (Akörensöküler Köyü)
@@ -845,7 +845,7 @@ Ulus:
     - Zaroğlu Mah (Hisarköy Köyü)
   Merkezköyler:
     postcode: 74602
-    neighboorhoods:
+    neighborhoods:
     - Ahmet Mah (Aşağıdere Köyü)
     - Ahmetçelebi Mah (Kozanlı Köyü)
     - Akmeşeyanı Mah (Dodurga Köyü)
@@ -1056,7 +1056,7 @@ Ulus:
     - Zopunoğlu Mah (Abdurrahman Köyü)
   Ulus:
     postcode: 74600
-    neighboorhoods:
+    neighborhoods:
     - Kaldırım Mah
     - Karadiken Mah (Abdipaşa Köyü)
     - Kasımlar Mah

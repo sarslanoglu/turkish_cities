@@ -2,7 +2,7 @@
 Aydıntepe:
   Aydıntepe:
     postcode: 69500
-    neighboorhoods:
+    neighborhoods:
     - Ahmet Yesevi Mah
     - Aydıntepe Yaylası Mah
     - Hacı Ali Efendi Mah
@@ -10,7 +10,7 @@ Aydıntepe:
     - Yakudiye Mah
   Merkezköyler:
     postcode: 69502
-    neighboorhoods:
+    neighborhoods:
     - Akbulut Köyü
     - Alaca Köyü
     - Aşağıkırzı Köyü
@@ -40,14 +40,14 @@ Aydıntepe:
 Demirözü:
   Demirözü:
     postcode: 69400
-    neighboorhoods:
+    neighborhoods:
     - Çiftetaş Mah
     - Esentepe Mah
     - Güneşli Mah
     - Şirin Mah
   Merkezköyler:
     postcode: 69402
-    neighboorhoods:
+    neighborhoods:
     - Akyaka Köyü
     - Bayrampaşa Köyü
     - Çağıllı Köyü
@@ -81,7 +81,7 @@ Demirözü:
 Merkez:
   Bayburt:
     postcode: 69010
-    neighboorhoods:
+    neighborhoods:
     - Camiikebir Mah
     - Esentepe Mah
     - Gençosman Mah
@@ -98,7 +98,7 @@ Merkez:
     - Zahit Mah
   Maden:
     postcode: 69350
-    neighboorhoods:
+    neighborhoods:
     - A.gençosman Mah (Gençosman Köyü)
     - A.örence Hanları Mah (Örence Köyü)
     - Ağören Köyü
@@ -136,7 +136,7 @@ Merkez:
     - Yukarı Masat Mah (Masat Köyü)
   Merkezköyler:
     postcode: 69002
-    neighboorhoods:
+    neighborhoods:
     - Adabaşı Köyü
     - Akçakuzu Köyü
     - Aksaçlı Köyü

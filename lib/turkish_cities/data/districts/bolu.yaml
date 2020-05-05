@@ -2,7 +2,7 @@
 Dörtdivan:
   Dörtdivan:
     postcode: 14910
-    neighboorhoods:
+    neighborhoods:
     - Adakınık Mah
     - Bayramlar Mah
     - Çavuşlar Mah
@@ -13,7 +13,7 @@ Dörtdivan:
     - Kargıbayramlar Mah
   Merkezköyler:
     postcode: 14912
-    neighboorhoods:
+    neighborhoods:
     - Adaköy Merkez Mah (Adaköy Köyü)
     - Aladağ Mah (Sorkun Köyü)
     - Aladağ Mah (Yukarıdüğer Köyü)
@@ -115,7 +115,7 @@ Dörtdivan:
 Gerede:
   Gerede:
     postcode: 14900
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Dayıoğlu Mah
     - Demirciler Mah
@@ -127,7 +127,7 @@ Gerede:
     - Yeni Mah
   Merkezköyler:
     postcode: 14902
-    neighboorhoods:
+    neighborhoods:
     - Afatlar Mah (Yazıköy Köyü)
     - Afatlar Yayla Mah (Yazıköy Köyü)
     - Ağagil Mah (Karacadağdemirciler Köyü)
@@ -414,7 +414,7 @@ Gerede:
 Göynük:
   Göynük:
     postcode: 14780
-    neighboorhoods:
+    neighborhoods:
     - Cuma Mah
     - Çeşme Mah
     - Hacı Abdi Mah
@@ -423,7 +423,7 @@ Göynük:
     - Yenice Mah
   Merkezköyler:
     postcode: 14782
-    neighboorhoods:
+    neighborhoods:
     - Ahmetbeyler Köyü
     - Akçaalan Merkez Mah (Akçaalan Köyü)
     - Aksaklar Merkez Mah (Aksaklar Köyü)
@@ -575,12 +575,12 @@ Göynük:
 Kıbrıscık:
   Kıbrıscık:
     postcode: 14610
-    neighboorhoods:
+    neighborhoods:
     - Karadoğan Mah
     - Köroğlu Mah
   Merkezköyler:
     postcode: 14612
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Mah (Belen Köyü)
     - Alanhimmetler Köyü
     - Alemdar Köyü
@@ -649,7 +649,7 @@ Kıbrıscık:
 Mengen:
   Gökçesu:
     postcode: 14850
-    neighboorhoods:
+    neighborhoods:
     - Adasal Mah (Gökçesu Köyü)
     - Akmehmetoğlu Mah (Kayabaşı Köyü)
     - Alioğlu Mah (Çorakkadirler Köyü)
@@ -752,14 +752,14 @@ Mengen:
     - Yunuslar Mah (Hayranlar Köyü)
   Mengen:
     postcode: 14840
-    neighboorhoods:
+    neighborhoods:
     - Beşler Mah
     - Karapınar Mah
     - Tabaklar Yazıyaka Mah
     - Türkbeyli Mah
   Merkezköyler:
     postcode: 14842
-    neighboorhoods:
+    neighborhoods:
     - Ahmetler Mah (Babahızır Köyü)
     - Ahmetoğlu Mah (Karaşeyhler Köyü)
     - Akbük Mah (Babahızır Köyü)
@@ -956,7 +956,7 @@ Mengen:
 Merkez:
   Aşağısoku:
     postcode: 14300
-    neighboorhoods:
+    neighborhoods:
     - Alpağut Mah
     - Alpağutbey Mah
     - Aşağısoku Mah
@@ -978,7 +978,7 @@ Merkez:
     - Yaşamkent Mah
   İhsaniye:
     postcode: 14200
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Mah
     - Aktaş Mah
     - Çıkınlar Mah
@@ -990,7 +990,7 @@ Merkez:
     - Semerkant Mah
   Karacasu:
     postcode: 14020
-    neighboorhoods:
+    neighborhoods:
     - Büyükcami Mah
     - Karaköy Mah
     - Küçükberk Mah
@@ -998,7 +998,7 @@ Merkez:
     - Yukarısoku Mah
   Karamanlı:
     postcode: 14100
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Borazanlar Mah
     - Karamanlı Mah
@@ -1011,7 +1011,7 @@ Merkez:
     - Tepecik Mah
   Merkezköyler:
     postcode: 14030
-    neighboorhoods:
+    neighborhoods:
     - Aftallar Mah (Ulumescit Köyü)
     - Ağalan Mah (Taşoluk Köyü)
     - Akçalar Mah (Kuzörendağlı Köyü)
@@ -1317,7 +1317,7 @@ Merkez:
 Mudurnu:
   Merkezköyler:
     postcode: 14802
-    neighboorhoods:
+    neighborhoods:
     - Mah (Hayallar Mah)yayla Evleri (Alpagut Köyü)
     - 100.yıl Mah (Bostancılar Köyü)
     - 100.yıl Mah (Kurtlar Köyü)
@@ -1537,7 +1537,7 @@ Mudurnu:
     - Yukarı Mah (Pelitözü Köyü)
   Mudurnu:
     postcode: 14800
-    neighboorhoods:
+    neighborhoods:
     - Büyükcami Mah
     - Hızırfakı Mah
     - Karacakaya Mah
@@ -1548,7 +1548,7 @@ Mudurnu:
 Seben:
   Merkezköyler:
     postcode: 14752
-    neighboorhoods:
+    neighborhoods:
     - Alpagut Köyü
     - Aşağı Mah (Değirmenkaya Köyü)
     - Aşağı Mah (Kızık Köyü)
@@ -1660,13 +1660,13 @@ Seben:
     - Yuva Köyü
   Seben:
     postcode: 14750
-    neighboorhoods:
+    neighborhoods:
     - Çarşı Mah
     - Keskinli Mah
 Yeniçağa:
   Merkezköyler:
     postcode: 14652
-    neighboorhoods:
+    neighborhoods:
     - Acısu Mah (Aşağıkuldan Köyü)
     - Ahmetler Mah (Ören Köyü)
     - Akıncılar Köyü
@@ -1724,7 +1724,7 @@ Yeniçağa:
     - Yukarı Mah (Şahnalar Köyü)
   Yeniçağa:
     postcode: 14650
-    neighboorhoods:
+    neighborhoods:
     - Asil Bey Mah
     - Camiatik Mah
     - Gölyüzü Mah

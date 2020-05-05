@@ -2,7 +2,7 @@
 Diyadin:
   Diyadin:
     postcode: 4900
-    neighboorhoods:
+    neighborhoods:
     - 14 Nisan Mah
     - Atatürk Mah
     - Fatih Mah
@@ -12,7 +12,7 @@ Diyadin:
     - Murat Mah
   Merkezköyler:
     postcode: 4902
-    neighboorhoods:
+    neighborhoods:
     - Abdulhadi Mah (Sürenkök Köyü)
     - Abdulkadir Çetin Mah (Sürmelikoç Köyü)
     - Adakent Mah (Davut Köyü)
@@ -132,7 +132,7 @@ Diyadin:
 Doğubayazıt:
   Doğubayazıt:
     postcode: 4400
-    neighboorhoods:
+    neighborhoods:
     - Abdigör Mah
     - Ahmedihani Mah
     - Barış Mah
@@ -149,7 +149,7 @@ Doğubayazıt:
     - Yeni Mah
   Merkezköyler:
     postcode: 4402
-    neighboorhoods:
+    neighborhoods:
     - Ağa Mah (Üçgöze Köyü)
     - Akçukur Mah (Yanoba Köyü)
     - Aktarla Köyü
@@ -289,7 +289,7 @@ Doğubayazıt:
 Eleşkirt:
   Eleşkirt:
     postcode: 4600
-    neighboorhoods:
+    neighborhoods:
     - Esentepe Mah
     - Fatih Mah
     - Hürriyet Mah
@@ -300,7 +300,7 @@ Eleşkirt:
     - Müftüselim Mah
   Merkezköyler:
     postcode: 4602
-    neighboorhoods:
+    neighborhoods:
     - Abdiköy Köyü
     - Akyumak Köyü
     - Akyumak Mezrası Mah (Akyumak Köyü)
@@ -376,21 +376,21 @@ Eleşkirt:
     - Zeyit Yaylası Mah (Mollasüleyman Köyü)
   Tahir:
     postcode: 4401
-    neighboorhoods:
+    neighborhoods:
     - Aydıntepe Mah (Tahir Köyü)
     - Karşıyaka Mah (Tahir Köyü)
     - Yeşil Mah (Tahir Köyü)
 Hamur:
   Hamur:
     postcode: 4850
-    neighboorhoods:
+    neighborhoods:
     - Buzhane Mah
     - Kale Mah
     - Kümbet Mah
     - Yeni Mah
   Merkezköyler:
     postcode: 4852
-    neighboorhoods:
+    neighborhoods:
     - Abdiçıkmaz Köyü
     - Adımova Köyü
     - Akören Mah (Karakazan Köyü)
@@ -495,7 +495,7 @@ Hamur:
 Merkez:
   Fevziçakmak:
     postcode: 4200
-    neighboorhoods:
+    neighborhoods:
     - 100.yıl Mah
     - Alpaslan Mah
     - Cumhuriyet Mah
@@ -506,7 +506,7 @@ Merkez:
     - Murat Mah
   Kazımkarabekir:
     postcode: 4100
-    neighboorhoods:
+    neighborhoods:
     - Abide Mah
     - Aşağıküpkıran Mah
     - Bahçelievler Mah
@@ -519,7 +519,7 @@ Merkez:
     - Yavuz Mah
   Merkezköyler:
     postcode: 4010
-    neighboorhoods:
+    neighborhoods:
     - Ağılbaşı Köyü
     - Ağrı Osb Mah (Murat Köyü)
     - Ahmetbey Köyü
@@ -652,7 +652,7 @@ Merkez:
 Patnos:
   Dedeli:
     postcode: 4503
-    neighboorhoods:
+    neighborhoods:
     - Arpacık Mah (Bozoğlak Köyü)
     - Balcılar Mah (Karbasan Köyü)
     - Baştarla Köyü
@@ -694,7 +694,7 @@ Patnos:
     - Zübeyt Komu Mah (Bozoğlak Köyü)
   Merkezköyler:
     postcode: 4502
-    neighboorhoods:
+    neighborhoods:
     - Akçaören Köyü
     - Akdilek Köyü
     - Akyemiş Köyü
@@ -784,7 +784,7 @@ Patnos:
     - Ziyaret Köyü
   Patnos:
     postcode: 4500
-    neighboorhoods:
+    neighborhoods:
     - 14 Nisan Mah
     - Abdulvehap Küfrevi Mah
     - Ahmed-i Hani Mahallesi Mah
@@ -806,7 +806,7 @@ Patnos:
     - Yunusemre Mah
   Sarısu:
     postcode: 4510
-    neighboorhoods:
+    neighborhoods:
     - Abdullah Mah (Taşkın Köyü)
     - Adalet Mah (Köseler Köyü)
     - Aktepe Köyü
@@ -859,7 +859,7 @@ Patnos:
 Taşlıçay:
   Merkezköyler:
     postcode: 4802
-    neighboorhoods:
+    neighborhoods:
     - Adakent Mah (Tanyolu Köyü)
     - Alakoçlu Köyü
     - Aras Köyü
@@ -916,7 +916,7 @@ Taşlıçay:
     - Yukarıtoklu Köyü
   Taşlıçay:
     postcode: 4800
-    neighboorhoods:
+    neighborhoods:
     - 15 Temmuz Şehitler Mah
     - Adnan Menderes Mah
     - Cumhuriyet Mah
@@ -924,7 +924,7 @@ Taşlıçay:
 Tutak:
   Merkezköyler:
     postcode: 4702
-    neighboorhoods:
+    neighborhoods:
     - Ada Mah (Soğukpınar Köyü)
     - Adakent Köyü
     - Ahmetabat Köyü
@@ -1030,7 +1030,7 @@ Tutak:
     - Zozo Mah (Yukarıkargalık Köyü)
   Tutak:
     postcode: 4700
-    neighboorhoods:
+    neighborhoods:
     - Cami Mah
     - Karşıyaka Mah
     - Murat Mah

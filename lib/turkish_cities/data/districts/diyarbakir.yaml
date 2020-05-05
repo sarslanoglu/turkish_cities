@@ -2,7 +2,7 @@
 Bağlar:
   Alipınar:
     postcode: 21050
-    neighboorhoods:
+    neighborhoods:
     - Ağaçgeçit Mah
     - Alipınar Mah
     - Bağcılar Mah
@@ -28,7 +28,7 @@ Bağlar:
     - Yukarı Mollaali Mah
   Körhat:
     postcode: 21090
-    neighboorhoods:
+    neighborhoods:
     - 5 Nisan Mah
     - Buyuransu Mah
     - Ekince Mah
@@ -51,7 +51,7 @@ Bağlar:
     - Yunus Emre Mah
   Selahattineyyubi:
     postcode: 21080
-    neighboorhoods:
+    neighborhoods:
     - Mevlana Halit Mah
     - Ortaören Mah
     - Selahattin Eyyubi Mah
@@ -60,7 +60,7 @@ Bağlar:
 Bismil:
   Bismil:
     postcode: 21500
-    neighboorhoods:
+    neighborhoods:
     - Ağılköy Mah
     - Ağıllı Mah
     - Ahmetli Mah
@@ -186,7 +186,7 @@ Bismil:
 Çermik:
   Çermik:
     postcode: 21600
-    neighboorhoods:
+    neighborhoods:
     - Ağaçhan Mah
     - Akçörten Mah
     - Akkoyunlu Mah
@@ -271,7 +271,7 @@ Bismil:
 Çınar:
   Çınar:
     postcode: 21750
-    neighboorhoods:
+    neighborhoods:
     - Ağaçsever Mah
     - Akçomak Mah
     - Aktepe Mah
@@ -375,7 +375,7 @@ Bismil:
 Çüngüş:
   Çüngüş:
     postcode: 21870
-    neighboorhoods:
+    neighborhoods:
     - Akbaşak Mah
     - Aktaş Mah
     - Albayrak Mah
@@ -419,7 +419,7 @@ Bismil:
 Dicle:
   Dicle:
     postcode: 21830
-    neighboorhoods:
+    neighborhoods:
     - 15 Temmuz Mah
     - Acar Mah
     - Altayköy Mah
@@ -471,7 +471,7 @@ Dicle:
 Eğil:
   Eğil:
     postcode: 21470
-    neighboorhoods:
+    neighborhoods:
     - Akalan Mah
     - Babalar Mah
     - Bahşilar Mah
@@ -506,7 +506,7 @@ Eğil:
 Ergani:
   Ergani:
     postcode: 21950
-    neighboorhoods:
+    neighborhoods:
     - Adnan Menderes Mah
     - Ahmetli Mah
     - Akçakale Mah
@@ -612,7 +612,7 @@ Ergani:
 Hani:
   Hani:
     postcode: 21800
-    neighboorhoods:
+    neighborhoods:
     - Abacılar Mah
     - Akçayurt Mah
     - Anıl Mah
@@ -642,7 +642,7 @@ Hani:
 Hazro:
   Hazro:
     postcode: 21560
-    neighboorhoods:
+    neighborhoods:
     - Ağartı Mah
     - Bağyurdu Mah
     - Bahçe Mah
@@ -677,7 +677,7 @@ Hazro:
 Kayapınar:
   Kayapınar:
     postcode: 21070
-    neighboorhoods:
+    neighborhoods:
     - Avcısuyu Mah
     - Barış Mah
     - Baykara Mah
@@ -715,7 +715,7 @@ Kayapınar:
 Kocaköy:
   Kocaköy:
     postcode: 21450
-    neighboorhoods:
+    neighborhoods:
     - Ambar Mah
     - Arkbaşı Mah
     - Boyunlu Mah
@@ -741,7 +741,7 @@ Kocaköy:
 Kulp:
   Kulp:
     postcode: 21900
-    neighboorhoods:
+    neighborhoods:
     - Ağaçkorur Mah
     - Ağaçlı Mah
     - Ağıllı Mah
@@ -803,7 +803,7 @@ Kulp:
 Lice:
   Lice:
     postcode: 21700
-    neighboorhoods:
+    neighborhoods:
     - Abalı Mah
     - Akçabudak Mah
     - Arıklı Mah
@@ -877,7 +877,7 @@ Lice:
 Silvan:
   Silvan:
     postcode: 21640
-    neighboorhoods:
+    neighborhoods:
     - Akçayır Mah
     - Akçeltik Mah
     - Akdere Mah
@@ -974,7 +974,7 @@ Silvan:
 Sur:
   Balıkçılarbaşı:
     postcode: 21200
-    neighboorhoods:
+    neighborhoods:
     - Ağaçlıdere Mah
     - Alabal Mah
     - Alcık Mah
@@ -1067,7 +1067,7 @@ Sur:
     - Ziyaret Mah
   Suriçi:
     postcode: 21300
-    neighboorhoods:
+    neighborhoods:
     - Abdaldede Mah
     - Ali Paşa Mah
     - Cami Kebir Mah
@@ -1081,13 +1081,13 @@ Sur:
 Yenişehir:
   Cumhuriyet:
     postcode: 21120
-    neighboorhoods:
+    neighborhoods:
     - Aziziye Mah
     - Cumhuriyet Mah
     - Gürdoğan Mah
   Şehitlik:
     postcode: 21010
-    neighboorhoods:
+    neighborhoods:
     - Alpu Mah
     - Bahçelievler Mah
     - Çimenler Mah
@@ -1109,7 +1109,7 @@ Yenişehir:
     - Yüksek Mah
   Yenişehir:
     postcode: 21100
-    neighboorhoods:
+    neighborhoods:
     - Al Mah
     - Alangör Mah
     - Başil Mah

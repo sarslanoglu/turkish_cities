@@ -2,7 +2,7 @@
 Bahçe:
   Bahçe:
     postcode: 80500
-    neighboorhoods:
+    neighborhoods:
     - Aslanlı Mah
     - Bahçeli Evler Mah
     - Cumhuriyet Mah
@@ -16,7 +16,7 @@ Bahçe:
     - Yeşil Yurt Mah
   Merkezköyler:
     postcode: 80502
-    neighboorhoods:
+    neighborhoods:
     - Altunlar Kümesi Mah (Yukarıkardere Köyü)
     - Aşağıkaradere Köyü
     - Aygır Mah (Savranlı Köyü)
@@ -64,7 +64,7 @@ Bahçe:
 Düziçi:
   Düziçi:
     postcode: 80600
-    neighboorhoods:
+    neighborhoods:
     - Boğaziçi Mah
     - Cumhuriyet Mah
     - Çiftlik Mah
@@ -86,7 +86,7 @@ Düziçi:
     - Yukarı Hacılar Mah
   Merkezköyler:
     postcode: 80602
-    neighboorhoods:
+    neighborhoods:
     - Abacı Mah (Gümüş Köyü)
     - Adaca Mah (Kuşcu Köyü)
     - Ağalar Mah (Yeşildere Köyü)
@@ -198,14 +198,14 @@ Düziçi:
 Hasanbeyli:
   Hasanbeyli:
     postcode: 80850
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Hürriyet Mah
     - Merkez Mah
     - Yeşilyurt Mah
   Merkezköyler:
     postcode: 80852
-    neighboorhoods:
+    neighborhoods:
     - Çolaklı Köyü
     - Çulhalı Köyü
     - Heyik Mah (Kalecik Köyü)
@@ -217,13 +217,13 @@ Hasanbeyli:
 Kadirli:
   Cemalpaşa:
     postcode: 80760
-    neighboorhoods:
+    neighborhoods:
     - Cemalpaşa Mah
     - Şehit Halis Şişman Mah
     - Şehit Kansu Küçükateş Mah
   Kadirli:
     postcode: 80750
-    neighboorhoods:
+    neighborhoods:
     - 7 Mart Mah
     - Bağ Mah
     - Cengiz Topel Mah
@@ -243,7 +243,7 @@ Kadirli:
     - Yeşiltepe Mah
   Merkezköyler:
     postcode: 80752
-    neighboorhoods:
+    neighborhoods:
     - Acaroba Mah (Kızyusuflu Köyü)
     - Ağılkaya Mah (Mezretli Köyü)
     - Ağlıca Mah (Değirmendere Köyü)
@@ -441,7 +441,7 @@ Kadirli:
 Merkez:
   Atatürk:
     postcode: 80010
-    neighboorhoods:
+    neighborhoods:
     - Adnan Menderes Mah
     - Ahmet Yesevi Mah
     - Ali Bekirli Mah
@@ -480,7 +480,7 @@ Merkez:
     - Yunus Emre Mah
   Merkezköyler:
     postcode: 80080
-    neighboorhoods:
+    neighborhoods:
     - Abuzerler Mah (Kırıklı Köyü)
     - Akarca Mah (Şekerdere Köyü)
     - Aktaş Mah (Dervişli Köyü)
@@ -558,7 +558,7 @@ Merkez:
 Sumbas:
   Merkezköyler:
     postcode: 80902
-    neighboorhoods:
+    neighborhoods:
     - Agedik Mah (Yeşilyayla Köyü)
     - Akçalıuşağı Mah (Akçataş Köyü)
     - Akyar Mah (Akdam Köyü)
@@ -627,20 +627,20 @@ Sumbas:
     - Zincarcık Mah (Çiçeklidere Köyü)
   Sumbas:
     postcode: 80900
-    neighboorhoods:
+    neighborhoods:
     - Döğenli Mah
     - Karaömerli Mah
 Toprakkale:
   Merkezköyler:
     postcode: 80952
-    neighboorhoods:
+    neighborhoods:
     - Arslanpınarı Köyü
     - İnceler Mah (Arslanpınarı Köyü)
     - Lalegölü Köyü
     - Sayhüyük Köyü
   Toprakkale:
     postcode: 80950
-    neighboorhoods:
+    neighborhoods:
     - Büyüktüysüz Mah (Tüysüz Köyü)
     - Cumhuriyet Mah (Tüysüz Köyü)
     - Çamlıkevler Mah

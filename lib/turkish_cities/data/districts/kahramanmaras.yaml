@@ -2,7 +2,7 @@
 Afşin:
   Afşin:
     postcode: 46500
-    neighboorhoods:
+    neighborhoods:
     - Afşinbey Mah
     - Ağcaşar Mah
     - Alemdar Mah
@@ -72,7 +72,7 @@ Afşin:
 Andırın:
   Andırın:
     postcode: 46400
-    neighboorhoods:
+    neighborhoods:
     - Akçakoyunlu Mah
     - Akgümüş Mah
     - Akifiye Mah
@@ -125,7 +125,7 @@ Andırın:
     - Yeşilyurt Mah
   Çokak:
     postcode: 46430
-    neighboorhoods:
+    neighborhoods:
     - Cambaz Mah
     - Çiğşar Mah
     - Çokak Mah
@@ -136,7 +136,7 @@ Andırın:
 Çağlayancerit:
   Çağlayancerit:
     postcode: 46720
-    neighboorhoods:
+    neighborhoods:
     - Akdere Mah
     - Aksu Mah
     - Bayırlı Mah
@@ -157,7 +157,7 @@ Andırın:
 Dulkadiroğlu:
   Adliye:
     postcode: 46100
-    neighboorhoods:
+    neighborhoods:
     - Divanlı Mah
     - Ekmekçi Mah
     - İsa Divanlı Mah
@@ -169,7 +169,7 @@ Dulkadiroğlu:
     - Yeni Şehir Mah
   Ağabeyli:
     postcode: 46130
-    neighboorhoods:
+    neighborhoods:
     - Abbaslar Mah
     - Ağabeyli Mah
     - Akyar Mah
@@ -231,7 +231,7 @@ Dulkadiroğlu:
     - Yusufhacılı Mah
   Sanayi:
     postcode: 46080
-    neighboorhoods:
+    neighborhoods:
     - Aksu Mah
     - Bağlarbaşı Mah
     - Bahçeli Evler Mah
@@ -256,7 +256,7 @@ Dulkadiroğlu:
     - Yavuz Selim Mah
   Sütçüimam:
     postcode: 46030
-    neighboorhoods:
+    neighborhoods:
     - Aslan Bey Mah
     - Ballıca Mah
     - Bayazıtlı Mah
@@ -273,7 +273,7 @@ Dulkadiroğlu:
 Ekinözü:
   Ekinözü:
     postcode: 46360
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Mah
     - Alişar Mah
     - Altunyaprak Mah
@@ -298,7 +298,7 @@ Ekinözü:
 Elbistan:
   Elbistan:
     postcode: 46300
-    neighboorhoods:
+    neighborhoods:
     - Ağlıca Mah
     - Akarca Mah
     - Akbayır Mah
@@ -396,7 +396,7 @@ Elbistan:
 Göksun:
   Göksun:
     postcode: 46600
-    neighboorhoods:
+    neighborhoods:
     - Acıelma Mah
     - Ahmetcik Mah
     - Alıçlıbucak Mah
@@ -472,7 +472,7 @@ Göksun:
 Nurhak:
   Nurhak:
     postcode: 46370
-    neighboorhoods:
+    neighborhoods:
     - Ağcaşar Mah
     - Alçiçek Değirmenkaya Mah
     - Barış Mah
@@ -492,7 +492,7 @@ Nurhak:
 Onikişubat:
   Binevler:
     postcode: 46050
-    neighboorhoods:
+    neighborhoods:
     - 5 Nisan Mah
     - Abdülhamid Han Mah
     - Ağcalı Mah
@@ -536,7 +536,7 @@ Onikişubat:
     - Yürükselim Mah
   Hacıbayram:
     postcode: 46040
-    neighboorhoods:
+    neighborhoods:
     - Barbaros Mah
     - Dumlupınar Mah
     - Ertuğrul Gazi Mah
@@ -554,7 +554,7 @@ Onikişubat:
     - Yusuflar Mah
   Süleymanlı:
     postcode: 46140
-    neighboorhoods:
+    neighborhoods:
     - Altınova Mah
     - Avcılar Mah
     - Avgasır Mah
@@ -640,7 +640,7 @@ Onikişubat:
 Pazarcık:
   Pazarcık:
     postcode: 46700
-    neighboorhoods:
+    neighborhoods:
     - 15 Temmuz Mah
     - Ahmet Bozdağ Mah
     - Akcakoyunlu Mah
@@ -728,7 +728,7 @@ Pazarcık:
 Türkoğlu:
   Türkoğlu:
     postcode: 46800
-    neighboorhoods:
+    neighborhoods:
     - Akçalı Mah
     - Avşarlı Mah
     - Aydınkavak Mah

@@ -2,14 +2,14 @@
 Beytüşşebap:
   Beytüşşebap:
     postcode: 73800
-    neighboorhoods:
+    neighborhoods:
     - Aliçavuş Mah
     - Elki Mah
     - Karşıyaka Mah
     - Pınarbaşı Mah
   Merkezköyler:
     postcode: 73802
-    neighboorhoods:
+    neighborhoods:
     - Akarsu Köyü
     - Akçayol Köyü
     - Aşağıdere Köyü
@@ -41,7 +41,7 @@ Beytüşşebap:
 Cizre:
   Cizre:
     postcode: 73200
-    neighboorhoods:
+    neighborhoods:
     - Ali Bey Mah
     - Cizre Osb Mah
     - Cudi Mah
@@ -55,7 +55,7 @@ Cizre:
     - Yafes Mah
   Merkezköyler:
     postcode: 73202
-    neighboorhoods:
+    neighborhoods:
     - Aşağıçeşme Mah (Aşağıçeşme Köyü)
     - Aşağıkonak Köyü
     - Bağlarbaşı Köyü
@@ -105,12 +105,12 @@ Cizre:
 Güçlükonak:
   Güçlükonak:
     postcode: 73700
-    neighboorhoods:
+    neighborhoods:
     - Bağlar Mah
     - Yeni Mah
   Merkezköyler:
     postcode: 73702
-    neighboorhoods:
+    neighborhoods:
     - Ağaçyurdu Köyü
     - Akçakuşak Köyü
     - Akdizgin Köyü
@@ -141,7 +141,7 @@ Güçlükonak:
 İdil:
   İdil:
     postcode: 73300
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Mah
     - Atakent Mah
     - Turgut Özal Mah
@@ -149,7 +149,7 @@ Güçlükonak:
     - Yukarı Mah
   Merkezköyler:
     postcode: 73302
-    neighboorhoods:
+    neighborhoods:
     - Açma Köyü
     - Ağaçlı Mah (Çukurlu Köyü)
     - Akdağ Köyü
@@ -241,7 +241,7 @@ Güçlükonak:
 Merkez:
   Merkezköyler:
     postcode: 73002
-    neighboorhoods:
+    neighborhoods:
     - Akçay Köyü
     - Araköy Köyü
     - Aşağı Mah (Kumçatı Köyü)
@@ -280,7 +280,7 @@ Merkez:
     - Yoğurtçular Köyü
   Şırnak:
     postcode: 73100
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Aydınlıkevler Mah
     - Bahçelievler Mah
@@ -296,7 +296,7 @@ Merkez:
 Silopi:
   Merkezköyler:
     postcode: 73402
-    neighboorhoods:
+    neighborhoods:
     - Aksu Köyü
     - Aktepe Köyü
     - Akyıldız Köyü
@@ -350,7 +350,7 @@ Silopi:
     - Yolağzı Köyü
   Silopi:
     postcode: 73400
-    neighboorhoods:
+    neighborhoods:
     - Barbaros Mah
     - Başak Köyü
     - Başak Mah
@@ -366,7 +366,7 @@ Silopi:
 Uludere:
   Merkezköyler:
     postcode: 73602
-    neighboorhoods:
+    neighborhoods:
     - Andaç Köyü
     - Aslanlı Mah (Andaç Köyü)
     - Ayyıldız Mah (Şenoba Köyü)
@@ -395,7 +395,7 @@ Uludere:
     - Yıldız Mah (Hilal Köyü)
   Uludere:
     postcode: 73600
-    neighboorhoods:
+    neighborhoods:
     - Gündoğdu Mah
     - Kılaban Mah
     - Küçükçay Mah

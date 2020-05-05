@@ -2,14 +2,14 @@
 Akdeniz:
   Adanalıoğlu:
     postcode: 33280
-    neighboorhoods:
+    neighborhoods:
     - Adanalıoğlu Limonlu Mah
     - Adanalıoğlu Mah
     - Akdeniz Mah
     - Anadolu Mah
   Barış:
     postcode: 33010
-    neighboorhoods:
+    neighborhoods:
     - Bahçe Mah
     - Barış Mah
     - Hamidiye Mah
@@ -18,18 +18,18 @@ Akdeniz:
     - Turgutreis Mah
   Camiişerif:
     postcode: 33060
-    neighboorhoods:
+    neighborhoods:
     - Cami Şerif Mah
     - Mesudiye Mah
   Çankaya:
     postcode: 33070
-    neighboorhoods:
+    neighborhoods:
     - Çankaya Mah
     - İhsaniye Mah
     - Mahmudiye Mah
   Dikilitaş:
     postcode: 33261
-    neighboorhoods:
+    neighborhoods:
     - Akdam Mah
     - Bekirde Mah
     - Camili Mah
@@ -45,7 +45,7 @@ Akdeniz:
     - Yeşilova Mah
   Evci:
     postcode: 33290
-    neighboorhoods:
+    neighborhoods:
     - Bağcılar-ihsaniye Mah
     - Bahçeli Aşağıburhan Mah
     - Bahçeli Kürkçü Mah
@@ -57,21 +57,21 @@ Akdeniz:
     - Toroslar Mah
   Gündoğdu:
     postcode: 33040
-    neighboorhoods:
+    neighborhoods:
     - Gündoğdu Mah
     - Güneş Mah
     - Mithatpaşa Mah
     - Siteler Mah
   Hal:
     postcode: 33300
-    neighboorhoods:
+    neighborhoods:
     - Hal Mah
     - Müfide İlhan Mah
     - Özgürlük Mah
     - Şevketsümer Mah
   Huzurkent:
     postcode: 33270
-    neighboorhoods:
+    neighborhoods:
     - Adnan Menderes Mah
     - Bağlarbaşı Mah
     - Bahşiş Mah
@@ -82,7 +82,7 @@ Akdeniz:
     - Nacarlıosb Mah
   Karacailyas:
     postcode: 33260
-    neighboorhoods:
+    neighborhoods:
     - Abdullah Şahutoğlu Mah
     - Karacailyas Emek Mah
     - Karacailyas Evren Mah
@@ -90,7 +90,7 @@ Akdeniz:
     - Şakirgülmen Mah
   Karaduvar:
     postcode: 33020
-    neighboorhoods:
+    neighborhoods:
     - Çay Mah
     - Çilek Mah
     - Karaduvar Mah
@@ -98,20 +98,20 @@ Akdeniz:
     - Yeşilçimen Mah
   Kazanlı:
     postcode: 33295
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Hürriyet Mah
     - Kazanlı Mah
   Nusratiye:
     postcode: 33050
-    neighboorhoods:
+    neighborhoods:
     - Nusratiye Mah
     - Üçocak Mah
     - Yeni Mah
 Anamur:
   Anamur:
     postcode: 33630
-    neighboorhoods:
+    neighborhoods:
     - Akarca Mah
     - Akine Mah
     - Alataş Mah
@@ -158,7 +158,7 @@ Anamur:
     - Yukarı Kükür Mah
   Göktaş:
     postcode: 33640
-    neighboorhoods:
+    neighborhoods:
     - Bahçe Mah
     - Göktaş Mah
     - Sağlık Mah
@@ -167,7 +167,7 @@ Anamur:
     - Yeşilyurt Mah
   İskele:
     postcode: 33650
-    neighboorhoods:
+    neighborhoods:
     - Akdeniz Mah
     - Bahçelievler Mah
     - Fatih Mah
@@ -177,7 +177,7 @@ Anamur:
 Aydıncık:
   Aydıncık:
     postcode: 33840
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Cumhuriyet Mah
     - Hürriyet Mah
@@ -185,7 +185,7 @@ Aydıncık:
     - Yeni Mah
   Karadere:
     postcode: 33847
-    neighboorhoods:
+    neighborhoods:
     - Duruhan Mah
     - Eskiyürük Mah
     - Hacıbahattin Mah
@@ -199,14 +199,14 @@ Aydıncık:
 Bozyazı:
   Ardıçlıtaş:
     postcode: 33707
-    neighboorhoods:
+    neighborhoods:
     - Ardıçlıtaş Mah
     - Dereköy Mah
     - Elmakuzu Mah
     - Kızılca Mah
   Bozyazı:
     postcode: 33830
-    neighboorhoods:
+    neighborhoods:
     - Akcami Mah
     - Bahçekoyağı Mah
     - Beyreli Mah
@@ -232,14 +232,14 @@ Bozyazı:
 Çamlıyayla:
   Çamlıyayla:
     postcode: 33580
-    neighboorhoods:
+    neighborhoods:
     - Cumayakası Mah
     - Çayırekinliği Mah
     - Kale Mah
     - Sebil Mah
   Darıpınarı:
     postcode: 33582
-    neighboorhoods:
+    neighborhoods:
     - Bağçatağı Mah
     - Belçınar Mah
     - Darıpınarı Mah
@@ -253,7 +253,7 @@ Bozyazı:
 Erdemli:
   Erdemli:
     postcode: 33730
-    neighboorhoods:
+    neighborhoods:
     - Adnan Menderes Mah
     - Akdeniz Mah
     - Akpınar Mah
@@ -328,14 +328,14 @@ Erdemli:
 Gülnar:
   Gülnar:
     postcode: 33700
-    neighboorhoods:
+    neighborhoods:
     - Akdeniz Mah
     - Ayvalı Mah
     - Hacıpınar Mah
     - Saray Mah
   Köseçobanlı:
     postcode: 33702
-    neighboorhoods:
+    neighborhoods:
     - Akova Mah
     - Ardıçpınarı Mah
     - Arıkuyusu Mah
@@ -385,7 +385,7 @@ Gülnar:
 Mezitli:
   Akdeniz:
     postcode: 33210
-    neighboorhoods:
+    neighborhoods:
     - Akdeniz Mah
     - Çamlıca Mah
     - Çankaya Mah
@@ -395,7 +395,7 @@ Mezitli:
     - Kuyuluk Mah
   Atatürk:
     postcode: 33200
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Fatih Mah
     - Menderes Mah
@@ -404,7 +404,7 @@ Mezitli:
     - Yeni Mah
   Davultepe:
     postcode: 33190
-    neighboorhoods:
+    neighborhoods:
     - 75.yıl Mah
     - Anayurt Mah
     - Cumhuriyet Mah
@@ -412,7 +412,7 @@ Mezitli:
     - İstiklal Mah
   Fındıkpınarı:
     postcode: 33170
-    neighboorhoods:
+    neighborhoods:
     - Akarca Mah
     - Bozön Mah
     - Cemilli Mah
@@ -432,7 +432,7 @@ Mezitli:
     - Zeybekler Mah
   Tece:
     postcode: 33180
-    neighboorhoods:
+    neighborhoods:
     - Deniz Mah
     - Hürriyet Mah
     - Seymenli Mah
@@ -441,7 +441,7 @@ Mezitli:
 Mut:
   Mut:
     postcode: 33600
-    neighboorhoods:
+    neighborhoods:
     - Alaçam Mah
     - Aşağıköselerli Mah
     - Aydınoğlu Mah
@@ -547,15 +547,15 @@ Mut:
 Silifke:
   Atakent:
     postcode: 33990
-    neighboorhoods:
+    neighborhoods:
     - Atakent Mah
   Atayurt:
     postcode: 33980
-    neighboorhoods:
+    neighborhoods:
     - Atayurt Mah
   Gazi:
     postcode: 33960
-    neighboorhoods:
+    neighborhoods:
     - Arkum Mah
     - Gazi Mah
     - Göksu Mah
@@ -564,7 +564,7 @@ Silifke:
     - Sayağzı Mah
   Pazarkaşı:
     postcode: 33950
-    neighboorhoods:
+    neighborhoods:
     - Atik Mah
     - Bucaklı Mah
     - Camiikebir Mah
@@ -576,7 +576,7 @@ Silifke:
     - Yeni Mah
   Silifke:
     postcode: 33940
-    neighboorhoods:
+    neighborhoods:
     - Ayaştürkmenli Mah
     - Bahçe Mah
     - Bahçederesi Mah
@@ -648,14 +648,14 @@ Silifke:
     - Yenisu Mah
   Taşucu:
     postcode: 33900
-    neighboorhoods:
+    neighborhoods:
     - Akdere Mah
     - Taşucu Mah
     - Yeşilovacık Mah
 Tarsus:
   82evler:
     postcode: 33460
-    neighboorhoods:
+    neighborhoods:
     - 82evler Mah
     - Çağlayan Mah
     - Fatih Mah
@@ -663,27 +663,27 @@ Tarsus:
     - Tekke Mah
   Akşemsettin:
     postcode: 33480
-    neighboorhoods:
+    neighborhoods:
     - Akşemsettin Mah
     - Kırklarsırtı Mah
     - Şehitler Tepesi Mah
     - Yeni Mah
   Altaylılar:
     postcode: 33420
-    neighboorhoods:
+    neighborhoods:
     - Altaylılar Mah
     - Bağlar Mah
     - Ergenekon Mah
     - Gaziler Mah
   Anıt:
     postcode: 33430
-    neighboorhoods:
+    neighborhoods:
     - Anıt Mah
     - Gazipaşa Mah
     - Mithatpaşa Mah
-  Aşağı köyler:
+  Aşağı Köyler:
     postcode: 33405
-    neighboorhoods:
+    neighborhoods:
     - Akçakocalı Mah
     - Aladağ Mah
     - Alifakı Mah
@@ -726,7 +726,7 @@ Tarsus:
     - Yüksek Mah
   Bahçe:
     postcode: 33450
-    neighboorhoods:
+    neighborhoods:
     - Bahçe Mah
     - Barbaros Mah
     - Girne Mah
@@ -736,7 +736,7 @@ Tarsus:
     - Yunus Emre Mah
   Beydeğirmeni:
     postcode: 33470
-    neighboorhoods:
+    neighborhoods:
     - Beydeğirmeni Mah
     - Fahrettin Paşa Mah
     - Ferahimşalvuz Mah
@@ -745,7 +745,7 @@ Tarsus:
     - Yarbay Şemsettin Mah
   Caminur:
     postcode: 33440
-    neighboorhoods:
+    neighborhoods:
     - Caminur Mah
     - Eski Ömerli Mah
     - Hürriyet Mah
@@ -755,7 +755,7 @@ Tarsus:
     - Yeşilyurt Mah
   Çamlıyayla:
     postcode: 33403
-    neighboorhoods:
+    neighborhoods:
     - Belen Mah
     - Beylice Mah
     - Boztepe Mah
@@ -787,12 +787,12 @@ Tarsus:
     - Yalamık Mah
   Kavaklı:
     postcode: 33410
-    neighboorhoods:
+    neighborhoods:
     - Kavaklı Mah
     - Şehitishak Mah
   Kızılmurat:
     postcode: 33400
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Duatepe Mah
     - Gözlükule Mah
@@ -802,11 +802,11 @@ Tarsus:
     - Şehitmustafa Mah
   Yenice:
     postcode: 33800
-    neighboorhoods:
+    neighborhoods:
     - Yenice Mah
   Yolboyu:
     postcode: 33401
-    neighboorhoods:
+    neighborhoods:
     - Ağzıdelik Mah
     - Akarsu Mah
     - Aliağa Mah
@@ -831,9 +831,9 @@ Tarsus:
     - Yaramış Mah
     - Yeniçay Mah
     - Yeşiltepe Mah
-  Yukarı köyler:
+  Yukarı Köyler:
     postcode: 33404
-    neighboorhoods:
+    neighborhoods:
     - Akgedik Mah
     - Alibeyli Mah
     - Ardıçlı Mah
@@ -877,14 +877,14 @@ Tarsus:
 Toroslar:
   Akbelen:
     postcode: 33220
-    neighboorhoods:
+    neighborhoods:
     - Akbelen Mah
     - Osmaniye Mah
     - Yusuf Kılıç Mah
     - Zeki Ayan Mah
   Arslanköy:
     postcode: 33251
-    neighboorhoods:
+    neighborhoods:
     - Aladağ Mah
     - Alanyalı Mah
     - Arslanköy Mah
@@ -928,14 +928,14 @@ Toroslar:
     - Yüksekoluk Mah
   Çavuşlu:
     postcode: 33230
-    neighboorhoods:
+    neighborhoods:
     - Çağdaşkent Mah
     - Çavuşlu Mah
     - Çukurova Mah
     - Korukent Mah
   Demirtaş:
     postcode: 33090
-    neighboorhoods:
+    neighborhoods:
     - Alsancak Mah
     - Demirtaş Mah
     - Hüseyin Okan Merzeci Mah
@@ -945,20 +945,20 @@ Toroslar:
     - Turunçlu Mah
   Halkkent:
     postcode: 33240
-    neighboorhoods:
+    neighborhoods:
     - Arpaçsakarlar Mah
     - Güneykent Mah
     - Halkkent Mah
     - Yalınayak Mah
   Sağlık:
     postcode: 33080
-    neighboorhoods:
+    neighborhoods:
     - Mithat Toroğlu Mah
     - Sağlık Mah
     - Tozkoparan Mah
   Selçuklar:
     postcode: 33250
-    neighboorhoods:
+    neighborhoods:
     - Kurdali Mah
     - Mevlana Mah
     - Selçuklar Mah
@@ -966,7 +966,7 @@ Toroslar:
 Yenişehir:
   Afetevler:
     postcode: 33120
-    neighboorhoods:
+    neighborhoods:
     - 50. Yıl Mah
     - Deniz Mah
     - Fuatmorel Mah
@@ -975,7 +975,7 @@ Yenişehir:
     - Kuzeykent Mah
   Bahçelievler:
     postcode: 33140
-    neighboorhoods:
+    neighborhoods:
     - Aydınlıkevler Mah
     - Bahçelievler Mah
     - Dumlupınar Mah
@@ -984,7 +984,7 @@ Yenişehir:
     - İnönü Mah
   Barbaros:
     postcode: 33150
-    neighboorhoods:
+    neighborhoods:
     - Akkent Mah
     - Barbaros Mah
     - Batıkent Mah
@@ -993,7 +993,7 @@ Yenişehir:
     - Menteş Mah
   Cumhuriyet:
     postcode: 33110
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Hürriyet Mah
     - Limonluk Mah
@@ -1001,7 +1001,7 @@ Yenişehir:
     - Pirireis Mah
   Değirmençay:
     postcode: 33112
-    neighboorhoods:
+    neighborhoods:
     - Çavak Mah
     - Çukurkeşli Mah
     - Değirmençay Mah

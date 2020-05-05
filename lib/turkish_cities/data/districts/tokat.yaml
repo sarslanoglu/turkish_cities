@@ -2,7 +2,7 @@
 Almus:
   Almus:
     postcode: 60900
-    neighboorhoods:
+    neighborhoods:
     - Erek Mah
     - Esentepe Mah
     - İstiklal Mah
@@ -11,7 +11,7 @@ Almus:
     - Siteler Mah
   Merkezköyler:
     postcode: 60902
-    neighboorhoods:
+    neighborhoods:
     - Afet Evler Mah (Alanköy Köyü)
     - Ahmet Kahyagil Mah (Hubyar Köyü)
     - Akarçay Armutalan Mah (Akarçay Görümlü Köyü)
@@ -147,7 +147,7 @@ Almus:
 Artova:
   Artova:
     postcode: 60670
-    neighboorhoods:
+    neighborhoods:
     - Alpaslan Mah
     - Altınova Mah
     - Gaziosmanpaşa Mah
@@ -155,7 +155,7 @@ Artova:
     - Kızılca Mah
   Merkezköyler:
     postcode: 60672
-    neighboorhoods:
+    neighborhoods:
     - A.danışment Mezra Mah (Ahmetdanişment Köyü)
     - Ağmusa Köyü
     - Ahmetdanişment Köyü
@@ -191,7 +191,7 @@ Artova:
 Başçiftlik:
   Başçiftlik:
     postcode: 60620
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Cumhuriyet Mah (Hatipli Köyü)
     - Fatih Mah (Hatipli Köyü)
@@ -203,7 +203,7 @@ Başçiftlik:
     - Sinanpaşa Mah
   Merkezköyler:
     postcode: 60622
-    neighboorhoods:
+    neighborhoods:
     - Alan Mah (Alan Köyü)
     - Alan Yaylası Mah (Alan Köyü)
     - Aydoğmuş Köyü
@@ -225,7 +225,7 @@ Başçiftlik:
 Erbaa:
   Erbaa:
     postcode: 60500
-    neighboorhoods:
+    neighborhoods:
     - Ahmet Yesevi Mah
     - Alacabal Mah
     - Cumhuriyet Mah
@@ -260,7 +260,7 @@ Erbaa:
     - Ziyagökalp Mah
   Karayaka:
     postcode: 60540
-    neighboorhoods:
+    neighborhoods:
     - Ağacalan Mah (Erdemli Köyü)
     - Akseki Mah (Narlıdere Köyü)
     - Alan Mah (Alan Köyü)
@@ -365,7 +365,7 @@ Erbaa:
     - Yukarı Mah (Karayaka Köyü)
   Merkezköyler:
     postcode: 60502
-    neighboorhoods:
+    neighborhoods:
     - Ağcaalan Köyü
     - Ağcakeçi Köyü
     - Ahret Mah (Akgün Köyü)
@@ -496,7 +496,7 @@ Erbaa:
 Merkez:
   Geyras:
     postcode: 60100
-    neighboorhoods:
+    neighborhoods:
     - Akdeğirmen Mah
     - Alipaşa Mah
     - Altıyüzevler Mah
@@ -541,7 +541,7 @@ Merkez:
     - Yeşilova Mah
   Gökdere:
     postcode: 60255
-    neighboorhoods:
+    neighborhoods:
     - Acıpınar Köyü
     - Binecek Köyü
     - Boyalı Köyü
@@ -576,11 +576,11 @@ Merkez:
     - Yenice Köyü
   Karşıyaka:
     postcode: 60200
-    neighboorhoods:
+    neighborhoods:
     - Karşıyaka Mah
   Merkezköyler:
     postcode: 60010
-    neighboorhoods:
+    neighborhoods:
     - Ahmetalan Köyü
     - Akın Mah (Çamlıbel Köyü)
     - Aktepe Mah (Çamlıbel Köyü)
@@ -713,7 +713,7 @@ Merkez:
 Niksar:
   Gökçeli:
     postcode: 60630
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah (Gökçeli Köyü)
     - Ballıca Mah (Gökçeli Köyü)
     - Bayraktepe Köyü
@@ -738,7 +738,7 @@ Niksar:
     - Yukarı Mah (Eryaba Köyü)
   Merkezköyler:
     postcode: 60602
-    neighboorhoods:
+    neighborhoods:
     - Ağdırkolu Mah (Yeşilhisar Köyü)
     - Ağıl Mah (Akıncı Köyü)
     - Araköy Köyü
@@ -881,7 +881,7 @@ Niksar:
     - Yukarı Mah (Şıhlar Köyü)
   Niksar:
     postcode: 60600
-    neighboorhoods:
+    neighborhoods:
     - 50.yıl Mah
     - Akpınar Mah
     - Akpınar Mah (Günebakan Köyü)
@@ -910,7 +910,7 @@ Niksar:
 Pazar:
   Merkezköyler:
     postcode: 60802
-    neighboorhoods:
+    neighborhoods:
     - Ballıca Köyü
     - Beşevler Köyü
     - Çayköy Köyü
@@ -938,7 +938,7 @@ Pazar:
     - Yukarı Mah (Tepeçaylı Köyü)
   Pazar:
     postcode: 60800
-    neighboorhoods:
+    neighborhoods:
     - Erkilet Mah
     - Esentepe Mah
     - Merkez Mah
@@ -948,7 +948,7 @@ Pazar:
 Reşadiye:
   Bereketli:
     postcode: 60710
-    neighboorhoods:
+    neighborhoods:
     - Çakraz Mah (Bereketli Köyü)
     - Elmacık Köyü
     - Elmacık Mah (Elmacık Köyü)
@@ -971,7 +971,7 @@ Reşadiye:
     - Zafer Mah (Bozçalı Köyü)
   Merkezköyler:
     postcode: 60702
-    neighboorhoods:
+    neighborhoods:
     - Abdurrahmanlı Köyü
     - Acemli Mah (Tozanlıfındıcak Köyü)
     - Adatepe Mah (Çayırpınar Köyü)
@@ -1179,7 +1179,7 @@ Reşadiye:
     - Zinav Mah (Yolüstü Köyü)
   Reşadiye:
     postcode: 60700
-    neighboorhoods:
+    neighborhoods:
     - Akçakolay Mah
     - Çamlıca Mah
     - Çermik Mah
@@ -1190,7 +1190,7 @@ Reşadiye:
 Sulusaray:
   Merkezköyler:
     postcode: 60872
-    neighboorhoods:
+    neighborhoods:
     - Alanyurt Köyü
     - Alpudere Köyü
     - Arpacıkaraçay Köyü
@@ -1208,14 +1208,14 @@ Sulusaray:
     - Uylubağı Köyü
   Sulusaray:
     postcode: 60870
-    neighboorhoods:
+    neighborhoods:
     - Fatih Mah
     - Gaziosmanpaşa Mah
     - Menderes Mah
 Turhal:
   Merkezköyler:
     postcode: 60302
-    neighboorhoods:
+    neighborhoods:
     - Ağcaşar Köyü
     - Ağlamış Mah (Çivril Köyü)
     - Akbuğday Köyü
@@ -1323,7 +1323,7 @@ Turhal:
     - Zontu Mah (Kızkayası Köyü)
   Turhal:
     postcode: 60300
-    neighboorhoods:
+    neighborhoods:
     - Bahar Mah
     - Borsa Mah
     - Boyacılar Mah
@@ -1358,7 +1358,7 @@ Turhal:
 Yeşilyurt:
   Merkezköyler:
     postcode: 60862
-    neighboorhoods:
+    neighborhoods:
     - Bahçebaşı Köyü
     - Büğet Köyü
     - Çerkez Danişment Köyü
@@ -1382,7 +1382,7 @@ Yeşilyurt:
     - Yeniköy Köyü
   Yeşilyurt:
     postcode: 60860
-    neighboorhoods:
+    neighborhoods:
     - 100. Yıl Mah
     - Evrenpaşa Mah
     - Gaziosmanpaşa Mah
@@ -1390,7 +1390,7 @@ Yeşilyurt:
 Zile:
   Merkezköyler:
     postcode: 60402
-    neighboorhoods:
+    neighborhoods:
     - Acıpınar Köyü
     - Ağcakeçili Köyü
     - Ağılcık Köyü
@@ -1530,7 +1530,7 @@ Zile:
     - Zile Osb Mah (Hacılar Köyü)
   Zile:
     postcode: 60400
-    neighboorhoods:
+    neighborhoods:
     - Alacamescitzir Mah
     - Alamescitbala Mah
     - Alikadı Mah

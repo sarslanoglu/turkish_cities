@@ -2,7 +2,7 @@
 Bozüyük:
   Bozüyük:
     postcode: 11300
-    neighboorhoods:
+    neighborhoods:
     - 4 Eylül Mah
     - Akpınar Mah
     - Çarşı Mah
@@ -15,7 +15,7 @@ Bozüyük:
     - Yeşilkent Mah
   Dodurga:
     postcode: 11460
-    neighboorhoods:
+    neighborhoods:
     - Camiliyayla Köyü
     - Çokçapınar Köyü
     - Dombayçayırı Köyü
@@ -37,7 +37,7 @@ Bozüyük:
     - Ziya Gökalp Mah (Dodurga Köyü)
   Merkezköyler:
     postcode: 11302
-    neighboorhoods:
+    neighborhoods:
     - Akçapınar Köyü
     - Aksutekke Köyü
     - Alibeydüzü Köyü
@@ -73,7 +73,7 @@ Bozüyük:
 Gölpazarı:
   Gölpazarı:
     postcode: 11700
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - İsmetpaşa Mah
     - İstiklal Mah
@@ -81,7 +81,7 @@ Gölpazarı:
     - Reşadiye Mah
   Merkezköyler:
     postcode: 11702
-    neighboorhoods:
+    neighborhoods:
     - Akçakavak Köyü
     - Akçaöküz Mah (Alıç Köyü)
     - Aktaş Köyü
@@ -149,14 +149,14 @@ Gölpazarı:
 İnhisar:
   İnhisar:
     postcode: 11640
-    neighboorhoods:
+    neighborhoods:
     - Akkum Mah
     - Güner Orbay Mah
     - Karaağaç Mah
     - Zafer Mah
   Merkezköyler:
     postcode: 11642
-    neighboorhoods:
+    neighborhoods:
     - Akköy Köyü
     - Çayköy Köyü
     - Harmanköy Köyü
@@ -169,7 +169,7 @@ Gölpazarı:
 Merkez:
   Bilecik:
     postcode: 11100
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Beşiktaş Mah
     - Cumhuriyet Mah
@@ -186,7 +186,7 @@ Merkez:
     - Pelitözü Mah
   Merkezköyler:
     postcode: 11230
-    neighboorhoods:
+    neighborhoods:
     - Abadiye Köyü
     - Abbaslık Köyü
     - Ahmetpınar Köyü
@@ -259,7 +259,7 @@ Merkez:
 Osmaneli:
   Merkezköyler:
     postcode: 11502
-    neighboorhoods:
+    neighborhoods:
     - Adliye Köyü
     - Ağlan Köyü
     - Akçapınar Mah (Akçapınar Köyü)
@@ -298,7 +298,7 @@ Osmaneli:
     - Yeşilçimen Mah (Oğulpaşa Köyü)
   Osmaneli:
     postcode: 11500
-    neighboorhoods:
+    neighborhoods:
     - Camicedit Mah
     - Camikebir Mah
     - Haceloğlu Mah
@@ -306,7 +306,7 @@ Osmaneli:
 Pazaryeri:
   Merkezköyler:
     postcode: 11802
-    neighboorhoods:
+    neighborhoods:
     - Ahmetler Köyü
     - Alınca Köyü
     - Arapdede Köyü
@@ -340,7 +340,7 @@ Pazaryeri:
     - Yeni Yerleşim Yeri Mah (Günyurdu Köyü)
   Pazaryeri:
     postcode: 11800
-    neighboorhoods:
+    neighborhoods:
     - Beşikli Mah
     - Çarşı Mah
     - Dereboğaz Mah
@@ -351,7 +351,7 @@ Pazaryeri:
 Söğüt:
   Merkezköyler:
     postcode: 11602
-    neighboorhoods:
+    neighborhoods:
     - Akarbaşı Mah (Çaltı Köyü)
     - Akçasu Köyü
     - Borcak Köyü
@@ -381,7 +381,7 @@ Söğüt:
     - Zemzemiye Köyü
   Söğüt:
     postcode: 11600
-    neighboorhoods:
+    neighborhoods:
     - Balaban Mah
     - Cumhuriyet Mah
     - Kayhan Mah
@@ -390,7 +390,7 @@ Söğüt:
 Yenipazar:
   Merkezköyler:
     postcode: 11782
-    neighboorhoods:
+    neighborhoods:
     - Aşağıboğaz Köyü
     - Aşağıçaylı Köyü
     - Batıbelenören Köyü
@@ -418,7 +418,7 @@ Yenipazar:
     - Yumaklı Köyü
   Yenipazar:
     postcode: 11780
-    neighboorhoods:
+    neighborhoods:
     - Çöte Mah
     - Osmangazi Mah
     - Yeni Mah

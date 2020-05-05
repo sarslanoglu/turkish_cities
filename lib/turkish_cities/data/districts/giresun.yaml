@@ -2,12 +2,12 @@
 Alucra:
   Alucra:
     postcode: 28700
-    neighboorhoods:
+    neighborhoods:
     - Mesudiye Mah
     - Yunus Emre Mah
   Merkezköyler:
     postcode: 28702
-    neighboorhoods:
+    neighborhoods:
     - Ahmetli Mah (Hacıhasan Köyü)
     - Akçiçek Köyü
     - Akpınar Mah (Demirözü Köyü)
@@ -114,7 +114,7 @@ Alucra:
 Bulancak:
   Bulancak:
     postcode: 28300
-    neighboorhoods:
+    neighborhoods:
     - Acısu Mah
     - Bahçelievler Mah
     - Ballıca Mah
@@ -132,7 +132,7 @@ Bulancak:
     - Ucarlı Mah
   Kovanlık:
     postcode: 28310
-    neighboorhoods:
+    neighborhoods:
     - Ahurlu Mah (Kovanlık Köyü)
     - Alçakbel Mah (Tokmadin Köyü)
     - Alibey Köyü
@@ -200,7 +200,7 @@ Bulancak:
     - Yokuşyol Mah (Tandır Köyü)
   Merkezköyler:
     postcode: 28302
-    neighboorhoods:
+    neighborhoods:
     - Abanuz Mah (Erdoğan Köyü)
     - Akkaş Mah (Duttepe Köyü)
     - Aktepe Mah (Burunucu Köyü)
@@ -385,12 +385,12 @@ Bulancak:
 Çamoluk:
   Çamoluk:
     postcode: 28710
-    neighboorhoods:
+    neighborhoods:
     - Karşıyaka Mah
     - Kurtuluş Mah
   Merkezköyler:
     postcode: 28712
-    neighboorhoods:
+    neighborhoods:
     - Akyapı Köyü
     - Alızsız Mah (Hacıören Köyü)
     - Bayır Köyü
@@ -433,7 +433,7 @@ Bulancak:
 Çanakçı:
   Çanakçı:
     postcode: 28810
-    neighboorhoods:
+    neighborhoods:
     - Armutdüzü Mah (Düzköy Köyü)
     - Aşağı Mah (Akköy Köyü)
     - Aşağı Mah (Bakımlı Köyü)
@@ -501,7 +501,7 @@ Bulancak:
 Dereli:
   Dereli:
     postcode: 28950
-    neighboorhoods:
+    neighborhoods:
     - Bahçeli Mah
     - Dereli Mah
     - Fatih Mah
@@ -510,7 +510,7 @@ Dereli:
     - Sütlüce Mah
   Merkezköyler:
     postcode: 28952
-    neighboorhoods:
+    neighborhoods:
     - Ada Mah (Eğrianbar Köyü)
     - Adıbeş Mah (Yüce Köyü)
     - Ağgözlü Mah (Aksu Köyü)
@@ -771,7 +771,7 @@ Dereli:
 Doğankent:
   Doğankent:
     postcode: 28510
-    neighboorhoods:
+    neighborhoods:
     - Merkez Mah
     - Sadaklı Mah
     - Süttaşı Mah
@@ -779,7 +779,7 @@ Doğankent:
     - Yeşiltepe Mah
   Merkezköyler:
     postcode: 28512
-    neighboorhoods:
+    neighborhoods:
     - Ahmetoğlu Mah (Güvenlik Köyü)
     - Almadibi Mah (Güvenlik Köyü)
     - Almadibi Mah (Söğütağzı Köyü)
@@ -826,7 +826,7 @@ Doğankent:
 Espiye:
   Espiye:
     postcode: 28600
-    neighboorhoods:
+    neighborhoods:
     - Adabük Mah
     - Çam Mah
     - Esentepe Mah
@@ -834,7 +834,7 @@ Espiye:
     - Merkez Mah
   Merkezköyler:
     postcode: 28602
-    neighboorhoods:
+    neighborhoods:
     - Ağaçlık Mah (Çepniköy Köyü)
     - Ağalıkmadeni Mah
     - Akkaş Mah (Sakarya Köyü)
@@ -1007,7 +1007,7 @@ Espiye:
 Eynesil:
   Eynesil:
     postcode: 28850
-    neighboorhoods:
+    neighborhoods:
     - Altınlı Mah
     - Boztepe Mah
     - Derebaşı Mah
@@ -1015,7 +1015,7 @@ Eynesil:
     - Köseli Mah
   Merkezköyler:
     postcode: 28852
-    neighboorhoods:
+    neighborhoods:
     - Adaköy Köyü
     - Alt Mah (Kemaliye Köyü)
     - Alt Mah (Yarımca Köyü)
@@ -1059,7 +1059,7 @@ Eynesil:
 Görele:
   Görele:
     postcode: 28800
-    neighboorhoods:
+    neighborhoods:
     - Aydınlıkevler Mah
     - Bahçelievler Mah
     - Bozcaali Mah
@@ -1071,7 +1071,7 @@ Görele:
     - Yeşiltepe Mah
   Merkezköyler:
     postcode: 28802
-    neighboorhoods:
+    neighborhoods:
     - Acıman Mah (Beşirli Köyü)
     - Ağnak Mah (Maksutlu Köyü)
     - Ahmetli Mah (Sağlık Köyü)
@@ -1313,11 +1313,11 @@ Görele:
 Güce:
   Güce:
     postcode: 28520
-    neighboorhoods:
+    neighborhoods:
     - Güce Mah
   Merkezköyler:
     postcode: 28522
-    neighboorhoods:
+    neighborhoods:
     - Abdugil Mah (Kuluncak Köyü)
     - Absak Mah (Gürağaç Köyü)
     - Ahmatlı Mah (Boncukçukur Köyü)
@@ -1400,12 +1400,12 @@ Güce:
 Keşap:
   Keşap:
     postcode: 28900
-    neighboorhoods:
+    neighborhoods:
     - Bozkurt Mah
     - Fındıklı Mah
   Merkezköyler:
     postcode: 28902
-    neighboorhoods:
+    neighborhoods:
     - Abdullah Bahçe Mah (Karadere Köyü)
     - Abidinoğlu Mah (Güneyköy Köyü)
     - Acı Armut Mah (Çamlıca Köyü)
@@ -1673,7 +1673,7 @@ Keşap:
 Merkez:
   Aksu:
     postcode: 28100
-    neighboorhoods:
+    neighborhoods:
     - Aksu Mah
     - Aydınlar Mah
     - Çaykara Mah
@@ -1692,7 +1692,7 @@ Merkez:
     - Sultan Selim Mah
   Batlama:
     postcode: 28200
-    neighboorhoods:
+    neighborhoods:
     - Çıtlakkale Mah
     - Erikliman Mah
     - Fevzi Çakmak Mah
@@ -1707,7 +1707,7 @@ Merkez:
     - Yalı Mah
   Merkezköyler:
     postcode: 28018
-    neighboorhoods:
+    neighborhoods:
     - Ağalı Mah (Sarvan Köyü)
     - Ağsak Mah (Çimşir Köyü)
     - Akçayoğlu Mah (Barça Köyü)
@@ -2024,7 +2024,7 @@ Merkez:
 Piraziz:
   Merkezköyler:
     postcode: 28342
-    neighboorhoods:
+    neighborhoods:
     - Akçay Köyü
     - Akelma Mah (Gökçeali Köyü)
     - Aktaş Mah (Medrese Köyü)
@@ -2076,7 +2076,7 @@ Piraziz:
     - Yukarı Mah (Narlık Köyü)
   Piraziz:
     postcode: 28340
-    neighboorhoods:
+    neighborhoods:
     - Aydere Mah
     - Eren Mah
     - Etlikkıran Mah
@@ -2089,7 +2089,7 @@ Piraziz:
 Şebinkarahisar:
   Merkezköyler:
     postcode: 28402
-    neighboorhoods:
+    neighborhoods:
     - Ağcaimam Mah (Karaağaç Köyü)
     - Akviran Köyü
     - Aluç Mah (Evcili Köyü)
@@ -2212,7 +2212,7 @@ Piraziz:
     - Yumurcaktaş Köyü
   Şebinkarahisar:
     postcode: 28400
-    neighboorhoods:
+    neighborhoods:
     - Akbudak Mah
     - Avutmuş Mah
     - Biroğul Mah
@@ -2231,7 +2231,7 @@ Piraziz:
 Tirebolu:
   Merkezköyler:
     postcode: 28502
-    neighboorhoods:
+    neighborhoods:
     - Abdullu Mah (Kuskunlu Köyü)
     - Abdullu Pattellasi Mah (Kuskunlu Köyü)
     - Abdullu Yayca Mah (Kuskunlu Köyü)
@@ -2544,7 +2544,7 @@ Tirebolu:
     - Zıvalı Mah (Ortacami Köyü)
   Tirebolu:
     postcode: 28500
-    neighboorhoods:
+    neighborhoods:
     - Cintaşı Mah
     - Çarşı Mah
     - Demirci Mah
@@ -2555,7 +2555,7 @@ Tirebolu:
 Yağlıdere:
   Merkezköyler:
     postcode: 28612
-    neighboorhoods:
+    neighborhoods:
     - Ağcalı Obası Mah (Akpınar Köyü)
     - Ahallı Mah
     - Akdarı Mah
@@ -2746,7 +2746,7 @@ Yağlıdere:
     - Yunusören Mah (Kanlıca Köyü)
   Yağlıdere:
     postcode: 28610
-    neighboorhoods:
+    neighborhoods:
     - Bük Mah
     - Merkez Mah
     - Ömerli Mah

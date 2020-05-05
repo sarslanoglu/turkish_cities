@@ -2,13 +2,13 @@
 Akyaka:
   Akyaka:
     postcode: 36780
-    neighboorhoods:
+    neighborhoods:
     - İstasyon Mah
     - Tepe Mah
     - Topkaya Mah
   Merkezköyler:
     postcode: 36782
-    neighboorhoods:
+    neighborhoods:
     - Akbulak Köyü
     - Aslahane Köyü
     - Aşağı Mah (Kalkankale Köyü)
@@ -41,14 +41,14 @@ Akyaka:
 Arpaçay:
   Arpaçay:
     postcode: 36730
-    neighboorhoods:
+    neighborhoods:
     - Bahçeler Mah
     - Orta Mah
     - Yalınçayır Mah
     - Yeni Mah
   Merkezköyler:
     postcode: 36732
-    neighboorhoods:
+    neighborhoods:
     - Akçakale Köyü
     - Akçalar Köyü
     - Akmazdam Köyü
@@ -103,11 +103,11 @@ Arpaçay:
 Digor:
   Digor:
     postcode: 36670
-    neighboorhoods:
+    neighborhoods:
     - Merkez Mah
   Merkezköyler:
     postcode: 36672
-    neighboorhoods:
+    neighborhoods:
     - Afetevler Mah (Varlı Köyü)
     - Alem Köyü
     - Arpalı Köyü
@@ -153,7 +153,7 @@ Digor:
 Kağızman:
   Kağızman:
     postcode: 36700
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Kümbet Mah
     - Aşağıdere Mah
     - Bayam Mah
@@ -165,7 +165,7 @@ Kağızman:
     - Zuvar Mah
   Merkezköyler:
     postcode: 36702
-    neighboorhoods:
+    neighborhoods:
     - Afet Evleri Mah (Ağdam Köyü)
     - Ağdam Köyü
     - Akçakale Köyü
@@ -261,7 +261,7 @@ Kağızman:
 Merkez:
   Kars:
     postcode: 36100
-    neighboorhoods:
+    neighborhoods:
     - 30 Ekim Mah
     - Alpaslan Mah
     - Atatürk Mah
@@ -289,7 +289,7 @@ Merkez:
     - Yusufpaşa Mah
   Merkezköyler:
     postcode: 36002
-    neighboorhoods:
+    neighborhoods:
     - Ağadeve Köyü
     - Akdere Köyü
     - Alaca Köyü
@@ -371,7 +371,7 @@ Merkez:
 Sarıkamış:
   Merkezköyler:
     postcode: 36502
-    neighboorhoods:
+    neighborhoods:
     - Akkoz Köyü
     - Akkoz Yayla Evleri Mah (Akkoz Köyü)
     - Akören Köyü
@@ -441,7 +441,7 @@ Sarıkamış:
     - Yukarısallıpınar Köyü
   Sarıkamış:
     postcode: 36500
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Erenler Mah
     - İnönü Mah
@@ -454,7 +454,7 @@ Sarıkamış:
 Selim:
   Merkezköyler:
     postcode: 36902
-    neighboorhoods:
+    neighborhoods:
     - Akçakale Köyü
     - Akpınar Köyü
     - Alisofu Köyü
@@ -522,14 +522,14 @@ Selim:
     - Yukarıkotanlı Köyü
   Selim:
     postcode: 36900
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Çarşı Mah
     - Köprübaşı Mah
 Susuz:
   Merkezköyler:
     postcode: 36762
-    neighboorhoods:
+    neighborhoods:
     - Afet Evleri Mah (Büyükçatak Köyü)
     - Afetevleri Mah (Kırkpınar Köyü)
     - Aksu Köyü
@@ -565,7 +565,7 @@ Susuz:
     - Yolboyu Köyü
   Susuz:
     postcode: 36760
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - İnkılap Mah
     - İnönü Mah

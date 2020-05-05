@@ -4,9 +4,11 @@
 
 ### New features
 
+* [#33](https://github.com/sarslanoglu/turkish_cities/issues/33): Add ```list_neighborhoods``` method for listing neighborhoods and fix some wrong district names
+
 * [#29](https://github.com/sarslanoglu/turkish_cities/issues/29): Add ```district``` class and ```list_subdistricts``` method for listing subdistricts
 
-* [#27](https://github.com/sarslanoglu/turkish_cities/issues/27): Add all subdistricts and neighboorhoods of all Turkish cities
+* [#27](https://github.com/sarslanoglu/turkish_cities/issues/27): Add all subdistricts and neighborhoods of all Turkish cities
 
 * [#25](https://github.com/sarslanoglu/turkish_cities/issues/25): Add district data to each city at yaml file and add new method ```list_districts``` for listing disctricts of cities alphabetically sorted
 

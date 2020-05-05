@@ -2,14 +2,14 @@
 Başiskele:
   Bahçecik:
     postcode: 41030
-    neighboorhoods:
+    neighborhoods:
     - Havuzlubahçe Mah
     - Kılıçarslan Mah
     - Şehitekrem Mah
     - Yeşilkent Mah
   Başiskele:
     postcode: 41090
-    neighboorhoods:
+    neighborhoods:
     - Aksığın Mah
     - Altınkent Mah
     - Barbaros Mah
@@ -24,7 +24,7 @@ Başiskele:
     - Tepecik Mah
   Kullar:
     postcode: 41140
-    neighboorhoods:
+    neighborhoods:
     - Karadenizliler Mah
     - Kullar Tepecik Mah
     - Kullar Yakacık Mah
@@ -35,21 +35,21 @@ Başiskele:
     - Yaylacık Mah
   Seymen:
     postcode: 41245
-    neighboorhoods:
+    neighborhoods:
     - Damlar Mah
     - Karşıyaka Mah
     - Körfez Mah
     - Seymen Mah
   Yeniköy:
     postcode: 41275
-    neighboorhoods:
+    neighborhoods:
     - Atakent Mah
     - Sepetlipınar Mah
     - Sepetlipınar Sb Mah
     - Yeniköy Merkez Mah
   Yuvacık:
     postcode: 41190
-    neighboorhoods:
+    neighborhoods:
     - Aydınkent Mah
     - Fatih Mah
     - Paşadağ Mah
@@ -59,7 +59,7 @@ Başiskele:
 Çayırova:
   Çayırova:
     postcode: 41420
-    neighboorhoods:
+    neighborhoods:
     - Akse Mah
     - Atatürk Mah
     - Cumhuriyet Mah
@@ -74,7 +74,7 @@ Başiskele:
 Darıca:
   Darıca:
     postcode: 41700
-    neighboorhoods:
+    neighborhoods:
     - Abdi İpekçi Mah
     - Bağlarbaşı Mah
     - Bayramoğlu Mah
@@ -92,7 +92,7 @@ Darıca:
 Derince:
   Derince:
     postcode: 41900
-    neighboorhoods:
+    neighborhoods:
     - Çavuşlu Mah
     - Çenedağ Mah
     - Çınarlı Mah
@@ -113,7 +113,7 @@ Derince:
 Dilovası:
   Dilovası:
     postcode: 41455
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Çerkeşli Mah
     - Çerkeşliosb Mah
@@ -134,7 +134,7 @@ Dilovası:
 Gebze:
   Gebze:
     postcode: 41400
-    neighboorhoods:
+    neighborhoods:
     - Adem Yavuz Mah
     - Ahatlı Mah
     - Arapçeşme Mah
@@ -183,7 +183,7 @@ Gebze:
 Gölcük:
   Değirmendere:
     postcode: 41950
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Cumhuriyet Mah
     - Değirmendere Merkez Mah
@@ -198,7 +198,7 @@ Gölcük:
     - Yüzbaşılar Mah
   Gölcük:
     postcode: 41650
-    neighboorhoods:
+    neighborhoods:
     - Ayvazpınarı Mah
     - Çiftlik Mah
     - Deniz Evler Mah
@@ -240,7 +240,7 @@ Gölcük:
 İzmit:
   Alikahya:
     postcode: 41310
-    neighboorhoods:
+    neighborhoods:
     - Akarca Mah
     - Akmeşe Atatürk Mah
     - Akmeşe Cumhuriyet Mah
@@ -254,7 +254,7 @@ Gölcük:
     - Karadenizliler Mah
   Çarşı:
     postcode: 41300
-    neighboorhoods:
+    neighborhoods:
     - Cedit Mah
     - Çukurbağ Mah
     - Ömerağa Mah
@@ -262,7 +262,7 @@ Gölcük:
     - Topçular Mah
   Gündoğdu:
     postcode: 41060
-    neighboorhoods:
+    neighborhoods:
     - 28 Haziran Mah
     - Ayazma Mah
     - Bekirdere Mah
@@ -274,7 +274,7 @@ Gölcük:
     - Yeşilova Mah
   İzmit:
     postcode: 41001
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Mah
     - Ambarcı Mah
     - Arızlı Mah
@@ -327,13 +327,13 @@ Gölcük:
     - Zeytinburnu Mah
   Sahil:
     postcode: 41040
-    neighboorhoods:
+    neighborhoods:
     - Karabaş Mah
     - Körfez Mah
     - Sanayi Mah
   Saraybahçe:
     postcode: 41200
-    neighboorhoods:
+    neighborhoods:
     - Akçakoca Mah
     - Hacıhasan Mah
     - Hacıhızır Mah
@@ -345,7 +345,7 @@ Gölcük:
     - Veliahmet Mah
   Yenidoğan:
     postcode: 41100
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Doğan Mah
     - Fatih Mah
@@ -361,7 +361,7 @@ Gölcük:
     - Zabıtan Mah
   Yenişehir:
     postcode: 41050
-    neighboorhoods:
+    neighborhoods:
     - Kadıköy Mah
     - M.alipaşa Mah
     - Yahyakaptan Mah
@@ -369,7 +369,7 @@ Gölcük:
 Kandıra:
   Kandıra:
     postcode: 41600
-    neighboorhoods:
+    neighborhoods:
     - Ağaçağıl Mah
     - Ahmethacılar Mah
     - Akbal Mah
@@ -469,7 +469,7 @@ Kandıra:
 Karamürsel:
   Karamürsel:
     postcode: 41500
-    neighboorhoods:
+    neighborhoods:
     - 4 Temmuz Mah
     - Akçat Mah
     - Akpınar Mah
@@ -500,7 +500,7 @@ Karamürsel:
 Kartepe:
   Arslanbey:
     postcode: 41285
-    neighboorhoods:
+    neighborhoods:
     - Arslanbey Mah
     - Arslanbey Osb Mah
     - Ataşehir Mah
@@ -509,7 +509,7 @@ Kartepe:
     - Şevkatiye Mah
   Büyükderbent:
     postcode: 41080
-    neighboorhoods:
+    neighborhoods:
     - Acısu Mah
     - Balaban Mah
     - Derbent Mah
@@ -524,23 +524,23 @@ Kartepe:
     - Şirinsulhiye Mah
   Köseköy:
     postcode: 41250
-    neighboorhoods:
+    neighborhoods:
     - Dumlupınar Mah
     - Fatih Sultan Mehmet Mah
     - İstasyon Mah
     - Köseköy Mah
   Maşukiye:
     postcode: 41295
-    neighboorhoods:
+    neighborhoods:
     - Maşukiye Mah
   Suadiye:
     postcode: 41170
-    neighboorhoods:
+    neighborhoods:
     - Çepni Mah
     - Suadiye Mah
   Uzunçiftlik:
     postcode: 41180
-    neighboorhoods:
+    neighborhoods:
     - Ataevler Mah
     - Emekevler Mah
     - Ertuğrul Gazi Mah
@@ -548,14 +548,14 @@ Kartepe:
     - Uzunçiftlik Mah
   Uzuntarla:
     postcode: 41255
-    neighboorhoods:
+    neighborhoods:
     - Eşme Mah
     - İbrikdere Mah
     - Uzuntarla Mah
 Körfez:
   Hereke:
     postcode: 41800
-    neighboorhoods:
+    neighborhoods:
     - 17 Ağustos Mah
     - Agah Ateş Mah
     - Cumhuriyet Mah
@@ -565,7 +565,7 @@ Körfez:
     - Yukarı Hereke Mah
   Körfez:
     postcode: 41780
-    neighboorhoods:
+    neighborhoods:
     - Alihocalar Mah
     - Atalar Mah
     - Barbaros Mah

@@ -2,7 +2,7 @@
 Acıgöl:
   Acıgöl:
     postcode: 50140
-    neighboorhoods:
+    neighborhoods:
     - Bahçeli Mah
     - Cumhuriyet Mah
     - Çayırlık Mah
@@ -10,12 +10,12 @@ Acıgöl:
     - Yukarı Mah
   Karapınar:
     postcode: 50260
-    neighboorhoods:
+    neighborhoods:
     - Bahçeli Evler Mah (Karapınar Köyü)
     - Mustafapaşa Mah (Karapınar Köyü)
   Merkezköyler:
     postcode: 50142
-    neighboorhoods:
+    neighborhoods:
     - 1 Küme Mah (Ağıllı Köyü)
     - 1 Küme Mah (Topaç Köyü)
     - 1 Mah (Yuva Köyü)
@@ -45,13 +45,13 @@ Acıgöl:
     - Yukarı Mah (Kurugöl Köyü)
   Tatlarin:
     postcode: 50230
-    neighboorhoods:
+    neighborhoods:
     - Ballık Mah (Tatların Köyü)
     - Kale Mah (Tatların Köyü)
 Avanos:
   Avanos:
     postcode: 50500
-    neighboorhoods:
+    neighborhoods:
     - Alaaddin Mah
     - Bahçelievler Mah
     - Cumhuriyet Mah
@@ -60,14 +60,14 @@ Avanos:
     - Yukarı Mah
   Çalış:
     postcode: 50860
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Mah (Çalış Köyü)
     - Orta Mah
     - Orta Mah (Çalış Köyü)
     - Yukarı Mah (Çalış Köyü)
   Kalaba:
     postcode: 50840
-    neighboorhoods:
+    neighborhoods:
     - 50.yıl Mah (Kalaba Köyü)
     - Bahçelievler Mah (Göynük Köyü)
     - Gözenekli Mah (Göynük Köyü)
@@ -77,7 +77,7 @@ Avanos:
     - Yeni Mah (Kalaba Köyü)
   Merkezköyler:
     postcode: 50502
-    neighboorhoods:
+    neighborhoods:
     - 1.küme Mah (Çavuşin Köyü)
     - 1.küme Mah (Üçkuyu Köyü)
     - 2.küme Mah (Çavuşin Köyü)
@@ -104,7 +104,7 @@ Avanos:
     - Yeni Mah (Topaklı Köyü)
   Özkonak:
     postcode: 50530
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Küme Mah (Küçükayhan Köyü)
     - Bozdağ Kümesi Mah (Büyükayhan Köyü)
     - Cami Kümesi Mah (İğdelikışla Köyü)
@@ -123,7 +123,7 @@ Avanos:
 Derinkuyu:
   Derinkuyu:
     postcode: 50700
-    neighboorhoods:
+    neighborhoods:
     - Baş Mah
     - Bayramlı Mah
     - Cumhuriyet Mah
@@ -134,7 +134,7 @@ Derinkuyu:
     - Yeni Mah
   Merkezköyler:
     postcode: 50702
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Mah (Çakıllı Köyü)
     - Aşağı Mah (Doğala Köyü)
     - Aşağı Mah (Til Köyü)
@@ -162,7 +162,7 @@ Derinkuyu:
 Gülşehir:
   Gülşehir:
     postcode: 50900
-    neighboorhoods:
+    neighborhoods:
     - Açıksaray Mah
     - Cumhuriyet Mah
     - Çalışanlar Mah
@@ -175,7 +175,7 @@ Gülşehir:
     - Tuzköyü Mah
   Merkezköyler:
     postcode: 50902
-    neighboorhoods:
+    neighborhoods:
     - 100.yıl Mah (Abuuşağı Köyü)
     - Alemli Köyü
     - Alkan Köyü
@@ -231,13 +231,13 @@ Gülşehir:
 Hacıbektaş:
   Hacıbektaş:
     postcode: 50800
-    neighboorhoods:
+    neighborhoods:
     - Bala Mah
     - Savat Mah
     - Zir Mah
   Merkezköyler:
     postcode: 50802
-    neighboorhoods:
+    neighborhoods:
     - Akçataş Köyü
     - Anapınar Köyü
     - Aşağıbarak Köyü
@@ -273,7 +273,7 @@ Hacıbektaş:
 Kozaklı:
   Kozaklı:
     postcode: 50600
-    neighboorhoods:
+    neighborhoods:
     - Altunsu Mah
     - Bağlıca Mah
     - Bahçelievler Mah
@@ -286,7 +286,7 @@ Kozaklı:
     - Yeni Mah
   Merkezköyler:
     postcode: 50602
-    neighboorhoods:
+    neighborhoods:
     - Abdi Köyü
     - Akpınar Köyü
     - Altınova Mah (Karasenir Köyü)
@@ -328,14 +328,14 @@ Kozaklı:
 Merkez:
   Camicedit:
     postcode: 50200
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Camicedit Mah
     - Emek Mah
     - Raşitbey Mah
   Çarşı:
     postcode: 50100
-    neighboorhoods:
+    neighborhoods:
     - 15 Temmuz Mah
     - 20 Temmuz Mah
     - 2000 Evler Mah
@@ -356,28 +356,28 @@ Merkez:
     - Yeni Mah
   Göre:
     postcode: 50170
-    neighboorhoods:
+    neighborhoods:
     - Afetevleri Mah (Göre Köyü)
     - Kasapoğlu Mah (Göre Köyü)
   Göreme:
     postcode: 50180
-    neighboorhoods:
+    neighborhoods:
     - Aydınlı-orta Mah (Göreme Köyü)
     - İsali-gaferli-avcılar Mah (Göreme Köyü)
   Kavak:
     postcode: 50210
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Mah (Kavak Köyü)
     - Yukarı Mah (Kavak Köyü)
   Kaymaklı:
     postcode: 50760
-    neighboorhoods:
+    neighborhoods:
     - Bekirağa Mah (Kaymaklı Köyü)
     - Camikebir Mah (Kaymaklı Köyü)
     - Hatipoğlu Mah (Kaymaklı Köyü)
   Merkezköyler:
     postcode: 50010
-    neighboorhoods:
+    neighborhoods:
     - 15 Temmuz Mah (Çat Köyü)
     - Acıgöl Yolu Mah (Boğaz Köyü)
     - Alacaşar Köyü
@@ -410,27 +410,27 @@ Merkez:
     - Yukarı Mah (Özyayla Köyü)
   Nar:
     postcode: 50130
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Mah (Nar Köyü)
     - Baş Mah (Nar Köyü)
     - Orta Mah (Nar Köyü)
     - Yeni Mah (Nar Köyü)
   Sulusaray:
     postcode: 50220
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah (Sulusaray Köyü)
     - Sultan Aladdin Mah (Sulusaray Köyü)
     - Yeni Mah (Sulusaray Köyü)
   Uçhisar:
     postcode: 50240
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Mah (Uçhisar Köyü)
     - Tekelli Mah (Uçhisar Köyü)
     - Yukarı Mah (Uçhisar Köyü)
 Ürgüp:
   Merkezköyler:
     postcode: 50402
-    neighboorhoods:
+    neighborhoods:
     - Akçaören Köyü
     - Akköy Köyü
     - Ayvalı Köyü
@@ -461,14 +461,14 @@ Merkez:
     - Yukarı Mah (Mustafapaşa Köyü)
   Ortahisar:
     postcode: 50650
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah (Ortahisar Köyü)
     - Esentepe Mah (Ortahisar Köyü)
     - Eski Mah (Ortahisar Köyü)
     - Yeni Mah (Ortahisar Köyü)
   Ürgüp:
     postcode: 50400
-    neighboorhoods:
+    neighborhoods:
     - 15 Temmuz Mah
     - Aksalur Ağcaşar Mah
     - Aksalur Salur Mah

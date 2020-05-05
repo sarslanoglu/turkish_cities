@@ -2,7 +2,7 @@
 Altıeylül:
   Altıeylül:
     postcode: 10100
-    neighboorhoods:
+    neighborhoods:
     - Akarsu Mah
     - Akçaköy Mah
     - Altı Eylül Mah
@@ -52,7 +52,7 @@ Altıeylül:
     - Yıldız Mah
   Ertuğrul:
     postcode: 10190
-    neighboorhoods:
+    neighborhoods:
     - Aliağa Mah
     - Bağalan Mah
     - Bahçedere Mah
@@ -74,13 +74,13 @@ Altıeylül:
     - Yeşilyurt Mah
   Gündoğan:
     postcode: 10040
-    neighboorhoods:
+    neighborhoods:
     - 1.gündoğan Mah
     - 2.gündoğan Mah
     - Gümüsçesme Mah
   Konakpınar:
     postcode: 10195
-    neighboorhoods:
+    neighborhoods:
     - Ataköy Mah
     - Ayvacık Mah
     - Bayat Mah
@@ -106,27 +106,27 @@ Altıeylül:
     - Yeşiller Mah
   Pamukçu:
     postcode: 10140
-    neighboorhoods:
+    neighborhoods:
     - Pamukçu Mah
   Plevne:
     postcode: 10050
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Hasan Basri Çantay Mah
     - Plevne Mah
 Ayvalık:
   Alibeyadası:
     postcode: 10405
-    neighboorhoods:
+    neighborhoods:
     - Mithatpaşa Mah
     - Namık Kemal Mah
   Altınova:
     postcode: 10280
-    neighboorhoods:
+    neighborhoods:
     - Altınova Mah
   Ayvalık:
     postcode: 10400
-    neighboorhoods:
+    neighborhoods:
     - 150 Evler Mah
     - Akçapınar Mah
     - Ali Çetinkaya Mah
@@ -159,17 +159,17 @@ Ayvalık:
     - Zekibey Mah
   Küçükköy:
     postcode: 10410
-    neighboorhoods:
+    neighborhoods:
     - Küçükköy Mah
 Balya:
   Balya:
     postcode: 10840
-    neighboorhoods:
+    neighborhoods:
     - Enverpaşa Mah
     - Koca Camii Mah
   Patlak:
     postcode: 10842
-    neighboorhoods:
+    neighborhoods:
     - Akbaş Mah
     - Alidemirci Mah
     - Bengiler Mah
@@ -217,7 +217,7 @@ Balya:
 Bandırma:
   Aksakal:
     postcode: 10245
-    neighboorhoods:
+    neighborhoods:
     - Doğa Mah
     - Ergili Mah
     - Kirazlı Mah
@@ -225,7 +225,7 @@ Bandırma:
     - Yeşilçomlu Mah
   Bandırma:
     postcode: 10200
-    neighboorhoods:
+    neighborhoods:
     - 100.yıl Mah
     - 17 Eylül Mah
     - 600 Evler Mah
@@ -250,7 +250,7 @@ Bandırma:
     - Yeni Mah
   Doğruca:
     postcode: 10202
-    neighboorhoods:
+    neighborhoods:
     - Akçapınar Mah
     - Bereketli Mah
     - Çakılköy Mah
@@ -268,7 +268,7 @@ Bandırma:
     - Yeniziraatli Mah
   Edincik:
     postcode: 10250
-    neighboorhoods:
+    neighborhoods:
     - Beyköy Mah
     - Bezirci Mah
     - Çarıkköy Mah
@@ -284,7 +284,7 @@ Bandırma:
 Bigadiç:
   Bigadiç:
     postcode: 10440
-    neighboorhoods:
+    neighborhoods:
     - 4 Eylül Mah
     - Abacı Mah
     - Camii Mah
@@ -296,7 +296,7 @@ Bigadiç:
     - Servi Mah
   Çağış:
     postcode: 10463
-    neighboorhoods:
+    neighborhoods:
     - Akyar Mah
     - Başçeşme Mah
     - Çağış Mah
@@ -308,7 +308,7 @@ Bigadiç:
     - Yeşildere Mah
   Salmanlı:
     postcode: 10442
-    neighboorhoods:
+    neighborhoods:
     - Adalı Mah
     - Alanköy Mah
     - Altınlar Mah
@@ -374,7 +374,7 @@ Bigadiç:
 Burhaniye:
   Burhaniye:
     postcode: 10700
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Geriş Mah
     - Hacıahmet Mah
@@ -387,7 +387,7 @@ Burhaniye:
     - Yunus Mah
   Çoruk:
     postcode: 10702
-    neighboorhoods:
+    neighborhoods:
     - Ağacık Mah
     - Avunduk Mah
     - Bahadınlı Mah
@@ -417,13 +417,13 @@ Burhaniye:
     - Yunuslar Mah
   Pelitköy:
     postcode: 10730
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Hürriyet Mah
 Dursunbey:
   Dursunbey:
     postcode: 10800
-    neighboorhoods:
+    neighborhoods:
     - Bozyokuş Mah
     - Cebeci Mah
     - Çakmak Mah
@@ -435,7 +435,7 @@ Dursunbey:
     - Vakıf Mah
   Hacılar:
     postcode: 10802
-    neighboorhoods:
+    neighborhoods:
     - Adaören Mah
     - Akbaşlar Mah
     - Akçagüney Mah
@@ -541,7 +541,7 @@ Dursunbey:
 Edremit:
   Akçay:
     postcode: 10390
-    neighboorhoods:
+    neighborhoods:
     - Akçay Mah
     - Altınkum Mah
     - Çamlıbel Mah
@@ -556,7 +556,7 @@ Edremit:
     - Tahtakuşlar Mah
   Altınoluk:
     postcode: 10870
-    neighboorhoods:
+    neighborhoods:
     - Altınoluk Mah
     - Arıtaşı Mah
     - Avcılar Mah
@@ -564,7 +564,7 @@ Edremit:
     - Şahindere Mah
   Edremit:
     postcode: 10300
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Beyoba Mah
     - Bostancı Mah
@@ -598,7 +598,7 @@ Edremit:
 Erdek:
   Belkıs:
     postcode: 10502
-    neighboorhoods:
+    neighborhoods:
     - Aşağıyapıcı Mah
     - Ballıpınar Mah
     - Belkıs Mah
@@ -614,7 +614,7 @@ Erdek:
     - Yukarıyapıcı Mah
   Erdek:
     postcode: 10500
-    neighboorhoods:
+    neighborhoods:
     - Alaettin Mah
     - Atatürk Mah
     - Balıklı Mah
@@ -633,7 +633,7 @@ Erdek:
 Gömeç:
   Dursunlu:
     postcode: 10717
-    neighboorhoods:
+    neighborhoods:
     - Dursunlu Mah
     - Hacıhüseyinler Mah
     - Hacıoğlu Mah
@@ -645,18 +645,18 @@ Gömeç:
     - Ulubeyler Mah
   Gömeç:
     postcode: 10715
-    neighboorhoods:
+    neighborhoods:
     - Kemalpaşa Mah
     - Mithatpaşa Mah
     - Yaya Mah
   Karaağaç:
     postcode: 10720
-    neighboorhoods:
+    neighborhoods:
     - Karaağaç Mah
 Gönen:
   Gönen:
     postcode: 10900
-    neighboorhoods:
+    neighborhoods:
     - 100.yıl Mah
     - Akçaali Mah
     - Altay Mah
@@ -675,7 +675,7 @@ Gönen:
     - Tuzakçı Mah
   Hasanbey:
     postcode: 10902
-    neighboorhoods:
+    neighborhoods:
     - Akçapınar Mah
     - Alacaoluk Mah
     - Alaettin Mah
@@ -745,7 +745,7 @@ Gönen:
     - Yürükkeçidere Mah
   Sarıköy:
     postcode: 10680
-    neighboorhoods:
+    neighborhoods:
     - Armutlu Mah
     - Ayvalıdere Mah
     - Çığmış Mah
@@ -767,7 +767,7 @@ Gönen:
 Havran:
   Havran:
     postcode: 10560
-    neighboorhoods:
+    neighborhoods:
     - Camiikebir Mah
     - Çiğitzade Mah
     - Ebubekir Mah
@@ -777,7 +777,7 @@ Havran:
     - Yeni Mah
   Temaşalık:
     postcode: 10562
-    neighboorhoods:
+    neighborhoods:
     - Büyükdere Mah
     - Büyükşapçı Mah
     - Çakırdere Mah
@@ -808,30 +808,30 @@ Havran:
 İvrindi:
   Büyükyenice:
     postcode: 10785
-    neighboorhoods:
+    neighborhoods:
     - Büyükyenice Mah
   Gökçeyazı:
     postcode: 10095
-    neighboorhoods:
+    neighborhoods:
     - Gökçeyazı Mah
   İvrindi:
     postcode: 10770
-    neighboorhoods:
+    neighborhoods:
     - 7 Eylül Mah
     - Bedrettin Mah
     - Kurtuluş Mah
     - Sakarya Mah
   Kayapa:
     postcode: 10780
-    neighboorhoods:
+    neighborhoods:
     - Kayapa Mah
   Korucu:
     postcode: 10775
-    neighboorhoods:
+    neighborhoods:
     - Korucu Mah
   Sarıca:
     postcode: 10772
-    neighboorhoods:
+    neighborhoods:
     - Akçal Mah
     - Aşağıkaleoba Mah
     - Ayaklı Mah
@@ -896,7 +896,7 @@ Havran:
 Karesi:
   Atatürk:
     postcode: 10020
-    neighboorhoods:
+    neighborhoods:
     - 1.oruçgazi Mah
     - 2.oruçgazi Mah
     - Ali Hikmet Paşa Mah
@@ -908,7 +908,7 @@ Karesi:
     - Yeni Mah
   Karesi:
     postcode: 10010
-    neighboorhoods:
+    neighborhoods:
     - Adnan Menderes Mah
     - Akıncılar Mah
     - Aktarma Mah
@@ -948,7 +948,7 @@ Karesi:
     - Ziyaretli Mah
   Sakarya:
     postcode: 10030
-    neighboorhoods:
+    neighborhoods:
     - 1.sakarya Mah
     - 2.sakarya Mah
     - Çay Mah
@@ -957,7 +957,7 @@ Karesi:
     - Vicdaniye Mah
   Şamlı:
     postcode: 10180
-    neighboorhoods:
+    neighborhoods:
     - Alacabayır Mah
     - Armutalan Mah
     - Boğazköy Mah
@@ -979,7 +979,7 @@ Karesi:
 Kepsut:
   Kepsut:
     postcode: 10660
-    neighboorhoods:
+    neighborhoods:
     - Camiiatik Mah
     - Camiicedit Mah
     - İhsaniye Mah
@@ -988,7 +988,7 @@ Kepsut:
     - Yenice Mah
   Servet:
     postcode: 10662
-    neighboorhoods:
+    neighborhoods:
     - Ahmetölen Mah
     - Akçakertil Mah
     - Akçaköy Mah
@@ -1055,7 +1055,7 @@ Kepsut:
 Manyas:
   Kayaca:
     postcode: 10472
-    neighboorhoods:
+    neighborhoods:
     - Akçaova Mah
     - Boğazpınar Mah
     - Bölceağaç Mah
@@ -1103,7 +1103,7 @@ Manyas:
     - Yeniköy Mah
   Manyas:
     postcode: 10470
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Çarşı Mah
     - Kalebayır Mah
@@ -1112,11 +1112,11 @@ Manyas:
 Marmara:
   Avşa:
     postcode: 10940
-    neighboorhoods:
+    neighborhoods:
     - Ekinlik Mah
   Marmara:
     postcode: 10360
-    neighboorhoods:
+    neighborhoods:
     - Abroz Mah
     - Asmalı Mah
     - Avşa Mah
@@ -1133,7 +1133,7 @@ Marmara:
 Savaştepe:
   Karaçam:
     postcode: 10582
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Mah
     - Ardıçlı Mah
     - Aşağıdanişment Mah
@@ -1179,12 +1179,12 @@ Savaştepe:
     - Yunakdere Mah
   Sarıbeyler:
     postcode: 10590
-    neighboorhoods:
+    neighborhoods:
     - Esenköy Mah
     - Madenmezarı Mah
   Savaştepe:
     postcode: 10580
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Fatih Mah
     - Hürriyet Mah
@@ -1193,7 +1193,7 @@ Savaştepe:
 Sındırgı:
   Mandıra:
     postcode: 10332
-    neighboorhoods:
+    neighborhoods:
     - Akçakısrak Mah
     - Aktaş Mah
     - Alacaatlı Mah
@@ -1264,7 +1264,7 @@ Sındırgı:
     - Yüreğil Mah
   Sındırgı:
     postcode: 10330
-    neighboorhoods:
+    neighborhoods:
     - Camicedit Mah
     - Camikebir Mah
     - Çavdaroğlu Mah
@@ -1275,7 +1275,7 @@ Sındırgı:
 Susurluk:
   Göbel:
     postcode: 10610
-    neighboorhoods:
+    neighborhoods:
     - Beyköy Mah
     - Ilıcaboğazı Mah
     - Kepekler Mah
@@ -1285,7 +1285,7 @@ Susurluk:
     - Ümiteli Mah
   Kayıkçı:
     postcode: 10602
-    neighboorhoods:
+    neighborhoods:
     - Alibey Mah
     - Asmalıdere Mah
     - Aziziye Mah
@@ -1328,7 +1328,7 @@ Susurluk:
     - Yıldız Mah
   Susurluk:
     postcode: 10600
-    neighboorhoods:
+    neighborhoods:
     - Burhaniye Mah
     - Han Mah
     - Karşıyaka Mah

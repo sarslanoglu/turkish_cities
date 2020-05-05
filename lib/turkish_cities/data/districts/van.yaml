@@ -2,7 +2,7 @@
 Bahçesaray:
   Bahçesaray:
     postcode: 65710
-    neighboorhoods:
+    neighborhoods:
     - Akyayla Mah
     - Altındere Mah
     - Altıntas Mah
@@ -26,7 +26,7 @@ Bahçesaray:
 Başkale:
   Başkale:
     postcode: 65600
-    neighboorhoods:
+    neighborhoods:
     - Açıkağıl Mah
     - Akçalı Mah
     - Albayrak Mah
@@ -98,7 +98,7 @@ Başkale:
 Çaldıran:
   Çaldıran:
     postcode: 65970
-    neighboorhoods:
+    neighborhoods:
     - Akbaşak Mah
     - Alakaya Mah
     - Alikelle Mah
@@ -172,7 +172,7 @@ Başkale:
 Çatak:
   Çatak:
     postcode: 65870
-    neighboorhoods:
+    neighborhoods:
     - Adnan Menderes Mah
     - Ağaçlık Mah
     - Akçabük Mah
@@ -209,7 +209,7 @@ Başkale:
 Edremit:
   Gümüşdere:
     postcode: 65170
-    neighboorhoods:
+    neighborhoods:
     - Elmalık Mah
     - Erdemkent Mah
     - Erenkent Mah
@@ -218,7 +218,7 @@ Edremit:
     - Yeni Mah
   Süphan:
     postcode: 65300
-    neighboorhoods:
+    neighborhoods:
     - Akın Mah
     - Andaç Mah
     - Ayazpınar Mah
@@ -246,7 +246,7 @@ Edremit:
 Erciş:
   Erciş:
     postcode: 65400
-    neighboorhoods:
+    neighborhoods:
     - Abdalmezrası Mah
     - Adnan Menderes Mah
     - Ağaçören Mah
@@ -351,7 +351,7 @@ Erciş:
 Gevaş:
   Gevaş:
     postcode: 65700
-    neighboorhoods:
+    neighborhoods:
     - Abalı Mah
     - Aladüz Mah
     - Altınsaç Mah
@@ -395,7 +395,7 @@ Gevaş:
 Gürpınar:
   Gürpınar:
     postcode: 65900
-    neighboorhoods:
+    neighborhoods:
     - Akbulut Mah
     - Akdoğu Mah
     - Akpınar Mah
@@ -478,13 +478,13 @@ Gürpınar:
 İpekyolu:
   Erçek:
     postcode: 65210
-    neighboorhoods:
+    neighborhoods:
     - Ağzıkara Mah
     - Aktaş Mah
     - Erçek Mah
   Valimitatbey:
     postcode: 65100
-    neighboorhoods:
+    neighborhoods:
     - Alipaşa Mah
     - Arıtoprak Mah
     - Aşağıçitli Mah
@@ -535,7 +535,7 @@ Gürpınar:
 Muradiye:
   Muradiye:
     postcode: 65500
-    neighboorhoods:
+    neighborhoods:
     - Açıkyol Mah
     - Adaklı Mah
     - Akbulak Mah
@@ -587,7 +587,7 @@ Muradiye:
 Özalp:
   Özalp:
     postcode: 65800
-    neighboorhoods:
+    neighborhoods:
     - Aksorguç Mah
     - Altınboğa Mah
     - Aşağıakçagül Mah
@@ -649,7 +649,7 @@ Muradiye:
 Saray:
   Saray:
     postcode: 65830
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Bakışık Mah
     - Baltepe Mah
@@ -680,7 +680,7 @@ Saray:
 Tuşba:
   İskele:
     postcode: 65040
-    neighboorhoods:
+    neighborhoods:
     - Abdurrahman Gazi Mah
     - Adıgüzel Mah
     - Ağartı Mah
@@ -749,6 +749,6 @@ Tuşba:
     - Yumrutepe Mah
   İstasyon:
     postcode: 65030
-    neighboorhoods:
+    neighborhoods:
     - Akköprü Mah
     - İstasyon Mah

@@ -2,7 +2,7 @@
 Abana:
   Abana:
     postcode: 37970
-    neighboorhoods:
+    neighborhoods:
     - Bağlık Mah
     - Çayırcık Mah
     - Hacıveli Mah
@@ -10,7 +10,7 @@ Abana:
     - Merkez Mah
   Merkezköyler:
     postcode: 37972
-    neighboorhoods:
+    neighborhoods:
     - Akçam Mah (Maca Mah) (Akçam Köyü)
     - Ali Kahya Mah (Akçam Köyü)
     - Ali Onbaşı Mah (Yeşilyuva Köyü)
@@ -59,7 +59,7 @@ Abana:
 Ağlı:
   Ağlı:
     postcode: 37920
-    neighboorhoods:
+    neighborhoods:
     - Alınca Mah
     - Danacı Mah
     - Dikmen Mah
@@ -72,7 +72,7 @@ Ağlı:
     - Yağlıca Mah
   Merkezköyler:
     postcode: 37922
-    neighboorhoods:
+    neighborhoods:
     - Arapoğlu Mah (Oluközü Köyü)
     - Aşağı Turnacık Mah (Turnacık Köyü)
     - Balca Mah (Akdivan Köyü)
@@ -139,7 +139,7 @@ Ağlı:
 Araç:
   Araç:
     postcode: 37800
-    neighboorhoods:
+    neighborhoods:
     - Çay Mah
     - İnönü Mah
     - Mesudiye Mah
@@ -148,7 +148,7 @@ Araç:
     - Yukarıaraç Mah
   Merkezköyler:
     postcode: 37802
-    neighboorhoods:
+    neighborhoods:
     - Abdogil Mah (Doğanpınar Köyü)
     - Ado Mah (Karcılar Köyü)
     - Afet Mah (Yenice Köyü)
@@ -535,14 +535,14 @@ Araç:
 Azdavay:
   Azdavay:
     postcode: 37750
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Karşıyaka Mah
     - Merkez Mah
     - Yeni Mah
   Merkezköyler:
     postcode: 37752
-    neighboorhoods:
+    neighborhoods:
     - Ağıt Mah (Zümrüt Köyü)
     - Ahmetbey Mah (Gümürtler Köyü)
     - Akcaelma Mah (Derelitekke Köyü)
@@ -861,7 +861,7 @@ Azdavay:
 Bozkurt:
   Bozkurt:
     postcode: 37680
-    neighboorhoods:
+    neighborhoods:
     - Hamza Mah
     - Merkez Mah
     - Şen Mah
@@ -869,7 +869,7 @@ Bozkurt:
     - Yüksek Mah
   Merkezköyler:
     postcode: 37682
-    neighboorhoods:
+    neighborhoods:
     - Abdioğlu Mah (Keşlik Köyü)
     - Ahmetler Mah (Çiçekyayla Köyü)
     - Akgüney Mah (Ambarcılar Köyü)
@@ -1060,7 +1060,7 @@ Bozkurt:
 Cide:
   Cide:
     postcode: 37600
-    neighboorhoods:
+    neighborhoods:
     - Bağyurdu Mah
     - Cumhuriyet Mah
     - Ece Mah
@@ -1073,7 +1073,7 @@ Cide:
     - Nasuh Mah
   Merkezköyler:
     postcode: 37602
-    neighboorhoods:
+    neighborhoods:
     - Abbaslar Mah (İsaköy Köyü)
     - Absalan Mah (Yıldızalan Köyü)
     - Adıyüzü Mah (Çilekçe Köyü)
@@ -1336,12 +1336,12 @@ Cide:
 Çatalzeytin:
   Çatalzeytin:
     postcode: 37940
-    neighboorhoods:
+    neighborhoods:
     - Çelebiler Mah
     - Merkez Mah
   Merkezköyler:
     postcode: 37942
-    neighboorhoods:
+    neighborhoods:
     - Abdullah Mah (Arıca Köyü)
     - Ablu Mah (Çağlar Köyü)
     - Akgün Mah (Kaymazlar Köyü)
@@ -1561,14 +1561,14 @@ Cide:
 Daday:
   Daday:
     postcode: 37870
-    neighboorhoods:
+    neighborhoods:
     - Bey Mah
     - Kalem Mah
     - Kelebek Mah
     - Merkez Mah
   Merkezköyler:
     postcode: 37872
-    neighboorhoods:
+    neighborhoods:
     - A.kayacık Mah (Karamık Köyü)
     - Abdioğlu Mah (Değirmenözü Köyü)
     - Afurözü Mah (Kızılörencik Köyü)
@@ -1839,7 +1839,7 @@ Daday:
 Devrekani:
   Devrekani:
     postcode: 37700
-    neighboorhoods:
+    neighborhoods:
     - Ahiçelebi Mah
     - Çayırcık Mah
     - Etçiler Mah
@@ -1850,7 +1850,7 @@ Devrekani:
     - Sazyaka Mah
   Merkezköyler:
     postcode: 37702
-    neighboorhoods:
+    neighborhoods:
     - Ahalar Mah (İnciğez Köyü)
     - Alageriş Mah (Bozarmut Köyü)
     - Alıççılar Mah (Alıççı Mah) (Balabanlar Köyü)
@@ -2086,12 +2086,12 @@ Devrekani:
 Doğanyurt:
   Doğanyurt:
     postcode: 37550
-    neighboorhoods:
+    neighborhoods:
     - Hocaköyü Mah
     - Merkez Mah
   Merkezköyler:
     postcode: 37552
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Mah (Akçabel Köyü)
     - Alibey Mah (Demirci Köyü)
     - Armutlu Mah (Denizbükü Köyü)
@@ -2180,13 +2180,13 @@ Doğanyurt:
 Hanönü:
   Gökçeağaç:
     postcode: 37450
-    neighboorhoods:
+    neighborhoods:
     - Gelinbükü Mah
     - Hanönü Mah
     - Vakıf Geymene Mah
   Merkezköyler:
     postcode: 37452
-    neighboorhoods:
+    neighborhoods:
     - Abazoğlu Mah (Bölükyazı Köyü)
     - Abdioğlu Mah (Demircimüezzin Köyü)
     - Acısu Mah (Demircimüezzin Köyü)
@@ -2321,7 +2321,7 @@ Hanönü:
 İhsangazi:
   İhsangazi:
     postcode: 37250
-    neighboorhoods:
+    neighborhoods:
     - Afşar Mah
     - Çay Mah
     - Elçelebi Mah
@@ -2334,7 +2334,7 @@ Hanönü:
     - Yeşil Mah
   Merkezköyler:
     postcode: 37252
-    neighboorhoods:
+    neighborhoods:
     - Ahsap Mah (Obruk Köyü)
     - Akkaya Mah (Akkaya Köyü)
     - Alaca Mah (Bozarmut Köyü)
@@ -2457,7 +2457,7 @@ Hanönü:
 İnebolu:
   İnebolu:
     postcode: 37500
-    neighboorhoods:
+    neighborhoods:
     - Aşağıhatipbağı Mah
     - Avara Mah
     - Boyran Mah
@@ -2474,7 +2474,7 @@ Hanönü:
     - Yukarıhatipbağı Mah
   Merkezköyler:
     postcode: 37502
-    neighboorhoods:
+    neighborhoods:
     - Ağa Mah (Evrenye Köyü)
     - Aha Mah (Keloğlu Köyü)
     - Akpınar Mah (Karabey Köyü)
@@ -2693,14 +2693,14 @@ Hanönü:
 Küre:
   Küre:
     postcode: 37900
-    neighboorhoods:
+    neighborhoods:
     - Camievsat Mah
     - Camikebir Mah
     - Müderris Mah
     - Saman Mah
   Merkezköyler:
     postcode: 37902
-    neighboorhoods:
+    neighborhoods:
     - Abdi Mah (Karadonu Köyü)
     - Abdullah Mah (Kozköy Köyü)
     - Abuda Mah (Çat Köyü)
@@ -2868,7 +2868,7 @@ Küre:
 Merkez:
   Akmescit:
     postcode: 37100
-    neighboorhoods:
+    neighborhoods:
     - Akmescit Mah
     - Atabeygazi Mah
     - Hepkebirler Mah
@@ -2880,7 +2880,7 @@ Merkez:
     - Yavuzselim Mah
   Cebrail:
     postcode: 37200
-    neighboorhoods:
+    neighborhoods:
     - Aktekke Mah
     - Beyçelebi Mah
     - Cebrail Mah
@@ -2890,13 +2890,13 @@ Merkez:
     - Mehmet Akif Ersoy Mah
   Kuzeykent:
     postcode: 37150
-    neighboorhoods:
+    neighborhoods:
     - Candaroğulları Mah
     - İnönü Mah
     - Kuzeykent Mah
   Merkezköyler:
     postcode: 37210
-    neighboorhoods:
+    neighborhoods:
     - A.akcakese Mah (Üyücek Köyü)
     - A.torumlar Mah (Gelinören Köyü)
     - Abasıyanık Mah (Gödel Köyü)
@@ -3507,7 +3507,7 @@ Merkez:
 Pınarbaşı:
   Merkezköyler:
     postcode: 37772
-    neighboorhoods:
+    neighborhoods:
     - Abut Mah (Urva Köyü)
     - Afetevleri Mah (Yamanlar Köyü)
     - Ahmat Agası Mah (Demirtaş Köyü)
@@ -3680,7 +3680,7 @@ Pınarbaşı:
     - Zaimogulları Mah (Başköy Köyü)
   Pınarbaşı:
     postcode: 37770
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Cumhuriyet Mah
     - Çalkaya Mah
@@ -3690,7 +3690,7 @@ Pınarbaşı:
 Seydiler:
   Merkezköyler:
     postcode: 37272
-    neighboorhoods:
+    neighborhoods:
     - Ali Ağa Mah (Kepez Köyü)
     - Aşağı Şalgam Mah (Şalgam Köyü)
     - Ayrancı Mah (Yolyaka Köyü)
@@ -3762,7 +3762,7 @@ Seydiler:
     - Yavsuoğlu Mah (Çırdak Köyü)
   Seydiler:
     postcode: 37270
-    neighboorhoods:
+    neighborhoods:
     - Aşağıarslanlı Mah
     - Ayvatlar Mah
     - Batıörcünler Mah
@@ -3777,7 +3777,7 @@ Seydiler:
 Şenpazar:
   Merkezköyler:
     postcode: 37652
-    neighboorhoods:
+    neighborhoods:
     - Abidinoğlu Mah (Salman Köyü)
     - Ahmet Bey Mah (Gürpelit Köyü)
     - Akca Kese Mah (Harmangeriş Köyü)
@@ -3848,7 +3848,7 @@ Seydiler:
     - Zanaltı Mah (Az.kalaycı Köyü)
   Şenpazar:
     postcode: 37650
-    neighboorhoods:
+    neighborhoods:
     - Çevrik Mah
     - Dibekli Mah
     - Güneytekke Mah
@@ -3859,7 +3859,7 @@ Seydiler:
 Taşköprü:
   Merkezköyler:
     postcode: 37402
-    neighboorhoods:
+    neighborhoods:
     - Ağnak Mah (Bey Köyü)
     - Ahcıbaşı Mah (Taşçılar Köyü)
     - Ahlatcı Mah (Abay Köyü)
@@ -4294,7 +4294,7 @@ Taşköprü:
     - Zeybek Mah (Güneykalınkese Köyü)
   Taşköprü:
     postcode: 37400
-    neighboorhoods:
+    neighborhoods:
     - Ağcıkişi Mah
     - Bahçelievler Mah
     - Camikebir Mah
@@ -4312,7 +4312,7 @@ Taşköprü:
 Tosya:
   Merkezköyler:
     postcode: 37302
-    neighboorhoods:
+    neighborhoods:
     - Akdutdibi Mah (Kızılca Köyü)
     - Alamadan Mah (Gökomuz Köyü)
     - Ali Efendi Mah (Keçeli Köyü)
@@ -4459,7 +4459,7 @@ Tosya:
     - Yukarı Mah (Gökomuz Köyü)
   Tosya:
     postcode: 37300
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Camiatik Mah
     - Cumhuriyet Mah

@@ -2,11 +2,11 @@
 Ardanuç:
   Ardanuç:
     postcode: 8300
-    neighboorhoods:
+    neighborhoods:
     - Merkez Mah
   Merkezköyler:
     postcode: 8390
-    neighboorhoods:
+    neighborhoods:
     - Afet Evleri Mah (Ballı Köyü)
     - Afet Evleri Mah (Müezzinler Köyü)
     - Ağagil Mah (Gümüşhane Köyü)
@@ -213,7 +213,7 @@ Ardanuç:
 Arhavi:
   Arhavi:
     postcode: 8200
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Hacılar Mah
     - Boğaziçi Mah
     - Cumhuriyet Mah
@@ -223,7 +223,7 @@ Arhavi:
     - Yukarı Hacılar Mah
   Merkezköyler:
     postcode: 8290
-    neighboorhoods:
+    neighborhoods:
     - Akıncılar Mah (Dikyamaç Köyü)
     - Altılar Mah (Üçler Köyü)
     - Aslanlar Mah (Sırtoba Köyü)
@@ -321,7 +321,7 @@ Arhavi:
 Borçka:
   Borçka:
     postcode: 8400
-    neighboorhoods:
+    neighborhoods:
     - Aksu Mah
     - Gündoğdu Mah
     - Küçük Köy Mah
@@ -329,7 +329,7 @@ Borçka:
     - Yeniyol Mah
   Merkezköyler:
     postcode: 8490
-    neighboorhoods:
+    neighborhoods:
     - Adagül Köyü
     - Adagül Mah (Adagül Köyü)
     - Akdilek Mah (Boğazköy Köyü)
@@ -404,7 +404,7 @@ Borçka:
 Hopa:
   Hopa:
     postcode: 8600
-    neighboorhoods:
+    neighborhoods:
     - Bucak Mah
     - Cumhuriyet Mah
     - Merkez Kuledibi Mah
@@ -414,7 +414,7 @@ Hopa:
     - Yukarı Kuledibi Mah
   Merkezköyler:
     postcode: 8690
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Yoldere Mah (Yoldere Köyü)
     - Balık Köyü
     - Başköy Köyü
@@ -441,13 +441,13 @@ Hopa:
 Kemalpaşa:
   Kemalpaşa:
     postcode: 8610
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Selimiye Mah
     - Uzunyalı Mah
   Merkezköyler:
     postcode: 8620
-    neighboorhoods:
+    neighborhoods:
     - Akdere Köyü
     - Çamurlu Köyü
     - Dereiçi Köyü
@@ -464,7 +464,7 @@ Kemalpaşa:
 Merkez:
   Artvin:
     postcode: 8010
-    neighboorhoods:
+    neighborhoods:
     - Balcıoğlu Mah
     - Çamlık Mah
     - Çarşı Mah
@@ -474,7 +474,7 @@ Merkez:
     - Yeni Mah
   Merkezköyler:
     postcode: 8100
-    neighboorhoods:
+    neighborhoods:
     - Ada Mah (Çimenli Köyü)
     - Agora Mah (Beşağıl Köyü)
     - Aguset Mah (Aşağımaden Köyü)
@@ -783,11 +783,11 @@ Merkez:
 Murgul:
   Göktaş:
     postcode: 8500
-    neighboorhoods:
+    neighborhoods:
     - Küre Mah
   Merkezköyler:
     postcode: 8590
-    neighboorhoods:
+    neighborhoods:
     - A.balaban Mah (Başköy Köyü)
     - Akantaş Köyü
     - Ardıçlı Köyü
@@ -810,7 +810,7 @@ Murgul:
 Şavşat:
   Merkezköyler:
     postcode: 8790
-    neighboorhoods:
+    neighborhoods:
     - A.şindoban Mah (Dalkırmaz Köyü)
     - Abdulgil Mah (Pınarlı Köyü)
     - Abduloğlu Mah (Kocabey Köyü)
@@ -1236,14 +1236,14 @@ Murgul:
     - Ziyaret Mah (Ziyaret Köyü)
   Şavşat:
     postcode: 8700
-    neighboorhoods:
+    neighborhoods:
     - Armutlu Mah
     - Söğütlü Mah
     - Yeniköy Mah
 Yusufeli:
   Merkezköyler:
     postcode: 8890
-    neighboorhoods:
+    neighborhoods:
     - Abanoz Mah (Bahçeli Köyü)
     - Abramet -kakrazevl Mah (Altıparmak Köyü)
     - Ada Mah (Çevreli Köyü)
@@ -1948,7 +1948,7 @@ Yusufeli:
     - Zuvare Mah (Yağcılar Köyü)
   Yusufeli:
     postcode: 8800
-    neighboorhoods:
+    neighborhoods:
     - Ahalt Mah
     - Erdemler Mah
     - Hasanağa Mah

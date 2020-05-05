@@ -2,14 +2,14 @@
 Alaplı:
   Alaplı:
     postcode: 67850
-    neighboorhoods:
+    neighborhoods:
     - Merkez Mah
     - Tepeköy Mah
     - Yeni Siteler Mah
     - Yenimahalle Mah
   Merkezköyler:
     postcode: 67852
-    neighboorhoods:
+    neighborhoods:
     - Abacılar Mah (Çamcılar Köyü)
     - Ahiler Mah (Alioğlu Köyü)
     - Alaplıbölücek Köyü
@@ -146,7 +146,7 @@ Alaplı:
 Çaycuma:
   Çaycuma:
     postcode: 67900
-    neighboorhoods:
+    neighborhoods:
     - Çay Mah
     - Gemiciler Mah
     - İstasyon Mah
@@ -159,7 +159,7 @@ Alaplı:
     - Yeşiltepe Mah
   Hisarönü(filyos):
     postcode: 67660
-    neighboorhoods:
+    neighborhoods:
     - Abacık Mah (Filyos Köyü)
     - Akpınar Köyü
     - Çayköy Köyü
@@ -180,7 +180,7 @@ Alaplı:
     - Yukarı Mah (Çömlekçi Köyü)
   Merkezköyler:
     postcode: 67902
-    neighboorhoods:
+    neighborhoods:
     - Akçaköy Mah (Güzelyurt Köyü)
     - Arıcıoğlu Mah (Kayıkçılar Köyü)
     - Aşağı Mah (Erenköy Köyü)
@@ -298,7 +298,7 @@ Alaplı:
     - Zobalaklar Mah (Güzelyaka Köyü)
   Perşembe:
     postcode: 67960
-    neighboorhoods:
+    neighborhoods:
     - Ağalar Mah (Madenler Köyü)
     - Ahmet Beyoğlu Mah (Şehler Köyü)
     - Ahmetbaşaoğlu Mah (Helvacılar Köyü)
@@ -404,7 +404,7 @@ Alaplı:
     - Yörübaş Mah (Muharremşah Köyü)
   Saltukova:
     postcode: 67970
-    neighboorhoods:
+    neighborhoods:
     - Acarlar Mah (Hacılar Köyü)
     - Ahmetler Mah (Aşağısarmaşık Köyü)
     - Alibeyoğlu Mah (Coburlar Köyü)
@@ -483,14 +483,14 @@ Alaplı:
 Devrek:
   Devrek:
     postcode: 67800
-    neighboorhoods:
+    neighborhoods:
     - Ağalar Mah
     - Eski Mah
     - İsmet Paşa Mah
     - Yeni Mah
   Eğerci:
     postcode: 67840
-    neighboorhoods:
+    neighborhoods:
     - Abdibaşoğlu Mah (Taşkesen Köyü)
     - Adıbeyler Mah (Adatepe Köyü)
     - Ahatoğlu Mah (Taşkesen Köyü)
@@ -569,7 +569,7 @@ Devrek:
     - Yürükoğlu Mah (Kozlukadı Köyü)
   Merkezköyler:
     postcode: 67802
-    neighboorhoods:
+    neighborhoods:
     - Abacıoğlu Mah (Karacaören Köyü)
     - Abalıoğlu Mah (Tabaklar Köyü)
     - Adalıoğlu Mah (Karabaşlı Köyü)
@@ -938,7 +938,7 @@ Devrek:
 Ereğli:
   Karadenizereğli:
     postcode: 67300
-    neighboorhoods:
+    neighborhoods:
     - Akarca Mah
     - Bağlık Mah
     - Balı Mah
@@ -972,7 +972,7 @@ Ereğli:
     - Uzunmehmet Mah
   Merkezköyler:
     postcode: 67302
-    neighboorhoods:
+    neighborhoods:
     - Ahmetli Bakımevi Mah (Cemaller Köyü)
     - Akıllı Mah (Aşağıkayalıdere Köyü)
     - Akköy Mah (Uludağ Köyü)
@@ -1155,7 +1155,7 @@ Ereğli:
     - Zoroğlu Mah (Ramazanlı Köyü)
   Ormanlı:
     postcode: 67380
-    neighboorhoods:
+    neighborhoods:
     - A.sofular Mah (Hasankahyalar Köyü)
     - Ahmetli Mah (Çiğdemli Köyü)
     - Ahmetpaşalar Mah (Sarıkaya Köyü)
@@ -1244,7 +1244,7 @@ Ereğli:
 Gökçebey:
   Gökçebey:
     postcode: 67670
-    neighboorhoods:
+    neighborhoods:
     - Çarşı Mah
     - Çay Mah
     - İstasyon Mah
@@ -1253,7 +1253,7 @@ Gökçebey:
     - Yeni Mah
   Merkezköyler:
     postcode: 67672
-    neighboorhoods:
+    neighborhoods:
     - Abasızoğlu Mah (Bakiler Köyü)
     - Abdibeyoğlu Mah (Gaziler Köyü)
     - Aksakaloğlu Mah (Aktarla Köyü)
@@ -1346,7 +1346,7 @@ Gökçebey:
 Kilimli:
   Kilimli:
     postcode: 67500
-    neighboorhoods:
+    neighborhoods:
     - Belediye Sitesi Mah
     - Bölüm Mah
     - Çamlık Mah
@@ -1358,7 +1358,7 @@ Kilimli:
     - Subatan Mah
   Merkezköyler:
     postcode: 67502
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Mah (Göbü Köyü)
     - Ayiçi Mah (Gelik Köyü)
     - Ayiçi Merkez Mah (Gelik Köyü)
@@ -1391,7 +1391,7 @@ Kilimli:
 Kozlu:
   Kozlu:
     postcode: 67600
-    neighboorhoods:
+    neighborhoods:
     - 19 Mayıs Mah
     - Esenköy Mah
     - Fatih Mah
@@ -1403,7 +1403,7 @@ Kozlu:
     - Yahma Mah
   Merkezköyler:
     postcode: 67602
-    neighboorhoods:
+    neighborhoods:
     - Abacıoğlu Mah (Üçköy Köyü)
     - Ardınç Mah (Sakaköy Köyü)
     - Aşağı Mah (Uzungüney Köyü)
@@ -1456,7 +1456,7 @@ Kozlu:
 Merkez:
   Beycuma:
     postcode: 67980
-    neighboorhoods:
+    neighborhoods:
     - Ahmetler Mah (Himmetoğlu Köyü)
     - Ali Velioğlu Mah (Hacıali Köyü)
     - Alibüyük Mah (Osmanlı Köyü)
@@ -1539,7 +1539,7 @@ Merkez:
     - Yusufoğlu Mah (Himmetoğlu Köyü)
   Merkezköyler:
     postcode: 67002
-    neighboorhoods:
+    neighborhoods:
     - Alaca Mah (Kardeşler Köyü)
     - Aşağı Mah (Olukyanı Köyü)
     - Aşağıköy Mah (Sarımsak Köyü)
@@ -1577,7 +1577,7 @@ Merkez:
     - Zeytin 2 Mah (Alancık Köyü)
   Zonguldak:
     postcode: 67100
-    neighboorhoods:
+    neighborhoods:
     - Asma Mah
     - Bağlık Mah
     - Bahçelievler Mah

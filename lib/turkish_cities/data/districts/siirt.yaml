@@ -2,7 +2,7 @@
 Baykan:
   Baykan:
     postcode: 56460
-    neighboorhoods:
+    neighborhoods:
     - Cefan Mah
     - Havel Mah
     - İnönü Mah
@@ -10,7 +10,7 @@ Baykan:
     - Yenidoğan Mah
   Dilektepe:
     postcode: 56470
-    neighboorhoods:
+    neighborhoods:
     - Adakale Köyü
     - Ayranlı Mah (Narlıyurt Köyü)
     - Çevrimtepe Köyü
@@ -33,7 +33,7 @@ Baykan:
     - Uzunkavak Mah (Narlıyurt Köyü)
   Merkezköyler:
     postcode: 56462
-    neighboorhoods:
+    neighborhoods:
     - Akbudak Mah (Obalı Köyü)
     - Akdiken Mah (Obalı Köyü)
     - Ardıçdalı Köyü
@@ -75,7 +75,7 @@ Baykan:
 Eruh:
   Bağgöze:
     postcode: 56540
-    neighboorhoods:
+    neighborhoods:
     - Aydoğmuş Mah (Gönülaldı Köyü)
     - Bağgöze Köyü
     - Ballıkavak Köyü
@@ -112,13 +112,13 @@ Eruh:
     - Yokuşlu Köyü
   Eruh:
     postcode: 56800
-    neighboorhoods:
+    neighborhoods:
     - Dih Mah
     - Fatih Mah
     - Sarıgül Mah
   Merkezköyler:
     postcode: 56802
-    neighboorhoods:
+    neighborhoods:
     - Akdiken Köyü
     - Akmeşe Köyü
     - Bayıryüzü Köyü
@@ -157,7 +157,7 @@ Eruh:
 Kurtalan:
   Kurtalan:
     postcode: 56500
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Cumhuriyet Mah
     - Dicle Mah
@@ -173,7 +173,7 @@ Kurtalan:
     - Yenidoğan Mah
   Merkezköyler:
     postcode: 56502
-    neighboorhoods:
+    neighborhoods:
     - Ağaçlıpınar Köyü
     - Akbulut Mah (Tulumtaş Köyü)
     - Akçagedik Köyü
@@ -279,7 +279,7 @@ Kurtalan:
 Merkez:
   Merkezköyler:
     postcode: 56220
-    neighboorhoods:
+    neighborhoods:
     - Akarsu Mah (Demirkaya Köyü)
     - Akdoğmuş Köyü
     - Akıncılar Mah (Pınarca Köyü)
@@ -343,7 +343,7 @@ Merkez:
     - Zorkaya Köyü
   Siirt:
     postcode: 56100
-    neighboorhoods:
+    neighborhoods:
     - Afetevleri Mah
     - Alan Mah
     - Algül Mah
@@ -367,7 +367,7 @@ Merkez:
 Pervari:
   Merkezköyler:
     postcode: 56702
-    neighboorhoods:
+    neighborhoods:
     - Aşağıayvalıbağ Mah (Ayvalıbağ Köyü)
     - Aşağıbalcılar Köyü
     - Ayvalıbağ Köyü
@@ -434,13 +434,13 @@ Pervari:
     - Yukarıekindüzü Mah (Ekindüzü Köyü)
   Pervari:
     postcode: 56700
-    neighboorhoods:
+    neighborhoods:
     - Aydın Mah
     - Şakiran Mah
 Şirvan:
   Cevizlik:
     postcode: 56873
-    neighboorhoods:
+    neighborhoods:
     - Aktaş Mah (Yamaçlı Köyü)
     - Ayn Kebir Mah (Kesmetaş Köyü)
     - Bindal Mah (Kesmetaş Köyü)
@@ -461,7 +461,7 @@ Pervari:
     - Yamaçlı Köyü
   Merkezköyler:
     postcode: 56762
-    neighboorhoods:
+    neighborhoods:
     - Akçayar Köyü
     - Akgeçit Köyü
     - Akyokuş Köyü
@@ -515,7 +515,7 @@ Pervari:
     - Zinihari Mah (İncekaya Köyü)
   Özpınar:
     postcode: 56763
-    neighboorhoods:
+    neighborhoods:
     - Adıgüzel Köyü
     - Asmalıdere Mah (Yağcılar Köyü)
     - Başçavuş Mah (Yedikapı Köyü)
@@ -551,7 +551,7 @@ Pervari:
     - Yolbaşı Köyü
   Şirvan:
     postcode: 56760
-    neighboorhoods:
+    neighborhoods:
     - Bağcılar Mah
     - Fatih Mah
     - Kırtepe Mah
@@ -560,13 +560,13 @@ Pervari:
 Tillo:
   Aydınlar:
     postcode: 56870
-    neighboorhoods:
+    neighborhoods:
     - Fakirullah Mah
     - Mücahit Mah
     - Saydanlar Mah
   Merkezköyler:
     postcode: 56872
-    neighboorhoods:
+    neighborhoods:
     - Akyayla Köyü
     - Aynsuç Mah (Fersaf Köyü)
     - Erenler Mah (Hatrant Köyü)

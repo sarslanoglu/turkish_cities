@@ -2,7 +2,7 @@
 Banaz:
   Banaz:
     postcode: 64500
-    neighboorhoods:
+    neighborhoods:
     - 31 Ağustos Mah
     - Cumhuriyet Mah
     - Dilek Mah
@@ -10,7 +10,7 @@ Banaz:
     - Şehitler Mah
   Merkezköyler:
     postcode: 64502
-    neighboorhoods:
+    neighborhoods:
     - Ahat Köyü
     - Alaba Köyü
     - Asfalt Mah (Kaplangı Köyü)
@@ -94,7 +94,7 @@ Banaz:
 Eşme:
   Eşme:
     postcode: 64600
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Elvanlar Mah
     - İstasyon Mah
@@ -103,7 +103,7 @@ Eşme:
     - Üçeylül Mah
   Merkezköyler:
     postcode: 64602
-    neighboorhoods:
+    neighborhoods:
     - Abacılar Mah (Dereköy Köyü)
     - Abdil Çavuş Mah (Narıncalı Köyü)
     - Abdurrahmanlı Mah (Saraycık Köyü)
@@ -318,7 +318,7 @@ Eşme:
 Karahallı:
   Karahallı:
     postcode: 64700
-    neighboorhoods:
+    neighborhoods:
     - Boğaz Mah
     - Buğdaylı Mah
     - Dere Mah
@@ -328,7 +328,7 @@ Karahallı:
     - Yeni Mah
   Merkezköyler:
     postcode: 64702
-    neighboorhoods:
+    neighborhoods:
     - Alfaklar Köyü
     - Beki Köyü
     - Coğuplu Köyü
@@ -349,7 +349,7 @@ Karahallı:
 Merkez:
   Cumhuriyet:
     postcode: 64200
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Aybey Mah
     - Bozkurt Mah
@@ -373,7 +373,7 @@ Merkez:
     - Ünalan Mah
   Merkezköyler:
     postcode: 64050
-    neighboorhoods:
+    neighborhoods:
     - Abdallar Mah (Sorkun Köyü)
     - Abdiler Mah (Karakuyu Köyü)
     - Abdiller Mah (Zahman Köyü)
@@ -630,7 +630,7 @@ Merkez:
 Sivaslı:
   Merkezköyler:
     postcode: 64802
-    neighboorhoods:
+    neighborhoods:
     - Akarca Köyü
     - Aktepe Mah (Azizler Köyü)
     - Atatürk Mah (Tatar Köyü)
@@ -673,7 +673,7 @@ Sivaslı:
     - Yıldıztepe Mah (Selçikler Köyü)
   Sivaslı:
     postcode: 64800
-    neighboorhoods:
+    neighborhoods:
     - Akıncılar Mah
     - Akıncılar Mah (Ağaçbeyli Köyü)
     - Atatürk Mah
@@ -685,7 +685,7 @@ Sivaslı:
 Ulubey:
   Merkezköyler:
     postcode: 64902
-    neighboorhoods:
+    neighborhoods:
     - Akkeçili Köyü
     - Aksaz Köyü
     - Aksaz Mah (Aksaz Köyü)
@@ -726,7 +726,7 @@ Ulubey:
     - Yenice Mah (İshaklar Köyü)
   Ulubey:
     postcode: 64900
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Mah
     - Camikebir Mah
     - Dilaver Mah

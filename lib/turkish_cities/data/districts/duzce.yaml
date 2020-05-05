@@ -2,7 +2,7 @@
 Akçakoca:
   Akçakoca:
     postcode: 81650
-    neighboorhoods:
+    neighborhoods:
     - Ayazlı Mah
     - Cumhuriyet Mah
     - Hacı Yusuflar Mah
@@ -13,7 +13,7 @@ Akçakoca:
     - Yukarı Mah
   Merkezköyler:
     postcode: 81652
-    neighboorhoods:
+    neighborhoods:
     - Acara Mah (Doğancılar Köyü)
     - Ahmetdağı Mah (Tahirli Köyü)
     - Akkaya Köyü
@@ -75,7 +75,7 @@ Akçakoca:
 Cumayeri:
   Cumayeri:
     postcode: 81700
-    neighboorhoods:
+    neighborhoods:
     - Çevrik Mah
     - Mehmet Akif Mah
     - Orta Mah
@@ -83,7 +83,7 @@ Cumayeri:
     - Yeni Mah
   Merkezköyler:
     postcode: 81702
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Köyü
     - Ali Usta Mah (Çelikdere Köyü)
     - Alt Mah (Çelikdere Köyü)
@@ -139,7 +139,7 @@ Cumayeri:
 Çilimli:
   Çilimli:
     postcode: 81750
-    neighboorhoods:
+    neighborhoods:
     - Arabacı Mah
     - Mahirağa Mah
     - Şerefiye Mah
@@ -149,7 +149,7 @@ Cumayeri:
     - Yeşiltepe Mah
   Merkezköyler:
     postcode: 81752
-    neighboorhoods:
+    neighborhoods:
     - Alimler Mah (Pırpır Köyü)
     - Bıçkıbaşı Köyü
     - Çakallar Mah (Pırpır Köyü)
@@ -185,7 +185,7 @@ Cumayeri:
 Gölyaka:
   Gölyaka:
     postcode: 81800
-    neighboorhoods:
+    neighborhoods:
     - Açma Mah
     - Cumakırı Mah
     - Esen Mah
@@ -198,7 +198,7 @@ Gölyaka:
     - Yeşil Mah
   Merkezköyler:
     postcode: 81802
-    neighboorhoods:
+    neighborhoods:
     - Açma Köyü
     - Aksu Köyü
     - Albayrak Mah (Saçmalıpınar Köyü)
@@ -249,7 +249,7 @@ Gölyaka:
 Gümüşova:
   Gümüşova:
     postcode: 81850
-    neighboorhoods:
+    neighborhoods:
     - Fatih Mah
     - Hacılar Mah
     - Kışla Mah
@@ -258,7 +258,7 @@ Gümüşova:
     - Yeni Mah
   Merkezköyler:
     postcode: 81852
-    neighboorhoods:
+    neighborhoods:
     - Adaköy Köyü
     - Adaköyü Mah (Adaköy Köyü)
     - Ardıçdibi Köyü
@@ -285,7 +285,7 @@ Gümüşova:
 Kaynaşlı:
   Kaynaşlı:
     postcode: 81900
-    neighboorhoods:
+    neighborhoods:
     - Çele Mah
     - Eskiköy Mah
     - Karaçalı Mah
@@ -295,7 +295,7 @@ Kaynaşlı:
     - Şimşir Mah
   Merkezköyler:
     postcode: 81902
-    neighboorhoods:
+    neighborhoods:
     - 28 Evler Mah (Darıyeri Yörükler Köyü)
     - Alt Mah (Çatalçam Köyü)
     - Alt Mah (Hacıazizler Köyü)
@@ -378,7 +378,7 @@ Kaynaşlı:
 Merkez:
   Aziziyegünlü:
     postcode: 81010
-    neighboorhoods:
+    neighborhoods:
     - Ağaköyü Mah
     - Akpınar Mah
     - Arapçiftliği Mah
@@ -413,7 +413,7 @@ Merkez:
     - Yukarı Yahyalar Mah
   Beyciler:
     postcode: 81030
-    neighboorhoods:
+    neighborhoods:
     - Beyciler Mah
     - Cumhuriyet Mah
     - Derelitütüncü Mah
@@ -425,19 +425,19 @@ Merkez:
     - Yeni Mah
   Beyköy:
     postcode: 81600
-    neighboorhoods:
+    neighborhoods:
     - Akınlar Mah
     - Kültür Mah
   Boğaziçi:
     postcode: 81620
-    neighboorhoods:
+    neighborhoods:
     - Şehit Bayram Gökmen Mah
     - Şehit Hüseyin Kıl Mah
     - Şehit Kemal Işıldak Mah
     - Şehit Murat Demir Mah
   Kalıcıkonutlar:
     postcode: 81630
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - Çamlıevler Mah
     - Demetevler Mah
@@ -446,7 +446,7 @@ Merkez:
     - Yeşiltepe Mah
   Konuralp:
     postcode: 81060
-    neighboorhoods:
+    neighborhoods:
     - Açmalar Mah (Asar Köyü)
     - Afanoğlu Mah (Yeni Aynalı Köyü)
     - Akbıyıklar Köyü
@@ -665,7 +665,7 @@ Merkez:
 Yığılca:
   Merkezköyler:
     postcode: 81952
-    neighboorhoods:
+    neighborhoods:
     - Aksu Mah (Hoşafoğlu Köyü)
     - Asar Köyü
     - Aşağı Mah (Hacılar Köyü)
@@ -749,7 +749,7 @@ Yığılca:
     - Yukarı Mah (Yılgın Köyü)
   Yığılca:
     postcode: 81950
-    neighboorhoods:
+    neighborhoods:
     - Ahmetçiler Mah
     - Atatürk Mah
     - Mareşal Fevzi Çakmak Mah

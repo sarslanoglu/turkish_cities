@@ -2,7 +2,7 @@
 Bodrum:
   Bodrum:
     postcode: 48400
-    neighboorhoods:
+    neighborhoods:
     - Akçaalan Mah
     - Akyarlar Mah
     - Bahçelievler Mah
@@ -62,7 +62,7 @@ Bodrum:
 Dalaman:
   Dalaman:
     postcode: 48770
-    neighboorhoods:
+    neighborhoods:
     - Akçataş Mah
     - Altıntas Mah
     - Atakent Mah
@@ -91,7 +91,7 @@ Dalaman:
 Datça:
   Datça:
     postcode: 48900
-    neighboorhoods:
+    neighborhoods:
     - Cumalı Mah
     - Datça Mah
     - Emecik Mah
@@ -107,7 +107,7 @@ Datça:
 Fethiye:
   Fethiye:
     postcode: 48300
-    neighboorhoods:
+    neighborhoods:
     - Akarca Mah
     - Babataşı Mah
     - Bozyer Mah
@@ -152,7 +152,7 @@ Fethiye:
 Kavaklıdere:
   Kavaklıdere:
     postcode: 48570
-    neighboorhoods:
+    neighborhoods:
     - Bakırcılar Mah
     - Cumhuriyet Mah
     - Çamlıbel Mah
@@ -171,7 +171,7 @@ Kavaklıdere:
 Köyceğiz:
   Köyceğiz:
     postcode: 48800
-    neighboorhoods:
+    neighborhoods:
     - Akköprü Mah
     - Balcılar Mah
     - Beyobası Mah
@@ -200,7 +200,7 @@ Köyceğiz:
 Marmaris:
   Marmaris:
     postcode: 48700
-    neighboorhoods:
+    neighborhoods:
     - Adaköy Mah
     - Armutalan Mah
     - Bayır Mah
@@ -229,7 +229,7 @@ Marmaris:
 Menteşe:
   Menteşe:
     postcode: 48050
-    neighboorhoods:
+    neighborhoods:
     - Akçaova Mah
     - Akkaya Mah
     - Akyer Mah
@@ -299,7 +299,7 @@ Menteşe:
 Milas:
   Milas:
     postcode: 48200
-    neighboorhoods:
+    neighborhoods:
     - Ağaçlıhüyük Mah
     - Ahmetçavuş-hayıtlı Mah
     - Akçakaya Mah
@@ -435,7 +435,7 @@ Milas:
 Ortaca:
   Ortaca:
     postcode: 48600
-    neighboorhoods:
+    neighborhoods:
     - Akıncı Mah
     - Arıkbaşı Mah
     - Atatürk Mah
@@ -466,7 +466,7 @@ Ortaca:
 Seydikemer:
   Seydikemer:
     postcode: 48850
-    neighboorhoods:
+    neighborhoods:
     - Alaçat Mah
     - Arifler Mah
     - Arsaköy Mah
@@ -535,7 +535,7 @@ Seydikemer:
 Ula:
   Ula:
     postcode: 48640
-    neighboorhoods:
+    neighborhoods:
     - Akçapınar Mah
     - Akyaka Mah
     - Alparslan Mah
@@ -569,7 +569,7 @@ Ula:
 Yatağan:
   Yatağan:
     postcode: 48500
-    neighboorhoods:
+    neighborhoods:
     - Akgedik Mah
     - Akyol Mah
     - Alaşar Mah

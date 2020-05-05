@@ -2,7 +2,7 @@
 Adapazarı:
   Adapazarı:
     postcode: 54100
-    neighboorhoods:
+    neighborhoods:
     - Abalı Mah
     - Acıelmalık Mah
     - Akıncılar Mah
@@ -86,14 +86,14 @@ Adapazarı:
     - Yeşilyurt Mah
   Karaman:
     postcode: 54290
-    neighboorhoods:
+    neighborhoods:
     - 15 Temmuz Camili Mah
     - Karaman Mah
     - Korucuk Mah
 Akyazı:
   Akyazı:
     postcode: 54400
-    neighboorhoods:
+    neighborhoods:
     - Akbalık Mah
     - Alaağaç Mah
     - Altındere Cumhuriyet Mah
@@ -170,7 +170,7 @@ Akyazı:
 Arifiye:
   Arifiye:
     postcode: 54580
-    neighboorhoods:
+    neighborhoods:
     - Adliye Mah
     - Ahmediye Mah
     - Arifbey Mah
@@ -199,7 +199,7 @@ Arifiye:
 Erenler:
   Erenler:
     postcode: 54200
-    neighboorhoods:
+    neighborhoods:
     - Alancuma Mah
     - Bağlar Mah
     - Bekirpaşa Mah
@@ -236,7 +236,7 @@ Erenler:
 Ferizli:
   Ferizli:
     postcode: 54110
-    neighboorhoods:
+    neighborhoods:
     - Abdürrezzak Mah
     - Ağacık Mah
     - Akçukur Mah
@@ -265,7 +265,7 @@ Ferizli:
 Geyve:
   Geyve:
     postcode: 54700
-    neighboorhoods:
+    neighborhoods:
     - Ahibaba Mah
     - Akdoğan Mah
     - Akıncı Mah
@@ -342,7 +342,7 @@ Geyve:
 Hendek:
   Hendek:
     postcode: 54300
-    neighboorhoods:
+    neighborhoods:
     - Akarca Mah
     - Akçayır Mah
     - Akova Mah
@@ -438,7 +438,7 @@ Hendek:
 Karapürçek:
   Karapürçek:
     postcode: 54430
-    neighboorhoods:
+    neighborhoods:
     - Ahmediye Mah
     - Ahmetler Mah
     - Cumhuriyet Mah
@@ -456,7 +456,7 @@ Karapürçek:
 Karasu:
   Karasu:
     postcode: 54500
-    neighboorhoods:
+    neighborhoods:
     - Adatepe Mah
     - Akkum Mah
     - Ardıçbeli Mah
@@ -501,7 +501,7 @@ Karasu:
 Kaynarca:
   Kaynarca:
     postcode: 54650
-    neighboorhoods:
+    neighborhoods:
     - Akbaşlı Mah
     - Arifağa Mah
     - Başoğlu Mah
@@ -550,7 +550,7 @@ Kaynarca:
 Kocaali:
   Kocaali:
     postcode: 54800
-    neighboorhoods:
+    neighborhoods:
     - Açmabaşı Mah
     - Ağalar Mah
     - Akpınar Mah
@@ -590,7 +590,7 @@ Kocaali:
 Pamukova:
   Pamukova:
     postcode: 54900
-    neighboorhoods:
+    neighborhoods:
     - Ağaççılar Mah
     - Ahılar Mah
     - Akçakaya Mah
@@ -627,7 +627,7 @@ Pamukova:
 Sapanca:
   Sapanca:
     postcode: 54600
-    neighboorhoods:
+    neighborhoods:
     - Akçay Mah
     - Balkaya Mah
     - Camicedit Mah
@@ -660,7 +660,7 @@ Sapanca:
 Serdivan:
   Serdivan:
     postcode: 54050
-    neighboorhoods:
+    neighborhoods:
     - Arabacıalanı Mah
     - Aralık Mah
     - Aşağıdereköy Mah
@@ -684,14 +684,14 @@ Serdivan:
     - Yukarıdereköy Mah
   Yazlık:
     postcode: 54130
-    neighboorhoods:
+    neighborhoods:
     - Köprübaşı Mah
     - Orta Mah
     - Vatan Mah
 Söğütlü:
   Söğütlü:
     postcode: 54160
-    neighboorhoods:
+    neighborhoods:
     - Akarca Mah
     - Akçakamış Mah
     - Akgöl Mah
@@ -719,7 +719,7 @@ Söğütlü:
 Taraklı:
   Taraklı:
     postcode: 54750
-    neighboorhoods:
+    neighborhoods:
     - Akçapınar Mah
     - Aksu Mah
     - Alballar Mah

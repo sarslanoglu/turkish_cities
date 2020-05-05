@@ -2,7 +2,7 @@
 Çemişgezek:
   Çemişgezek:
     postcode: 62600
-    neighboorhoods:
+    neighborhoods:
     - Çukur Mah
     - Hacı Cami Mah
     - Hamamatik Mah
@@ -12,7 +12,7 @@
     - Yenimahalle Mah
   Merkezköyler:
     postcode: 62602
-    neighboorhoods:
+    neighborhoods:
     - Akçapınar Köyü
     - Akçayunt Mah (Akçayunt Köyü)
     - Alakuş Köyü
@@ -70,14 +70,14 @@
 Hozat:
   Hozat:
     postcode: 62400
-    neighboorhoods:
+    neighborhoods:
     - Diyap Ağa Mah
     - Fikripaşa Mah
     - Köprübaşı Mah
     - Yeni Mah
   Merkezköyler:
     postcode: 62402
-    neighboorhoods:
+    neighborhoods:
     - Ağırbaşak Mah (Yüceldi Köyü)
     - Ağmezra Mah (Karabakır Köyü)
     - Akbulut Mah (Dalören Köyü)
@@ -171,12 +171,12 @@ Hozat:
 Mazgirt:
   Mazgirt:
     postcode: 62800
-    neighboorhoods:
+    neighborhoods:
     - Eltihatun Mah
     - Yeni Mah
   Merkezköyler:
     postcode: 62802
-    neighboorhoods:
+    neighborhoods:
     - Ağaçardı Köyü
     - Akdüven Köyü
     - Akkavak Köyü
@@ -333,7 +333,7 @@ Mazgirt:
 Merkez:
   Merkezköyler:
     postcode: 62002
-    neighboorhoods:
+    neighborhoods:
     - Ağaçlı Mz Mah (Doluküp Köyü)
     - Akoluk Mz Mah (Buğulu Köyü)
     - Alacık Köyü
@@ -555,7 +555,7 @@ Merkez:
     - Zime Mz Mah (Tüllük Köyü)
   Tunceli:
     postcode: 62100
-    neighboorhoods:
+    neighborhoods:
     - Aktuluk Mah
     - Alibaba Mah
     - Atatürk Mah
@@ -568,7 +568,7 @@ Merkez:
 Nazımiye:
   Merkezköyler:
     postcode: 62952
-    neighboorhoods:
+    neighborhoods:
     - Ahurdere Mah (Kılköy Köyü)
     - Akçalı Mah (Yazgeldi Köyü)
     - Aksu Mah (Dallıbahçe Köyü)
@@ -703,12 +703,12 @@ Nazımiye:
     - Yukarıdoluca Köyü
   Nazımiye:
     postcode: 62950
-    neighboorhoods:
+    neighborhoods:
     - Merkez Mah
 Ovacık:
   Merkezköyler:
     postcode: 62901
-    neighboorhoods:
+    neighborhoods:
     - Ada Köyü
     - Ağaçpınar Köyü
     - Aktaş Köyü
@@ -820,14 +820,14 @@ Ovacık:
     - Ziyaret Köyü
   Ovacık:
     postcode: 62900
-    neighboorhoods:
+    neighborhoods:
     - 94 Mahallesi Mah
     - Kandolar Mah
     - Pulur Mah
 Pertek:
   Merkezköyler:
     postcode: 62502
-    neighboorhoods:
+    neighborhoods:
     - Akbayır Mah (Yeniköy Köyü)
     - Akdarı Mah (Ardıç Köyü)
     - Akdemir Köyü
@@ -940,7 +940,7 @@ Pertek:
     - Zeynonun Mah (Mercimek Köyü)
   Pertek:
     postcode: 62500
-    neighboorhoods:
+    neighborhoods:
     - Camikebir Mah
     - Derebaşı Mah
     - İstiklal Mah
@@ -949,7 +949,7 @@ Pertek:
 Pülümür:
   Merkezköyler:
     postcode: 62702
-    neighboorhoods:
+    neighborhoods:
     - Ağaşenlik Köyü
     - Akdik Köyü
     - Aktekin Mah (Yarbaşı Köyü)
@@ -1066,7 +1066,7 @@ Pülümür:
     - Yukarıkayır Mah (Kayırlar Köyü)
   Pülümür:
     postcode: 62700
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Ecevit Mah
     - Hiver Mah

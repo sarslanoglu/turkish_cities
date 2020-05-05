@@ -2,7 +2,7 @@
 Eflani:
   Eflani:
     postcode: 78300
-    neighboorhoods:
+    neighborhoods:
     - Candaroğulları Mah
     - Çalışlar Mah
     - Çelebiler Mah
@@ -11,7 +11,7 @@ Eflani:
     - Yalacık Mah
   Merkezköyler:
     postcode: 78302
-    neighboorhoods:
+    neighborhoods:
     - Ahatlar Mah (Güngören Köyü)
     - Ahmetci Mah (Akçakese Köyü)
     - Akbaş Mah (Osmanlar Köyü)
@@ -245,7 +245,7 @@ Eflani:
 Eskipazar:
   Eskipazar:
     postcode: 78400
-    neighboorhoods:
+    neighborhoods:
     - Bahçepınar Mah
     - İstasyon Mah
     - Kıranköy Mah
@@ -255,7 +255,7 @@ Eskipazar:
     - Yeni Mah
   Merkezköyler:
     postcode: 78402
-    neighboorhoods:
+    neighborhoods:
     - Acemler Mah (Doğancılar Köyü)
     - Adiller Yayla Evleri Mah (Adiller Köyü)
     - Ağırtaş Mah (Arslanlar Köyü)
@@ -434,13 +434,13 @@ Eskipazar:
 Merkez:
   100.yıl:
     postcode: 78050
-    neighboorhoods:
+    neighborhoods:
     - 100.yıl Mah
     - Kılavuzlar Mah
     - Üniversite Mah
   Bayır:
     postcode: 78030
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Bayır Mah
     - Fatih Mah
@@ -450,13 +450,13 @@ Merkez:
     - Yeni Mah
   Beşbinevler:
     postcode: 78020
-    neighboorhoods:
+    neighborhoods:
     - 5000 Evler 75.yıl Mah
     - 5000 Evler Bahçelievler Mah
     - 5000 Evler Cumhuriyet Mah
   Kayabaşı:
     postcode: 78100
-    neighboorhoods:
+    neighborhoods:
     - Aydınlıkevler Mah
     - Belenköy Mah
     - Çerçiler Mah
@@ -468,7 +468,7 @@ Merkez:
     - Öğlebeli Mah
   Merkezköyler:
     postcode: 78010
-    neighboorhoods:
+    neighborhoods:
     - Abdi Mah (Ortaca Köyü)
     - Afet Evleri Mah (Kahyalar Köyü)
     - Akçabük Mah (Cemaller Köyü)
@@ -614,7 +614,7 @@ Merkez:
     - Yukarı Tandır Mah (Tandır Köyü)
   Yenişehir:
     postcode: 78200
-    neighboorhoods:
+    neighborhoods:
     - Adatepe Mah
     - Ergenekon Mah
     - Kurtuluş Mah
@@ -624,7 +624,7 @@ Merkez:
 Ovacık:
   Merkezköyler:
     postcode: 78502
-    neighboorhoods:
+    neighborhoods:
     - Akbıyık Mah (Gökçedüz Köyü)
     - Akcapınar Mah (Abdullar Köyü)
     - Akhisar Mah (Taşoğlu Köyü)
@@ -766,12 +766,12 @@ Ovacık:
     - Yürekören Köyü
   Ovacık:
     postcode: 78500
-    neighboorhoods:
+    neighborhoods:
     - Merkez Mah
 Safranbolu:
   Merkezköyler:
     postcode: 78602
-    neighboorhoods:
+    neighborhoods:
     - Abdioğlu Mah (İnceçay Köyü)
     - Adalar Mah (Bostanbükü Köyü)
     - Ağabey Mah (Kehler Köyü)
@@ -956,7 +956,7 @@ Safranbolu:
     - Yusufbaşoğlu Mah (Kehler Köyü)
   Safranbolu:
     postcode: 78600
-    neighboorhoods:
+    neighborhoods:
     - 15 Temmuz Mah
     - Akçasu Mah
     - Aşağıtokatlıbağları Mah
@@ -981,7 +981,7 @@ Safranbolu:
 Yenice:
   Merkezköyler:
     postcode: 78702
-    neighboorhoods:
+    neighborhoods:
     - Ada Mah (Kayadibi Köyü)
     - Ahatlar Düzü Mah (Kadıköy Köyü)
     - Ahatlar Mah (Kadıköy Köyü)
@@ -1158,7 +1158,7 @@ Yenice:
     - Zaimindoruk Mah (Hisar Köyü)
   Yenice:
     postcode: 78700
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Fatih Mah
     - İsmetpaşa Mah

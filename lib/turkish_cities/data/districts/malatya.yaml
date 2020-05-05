@@ -2,7 +2,7 @@
 Akçadağ:
   Akçadağ:
     postcode: 44600
-    neighboorhoods:
+    neighborhoods:
     - Aksaray Mah
     - Aksüt Mah
     - Aktepe Mah
@@ -83,7 +83,7 @@ Akçadağ:
 Arapgir:
   Arapgir:
     postcode: 44800
-    neighboorhoods:
+    neighborhoods:
     - Aktaş Mah
     - Alıçlı Mah
     - Aşağıçörenge Mah
@@ -150,7 +150,7 @@ Arapgir:
 Arguvan:
   Arguvan:
     postcode: 44960
-    neighboorhoods:
+    neighborhoods:
     - Akören Mah
     - Alhasuşağı Mah
     - Armutlu Mah
@@ -203,7 +203,7 @@ Arguvan:
 Battalgazi:
   Battalgazi:
     postcode: 44210
-    neighboorhoods:
+    neighborhoods:
     - Adagören Mah
     - Ağılyazı Mah
     - Alacakapı Mah
@@ -275,13 +275,13 @@ Battalgazi:
     - Yeniköy Mah
   Beydağı:
     postcode: 44320
-    neighboorhoods:
+    neighborhoods:
     - Beydağı Mah
     - Çöşnük Mah
     - Fırat Mah
   Dabakhane:
     postcode: 44100
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Mah
     - Dabakhane Mah
     - Halfettin Mah
@@ -295,38 +295,38 @@ Battalgazi:
     - Yenihamam Mah
   Hanımınçiftliği:
     postcode: 44050
-    neighboorhoods:
+    neighborhoods:
     - Hanımınçiftliği Mah
     - Selçuklu Mah
     - Tandoğan Mah
     - Yıldıztepe Mah
   Kanalboyu:
     postcode: 44300
-    neighboorhoods:
+    neighborhoods:
     - Kernek Mah
     - Saray Mah
     - Zafer Mah
   Kapalıçarşı:
     postcode: 44200
-    neighboorhoods:
+    neighborhoods:
     - Başharık Mah
     - Hasan Varol Mah
     - İstiklal Mah
     - Paşaköşkü Mah
   Orduzu:
     postcode: 44170
-    neighboorhoods:
+    neighborhoods:
     - Orduzu Mah
   Sıtmapınarı:
     postcode: 44120
-    neighboorhoods:
+    neighborhoods:
     - B.mustafa Paşa Mah
     - Hacı Abdi Mah
     - K.mustafa Paşa Mah
     - Nuriye Mah
   Taştepe:
     postcode: 44060
-    neighboorhoods:
+    neighborhoods:
     - Hidayet Mah
     - İskender Mah
     - Sarıcıoğlu Mah
@@ -334,7 +334,7 @@ Battalgazi:
 Darende:
   Darende:
     postcode: 44700
-    neighboorhoods:
+    neighborhoods:
     - Ağılbaşı Mah
     - Ağılyazı Mah
     - Akbaba Mah
@@ -406,7 +406,7 @@ Darende:
 Doğanşehir:
   Doğanşehir:
     postcode: 44500
-    neighboorhoods:
+    neighborhoods:
     - Altıntop Mah
     - Beğre Mah
     - Bıçakçı Mah
@@ -449,7 +449,7 @@ Doğanşehir:
 Doğanyol:
   Doğanyol:
     postcode: 44880
-    neighboorhoods:
+    neighborhoods:
     - Akkent Mah
     - Behramlı Mah
     - Burçköy Mah
@@ -469,7 +469,7 @@ Doğanyol:
 Hekimhan:
   Hekimhan:
     postcode: 44400
-    neighboorhoods:
+    neighborhoods:
     - Akmağara Mah
     - Aksütlü Mah
     - Aşağısazlıca Mah
@@ -538,7 +538,7 @@ Hekimhan:
 Kale:
   Kale:
     postcode: 44370
-    neighboorhoods:
+    neighborhoods:
     - Abuşoğlu Mah
     - Akça Mah
     - Akuşağı Mah
@@ -570,7 +570,7 @@ Kale:
 Kuluncak:
   Kuluncak:
     postcode: 44760
-    neighboorhoods:
+    neighborhoods:
     - Alvar Mah
     - Aşağıselimli Mah
     - Bahçelievler Mah
@@ -602,7 +602,7 @@ Kuluncak:
 Pütürge:
   Pötürge:
     postcode: 44850
-    neighboorhoods:
+    neighborhoods:
     - Ağalar Mah
     - Aktarla Mah
     - Aliçeri Mah
@@ -674,7 +674,7 @@ Pütürge:
 Yazıhan:
   Yazıhan:
     postcode: 44350
-    neighboorhoods:
+    neighborhoods:
     - Akyazı Mah
     - Alican Mah
     - Ambarcık Mah
@@ -711,30 +711,30 @@ Yazıhan:
 Yeşilyurt:
   Bostanbaşı:
     postcode: 44915
-    neighboorhoods:
+    neighborhoods:
     - Bostanbaşı Mah
   Çavuşoğlu:
     postcode: 44070
-    neighboorhoods:
+    neighborhoods:
     - Çarmuzu Mah
     - Çavuşoğlu Mah
     - İnönü Mah
     - Salköprü Mah
   Dilek:
     postcode: 44180
-    neighboorhoods:
+    neighborhoods:
     - Dilek Mah
   Gündüzbey:
     postcode: 44910
-    neighboorhoods:
+    neighborhoods:
     - Gündüzbey Mah
   Karakavak:
     postcode: 44110
-    neighboorhoods:
+    neighborhoods:
     - Karakavak Mah
   Özalper:
     postcode: 44090
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Bağlar Mah
     - Çilesiz Mah
     - Özalper Mah
@@ -743,25 +743,25 @@ Yeşilyurt:
     - Turgut Özal Mah
   Şahnahan:
     postcode: 44315
-    neighboorhoods:
+    neighborhoods:
     - Şahnahan Mah
   Topsöğüt:
     postcode: 44310
-    neighboorhoods:
+    neighborhoods:
     - Topsöğüt Mah
   Yakınca:
     postcode: 44920
-    neighboorhoods:
+    neighborhoods:
     - Yakınca Mah
   Yeşiltepe:
     postcode: 44080
-    neighboorhoods:
+    neighborhoods:
     - Gazi Mah
     - Seyran Mah
     - Yeşilkaynak Mah
   Yeşilyurt:
     postcode: 44900
-    neighboorhoods:
+    neighborhoods:
     - 1.osb Mah
     - 2.osb Mah
     - Abdulgaffar Mah

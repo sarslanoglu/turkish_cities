@@ -2,7 +2,7 @@
 Araban:
   Araban:
     postcode: 27650
-    neighboorhoods:
+    neighborhoods:
     - Akbudak Mah
     - Akkoç Mah
     - Altınpınar Mah
@@ -55,7 +55,7 @@ Araban:
 İslahiye:
   İslahiye:
     postcode: 27800
-    neighboorhoods:
+    neighborhoods:
     - Ağabey Mah
     - Ağalarobası Mah
     - Akınyolu Mah
@@ -130,7 +130,7 @@ Araban:
 Karkamış:
   Karkamış:
     postcode: 27880
-    neighboorhoods:
+    neighborhoods:
     - Akçaköy Mah
     - Alaçalı Mah
     - Alagöz Mah
@@ -173,7 +173,7 @@ Karkamış:
 Nizip:
   Nizip:
     postcode: 27700
-    neighboorhoods:
+    neighborhoods:
     - Adaklı Mah
     - Akçakent Mah
     - Akkuyu Mah
@@ -288,7 +288,7 @@ Nizip:
 Nurdağı:
   Nurdağı:
     postcode: 27840
-    neighboorhoods:
+    neighborhoods:
     - Alpaslan Türkeş Mah
     - Altınova Mah
     - Aslanlı Mah
@@ -340,7 +340,7 @@ Nurdağı:
 Oğuzeli:
   Oğuzeli:
     postcode: 27900
-    neighboorhoods:
+    neighborhoods:
     - Acer Mah
     - Akçamezra Mah
     - Altınyurt Mah
@@ -434,12 +434,12 @@ Oğuzeli:
     - Yukarıgüneyse Mah
   Yeşildere:
     postcode: 27920
-    neighboorhoods:
+    neighborhoods:
     - Gürsu Mah
 Şahinbey:
   Alaybey:
     postcode: 27220
-    neighboorhoods:
+    neighborhoods:
     - Akyol Mah
     - Alaybey Mah
     - Alleben Mah
@@ -451,7 +451,7 @@ Oğuzeli:
     - Şahveli Mah
   Düztepe:
     postcode: 27300
-    neighboorhoods:
+    neighborhoods:
     - Akdere Mah
     - Alibaba Mah
     - Aydınbaba Mah
@@ -475,7 +475,7 @@ Oğuzeli:
     - Yavuzlar Mah
   Hoşgör:
     postcode: 27200
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Çamlıca Mah
     - Etiler Mah
@@ -493,7 +493,7 @@ Oğuzeli:
     - Yukarıbayır Mah
   Karataş:
     postcode: 27470
-    neighboorhoods:
+    neighborhoods:
     - 75.yıl Mah
     - Abdülhamid Han Mah
     - Akkent Mah
@@ -513,7 +513,7 @@ Oğuzeli:
     - Yeditepe Mah
   Konak:
     postcode: 27070
-    neighboorhoods:
+    neighborhoods:
     - 23 Nisan Mah
     - 60.yıl Mah
     - Beyazlar Mah
@@ -530,7 +530,7 @@ Oğuzeli:
     - Yeşilevler Mah
   Perilikaya:
     postcode: 27100
-    neighboorhoods:
+    neighborhoods:
     - 25 Aralık Mah
     - Barak Mah
     - Bozoklar Mah
@@ -544,7 +544,7 @@ Oğuzeli:
     - Vatan Mah
   Şahinbey:
     postcode: 27010
-    neighboorhoods:
+    neighborhoods:
     - Akbayır Mah
     - Akbulut Mah
     - Akpınar Mah
@@ -627,7 +627,7 @@ Oğuzeli:
     - Zeytinli Mah
   Tabakhane:
     postcode: 27400
-    neighboorhoods:
+    neighborhoods:
     - Bekirbey Mah
     - Bostancı Mah
     - Boyacı Mah
@@ -645,7 +645,7 @@ Oğuzeli:
 Şehitkamil:
   Çıksorut:
     postcode: 27080
-    neighboorhoods:
+    neighborhoods:
     - 29 Ekim Mah
     - Çakmak Mah
     - Çıksorut Mah
@@ -665,7 +665,7 @@ Oğuzeli:
     - Yeni Mah
   Emek:
     postcode: 27060
-    neighboorhoods:
+    neighborhoods:
     - Emek Mah
     - Fatih Mah
     - Gazi Mah
@@ -673,7 +673,7 @@ Oğuzeli:
     - Sarıgüllük Mah
   Gazikent:
     postcode: 27580
-    neighboorhoods:
+    neighborhoods:
     - Atakent Mah
     - Aydınlar Mah
     - Belkız Mah
@@ -684,7 +684,7 @@ Oğuzeli:
     - Gaziler Mah
   İbrahimli:
     postcode: 27560
-    neighboorhoods:
+    neighborhoods:
     - 15 Temmuz Mah
     - Atatürk Mah
     - Batıkent Mah
@@ -695,13 +695,13 @@ Oğuzeli:
     - Şehirgösteren Mah
   İncilipınar:
     postcode: 27090
-    neighboorhoods:
+    neighborhoods:
     - Değirmiçem Mah
     - İncili Pınar Mah
     - Mücahitler Mah
   Karşıyaka:
     postcode: 27500
-    neighboorhoods:
+    neighborhoods:
     - Aydıntepe Mah
     - Boyno Mah
     - Çağlayan Mah
@@ -723,11 +723,11 @@ Oğuzeli:
     - Zeytinli Mah
   Küsget:
     postcode: 27110
-    neighboorhoods:
+    neighborhoods:
     - Sanayi Mah
   Merve:
     postcode: 27590
-    neighboorhoods:
+    neighborhoods:
     - 8 Şubat Mah
     - Alpaslan Mah
     - Beylerbeyi Mah
@@ -741,12 +741,12 @@ Oğuzeli:
     - Selimiye Mah
   Organize:
     postcode: 27620
-    neighboorhoods:
+    neighborhoods:
     - Aktoprak Sb Mah
     - Başpınar Mah (Organize Mah)osb
   Şehitkamil:
     postcode: 27630
-    neighboorhoods:
+    neighborhoods:
     - Acaroba Mah
     - Ağaçlıboyno Mah
     - Akçaburç Mah
@@ -825,7 +825,7 @@ Oğuzeli:
 Yavuzeli:
   Yavuzeli:
     postcode: 27970
-    neighboorhoods:
+    neighborhoods:
     - Akbayır Mah
     - Aşağıhöçüklü Mah
     - Aşağıkayabaşı Mah

@@ -2,7 +2,7 @@
 Aşkale:
   Aşkale:
     postcode: 25500
-    neighboorhoods:
+    neighborhoods:
     - Abdalcık Mah
     - Akören Mah
     - Altıntaş Mah
@@ -82,7 +82,7 @@ Aşkale:
 Aziziye:
   Ilıca:
     postcode: 25700
-    neighboorhoods:
+    neighborhoods:
     - Adaçay Mah
     - Ağcakent Mah
     - Ağören Mah
@@ -159,7 +159,7 @@ Aziziye:
 Çat:
   Çat:
     postcode: 25750
-    neighboorhoods:
+    neighborhoods:
     - Ağaköy Mah
     - Aşağıçat Mah
     - Babaderesi Mah
@@ -208,7 +208,7 @@ Aziziye:
 Hınıs:
   Hınıs:
     postcode: 25600
-    neighboorhoods:
+    neighborhoods:
     - Acarköy Mah
     - Akbayır Mah
     - Akçamelik Mah
@@ -310,7 +310,7 @@ Hınıs:
 Horasan:
   Horasan:
     postcode: 25800
-    neighboorhoods:
+    neighborhoods:
     - Adnan Menderes Mah
     - Ağıllı Mah
     - Akçataş Mah
@@ -401,7 +401,7 @@ Horasan:
 İspir:
   İspir:
     postcode: 25900
-    neighboorhoods:
+    neighborhoods:
     - Ahlatlı Mah
     - Akgüney Mah
     - Akpınar Mah
@@ -505,7 +505,7 @@ Horasan:
 Karaçoban:
   Karaçoban:
     postcode: 25610
-    neighboorhoods:
+    neighborhoods:
     - Akkavak Mah
     - Bağlar Mah
     - Bahçeli Mah
@@ -536,7 +536,7 @@ Karaçoban:
 Karayazı:
   Karayazı:
     postcode: 25830
-    neighboorhoods:
+    neighborhoods:
     - Abdurrahmanköy Mah
     - Ağaçlı Mah
     - Akarsu Mah
@@ -615,7 +615,7 @@ Karayazı:
 Köprüköy:
   Köprüköy:
     postcode: 25320
-    neighboorhoods:
+    neighborhoods:
     - Ağcaşar Mah
     - Akçam Mah
     - Alaca Mah
@@ -661,7 +661,7 @@ Köprüköy:
 Narman:
   Narman:
     postcode: 25530
-    neighboorhoods:
+    neighborhoods:
     - Alabalık Mah
     - Alacayar Mah
     - Araköy Mah
@@ -711,7 +711,7 @@ Narman:
 Oltu:
   Oltu:
     postcode: 25400
-    neighboorhoods:
+    neighborhoods:
     - Alatarla Mah
     - Arıtaş Mah
     - Aslanpaşa Mah
@@ -787,7 +787,7 @@ Oltu:
 Olur:
   Olur:
     postcode: 25650
-    neighboorhoods:
+    neighborhoods:
     - Akbayır Mah
     - Aktepe Mah
     - Altunkaya Mah
@@ -834,7 +834,7 @@ Olur:
 Palandöken:
   Palandöken:
     postcode: 25080
-    neighboorhoods:
+    neighborhoods:
     - Abdurrahman Gazi Mah
     - Adnan Menderes Mah
     - Ali Bezirgan Mah
@@ -850,7 +850,7 @@ Palandöken:
     - Yunusemre Mah
   Yıldızkent:
     postcode: 25070
-    neighboorhoods:
+    neighborhoods:
     - Börekli Mah
     - Çeperli Mah
     - Güllü Mah
@@ -867,7 +867,7 @@ Palandöken:
 Pasinler:
   Pasinler:
     postcode: 25300
-    neighboorhoods:
+    neighborhoods:
     - Acı Mah
     - Ağaçminare Mah
     - Ağcalar Mah
@@ -943,7 +943,7 @@ Pasinler:
 Pazaryolu:
   Pazaryolu:
     postcode: 25930
-    neighboorhoods:
+    neighborhoods:
     - 21 Haziran Mah
     - Akbulut Mah
     - Alıçlı Mah
@@ -991,7 +991,7 @@ Pazaryolu:
 Şenkaya:
   Şenkaya:
     postcode: 25360
-    neighboorhoods:
+    neighborhoods:
     - Akşar Mah
     - Aktaş Mah
     - Alıcık Mah
@@ -1066,7 +1066,7 @@ Pazaryolu:
 Tekman:
   Tekman:
     postcode: 25560
-    neighboorhoods:
+    neighborhoods:
     - Ağcakoca Mah
     - Akdağ Mah
     - Akdamar Mah
@@ -1141,7 +1141,7 @@ Tekman:
 Tortum:
   Tortum:
     postcode: 25430
-    neighboorhoods:
+    neighborhoods:
     - Akbaba Mah
     - Aksu Mah
     - Aktaş Mah
@@ -1203,7 +1203,7 @@ Tortum:
 Uzundere:
   Uzundere:
     postcode: 25440
-    neighboorhoods:
+    neighborhoods:
     - Altınçanak Mah
     - Balıklı Mah
     - Cevizli Mah
@@ -1225,11 +1225,11 @@ Uzundere:
 Yakutiye:
   Mumcu:
     postcode: 25200
-    neighboorhoods:
+    neighborhoods:
     - Şükrüpaşa Mah
   Terminal:
     postcode: 25050
-    neighboorhoods:
+    neighborhoods:
     - Aktoprak Mah
     - Altınbulak Mah
     - Altıntepe Mah
@@ -1244,7 +1244,7 @@ Yakutiye:
     - Yolgeçti Mah
   Yakutiye:
     postcode: 25100
-    neighboorhoods:
+    neighborhoods:
     - Akdağ Mah
     - Arıbahçe Mah
     - Çayırca Mah

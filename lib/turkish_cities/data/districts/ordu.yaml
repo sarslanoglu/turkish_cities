@@ -2,7 +2,7 @@
 Akkuş:
   Akkuş:
     postcode: 52950
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Mah
     - Alan Mah
     - Ambargürgen Mah
@@ -50,7 +50,7 @@ Akkuş:
 Altınordu:
   Bahcelievler:
     postcode: 52200
-    neighboorhoods:
+    neighborhoods:
     - Akyazı Mah
     - Bahçelievler Mah
     - Bucak Mah
@@ -63,9 +63,9 @@ Altınordu:
     - Şahincili Mah
     - Şirinevler Mah
     - Yeni Mah
-  Düz mahalle:
+  Düz Mahalle:
     postcode: 52100
-    neighboorhoods:
+    neighborhoods:
     - Aziziye Mah
     - Düz Mah
     - Güzelyalı Mah
@@ -79,7 +79,7 @@ Altınordu:
     - Zaferimilli Mah
   Saraycık:
     postcode: 52210
-    neighboorhoods:
+    neighborhoods:
     - Akçatepe Mah
     - Akkise Mah
     - Alembey Mah
@@ -153,7 +153,7 @@ Altınordu:
 Aybastı:
   Aybastı:
     postcode: 52500
-    neighboorhoods:
+    neighborhoods:
     - Alacalar Mah
     - Armutlu Mah
     - Beştam Mah
@@ -178,7 +178,7 @@ Aybastı:
 Çamaş:
   Çamaş:
     postcode: 52430
-    neighboorhoods:
+    neighborhoods:
     - Akköy Mah
     - Akpınar Mah
     - Budak Mah
@@ -205,7 +205,7 @@ Aybastı:
 Çatalpınar:
   Çatalpınar:
     postcode: 52420
-    neighboorhoods:
+    neighborhoods:
     - Akkaya Mah
     - Dere Mah
     - Elmaköy Mah
@@ -232,7 +232,7 @@ Aybastı:
 Çaybaşı:
   Çaybaşı:
     postcode: 52310
-    neighboorhoods:
+    neighborhoods:
     - Akbaba Mah
     - Aşıklı Çakıllı Mah
     - Boras Mah
@@ -262,7 +262,7 @@ Aybastı:
 Fatsa:
   Fatsa:
     postcode: 52400
-    neighboorhoods:
+    neighborhoods:
     - Ahmetler Mah
     - Arpalık Mah
     - Aslancami Mah
@@ -356,7 +356,7 @@ Fatsa:
 Gölköy:
   Gölköy:
     postcode: 52600
-    neighboorhoods:
+    neighborhoods:
     - Ahmetli Mah
     - Akçalı Mah
     - Alanyurt Mah
@@ -390,7 +390,7 @@ Gölköy:
 Gülyalı:
   Gülyalı:
     postcode: 52010
-    neighboorhoods:
+    neighborhoods:
     - Alibey Mah
     - Ambarcılı Mah
     - Ayrılık Mah
@@ -407,7 +407,7 @@ Gülyalı:
 Gürgentepe:
   Gürgentepe:
     postcode: 52610
-    neighboorhoods:
+    neighborhoods:
     - Ağızlar Mah
     - Akmescit Mah
     - Akören Mah
@@ -434,7 +434,7 @@ Gürgentepe:
 İkizce:
   İkizce:
     postcode: 52320
-    neighboorhoods:
+    neighborhoods:
     - Ağcaalan Mah
     - Aşağı Karlıtepe Mah
     - Aşağı Kaynartaş Mah
@@ -470,7 +470,7 @@ Gürgentepe:
 Kabadüz:
   Karadüz:
     postcode: 52020
-    neighboorhoods:
+    neighborhoods:
     - Akgüney Mah
     - Başköy Mah
     - Derinçay Mah
@@ -493,7 +493,7 @@ Kabadüz:
 Kabataş:
   Kabataş:
     postcode: 52520
-    neighboorhoods:
+    neighborhoods:
     - Alanbaşı Mah
     - Alankent Mah
     - Ardıç Mah
@@ -515,7 +515,7 @@ Kabataş:
 Korgan:
   Korgan:
     postcode: 52700
-    neighboorhoods:
+    neighborhoods:
     - Aşağıkozpınar Mah
     - Aşağıyaylacık Mah
     - Belalan Mah
@@ -548,7 +548,7 @@ Korgan:
 Kumru:
   Kumru:
     postcode: 52800
-    neighboorhoods:
+    neighborhoods:
     - Ağcaalantürk Mah
     - Akçadere Mah
     - Avdullu Mah
@@ -592,7 +592,7 @@ Kumru:
 Mesudiye:
   Mesudiye:
     postcode: 52900
-    neighboorhoods:
+    neighborhoods:
     - Abdili Mah
     - Akkırık Mah
     - Akpınar Mah
@@ -666,7 +666,7 @@ Mesudiye:
 Perşembe:
   Perşembe:
     postcode: 52750
-    neighboorhoods:
+    neighborhoods:
     - Alınca Mah
     - Anaç Mah
     - Aziziye Mah
@@ -724,7 +724,7 @@ Perşembe:
 Ulubey:
   Ulubey:
     postcode: 52850
-    neighboorhoods:
+    neighborhoods:
     - Akoluk Mah
     - Akpınar Mah
     - Aydınlar Mah
@@ -769,7 +769,7 @@ Ulubey:
 Ünye:
   Ünye:
     postcode: 52300
-    neighboorhoods:
+    neighborhoods:
     - Ağıdere Mah
     - Ataköy Mah
     - Atatürk Mah

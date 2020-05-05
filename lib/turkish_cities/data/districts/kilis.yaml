@@ -2,14 +2,14 @@
 Elbeyli:
   Elbeyli:
     postcode: 79500
-    neighboorhoods:
+    neighborhoods:
     - Ağyüz Mah
     - Hürriyet Mah
     - İnönü Mah
     - Yalçın Nane Mah
   Merkezköyler:
     postcode: 79502
-    neighboorhoods:
+    neighborhoods:
     - Akçağıl Köyü
     - Alahan Köyü
     - Aşağıbeylerbeyi Köyü
@@ -60,7 +60,7 @@ Elbeyli:
 Merkez:
   Kilis:
     postcode: 79090
-    neighboorhoods:
+    neighborhoods:
     - Abdioymağı Mah
     - Akpınar Mah
     - Albay İbrahim Karaoğlanoğlu Mah
@@ -139,7 +139,7 @@ Merkez:
     - Zeytinli Mah
   Merkezköyler:
     postcode: 79002
-    neighboorhoods:
+    neighborhoods:
     - Acar Köyü
     - Acar Mah (Acar Köyü)
     - Akçabağlar Köyü
@@ -222,7 +222,7 @@ Merkez:
 Musabeyli:
   Merkezköyler:
     postcode: 79602
-    neighboorhoods:
+    neighborhoods:
     - Ağcakent Köyü
     - Aşağıbademli Köyü
     - Aşağıkalecik Köyü
@@ -283,14 +283,14 @@ Musabeyli:
     - Zeytinbağı Köyü
   Musabeyli:
     postcode: 79600
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Murathüyüğü Mah
     - Pınar Mah
 Polateli:
   Merkezköyler:
     postcode: 79702
-    neighboorhoods:
+    neighborhoods:
     - Bağarası Köyü
     - Bektaşoğlu Köyü
     - Belenözü Köyü
@@ -319,7 +319,7 @@ Polateli:
     - Yılanca Köyü
   Polateli:
     postcode: 79700
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Cumhuriyet Mah
     - Ekrem Çetin Mah

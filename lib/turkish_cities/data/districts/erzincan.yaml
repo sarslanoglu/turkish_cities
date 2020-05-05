@@ -2,13 +2,13 @@
 Çayırlı:
   Çayırlı:
     postcode: 24500
-    neighboorhoods:
+    neighborhoods:
     - Atatürk Mah
     - Barbaros Mah
     - Fatih Mah
   Merkezköyler:
     postcode: 24503
-    neighboorhoods:
+    neighborhoods:
     - Ahmetağa Mah (Büyükyaylaköy Köyü)
     - Akdaş Mah (Göller Köyü)
     - Akdoğan Mah (Büyükyaylaköy Köyü)
@@ -79,14 +79,14 @@
 İliç:
   İliç:
     postcode: 24700
-    neighboorhoods:
+    neighborhoods:
     - Abdullah Paşa Mah
     - Fatih Mah
     - İbrahim Çeçen Mah
     - Kazım Karabekir Mah
   Merkezköyler:
     postcode: 24710
-    neighboorhoods:
+    neighborhoods:
     - Akçayazı Köyü
     - Akdoğu Köyü
     - Altıntaş Köyü
@@ -161,7 +161,7 @@
 Kemah:
   Kemah:
     postcode: 24400
-    neighboorhoods:
+    neighborhoods:
     - Aşağıgedik Mah
     - Beklimçay Mah
     - Cirgişin Mah
@@ -174,7 +174,7 @@ Kemah:
     - Yukarı Mah
   Merkezköyler:
     postcode: 24402
-    neighboorhoods:
+    neighborhoods:
     - Ağaba Mah (Muratboynu Köyü)
     - Ağaçsaray Köyü
     - Akbudak Köyü
@@ -310,7 +310,7 @@ Kemah:
 Kemaliye:
   Başpınar:
     postcode: 24610
-    neighboorhoods:
+    neighborhoods:
     - Armağan Köyü
     - Aşağıumutlu Köyü
     - Avcı Köyü
@@ -333,7 +333,7 @@ Kemaliye:
     - Yukarıumutlu Köyü
   Dutluca:
     postcode: 24620
-    neighboorhoods:
+    neighborhoods:
     - Adak Köyü
     - Akçalı Köyü
     - Akçiçek Mah (Dutluca Köyü)
@@ -364,7 +364,7 @@ Kemaliye:
     - Yukarı Yuvacık Mah (Ocak Köyü)
   Kemaliye:
     postcode: 24600
-    neighboorhoods:
+    neighborhoods:
     - Ariki Mah
     - Bahçe Mah
     - Dörtyolağzı Mah
@@ -377,7 +377,7 @@ Kemaliye:
     - Taşdibi Mah
   Merkezköyler:
     postcode: 24602
-    neighboorhoods:
+    neighborhoods:
     - Ağıl Köyü
     - Ağıllar Mah (Gümüşçeşme Köyü)
     - Aksöğüt Köyü
@@ -428,7 +428,7 @@ Kemaliye:
 Merkez:
   Akşemsettin:
     postcode: 24100
-    neighboorhoods:
+    neighborhoods:
     - Akşemsettin Mah
     - Atatürk Mah
     - Barbaros Mah
@@ -444,7 +444,7 @@ Merkez:
     - Yunus Emre Mah
   Bahçelievler:
     postcode: 24050
-    neighboorhoods:
+    neighborhoods:
     - Arslanlı Mah
     - Bahçelievler Mah
     - Demirkent Mah
@@ -462,7 +462,7 @@ Merkez:
     - Yenimahalle Mah
   Merkezköyler:
     postcode: 24002
-    neighboorhoods:
+    neighborhoods:
     - Adalar Mah (Binkoç Köyü)
     - Ahmetli Köyü
     - Aktepe Mah (Soğukoluk Köyü)
@@ -605,7 +605,7 @@ Merkez:
 Otlukbeli:
   Merkezköyler:
     postcode: 24515
-    neighboorhoods:
+    neighborhoods:
     - Ağamçağam Köyü
     - Avcıçayırı Köyü
     - Boğazlı Köyü
@@ -620,14 +620,14 @@ Otlukbeli:
     - Yeşilbük Köyü
   Otlukbeli:
     postcode: 24510
-    neighboorhoods:
+    neighborhoods:
     - Fatih Mah
     - Mehmet Akif Ersoy Mah
     - Şehitler Mah
 Refahiye:
   Merkezköyler:
     postcode: 24302
-    neighboorhoods:
+    neighborhoods:
     - Ağmusa Köyü
     - Ağtaş Mah (Babaaslan Köyü)
     - Akarsu Köyü
@@ -812,7 +812,7 @@ Refahiye:
     - Zereler Mah (Gülensu Köyü)
   Refahiye:
     postcode: 24300
-    neighboorhoods:
+    neighborhoods:
     - Camiişerif Mah
     - Hakoğlu Mah
     - Kemaliye Mah
@@ -820,7 +820,7 @@ Refahiye:
 Tercan:
   Merkezköyler:
     postcode: 24802
-    neighboorhoods:
+    neighborhoods:
     - A.tepecik Mah (İğiki Mah) (Ilısu Köyü)
     - Ağören Köyü
     - Akmezar Mezrası Mah (Balyayla Köyü)
@@ -984,7 +984,7 @@ Tercan:
     - Zincirli Mah (Aktaş Köyü)
   Tercan:
     postcode: 24800
-    neighboorhoods:
+    neighborhoods:
     - Ahmet Yesevi Mah
     - Atatürk Mah
     - Fatih Mah
@@ -994,7 +994,7 @@ Tercan:
 Üzümlü:
   Altınbaşak:
     postcode: 24160
-    neighboorhoods:
+    neighborhoods:
     - Büyük Kadağan Mah (Altınbaşak Köyü)
     - Fırat Mahellesi Mah (Altınbaşak Köyü)
     - İstasyon Mah (Altınbaşak Köyü)
@@ -1002,7 +1002,7 @@ Tercan:
     - Süleymanlı Mahellesi Mah (Altınbaşak Köyü)
   Merkezköyler:
     postcode: 24152
-    neighboorhoods:
+    neighborhoods:
     - Ahmetağa Mah (Kureyşlisarıkaya Köyü)
     - Akbinburnu Mah (Kureyşlisarıkaya Köyü)
     - Akbulut Mah (Bayırbağ Köyü)
@@ -1068,7 +1068,7 @@ Tercan:
     - Yunus Emre Mah (Bayırbağ Köyü)
   Üzümlü:
     postcode: 24150
-    neighboorhoods:
+    neighborhoods:
     - Babacan Mah
     - Bahçeşehir Mah
     - Ciminli Baba Mah

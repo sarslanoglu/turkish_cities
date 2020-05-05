@@ -2,20 +2,20 @@
 Çukurca:
   Çığlı:
     postcode: 30720
-    neighboorhoods:
+    neighborhoods:
     - Aşağı Akkaya Köyü
     - Çığlı Köyü
     - Sariyer Mah (Akkaya Köyü)
     - Yukarıakkaya Mah (Akkaya Köyü)
   Çukurca:
     postcode: 30700
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Emirşaban Mah
     - Yeşil Çeşme Mah
   Merkezköyler:
     postcode: 30702
-    neighboorhoods:
+    neighborhoods:
     - Cevizli Köyü
     - Çeltik Mah (Kayalık Köyü)
     - Çimenli Mah (Gündeş Köyü)
@@ -32,7 +32,7 @@
 Derecik:
   Derecik:
     postcode: 30600
-    neighboorhoods:
+    neighborhoods:
     - Balkaya Mah
     - Gerdi Mah
     - Güney Mah
@@ -44,7 +44,7 @@ Derecik:
     - Vapurtepe Mah
   Merkezköyler:
     postcode: 30650
-    neighboorhoods:
+    neighborhoods:
     - Akören Mah (Uslu Köyü)
     - Aralık Mah (Gelişen Köyü)
     - Beşikağaç Mah (Anadağ Köyü)
@@ -67,7 +67,7 @@ Derecik:
 Merkez:
   Hakkari:
     postcode: 30100
-    neighboorhoods:
+    neighborhoods:
     - Bağlar Mah
     - Berçelan Mah
     - Biçer Mah
@@ -85,7 +85,7 @@ Merkez:
     - Yeni Mah
   Merkezköyler:
     postcode: 30110
-    neighboorhoods:
+    neighborhoods:
     - 1.harput Mah (Aşağı Derecik Köyü)
     - 2.harput Mah (Aşağı Derecik Köyü)
     - Ağaçdibi Köyü
@@ -208,7 +208,7 @@ Merkez:
 Şemdinli:
   Merkezköyler:
     postcode: 30802
-    neighboorhoods:
+    neighborhoods:
     - Akbal Mah (Korgan Köyü)
     - Akkavak Mah (Korgan Köyü)
     - Aktütün Mah (Konur Köyü)
@@ -295,7 +295,7 @@ Merkez:
     - Zorgeçit Mah (Bağlar Köyü)
   Şemdinli:
     postcode: 30800
-    neighboorhoods:
+    neighborhoods:
     - Beşevler Mah
     - Karşıyaka Mah
     - Moda Mah
@@ -304,7 +304,7 @@ Merkez:
 Yüksekova:
   Esendere:
     postcode: 30400
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Köyü
     - Altınbaşak Mah (Akpınar Köyü)
     - Beşevler Mah (Akpınar Köyü)
@@ -318,7 +318,7 @@ Yüksekova:
     - Yılmaz Mah (Esendere Köyü)
   Merkezköyler:
     postcode: 30302
-    neighboorhoods:
+    neighborhoods:
     - A.güveç Mah (Kısıklı Köyü)
     - A.olukbaşı Mah (Akocak Köyü)
     - A.ölçek Mah (Değerli Köyü)
@@ -465,7 +465,7 @@ Yüksekova:
     - Yürekli Köyü
   Yüksekova:
     postcode: 30300
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Dize Mah
     - Esen Yurt Mah

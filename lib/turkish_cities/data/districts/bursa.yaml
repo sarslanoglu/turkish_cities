@@ -2,7 +2,7 @@
 Büyükorhan:
   Büyükorhan:
     postcode: 16990
-    neighboorhoods:
+    neighborhoods:
     - Akçasaz Mah
     - Aktaş Mah
     - Armutçuk Mah
@@ -49,7 +49,7 @@ Büyükorhan:
 Gemlik:
   Gemlik:
     postcode: 16600
-    neighboorhoods:
+    neighborhoods:
     - Adliye Mah
     - Ata Mah
     - Ata Sb Mah
@@ -89,7 +89,7 @@ Gemlik:
 Gürsu:
   Gürsu:
     postcode: 16580
-    neighboorhoods:
+    neighborhoods:
     - Adaköy Mah
     - Ağaköy Mah
     - Cambazlarköyü Mah
@@ -110,7 +110,7 @@ Gürsu:
 Harmancık:
   Harmancık:
     postcode: 16770
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Mah
     - Alutca Mah
     - Balatdanişment Mah
@@ -145,7 +145,7 @@ Harmancık:
 İnegöl:
   İnegöl:
     postcode: 16400
-    neighboorhoods:
+    neighborhoods:
     - Akbaşlar Mah
     - Akhisar Mah
     - Akıncılar Mah
@@ -267,7 +267,7 @@ Harmancık:
 İznik:
   İznik:
     postcode: 16860
-    neighboorhoods:
+    neighborhoods:
     - Aydınlar Mah
     - Bayındır Mah
     - Beyler Mah
@@ -317,7 +317,7 @@ Harmancık:
 Karacabey:
   Karacabey:
     postcode: 16700
-    neighboorhoods:
+    neighborhoods:
     - Abdullahpaşa Mah
     - Akçakoyun Mah
     - Akçasusurluk Mah
@@ -406,7 +406,7 @@ Karacabey:
 Keles:
   Keles:
     postcode: 16740
-    neighboorhoods:
+    neighborhoods:
     - Akçapınar Mah
     - Alpağut Mah
     - Avdan Mah
@@ -452,7 +452,7 @@ Keles:
 Kestel:
   Kestel:
     postcode: 16450
-    neighboorhoods:
+    neighborhoods:
     - Ağlaşan Mah
     - Ahmet Vefik Paşaosb Mah
     - Ahmetvefikpaşa Mah
@@ -492,7 +492,7 @@ Kestel:
 Mudanya:
   Mudanya:
     postcode: 16940
-    neighboorhoods:
+    neighborhoods:
     - Akköy Mah
     - Altıntaş Mah
     - Aydınpınar Mah
@@ -543,7 +543,7 @@ Mudanya:
 Mustafakemalpaşa:
   Mustafakemalpaşa:
     postcode: 16500
-    neighboorhoods:
+    neighborhoods:
     - Adaköy Mah
     - Adalet Mah
     - Ağaçlı Mah
@@ -678,55 +678,55 @@ Mustafakemalpaşa:
 Nilüfer:
   Alaattinbey:
     postcode: 16285
-    neighboorhoods:
+    neighborhoods:
     - Alaaddinbey Mah
     - Ürünlü Mah
   Altınşehir:
     postcode: 16230
-    neighboorhoods:
+    neighborhoods:
     - 19 Mayıs Mah
     - 23 Nisan Mah
     - Altınşehir Mah
   Ataevler:
     postcode: 16210
-    neighboorhoods:
+    neighborhoods:
     - Ataevler Mah
     - Barış Mah
     - Cumhuriyet Mah
     - Fethiye Mah
   Balat:
     postcode: 16225
-    neighboorhoods:
+    neighborhoods:
     - Ahmet Yesevi Mah
     - Balat Mah
     - Balatosb Mah
   Beşevler:
     postcode: 16260
-    neighboorhoods:
+    neighborhoods:
     - Beşevler Mah
     - Çamlıca Mah
     - Gümüştepe Mah
   Çalı:
     postcode: 16275
-    neighboorhoods:
+    neighborhoods:
     - Çalı Mah
   Ertuğrul:
     postcode: 16235
-    neighboorhoods:
+    neighborhoods:
     - 29 Ekim Mah
     - Ertuğrul Mah
     - Özlüce Mah
     - Yüzüncüyıl Mah
   Görükle:
     postcode: 16240
-    neighboorhoods:
+    neighborhoods:
     - Balkan Mah
     - Dumlupınar Mah
     - Görükle Mah
     - Kurtuluş Mah
   Hasanağa:
     postcode: 16280
-    neighboorhoods:
+    neighborhoods:
     - 30 Ağustos Zafer Mah
     - Hasanağa Mah
     - Hasanağa Osb Mah
@@ -736,13 +736,13 @@ Nilüfer:
     - Yaylacık Mah
   İhsaniye:
     postcode: 16200
-    neighboorhoods:
+    neighborhoods:
     - Esentepe Mah
     - İhsaniye Mah
     - Karaman Mah
   İzmiryolboyu:
     postcode: 16250
-    neighboorhoods:
+    neighborhoods:
     - Akçalar Mah
     - Büyükbalıklı Mah
     - Doğanköy Mah
@@ -753,13 +753,13 @@ Nilüfer:
     - Yolçatı Mah
   Konak:
     postcode: 16265
-    neighboorhoods:
+    neighborhoods:
     - Konak Mah
     - Kültür Mah
     - Odunluk Mah
   Nilüferköy:
     postcode: 16290
-    neighboorhoods:
+    neighborhoods:
     - Atlas Mah
     - Ayvaköy Mah
     - Badırga Mah
@@ -779,25 +779,25 @@ Nilüfer:
     - Üçpınar Mah
   Nosab:
     postcode: 16220
-    neighboorhoods:
+    neighborhoods:
     - Minareliçavuş Bursa Osb Mah
     - Minareliçavuş Mah
     - Minareliçavuşosb Mah
   Organizesanayi:
     postcode: 16215
-    neighboorhoods:
+    neighborhoods:
     - Fethiyeosb Mah
     - Işıktepe Mah
     - Işıktepeosb Mah
   Üçevler:
     postcode: 16270
-    neighboorhoods:
+    neighborhoods:
     - Demirci Mah
     - Üçevler Mah
 Orhaneli:
   Orhaneli:
     postcode: 16980
-    neighboorhoods:
+    neighborhoods:
     - 300 Evler Mah
     - Ağaçhisar Mah
     - Akalan Mah
@@ -862,7 +862,7 @@ Orhaneli:
 Orhangazi:
   Orhangazi:
     postcode: 16800
-    neighboorhoods:
+    neighborhoods:
     - Akharem Mah
     - Arapzade Mah
     - Bayırköy Mah
@@ -897,7 +897,7 @@ Orhangazi:
 Osmangazi:
   Alemdar:
     postcode: 16150
-    neighboorhoods:
+    neighborhoods:
     - Alemdar Mah
     - Armutköy Mah
     - Çeltikköy Mah
@@ -909,7 +909,7 @@ Osmangazi:
     - Yeniceabat Mah
   Altıparmak:
     postcode: 16050
-    neighboorhoods:
+    neighborhoods:
     - Ahmetpaşa Mah
     - Aktarhüssam Mah
     - Altıparmak Mah
@@ -922,11 +922,11 @@ Osmangazi:
     - Yahşibey Mah
   Bağlarbaşı:
     postcode: 16170
-    neighboorhoods:
+    neighborhoods:
     - Bağlarbaşı Mah
   Bahar:
     postcode: 16080
-    neighboorhoods:
+    neighborhoods:
     - Atıcılar Mah
     - Bahar Mah
     - Gülbahçe Mah
@@ -937,7 +937,7 @@ Osmangazi:
     - Zafer Mah
   Balıklı:
     postcode: 16090
-    neighboorhoods:
+    neighborhoods:
     - Altınova Mah
     - Başaran Mah
     - Küçükbalıklı Mah
@@ -945,7 +945,7 @@ Osmangazi:
     - Yeşilova Mah
   Çarşı:
     postcode: 16030
-    neighboorhoods:
+    neighborhoods:
     - Alacamescit Mah
     - Ebu İshak Mah
     - Reyhan Mah
@@ -953,23 +953,23 @@ Osmangazi:
     - Tuzpazarı Mah
   Çekirge:
     postcode: 16070
-    neighboorhoods:
+    neighborhoods:
     - Çekirge Mah
     - Kükürtlü Mah
   Demirtaş:
     postcode: 16120
-    neighboorhoods:
+    neighborhoods:
     - Demirtaş Barbaros Mah
     - Demirtaş Cumhuriyet Mah
     - Demirtaş Dumlupınar Mah
     - Demirtaş Sakarya Mah
   Dosab:
     postcode: 16110
-    neighboorhoods:
+    neighborhoods:
     - Demirtaş Dumlupınarosb Mah
   Emek:
     postcode: 16180
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Mah
     - Emek Adnan Menderes Mah
     - Emek Fatih Sultan Mehmet Mah
@@ -978,13 +978,13 @@ Osmangazi:
     - Nilüferköy Mah
   Hamitler:
     postcode: 16175
-    neighboorhoods:
+    neighborhoods:
     - Hamitler Mah
     - Yenibağlar Mah
     - Yenikent Mah
   Hisar:
     postcode: 16020
-    neighboorhoods:
+    neighborhoods:
     - Alaaddin Mah
     - Alacahırka Mah
     - Alipaşa Mah
@@ -1001,13 +1001,13 @@ Osmangazi:
     - Tahtakale Mah
   Hüdavendigar:
     postcode: 16060
-    neighboorhoods:
+    neighborhoods:
     - Dikkaldırım Mah
     - Doburca Mah
     - Hüdavendigar Mah
   Hürriyet:
     postcode: 16160
-    neighboorhoods:
+    neighborhoods:
     - Adalet Mah
     - Hürriyet Mah
     - İstiklal Mah
@@ -1015,7 +1015,7 @@ Osmangazi:
     - Yenikaraman Mah
   Küplüpınar:
     postcode: 16140
-    neighboorhoods:
+    neighborhoods:
     - Çiftehavuzlar Mah
     - Çirişhane Mah
     - Fatih Mah
@@ -1024,7 +1024,7 @@ Osmangazi:
     - Tuna Mah
   Maksem:
     postcode: 16010
-    neighboorhoods:
+    neighborhoods:
     - Hocaalizade Mah
     - İbrahimpaşa Mah
     - Kayıhan Mah
@@ -1033,7 +1033,7 @@ Osmangazi:
     - Orhanbey Mah
   Osmangaziköy:
     postcode: 16190
-    neighboorhoods:
+    neighborhoods:
     - Ahmetbey Mah
     - Aksungur Mah
     - Avdancık Mah
@@ -1065,21 +1065,21 @@ Osmangazi:
     - Yiğitali Mah
   Ovaakça:
     postcode: 16130
-    neighboorhoods:
+    neighborhoods:
     - Ovaakça Çeşmebaşı Mah
     - Ovaakça Eğitim Mah
     - Ovaakça Merkez Mah
     - Ovaakça Santral Mah
   Panayır:
     postcode: 16100
-    neighboorhoods:
+    neighborhoods:
     - Alaşarköy Mah
     - Doğanevler Mah
     - İsmetiye Mah
     - Panayır Mah
   Ulumahalle:
     postcode: 16040
-    neighboorhoods:
+    neighborhoods:
     - Demirtaşpaşa Mah
     - Doğanbey Mah
     - Elmasbahçeler Mah
@@ -1091,14 +1091,14 @@ Osmangazi:
     - Ulu Mah
   Yunuseli:
     postcode: 16165
-    neighboorhoods:
+    neighborhoods:
     - Dereçavuşköy Mah
     - Güneştepe Mah
     - Yunuseli Mah
 Yenişehir:
   Yenişehir:
     postcode: 16900
-    neighboorhoods:
+    neighborhoods:
     - Afşar Mah
     - Akbıyık Mah
     - Akçapınar Mah
@@ -1173,7 +1173,7 @@ Yenişehir:
 Yıldırım:
   Arabayatağı:
     postcode: 16330
-    neighboorhoods:
+    neighborhoods:
     - Arabayatağı Mah
     - Çınarönü Mah
     - Demetevler Mah
@@ -1186,7 +1186,7 @@ Yıldırım:
     - Yavuzselım Mah
   Beyazıt:
     postcode: 16320
-    neighboorhoods:
+    neighborhoods:
     - 152evler Mah
     - Baruthane Mah
     - Beyazıt Mah
@@ -1197,7 +1197,7 @@ Yıldırım:
     - Yeşilyayla Mah
   Davutkadı:
     postcode: 16340
-    neighboorhoods:
+    neighborhoods:
     - Akçağlayan Mah
     - Davutkadı Mah
     - Maltepe Mah
@@ -1208,7 +1208,7 @@ Yıldırım:
     - Zümrütevler Mah
   Duaçınar:
     postcode: 16370
-    neighboorhoods:
+    neighborhoods:
     - Anadolu Mah
     - Duaçınarı Mah
     - Kazım Karabekir Mah
@@ -1218,7 +1218,7 @@ Yıldırım:
     - Yunusemre Mah
   Esenevler:
     postcode: 16300
-    neighboorhoods:
+    neighborhoods:
     - 75.yıl Mah
     - Bağlaraltı Mah
     - Cumalıkızık Mah
@@ -1231,7 +1231,7 @@ Yıldırım:
     - Yiğitler Mah
   Ortabağlar:
     postcode: 16310
-    neighboorhoods:
+    neighborhoods:
     - Balaban Mah
     - Ertuğrulgazi Mah
     - Güllük Mah
@@ -1243,7 +1243,7 @@ Yıldırım:
     - Zeyniler Mah
   Setbaşı:
     postcode: 16360
-    neighboorhoods:
+    neighborhoods:
     - Emirsultan Mah
     - Hocataşkın Mah
     - Karaağaç Mah
@@ -1258,7 +1258,7 @@ Yıldırım:
     - Yeşil Mah
   Yıldırım:
     postcode: 16350
-    neighboorhoods:
+    neighborhoods:
     - Davutdede Mah
     - Hacıseyfettin Mah
     - Selimzade Mah

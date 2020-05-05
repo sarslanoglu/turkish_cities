@@ -2,7 +2,7 @@
 Akçaabat:
   Akçaabat:
     postcode: 61300
-    neighboorhoods:
+    neighborhoods:
     - Acısu Mah
     - Adacık Mah
     - Ağaçlı Mah
@@ -80,7 +80,7 @@ Akçaabat:
 Araklı:
   Araklı:
     postcode: 61700
-    neighboorhoods:
+    neighborhoods:
     - Aytaş Mah
     - Ayvadere Mah
     - Bahçecik Mah
@@ -134,7 +134,7 @@ Araklı:
 Arsin:
   Arsin:
     postcode: 61900
-    neighboorhoods:
+    neighborhoods:
     - Atayurt Mah
     - Başdurak Mah
     - Cudibey Mah
@@ -174,7 +174,7 @@ Arsin:
 Beşikdüzü:
   Beşikdüzü:
     postcode: 61800
-    neighboorhoods:
+    neighborhoods:
     - Adacık Mah
     - Ağaçlı Mah
     - Akkese Mah
@@ -212,7 +212,7 @@ Beşikdüzü:
 Çarşıbaşı:
   Çarşıbaşı:
     postcode: 61420
-    neighboorhoods:
+    neighborhoods:
     - Burunbaşı Mah
     - Büyükdere Mah
     - Çallı Mah
@@ -239,7 +239,7 @@ Beşikdüzü:
 Çaykara:
   Çaykara:
     postcode: 61940
-    neighboorhoods:
+    neighborhoods:
     - Akdoğan Mah
     - Arpaözü Mah
     - Aşağıkumlu Mah
@@ -275,7 +275,7 @@ Beşikdüzü:
 Dernekpazarı:
   Dernekpazarı:
     postcode: 61950
-    neighboorhoods:
+    neighborhoods:
     - Akköse Mah
     - Çalışanlar Mah
     - Çayırbaşı Mah
@@ -293,7 +293,7 @@ Dernekpazarı:
 Düzköy:
   Düzköy:
     postcode: 61390
-    neighboorhoods:
+    neighborhoods:
     - Alazlı Mah
     - Aykut Mah
     - Büyük Mah
@@ -319,7 +319,7 @@ Düzköy:
 Hayrat:
   Hayrat:
     postcode: 61450
-    neighboorhoods:
+    neighborhoods:
     - Ağaçlı Düz Mah
     - Balaban Mah
     - Balaban Merkez Mah
@@ -357,7 +357,7 @@ Hayrat:
 Köprübaşı:
   Köprübaşı:
     postcode: 61630
-    neighboorhoods:
+    neighborhoods:
     - Akpınar Mah
     - Arpalı Mah
     - Beşköy Mah
@@ -371,7 +371,7 @@ Köprübaşı:
 Maçka:
   Maçka:
     postcode: 61750
-    neighboorhoods:
+    neighborhoods:
     - Akarsu Mah
     - Akmescit Mah
     - Alaçam Mah
@@ -441,7 +441,7 @@ Maçka:
 Of:
   Of:
     postcode: 61830
-    neighboorhoods:
+    neighborhoods:
     - Ağaçbaşı Mah
     - Ağaçseven Mah
     - Aşağıkışlacık Mah
@@ -513,7 +513,7 @@ Of:
 Ortahisar:
   Beşirli:
     postcode: 61040
-    neighboorhoods:
+    neighborhoods:
     - 1 Nolu Beşirli Mah
     - 2 Nolu Beşirli Mah
     - Ağıllı Mah
@@ -540,7 +540,7 @@ Ortahisar:
     - Yeşiltepe Mah
   Bostancı:
     postcode: 61080
-    neighboorhoods:
+    neighborhoods:
     - 1 Nolu Bostancı Mah
     - 2 Nolu Bostancı Mah
     - Akoluk Mah
@@ -567,7 +567,7 @@ Ortahisar:
     - Yeşilyurt Mah
   Boztepe:
     postcode: 61030
-    neighboorhoods:
+    neighborhoods:
     - Akkaya Mah
     - Beştaş Mah
     - Boztepe Mah
@@ -593,7 +593,7 @@ Ortahisar:
     - Yenicuma Mah
   Çarşı:
     postcode: 61050
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Çarşı Mah
     - Gazipaşa Mah
@@ -603,7 +603,7 @@ Ortahisar:
     - Zafer Mah
   Erdoğdu:
     postcode: 61060
-    neighboorhoods:
+    neighborhoods:
     - 1 Nolu Erdoğdu Mah
     - 2 Nolu Erdoğdu Mah
     - 3 Nolu Erdoğdu Mah
@@ -615,7 +615,7 @@ Ortahisar:
 Sürmene:
   Sürmene:
     postcode: 61600
-    neighboorhoods:
+    neighborhoods:
     - Aksu Mah
     - Armutlu Mah
     - Aşağıovalı Mah
@@ -656,7 +656,7 @@ Sürmene:
 Şalpazarı:
   Şalpazarı:
     postcode: 61670
-    neighboorhoods:
+    neighborhoods:
     - Ağırtaş Mah
     - Akçiriş Mah
     - Çamkiriş Mah
@@ -690,7 +690,7 @@ Sürmene:
 Tonya:
   Tonya:
     postcode: 61500
-    neighboorhoods:
+    neighborhoods:
     - Biçinlik Mah
     - Büyük Mah
     - Çamlı Mah
@@ -716,7 +716,7 @@ Tonya:
 Vakfıkebir:
   Vakfıkebir:
     postcode: 61400
-    neighboorhoods:
+    neighborhoods:
     - Açıkalan Mah
     - Akköy Mah
     - Aydoğdu Mah
@@ -766,7 +766,7 @@ Vakfıkebir:
 Yomra:
   Yomra:
     postcode: 61250
-    neighboorhoods:
+    neighborhoods:
     - Çamlıca Mah
     - Çamlıyurt Mah
     - Çınarlı Mah

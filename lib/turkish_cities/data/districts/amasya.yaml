@@ -2,14 +2,14 @@
 Göynücek:
   Göynücek:
     postcode: 5900
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Merkez Mah
     - Merkez Mah (Damlaçimen Köyü)
     - Yeni Mah
   Merkezköyler:
     postcode: 5902
-    neighboorhoods:
+    neighborhoods:
     - Abacı Köyü
     - Afet Evler Mah (Karayakup Köyü)
     - Ağcapınar Mah (Karayakup Köyü)
@@ -69,7 +69,7 @@ Göynücek:
 Gümüşhacıköy:
   Gümüşhacıköy:
     postcode: 5700
-    neighboorhoods:
+    neighborhoods:
     - Adatepe Mah
     - Ağcadede Mah
     - Artıkabat Mah
@@ -84,7 +84,7 @@ Gümüşhacıköy:
     - Yenicami Mah
   Merkezköyler:
     postcode: 5702
-    neighboorhoods:
+    neighborhoods:
     - Ahlatlı Mah (Kızık Köyü)
     - Akpınar Köyü
     - Albaz Deresi Mah (Çalköy Köyü)
@@ -160,14 +160,14 @@ Gümüşhacıköy:
 Hamamözü:
   Hamamözü:
     postcode: 5720
-    neighboorhoods:
+    neighborhoods:
     - Arkutbey Mah
     - Hamitkaplan Mah
     - Köprübaşı Mah
     - Saray Mah
   Merkezköyler:
     postcode: 5722
-    neighboorhoods:
+    neighborhoods:
     - Aksu Mah (Yukarıovacık Köyü)
     - Alanköy Köyü
     - Aycalar Mah (Tepeköy Köyü)
@@ -195,7 +195,7 @@ Hamamözü:
 Merkez:
   Dereboyu:
     postcode: 5200
-    neighboorhoods:
+    neighborhoods:
     - Bahçeleriçi Mah
     - Beyazıtpaşa Mah
     - Ellibeşevler Mah
@@ -212,11 +212,11 @@ Merkez:
     - Yazı Bağları Mah
   Gen.hikmetakıncı:
     postcode: 5110
-    neighboorhoods:
+    neighborhoods:
     - Karasenir Mah
   Gökmedrese:
     postcode: 5100
-    neighboorhoods:
+    neighborhoods:
     - Akbilek Mah
     - Boğazköy Mah
     - Çakallar Mah
@@ -241,7 +241,7 @@ Merkez:
     - Yüzevler Mah
   Merkezköyler:
     postcode: 5220
-    neighboorhoods:
+    neighborhoods:
     - Abacı Köyü
     - Ağıllar Mah (Mahmatlar Köyü)
     - Ahmet Koltuğu Mah (Yeşildere Köyü)
@@ -414,7 +414,7 @@ Merkez:
 Merzifon:
   Merkezköyler:
     postcode: 5302
-    neighboorhoods:
+    neighborhoods:
     - Afet Evleri Mah (Akören Köyü)
     - Akpınar Köyü
     - Aktarla Köyü
@@ -502,7 +502,7 @@ Merzifon:
     - Yukarıbük Köyü
   Merzifon:
     postcode: 5300
-    neighboorhoods:
+    neighborhoods:
     - Abidehatun Mah
     - Bağlarbaşı Mah
     - Bahçelievler Mah
@@ -527,7 +527,7 @@ Merzifon:
 Suluova:
   Merkezköyler:
     postcode: 5502
-    neighboorhoods:
+    neighborhoods:
     - Afetevleri-cebeci Mah (Armutlu Köyü)
     - Akören Köyü
     - Alabedir Köyü
@@ -578,7 +578,7 @@ Suluova:
     - Yüzbeyi Köyü
   Suluova:
     postcode: 5500
-    neighboorhoods:
+    neighborhoods:
     - Ata Mah
     - Beyazıt Mah
     - Bir Eylül Mah
@@ -605,7 +605,7 @@ Suluova:
 Taşova:
   Merkezköyler:
     postcode: 5802
-    neighboorhoods:
+    neighborhoods:
     - Akçanın Dere Mah (Kavaloluğu Köyü)
     - Akkişiler Mah (Karlık Köyü)
     - Akpınar Mah (Karsavul Köyü)
@@ -743,7 +743,7 @@ Taşova:
     - Zana Mah (Karsavul Köyü)
   Taşova:
     postcode: 5800
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Doğu Mah
     - Sanayii Mah

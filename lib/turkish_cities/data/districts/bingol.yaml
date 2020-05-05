@@ -2,7 +2,7 @@
 Adaklı:
   Adaklı:
     postcode: 12600
-    neighboorhoods:
+    neighborhoods:
     - Afet Konutları Mah
     - Arıca Mah
     - Demiroluk Mah
@@ -12,7 +12,7 @@ Adaklı:
     - Yeşiltepe Mah
   Merkezköyler:
     postcode: 12602
-    neighboorhoods:
+    neighborhoods:
     - Afet Konutları Mah (Boyalı Köyü)
     - Afet Konutları Mah (Doğankaya Köyü)
     - Afet Konutları Mah (Yeldeğirmeni Köyü)
@@ -98,14 +98,14 @@ Adaklı:
 Genç:
   Genç:
     postcode: 12500
-    neighboorhoods:
+    neighborhoods:
     - Cumhuriyet Mah
     - Kültür Mah
     - Yeşildere Mah
     - Yoldaşan Mah
   Merkezköyler:
     postcode: 12502
-    neighboorhoods:
+    neighborhoods:
     - Abasan Mah (Binekli Köyü)
     - Açıkalan Mah (Büyükçağ Köyü)
     - Akbüyük Mah (Sarısaman Köyü)
@@ -429,14 +429,14 @@ Genç:
 Karlıova:
   Karlıova:
     postcode: 12900
-    neighboorhoods:
+    neighborhoods:
     - Kanıreş Mah
     - Seyran Tepe Mah
     - Turgut Özal Mah
     - Yeşilyurt Mah
   Merkezköyler:
     postcode: 12902
-    neighboorhoods:
+    neighborhoods:
     - Aktaş Mah (Kaynarpınar Köyü)
     - Ali Mah (Kargapazarı Köyü)
     - Altı Evler Mah (Kaynarpınar Köyü)
@@ -521,13 +521,13 @@ Karlıova:
 Kiğı:
   Kiğı:
     postcode: 12800
-    neighboorhoods:
+    neighborhoods:
     - Eskişehir Mah
     - Yenişehir Mah
     - Yeşilyurt Mah
   Merkezköyler:
     postcode: 12802
-    neighboorhoods:
+    neighborhoods:
     - Açıkgüney Köyü
     - Ağaçöven Köyü
     - Akçalı Mah (Billice Köyü)
@@ -585,7 +585,7 @@ Kiğı:
 Merkez:
   Ağaçeli:
     postcode: 12400
-    neighboorhoods:
+    neighborhoods:
     - Alatepe Köyü
     - Aşağı Mah (Elmalı Köyü)
     - Atçayır Mah (Elmalı Köyü)
@@ -645,7 +645,7 @@ Merkez:
     - Yukarı Yenibaşlar Mah (Yenibaşlar Köyü)
   Bingöl:
     postcode: 12010
-    neighboorhoods:
+    neighborhoods:
     - Bahçelievler Mah
     - İçmeler Mah
     - İnalı Mah
@@ -663,7 +663,7 @@ Merkez:
     - Yeşilyurt Mah
   Merkezköyler:
     postcode: 12002
-    neighboorhoods:
+    neighborhoods:
     - 71 Deprem Mah (Gözeler Köyü)
     - Ağaçyolu Köyü
     - Akdurmuş Köyü
@@ -782,7 +782,7 @@ Merkez:
     - Yukarıakpınar Köyü
   Sancak:
     postcode: 12300
-    neighboorhoods:
+    neighborhoods:
     - Akbudak Mah (Sancak Köyü)
     - Bekmezli Mah (Uğurova Köyü)
     - Büyükbaşköy Mah (Sancak Köyü)
@@ -823,7 +823,7 @@ Merkez:
 Solhan:
   Merkezköyler:
     postcode: 12702
-    neighboorhoods:
+    neighborhoods:
     - Akbük Mah (Gençtavus Köyü)
     - Akdere Mah (Asmakaya Köyü)
     - Aksakal Komler Mah (Hazarşah Köyü)
@@ -1031,7 +1031,7 @@ Solhan:
     - Ziyaret Mah (Yenidal Köyü)
   Solhan:
     postcode: 12700
-    neighboorhoods:
+    neighborhoods:
     - Boğlan Mah
     - Halime Pınar Mah
     - Yeni Mah
@@ -1039,7 +1039,7 @@ Solhan:
 Yayladere:
   Merkezköyler:
     postcode: 12652
-    neighboorhoods:
+    neighborhoods:
     - Alınyazı Köyü
     - Bakımlı Mah (Çikan Köyü)
     - Başparmak Mah (Güneşlik Köyü)
@@ -1096,7 +1096,7 @@ Yayladere:
     - Yukarı Seter Mah (Dalbasan Köyü)
   Yayladere:
     postcode: 12650
-    neighboorhoods:
+    neighborhoods:
     - Akçadamlar Mah
     - Conag Mah
     - Haktanır Mah
@@ -1106,7 +1106,7 @@ Yayladere:
 Yedisu:
   Merkezköyler:
     postcode: 12832
-    neighboorhoods:
+    neighborhoods:
     - Akımlı Köyü
     - Aşağı Salkımlar Mah (Elmalı Köyü)
     - Ayanoğlu Köyü
@@ -1151,7 +1151,7 @@ Yedisu:
     - Yurt İçi Mah (Güzgülü Köyü)
   Yedisu:
     postcode: 12830
-    neighboorhoods:
+    neighborhoods:
     - Döşengi Mah
     - Kabaoluk Mah
     - Koşan Mah
