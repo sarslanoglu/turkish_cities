@@ -4,6 +4,8 @@
 
 ### New features
 
+* [#36](https://github.com/sarslanoglu/turkish_cities/issues/36): Add ```postcode``` class and ```find_by_postcode``` method for finding city, district and subdistrict information by given postcode
+
 * [#33](https://github.com/sarslanoglu/turkish_cities/issues/33): Add ```list_neighborhoods``` method for listing neighborhoods and fix some wrong district names
 
 * [#29](https://github.com/sarslanoglu/turkish_cities/issues/29): Add ```district``` class and ```list_subdistricts``` method for listing subdistricts

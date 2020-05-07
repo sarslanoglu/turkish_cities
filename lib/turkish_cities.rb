@@ -2,6 +2,7 @@
 
 require_relative '../lib/turkish_cities/city'
 require_relative '../lib/turkish_cities/district'
+require_relative '../lib/turkish_cities/postcode'
 require_relative '../lib/turkish_cities/version'
 
 class TurkishCities
@@ -35,5 +36,9 @@ class TurkishCities
 
   def self.list_neighborhoods(city_name, district_name, subdistrict_name = nil)
     District.new.list_neighborhoods(city_name, district_name, subdistrict_name)
+  end
+
+  def self.find_by_postcode(postcode)
+    Postcode.new.find_by_postcode(postcode)
   end
 end

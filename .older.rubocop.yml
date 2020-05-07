@@ -5,6 +5,8 @@ AllCops:
     - 'turkish_cities.gemspec'
 Layout/LineLength:
   Max: 100
+Metrics/AbcSize:
+  Max: 20
 Metrics/BlockLength:
   ExcludedMethods: ['describe', 'context']
 Metrics/MethodLength:
