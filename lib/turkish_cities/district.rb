@@ -41,16 +41,6 @@ class District
 
   private
 
-  def create_district_list(city_name)
-    file_name = create_file_path(city_name)
-    file_path = File.join(File.dirname(__FILE__), "data/districts/#{file_name}.yaml")
-    begin
-      YAML.load_file(file_path)
-    rescue Errno::ENOENT => e
-      "Caught the exception: #{e}"
-    end
-  end
-
   def create_neighborhoods_without_subdistrict_name(district_list, district_name)
     neighborhoods = []
     district_list[district_name].each do |subdistrict|

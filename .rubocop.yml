@@ -11,6 +11,8 @@ Lint/RaiseException:
   Enabled: true
 Lint/StructNewOverride:
   Enabled: true
+Metrics/AbcSize:
+  Max: 20
 Metrics/BlockLength:
   ExcludedMethods: ['describe', 'context']
 Metrics/MethodLength:
