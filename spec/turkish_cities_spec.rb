@@ -164,6 +164,21 @@ RSpec.describe TurkishCities do
     expect(city_array).to eq %w[Balıkesir Bursa İstanbul Kocaeli Sakarya Tekirdağ]
   end
 
+  it 'lists cities with all filters with their phone codes' do
+    city_array = TurkishCities.list_cities({ alphabetically_sorted: true,
+                                             with: { phone_code: true } })
+    cities = { name: "Adana", phone_code: 322 }
+    expect(city_array[0]).to eq cities
+  end
+
+  it 'lists cities with all filters with their plate numbers' do
+    city_array = TurkishCities.list_cities({ alphabetically_sorted: false,
+                                             with: { plate_number: true } })
+
+    cities = { name: "Adana", plate_number: 1 }
+    expect(city_array[0]).to eq cities
+  end
+
   it 'ignores wrong parameters' do
     city_array = TurkishCities.list_cities({ falanicly_sorted: true })
     expect(city_array.size).to eq 81
