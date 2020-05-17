@@ -38,10 +38,11 @@ module DecomposerHelper
     "Couldn't find any subdistrict with postcode '#{postcode_input}'"
   end
 
-  def sort_alphabetically(list)
+  def sort_alphabetically(list, options)
     turkish_alphabet = ' -0123456789abcçdefgğhıijklmnoöprsştuüvyz'
     list.sort_by do |item|
-      item.downcase(:turkic).chars.map { |char| turkish_alphabet.index(char) }
+      object_to_sort = options.dig(:with) ? item[:name] : item
+      object_to_sort.downcase(:turkic).chars.map { |char| turkish_alphabet.index(char) }
     end
   end
 end
