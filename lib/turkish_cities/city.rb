@@ -50,8 +50,8 @@ class City
     city_list = filter_metropolitan_municipalities(city_list) if options[:metropolitan_municipality]
     city_list = filter_regions(city_list, options[:region]) if options[:region]
 
-    final_city_list = prepare_city_list(city_list, options)
-    options[:alphabetically_sorted] ? sort_alphabetically(final_city_list, options) : final_city_list
+    final_list = prepare_city_list(city_list, options)
+    options[:alphabetically_sorted] ? sort_alphabetically(final_list, options) : final_list
   end
 
   def list_districts(city_name)
@@ -76,23 +76,5 @@ class City
   def filter_regions(city_list, region)
     region = convert_chars(region.to_s)
     city_list.map { |city| city if convert_chars(city['region']) == region }.compact
-  end
-
-  def prepare_city_list(city_list, options)
-    if options.dig(:with)
-      city_list.map do |city|
-        result = {}
-        result[:name] = city['name']
-        result[:plate_number] = city['plate_number'] if options.dig(:with, :plate_number) || options.dig(:with, :all)
-        result[:phone_code] = city['phone_code'] if options.dig(:with, :phone_code) || options.dig(:with, :all)
-        result[:metropolitan_municipality_since] = city['metropolitan_municipality_since'] if options.dig(:with, :metropolitan_municipality_since) || options.dig(:with, :all)
-        result[:region] = city['region'] if options.dig(:with, :region) || options.dig(:with, :all)
-        result
-      end
-    else
-      city_list.map do |city|
-        city['name']
-      end
-    end
   end
 end
