@@ -14,6 +14,10 @@
 
 * [#25](https://github.com/sarslanoglu/turkish_cities/issues/25): Add district data to each city at yaml file and add new method ```list_districts``` for listing disctricts of cities alphabetically sorted
 
+### Changes
+
+* [#24](https://github.com/sarslanoglu/turkish_cities/issues/24): Add listing support with ```metropolitan_municipality_since, phone_code, plate_number, region``` to ```listing_cities``` method
+
 ## 0.1.3 (2020-04-20)
 
 ### New features

@@ -101,88 +101,101 @@ RSpec.describe TurkishCities do
     end
   end
 
-  it 'lists districts of İstanbul' do
-    istanbul_districts = TurkishCities.list_districts('İstanbul')
-    expect(istanbul_districts.size).to eq 39
-    expect(istanbul_districts[5]).to eq 'Bahçelievler'
-  end
+  describe '#list_cities' do
+    context 'when listing without :with parameter' do
+      it 'lists cities by plate number' do
+        city_array = TurkishCities.list_cities
+        expect(city_array.size).to eq 81
+        expect(city_array[41]).to eq 'Konya'
+      end
 
-  it 'lists districts of Kilis' do
-    kilis_districts = TurkishCities.list_districts('Kilis')
-    expect(kilis_districts.size).to eq 4
-    expect(kilis_districts).to eq %w[Elbeyli Merkez Musabeyli Polateli]
-  end
+      it 'lists cities by alphabetical order' do
+        city_array = TurkishCities.list_cities({ alphabetically_sorted: true })
+        expect(city_array.size).to eq 81
+        expect(city_array[39]).to eq 'İstanbul'
+      end
 
-  it 'gives error when city_name is not found' do
-    unknown_districts = TurkishCities.list_districts('Haleluya')
-    expect(unknown_districts).to eq "Couldn't find city name with 'Haleluya'"
-  end
+      it 'lists only metropolitan municipality cities by plate number' do
+        city_array = TurkishCities.list_cities({ metropolitan_municipality: true })
+        expect(city_array.size).to eq 30
+        expect(city_array[14]).to eq 'İzmir'
+      end
 
-  it 'lists cities by plate number' do
-    city_array = TurkishCities.list_cities
-    expect(city_array.size).to eq 81
-    expect(city_array[41]).to eq 'Konya'
-  end
+      it 'lists cities by region' do
+        city_array = TurkishCities.list_cities({ region: 'Karadeniz' })
+        expect(city_array.size).to eq 18
+        expect(city_array[17]).to eq 'Düzce'
+      end
 
-  it 'lists cities by alphabetical order' do
-    city_array = TurkishCities.list_cities({ alphabetically_sorted: true })
-    expect(city_array.size).to eq 81
-    expect(city_array[39]).to eq 'İstanbul'
-  end
+      it 'lists only metropolitan municipality cities by region' do
+        city_array = TurkishCities.list_cities({ region: 'Karadeniz',
+                                                 metropolitan_municipality: true })
+        expect(city_array.size).to eq 3
+        expect(city_array).to eq %w[Ordu Samsun Trabzon]
+      end
 
-  it 'lists only metropolitan municipality cities by plate number' do
-    city_array = TurkishCities.list_cities({ metropolitan_municipality: true })
-    expect(city_array.size).to eq 30
-    expect(city_array[14]).to eq 'İzmir'
-  end
+      it 'lists only metropolitan municipality cities by alphabetical order' do
+        city_array = TurkishCities.list_cities({ alphabetically_sorted: true,
+                                                 metropolitan_municipality: true })
+        expect(city_array.size).to eq 30
+        expect(city_array[14]).to eq 'Kahramanmaraş'
+      end
 
-  it 'lists cities by region' do
-    city_array = TurkishCities.list_cities({ region: 'Karadeniz' })
-    expect(city_array.size).to eq 18
-    expect(city_array[17]).to eq 'Düzce'
-  end
+      it 'lists cities with all filters' do
+        city_array = TurkishCities.list_cities({ alphabetically_sorted: true,
+                                                 region: 'Marmara',
+                                                 metropolitan_municipality: true })
+        expect(city_array.size).to eq 6
+        expect(city_array).to eq %w[Balıkesir Bursa İstanbul Kocaeli Sakarya Tekirdağ]
+      end
 
-  it 'lists only metropolitan municipality cities by region' do
-    city_array = TurkishCities.list_cities({ region: 'Karadeniz',
-                                             metropolitan_municipality: true })
-    expect(city_array.size).to eq 3
-    expect(city_array).to eq %w[Ordu Samsun Trabzon]
-  end
+      it 'ignores wrong parameters' do
+        city_array = TurkishCities.list_cities({ falanicly_sorted: true })
+        expect(city_array.size).to eq 81
+        expect(city_array[33]).to eq 'İstanbul'
+      end
+    end
 
-  it 'lists only metropolitan municipality cities by alphabetical order' do
-    city_array = TurkishCities.list_cities({ alphabetically_sorted: true,
-                                             metropolitan_municipality: true })
-    expect(city_array.size).to eq 30
-    expect(city_array[14]).to eq 'Kahramanmaraş'
-  end
+    context 'when listing with :with parameter' do
+      it 'lists cities with their phone codes' do
+        city_array = TurkishCities.list_cities({ alphabetically_sorted: true,
+                                                 with: { phone_code: true } })
+        first_city = { name: 'Adana', phone_code: 322 }
+        expect(city_array[0]).to eq first_city
+      end
 
-  it 'lists cities with all filters' do
-    city_array = TurkishCities.list_cities({ alphabetically_sorted: true,
-                                             region: 'Marmara',
-                                             metropolitan_municipality: true })
-    expect(city_array.size).to eq 6
-    expect(city_array).to eq %w[Balıkesir Bursa İstanbul Kocaeli Sakarya Tekirdağ]
-  end
+      it 'lists cities with their plate numbers' do
+        city_array = TurkishCities.list_cities({ alphabetically_sorted: false,
+                                                 with: { plate_number: true } })
 
-  it 'lists cities with all filters with their phone codes' do
-    city_array = TurkishCities.list_cities({ alphabetically_sorted: true,
-                                             with: { phone_code: true } })
-    cities = { name: "Adana", phone_code: 322 }
-    expect(city_array[0]).to eq cities
-  end
+        first_city = { name: 'Adana', plate_number: 1 }
+        expect(city_array[0]).to eq first_city
+      end
 
-  it 'lists cities with all filters with their plate numbers' do
-    city_array = TurkishCities.list_cities({ alphabetically_sorted: false,
-                                             with: { plate_number: true } })
+      it 'lists cities with all parameters' do
+        city_array = TurkishCities.list_cities({ alphabetically_sorted: false,
+                                                 with: { all: true } })
 
-    cities = { name: "Adana", plate_number: 1 }
-    expect(city_array[0]).to eq cities
-  end
+        first_city = { metropolitan_municipality_since: 1986,
+                       name: 'Adana',
+                       phone_code: 322,
+                       plate_number: 1,
+                       region: 'Akdeniz' }
+        expect(city_array[0]).to eq first_city
+      end
 
-  it 'ignores wrong parameters' do
-    city_array = TurkishCities.list_cities({ falanicly_sorted: true })
-    expect(city_array.size).to eq 81
-    expect(city_array[33]).to eq 'İstanbul'
+      it 'ignores wrong parameters' do
+        city_array = TurkishCities.list_cities({ falanicly_sorted: true,
+                                                 with: { all: true } })
+        expect(city_array.size).to eq 81
+        city = { metropolitan_municipality_since: 1984,
+                 name: 'İstanbul',
+                 phone_code: [212, 216],
+                 plate_number: 34,
+                 region: 'Marmara' }
+        expect(city_array[33]).to eq city
+      end
+    end
   end
 
   describe '#list_districts' do
