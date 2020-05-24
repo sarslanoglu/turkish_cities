@@ -1,5 +1,8 @@
 # Changelog
 
+## master (unreleased)
+
+
 ## 0.2.0 (2020-05-18)
 
 ### New features
@@ -23,6 +26,7 @@
 ### New features
 
 * [#22](https://github.com/sarslanoglu/turkish_cities/issues/22): Add region data to cities.yaml and update ```list_cities``` method to support regions
+
 * [#20](https://github.com/sarslanoglu/turkish_cities/issues/20): Add city finding with phone code and vice versa. ```find_name_by_phone_code``` and ```find_phone_code_by_name``` methods are added
 
 ### Bug fixes

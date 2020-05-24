@@ -3,16 +3,9 @@ AllCops:
   Exclude:
     - 'Gemfile'
     - 'turkish_cities.gemspec'
-Layout/EmptyLinesAroundAttributeAccessor:
-  Enabled: true
+  NewCops: enable
 Layout/LineLength:
   Max: 100
-Layout/SpaceAroundMethodCallOperator:
-  Enabled: true
-Lint/RaiseException:
-  Enabled: true
-Lint/StructNewOverride:
-  Enabled: true
 Metrics/AbcSize:
   Max: 20
 Metrics/BlockLength:
@@ -21,15 +14,3 @@ Metrics/MethodLength:
   Max: 15
 Style/Documentation:
   Enabled: false
-Style/ExponentialNotation:
-  Enabled: true
-Style/HashEachMethods:
-  Enabled: true
-Style/HashTransformKeys:
-  Description: 'Prefer `transform_keys` over `each_with_object` and `map`.'
-  Enabled: true
-Style/HashTransformValues:
-  Description: 'Prefer `transform_values` over `each_with_object` and `map`.'
-  Enabled: true
-Style/SlicingWithRange:
-  Enabled: true
