@@ -54,7 +54,7 @@ $ bundle
 
 With using irb just require gem and start using
 
-```ruby
+```rb
 require 'turkish_cities'
 ```
 
@@ -62,7 +62,7 @@ require 'turkish_cities'
 
 There are 81 cities in Turkey. By calling a plate number between 1-81 will give city_name.
 
-```ruby
+```rb
 TurkishCities.find_name_by_plate_number(26)   # => "Eskişehir"
 TurkishCities.find_name_by_plate_number(7)    # => "Antalya"
 TurkishCities.find_name_by_plate_number(0007) # => "Antalya"
@@ -75,7 +75,7 @@ TurkishCities.find_name_by_plate_number(100)  # => 'Given value [100] is outside
 
 There are 81 cities in Turkey. By calling a phone code between 212-488 will give city_name. All phone codes are even sending odd number will give error without searching.
 
-```ruby
+```rb
 TurkishCities.find_name_by_phone_code(312)    # => "Ankara"
 TurkishCities.find_name_by_phone_code(242)    # => "Antalya"
 TurkishCities.find_name_by_phone_code(000222) # => "Eskişehir"
@@ -91,7 +91,7 @@ TurkishCities.find_name_by_phone_code(213)    # => 'Given value [213] must be an
 
 City name can be given case and turkish character insensitive.
 
-```ruby
+```rb
 TurkishCities.find_plate_number_by_name('Ankara')     # => 6
 TurkishCities.find_plate_number_by_name('Eskişehir')  # => 26
 TurkishCities.find_plate_number_by_name('Canakkale')  # => 17
@@ -104,7 +104,7 @@ TurkishCities.find_plate_number_by_name('falansehir') # => "Couldn't find city n
 
 City name can be given case and turkish character insensitive.
 
-```ruby
+```rb
 TurkishCities.find_phone_code_by_name('Ankara')     # => 312
 TurkishCities.find_phone_code_by_name('Eskişehir')  # => 222
 TurkishCities.find_phone_code_by_name('Canakkale')  # => 286
@@ -117,7 +117,7 @@ TurkishCities.find_phone_code_by_name('filansehir') # => "Couldn't find city nam
 
 By default cities will be listed by their plate number ascending.
 
-```ruby
+```rb
 TurkishCities.list_cities # => ["Adana", "Adıyaman" ... "Kilis", "Osmaniye", "Düzce"]
 ```
 
@@ -125,7 +125,7 @@ TurkishCities.list_cities # => ["Adana", "Adıyaman" ... "Kilis", "Osmaniye", "D
 
 While listing cities three additional parameters can be send ```alphabetically_sorted```, ```metropolitan_municipality``` and ```region```. All parameters can be send seperately and together.
 
-```ruby
+```rb
 TurkishCities.list_cities({ alphabetically_sorted: true })
 # => ["Adana", "Adıyaman" ... "Yalova", "Yozgat", "Zonguldak"]
 TurkishCities.list_cities({ metropolitan_municipality: true })
@@ -144,7 +144,7 @@ TurkishCities.list_cities({ alphabetically_sorted: true, metropolitan_municipali
 
 While listing cities ```with``` parameter can be used for listing cities with other attributes. These parameters are ```alphabetically_sorted```, ```metropolitan_municipality``` and ```region```. All parameters can be send seperately and together.
 
-```ruby
+```rb
 TurkishCities.list_cities({ alphabetically_sorted: true, with: { phone_code: true } })
 # => [{:name=>"Adana", :phone_code=>322}, {:name=>"Adıyaman", :phone_code=>416}, {:name=>"Afyon", :phone_code=>272} .
 # .. {:name=>"Yozgat", :phone_code=>354}, {:name=>"Zonguldak", :phone_code=>372}]
@@ -162,7 +162,7 @@ TurkishCities.list_cities({ metropolitan_municipality: true, region: 'Karadeniz'
 
 City name can be given case and turkish character insensitive. Listing of districts are alphabetically sorted.
 
-```ruby
+```rb
 TurkishCities.list_districts('Ankara')
 # => ["Akyurt", "Altındağ" ... "Sincan", "Şereflikoçhisar", "Yenimahalle"]
 TurkishCities.list_districts('Eskişehir')
@@ -181,7 +181,7 @@ TurkishCities.list_districts('filansehir')
 
 City name can be given case and turkish character insensitive. District name should be case and turkish character sensitive.(Correct district names can be obtained by ```list_districts``` method.) Listing of subdistricts are alphabetically sorted.
 
-```ruby
+```rb
 TurkishCities.list_subdistricts('Adana', 'Seyhan')
 # => ["Akkapı", "Denizli" ... "Yeşiloba", "Yeşilyurt", "Ziyapaşa"]
 TurkishCities.list_subdistricts('Eskişehir', 'Odunpazarı')
@@ -200,7 +200,7 @@ TurkishCities.list_subdistricts('İstanbul', 'Kadılarköyü')
 
 City name can be given case and turkish character insensitive. District name and subdistrict name should be case and turkish character sensitive.(Correct district names can be obtained by ```list_districts``` method. Correct subdistrict names can be obtained by ```list_subdistricts``` method.) Listing of neighborhoods are alphabetically sorted.
 
-```ruby
+```rb
 TurkishCities.list_neighborhoods('Adana', 'Seyhan', 'Emek')
 # => ["Emek Mah", "Ova Mah", "Şakirpaşa Mah", "Uçak Mah"]
 TurkishCities.list_neighborhoods('Eskişehir', 'Odunpazarı', 'Büyükdere')
@@ -217,7 +217,7 @@ Also ```list_neighborhoods``` can work without subdistrict information. This tim
 
 City name can be given case and turkish character insensitive. District name should be case and turkish character sensitive.(Correct district names can be obtained by ```list_districts``` method.) Listing of neighborhoods are alphabetically sorted.
 
-```ruby
+```rb
 TurkishCities.list_neighborhoods('Adana', 'Seyhan')
 # => ["2000 Evler Mah", "Ahmet Remzi Yüreğir Mah", "Akkapı Mah" ... "Zeytinli Mah", "Ziyapaşa Mah"]
 TurkishCities.list_neighborhoods('Eskişehir', 'Odunpazarı')
@@ -232,7 +232,7 @@ TurkishCities.list_neighborhoods('İstanbul', 'filanmevki')
 
 In Turkey postcodes are uniq for subdistricts. Basically when a postcode is search through ```find_by_postcode``` it will give city, district and subdistrict information of postcode if valid and found
 
-```ruby
+```rb
 TurkishCities.find_by_postcode(34380)    # => ["İstanbul", "Şişli", "Cumhuriyet"]
 TurkishCities.find_by_postcode(34433)    # => ["İstanbul", "Beyoğlu", "Cihangir"]
 TurkishCities.find_by_postcode('26040')  # => ["Eskişehir", "Odunpazarı", "Büyükdere"]
