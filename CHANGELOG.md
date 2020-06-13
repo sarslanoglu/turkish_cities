@@ -2,6 +2,13 @@
 
 ## master (unreleased)
 
+### Bug fixes
+
+* [#38](https://github.com/sarslanoglu/turkish_cities/issues/38): ```NoMethodError``` on ```list_neighborhoods``` when called with wrong subdistrict name
+
+### Changes
+
+* [#39](https://github.com/sarslanoglu/turkish_cities/issues/39): May maintenance of gem - 2020-05-24
 
 ## 0.2.0 (2020-05-18)
 

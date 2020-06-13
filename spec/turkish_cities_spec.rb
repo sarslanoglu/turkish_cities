@@ -268,6 +268,8 @@ RSpec.describe TurkishCities do
           .to eq "Couldn't find district name with 'Beşiktaş' of 'filansehir'"
         expect(TurkishCities.list_neighborhoods('İstanbul', 'filanmevki'))
           .to eq "Couldn't find district name with 'filanmevki' of 'İstanbul'"
+        expect(TurkishCities.list_neighborhoods('Eskişehir', 'Odunpazarı', 'Büyükkkkkdere'))
+          .to eq "Couldn't find subdistrict with 'Büyükkkkkdere' of 'Odunpazarı'/'Eskişehir'"
       end
     end
   end
