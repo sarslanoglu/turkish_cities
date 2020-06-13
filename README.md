@@ -209,6 +209,8 @@ TurkishCities.list_neighborhoods('Istanbul', 'Beşiktaş', 'Gayrettepe')
 # => ["Balmumcu Mah", "Dikilitaş Mah", "Gayrettepe Mah", "Yıldız Mah"]
 TurkishCities.list_neighborhoods('Adana', 'Beşiktaş', 'Emek')
 # => "Couldn't find district name with 'Beşiktaş' of 'Adana'"
+TurkishCities.list_neighborhoods('Eskişehir', 'Odunpazarı', 'Büyükkkkkdere')
+# => "Couldn't find subdistrict with 'Büyükkkkkdere' of 'Odunpazarı'/'Eskişehir'"
 ```
 
 ### Without subdistrict info

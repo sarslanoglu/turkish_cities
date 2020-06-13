@@ -70,6 +70,10 @@ module DecomposerHelper
     end
   end
 
+  def subdistrict_not_found_error(subdistrict_input, district_input, city_input)
+    "Couldn't find subdistrict with '#{subdistrict_input}' of '#{district_input}'/'#{city_input}'"
+  end
+
   private
 
   def add_plate_number_if_requested(result, city, options = nil)

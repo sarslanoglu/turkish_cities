@@ -26,20 +26,28 @@ class District
     district_list = create_district_list(city_name)
 
     if !district_list[district_name].nil?
-      neighborhoods = if subdistrict_name.nil?
-                        create_neighborhoods_without_subdistrict_name(district_list, district_name)
-                      else
-                        create_neighborhoods_with_subdistrict_name(district_list,
-                                                                   district_name,
-                                                                   subdistrict_name)
-                      end
-      sort_alphabetically(neighborhoods)
+      neighborhoods = create_neighborhoods(district_list, city_name,
+                                           district_name, subdistrict_name)
+
+      neighborhoods.is_a?(Array) ? sort_alphabetically(neighborhoods) : neighborhoods
     else
       district_not_found_error(district_name, city_name)
     end
   end
 
   private
+
+  def create_neighborhoods(district_list, city_name, district_name, subdistrict_name)
+    if subdistrict_name.nil?
+      create_neighborhoods_without_subdistrict_name(district_list, district_name)
+    else
+      if district_list[district_name][subdistrict_name].nil?
+        return subdistrict_not_found_error(subdistrict_name, district_name, city_name)
+      end
+
+      create_neighborhoods_with_subdistrict_name(district_list, district_name, subdistrict_name)
+    end
+  end
 
   def create_neighborhoods_without_subdistrict_name(district_list, district_name)
     neighborhoods = []
