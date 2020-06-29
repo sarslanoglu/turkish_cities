@@ -23,7 +23,7 @@
   * [Listing all subdistricts of given city and district](#listing-all-subdistricts-of-given-city-and-district)
   * [Listing all neighborhoods of given city and district](#listing-all-neighborhoods-of-given-city-and-district)
     * [With subdistrict info](#with-subdistrict-info)
-    * [Without subdistrict info](#ithout-subdistrict-info)
+    * [Without subdistrict info](#without-subdistrict-info)
   * [Finding city, district and subdistrict name by postcode](#finding-city-district-and-subdistrict-name-by-postcode)
 * [Compatibility](#compatibility)
 * [Contributing](#contributing)
@@ -244,9 +244,12 @@ TurkishCities.find_by_postcode('100000') # => Given value [100000] is outside bo
 
 ## Compatibility
 
-- ✅ `2.7.1` (stable)
-- ✅ `2.6.6` (stable)
-- ✅ `2.5.8` (stable)
+| Ruby Version | Supported          |
+| ------------ | ------------------ |
+| 2.7.1        | :white_check_mark: |
+| 2.6.6        | :white_check_mark: |
+| 2.5.8        | :white_check_mark: |
+| < 2.5.1      | :x:                |
 
 - This gem heavily depends on ```:turkic``` case mapping support of Ruby string downcase method. Below Ruby version 2.5.1 some functions will run buggy/false or even won't run at all.
 

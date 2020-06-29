@@ -1,6 +1,6 @@
 # Changelog
 
-## master (unreleased)
+## 0.2.1 (2020-06-29)
 
 ### Bug fixes
 
