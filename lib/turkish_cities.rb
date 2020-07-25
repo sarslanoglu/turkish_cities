@@ -31,11 +31,11 @@ class TurkishCities
   end
 
   def self.list_subdistricts(city_name, district_name)
-    District.new.list_subdistricts(city_name, district_name)
+    District.new(city_name, district_name).list_subdistricts
   end
 
   def self.list_neighborhoods(city_name, district_name, subdistrict_name = nil)
-    District.new.list_neighborhoods(city_name, district_name, subdistrict_name)
+    District.new(city_name, district_name).list_neighborhoods(subdistrict_name)
   end
 
   def self.find_by_postcode(postcode)
