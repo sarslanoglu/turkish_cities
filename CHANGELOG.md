@@ -1,5 +1,11 @@
 # Changelog
 
+## master (unreleased)
+
+### Changes
+
+* [#45](https://github.com/sarslanoglu/turkish_cities/issues/45): Refactor `District` class
+
 ## 0.2.1 (2020-06-29)
 
 ### Bug fixes

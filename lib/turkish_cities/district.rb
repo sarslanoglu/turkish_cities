@@ -8,62 +8,57 @@ require_relative '../turkish_cities/helpers/decomposer_helper'
 class District
   include DecomposerHelper
 
-  def list_subdistricts(city_name, district_name)
-    district_list = create_district_list(city_name)
-
-    if !district_list[district_name].nil?
-      subdistricts = []
-      district_list[district_name].each do |subdistrict|
-        subdistricts << subdistrict[0]
-      end
-      sort_alphabetically(subdistricts)
-    else
-      district_not_found_error(district_name, city_name)
-    end
+  def initialize(city_name, district_name)
+    @city_name = city_name
+    @district_name = district_name
+    @district_list = create_district_list(city_name)
   end
 
-  def list_neighborhoods(city_name, district_name, subdistrict_name)
-    district_list = create_district_list(city_name)
+  def subdistricts
+    return district_not_found_error(@district_name, @city_name) if district_item.nil?
 
-    if !district_list[district_name].nil?
-      neighborhoods = create_neighborhoods(district_list, city_name,
-                                           district_name, subdistrict_name)
+    subdistricts = []
+    district_item.each { |subdistrict| subdistricts << subdistrict[0] }
 
-      neighborhoods.is_a?(Array) ? sort_alphabetically(neighborhoods) : neighborhoods
-    else
-      district_not_found_error(district_name, city_name)
-    end
+    sort_alphabetically(subdistricts)
+  end
+
+  def neighborhoods(subdistrict_name)
+    return district_not_found_error(@district_name, @city_name) if district_item.nil?
+
+    neighborhoods = create_neighborhoods(subdistrict_name)
+    neighborhoods.is_a?(Array) ? sort_alphabetically(neighborhoods) : neighborhoods
   end
 
   private
 
-  def create_neighborhoods(district_list, city_name, district_name, subdistrict_name)
-    if subdistrict_name.nil?
-      create_neighborhoods_without_subdistrict_name(district_list, district_name)
-    else
-      if district_list[district_name][subdistrict_name].nil?
-        return subdistrict_not_found_error(subdistrict_name, district_name, city_name)
-      end
+  def create_neighborhoods(subdistrict_name)
+    return create_neighborhoods_without_subdistrict_name if subdistrict_name.nil?
 
-      create_neighborhoods_with_subdistrict_name(district_list, district_name, subdistrict_name)
+    if district_item[subdistrict_name].nil?
+      return subdistrict_not_found_error(subdistrict_name, @district_name, @city_name)
     end
+
+    create_neighborhoods_with_subdistrict_name(subdistrict_name)
   end
 
-  def create_neighborhoods_without_subdistrict_name(district_list, district_name)
+  def create_neighborhoods_without_subdistrict_name
     neighborhoods = []
-    district_list[district_name].each do |subdistrict|
-      subdistrict[1]['neighborhoods'].each do |neighborhood|
-        neighborhoods << neighborhood
-      end
+    district_item.each do |subdistrict|
+      subdistrict[1]['neighborhoods'].each { |neighborhood| neighborhoods << neighborhood }
     end
     neighborhoods
   end
 
-  def create_neighborhoods_with_subdistrict_name(district_list, district_name, subdistrict_name)
+  def create_neighborhoods_with_subdistrict_name(subdistrict_name)
     neighborhoods = []
-    district_list[district_name][subdistrict_name]['neighborhoods'].each do |neighborhood|
+    district_item[subdistrict_name]['neighborhoods'].each do |neighborhood|
       neighborhoods << neighborhood
     end
     neighborhoods
+  end
+
+  def district_item
+    @district_list[@district_name]
   end
 end
