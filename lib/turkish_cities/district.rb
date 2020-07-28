@@ -17,10 +17,7 @@ class District
   def subdistricts
     return district_not_found_error(@district_name, @city_name) if district_item.nil?
 
-    subdistricts = []
-    district_item.each { |subdistrict| subdistricts << subdistrict[0] }
-
-    sort_alphabetically(subdistricts)
+    sort_alphabetically(district_item.keys)
   end
 
   def neighborhoods(subdistrict_name)
@@ -43,19 +40,11 @@ class District
   end
 
   def create_neighborhoods_without_subdistrict_name
-    neighborhoods = []
-    district_item.each do |subdistrict|
-      subdistrict[1]['neighborhoods'].each { |neighborhood| neighborhoods << neighborhood }
-    end
-    neighborhoods
+    district_item.values.map { |subdistrict| subdistrict['neighborhoods'] }.flatten
   end
 
   def create_neighborhoods_with_subdistrict_name(subdistrict_name)
-    neighborhoods = []
-    district_item[subdistrict_name]['neighborhoods'].each do |neighborhood|
-      neighborhoods << neighborhood
-    end
-    neighborhoods
+    district_item[subdistrict_name]['neighborhoods']
   end
 
   def district_item
