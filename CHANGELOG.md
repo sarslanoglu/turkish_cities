@@ -5,6 +5,7 @@
 ### Changes
 
 * [#45](https://github.com/sarslanoglu/turkish_cities/issues/45): Refactor `District` class
+* [#50](https://github.com/sarslanoglu/turkish_cities/issues/50): Additional improvements on `District` class methods
 
 ## 0.2.1 (2020-06-29)
 
