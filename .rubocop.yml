@@ -5,7 +5,7 @@ AllCops:
     - 'turkish_cities.gemspec'
   NewCops: enable
 Layout/LineLength:
-  Max: 100
+  Max: 120
 Metrics/AbcSize:
   Max: 20
 Metrics/BlockLength:

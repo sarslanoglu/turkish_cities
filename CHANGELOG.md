@@ -2,10 +2,15 @@
 
 ## master (unreleased)
 
+### New features
+
+* [#13](https://github.com/sarslanoglu/turkish_cities/issues/13): Add ```distance``` class and ```distance_between``` method for calculating air travel distance and time estimation between cities
+
 ### Changes
 
-* [#45](https://github.com/sarslanoglu/turkish_cities/issues/45): Refactor `District` class
 * [#50](https://github.com/sarslanoglu/turkish_cities/issues/50): Additional improvements on `District` class methods
+
+* [#45](https://github.com/sarslanoglu/turkish_cities/issues/45): Refactor `District` class
 
 ## 0.2.1 (2020-06-29)
 

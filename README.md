@@ -25,6 +25,7 @@
     * [With subdistrict info](#with-subdistrict-info)
     * [Without subdistrict info](#without-subdistrict-info)
   * [Finding city, district and subdistrict name by postcode](#finding-city-district-and-subdistrict-name-by-postcode)
+* [Data sources](#data-sources)
 * [Compatibility](#compatibility)
 * [Contributing](#contributing)
 * [Changelog](#changelog)
@@ -242,6 +243,20 @@ TurkishCities.find_by_postcode(34382)    # => "Couldn't find any subdistrict wit
 TurkishCities.find_by_postcode('100000') # => Given value [100000] is outside bounds of 1010 to 81952.
 ```
 
+## Data sources
+
+All information related with cities can be found at:
+
+```
+https://tr.wikipedia.org/wiki/{#city_name_here}
+```
+
+Districts, subdisctricts, neighborhoods and postcodes can be found at:
+
+```
+https://postakodu.ptt.gov.tr/
+```
+
 ## Compatibility
 
 | Ruby Version | Supported          |
@@ -251,7 +266,7 @@ TurkishCities.find_by_postcode('100000') # => Given value [100000] is outside bo
 | 2.5.8        | :white_check_mark: |
 | < 2.5.1      | :x:                |
 
-- This gem heavily depends on ```:turkic``` case mapping support of Ruby string downcase method. Below Ruby version 2.5.1 some functions will run buggy/false or even won't run at all.
+- TurkishCities heavily depends on ```:turkic``` case mapping support of Ruby string downcase method. Below Ruby version 2.5.1 some functions will run buggy/false or even won't run at all.
 
 ## Contributing
 
@@ -260,6 +275,10 @@ Contributing guidelines are available [here](CONTRIBUTING.md).
 ## Changelog
 
 Changelog is available [here](CHANGELOG.md).
+
+## Logo
+
+TurkishCities's logo created by [Nebal Çolpan](https://www.behance.net/nebalcolpan)
 
 ## Copyright
 

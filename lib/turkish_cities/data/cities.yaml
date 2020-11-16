@@ -2,45 +2,63 @@
   plate_number: 1
   name: 'Adana'
   phone_code: 322
+  latitude: 36.9914
+  longitude: 35.3308
   metropolitan_municipality_since: 1986
   region: 'Akdeniz'
+  has_sea_access: true
   districts: ['Aladağ', 'Ceyhan', 'Çukurova', 'Feke', 'İmamoğlu', 'Karaisalı', 'Karataş', 'Kozan', 'Pozantı',
     'Saimbeyli', 'Sarıçam', 'Seyhan', 'Tufanbeyli', 'Yumurtalık', 'Yüreğir']
 -
   plate_number: 2
   name: 'Adıyaman'
   phone_code: 416
+  latitude: 37.7636
+  longitude: 38.2773
   metropolitan_municipality_since: null
   region: 'Güneydoğu Anadolu'
+  has_sea_access: false
   districts: ['Besni', 'Çelikhan', 'Gerger', 'Gölbaşı', 'Kahta', 'Merkez', 'Samsat', 'Sincik', 'Tut']
 -
   plate_number: 3
   name: 'Afyon'
   phone_code: 272
+  latitude: 38.7595
+  longitude: 30.5387
   metropolitan_municipality_since: null
   region: 'Ege'
+  has_sea_access: false
   districts: ['Başmakçı', 'Bayat', 'Bolvadin', 'Çay', 'Çobanlar', 'Dazkırı', 'Dinar', 'Emirdağ', 'Evciler', 'Hocalar',
     'İhsaniye', 'İscehisar', 'Kızılören', 'Merkez', 'Sandıklı', 'Sinanpaşa', 'Sultandağı', 'Şuhut']
 -
   plate_number: 4
   name: 'Ağrı'
   phone_code: 472
+  latitude: 39.6269
+  longitude: 43.0216
   metropolitan_municipality_since: null
   region: 'Doğu Anadolu'
+  has_sea_access: false
   districts: ['Diyadin', 'Doğubayazıt', 'Eleşkirt', 'Hamur', 'Merkez', 'Patnos', 'Taşlıçay', 'Tutak']
 -
   plate_number: 5
   name: 'Amasya'
   phone_code: 358
+  latitude: 40.6565
+  longitude: 35.8373
   metropolitan_municipality_since: null
   region: 'Karadeniz'
+  has_sea_access: false
   districts: ['Göynücek', 'Gümüşhacıköy', 'Hamamözü', 'Merkez', 'Merzifon', 'Suluova', 'Taşova']
 -
   plate_number: 6
   name: 'Ankara'
   phone_code: 312
+  latitude: 39.9334
+  longitude: 32.8597
   metropolitan_municipality_since: 1984
   region: 'İç Anadolu'
+  has_sea_access: false
   districts: ['Akyurt', 'Altındağ', 'Ayaş', 'Bala', 'Beypazarı', 'Çamlıdere', 'Çankaya', 'Çubuk', 'Elmadağ',
     'Etimesgut', 'Evren', 'Gölbaşı', 'Güdül', 'Haymana', 'Kahramankazan', 'Kalecik', 'Keçiören', 'Kızılcahamam',
     'Mamak', 'Nallıhan', 'Polatlı', 'Pursaklar', 'Sincan', 'Şereflikoçhisar', 'Yenimahalle']
@@ -48,31 +66,43 @@
   plate_number: 7
   name: 'Antalya'
   phone_code: 242
+  latitude: 36.8969
+  longitude: 30.7133
   metropolitan_municipality_since: 1993
   region: 'Akdeniz'
+  has_sea_access: true
   districts: ['Akseki', 'Aksu', 'Alanya', 'Demre', 'Döşemealtı', 'Elmalı', 'Finike', 'Gazipaşa', 'Gündoğmuş', 'İbradı',
     'Kaş', 'Kemer', 'Kepez', 'Konyaaltı', 'Korkuteli', 'Kumluca', 'Manavgat', 'Muratpaşa', 'Serik']
 -
   plate_number: 8
   name: 'Artvin'
   phone_code: 466
+  latitude: 41.1809
+  longitude: 41.8208
   metropolitan_municipality_since: null
   region: 'Karadeniz'
+  has_sea_access: true
   districts: ['Ardanuç', 'Arhavi', 'Borçka', 'Hopa', 'Kemalpaşa', 'Merkez', 'Murgul', 'Şavşat', 'Yusufeli']
 -
   plate_number: 9
   name: 'Aydın'
   phone_code: 256
+  latitude: 37.8380
+  longitude: 27.8456
   metropolitan_municipality_since: 2012
   region: 'Ege'
+  has_sea_access: true
   districts: ['Bozdoğan', 'Buharkent', 'Çine', 'Didim', 'Efeler', 'Germencik', 'İncirliova', 'Karacasu', 'Karpuzlu',
     'Koçarlı', 'Köşk', 'Kuşadası', 'Kuyucak', 'Nazilli', 'Söke', 'Sultanhisar', 'Yenipazar']
 -
   plate_number: 10
   name: 'Balıkesir'
   phone_code: 266
+  latitude: 39.7617
+  longitude: 28.1123
   metropolitan_municipality_since: 2012
   region: 'Marmara'
+  has_sea_access: true
   districts: ['Altıeylül', 'Ayvalık', 'Balya', 'Bandırma', 'Bigadiç', 'Burhaniye', 'Dursunbey', 'Edremit', 'Erdek',
     'Gömeç', 'Gönen', 'Havran', 'İvrindi', 'Karesi', 'Kepsut', 'Manyas', 'Marmara', 'Savaştepe', 'Sındırgı',
     'Susurluk']
@@ -80,183 +110,255 @@
   plate_number: 11
   name: 'Bilecik'
   phone_code: 228
+  latitude: 40.1426
+  longitude: 29.9793
   metropolitan_municipality_since: null
   region: 'Marmara'
+  has_sea_access: false
   districts: ['Bozüyük', 'Gölpazarı', 'İnhisar', 'Merkez', 'Osmaneli', 'Pazaryeri', 'Söğüt', 'Yenipazar']
 -
   plate_number: 12
   name: 'Bingöl'
   phone_code: 426
+  latitude: 39.0626
+  longitude: 40.7696
   metropolitan_municipality_since: null
   region: 'Doğu Anadolu'
+  has_sea_access: false
   districts: ['Adaklı', 'Genç', 'Karlıova', 'Kiğı', 'Merkez', 'Solhan', 'Yayladere', 'Yedisu']
 -
   plate_number: 13
   name: 'Bitlis'
   phone_code: 434
+  latitude: 38.4006
+  longitude: 42.1095
   metropolitan_municipality_since: null
   region: 'Doğu Anadolu'
+  has_sea_access: false
   districts: ['Adilcevaz', 'Ahlat', 'Güroymak', 'Hizan', 'Merkez', 'Mutki', 'Tatvan']
 -
   plate_number: 14
   name: 'Bolu'
   phone_code: 374
+  latitude: 40.7325
+  longitude: 31.6082
   metropolitan_municipality_since: null
   region: 'Karadeniz'
+  has_sea_access: false
   districts: ['Dörtdivan', 'Gerede', 'Göynük', 'Kıbrıscık', 'Mengen', 'Merkez', 'Mudurnu', 'Seben', 'Yeniçağa']
 -
   plate_number: 15
   name: 'Burdur'
   phone_code: 248
+  latitude: 37.7183
+  longitude: 30.2823
   metropolitan_municipality_since: null
   region: 'Akdeniz'
+  has_sea_access: false
   districts: ['Ağlasun', 'Altınyayla', 'Bucak', 'Çavdır', 'Çeltikçi', 'Gölhisar', 'Karamanlı', 'Kemer', 'Merkez',
     'Tefenni', 'Yeşilova']
 -
   plate_number: 16
   name: 'Bursa'
   phone_code: 224
+  latitude: 40.1885
+  longitude: 29.0610
   metropolitan_municipality_since: 1987
   region: 'Marmara'
+  has_sea_access: true
   districts: ['Büyükorhan', 'Gemlik', 'Gürsu', 'Harmancık', 'İnegöl', 'İznik', 'Karacabey', 'Keles', 'Kestel',
     'Mudanya', 'Mustafakemalpaşa', 'Nilüfer', 'Orhaneli', 'Orhangazi', 'Osmangazi', 'Yenişehir', 'Yıldırım']
 -
   plate_number: 17
   name: 'Çanakkale'
   phone_code: 286
+  latitude: 40.1467
+  longitude: 26.4086
   metropolitan_municipality_since: null
   region: 'Marmara'
+  has_sea_access: true
   districts: ['Ayvacık', 'Bayramiç', 'Biga', 'Bozcaada', 'Çan', 'Eceabat', 'Ezine', 'Gelibolu', 'Gökçeada', 'Lapseki',
     'Merkez', 'Yenice']
 -
   plate_number: 18
   name: 'Çankırı'
   phone_code: 376
+  latitude: 40.6002
+  longitude: 33.6162
   metropolitan_municipality_since: null
   region: 'İç Anadolu'
+  has_sea_access: false
   districts: ['Atkaracalar', 'Bayramören', 'Çerkeş', 'Eldivan', 'Ilgaz', 'Kızılırmak', 'Korgun', 'Kurşunlu', 'Merkez',
     'Orta', 'Şabanözü', 'Yapraklı']
 -
   plate_number: 19
   name: 'Çorum'
   phone_code: 364
+  latitude: 40.5499
+  longitude: 34.9537
   metropolitan_municipality_since: null
   region: 'Karadeniz'
+  has_sea_access: false
   districts: ['Alaca', 'Bayat', 'Boğazkale', 'Dodurga', 'İskilip', 'Kargı', 'Laçin', 'Mecitözü', 'Merkez', 'Oğuzlar',
     'Ortaköy', 'Osmancık', 'Sungurlu', 'Uğurludağ']
 -
   plate_number: 20
   name: 'Denizli'
   phone_code: 258
+  latitude: 37.7830
+  longitude: 29.0963
   metropolitan_municipality_since: 2012
   region: 'Ege'
+  has_sea_access: false
   districts: ['Acıpayam', 'Babadağ', 'Baklan', 'Bekilli', 'Beyağaç', 'Bozkurt', 'Buldan', 'Çal', 'Çameli', 'Çardak',
     'Çivril', 'Güney', 'Honaz', 'Kale', 'Merkezefendi', 'Pamukkale', 'Sarayköy', 'Serinhisar', 'Tavas']
 -
   plate_number: 21
   name: 'Diyarbakır'
   phone_code: 412
+  latitude: 37.9250
+  longitude: 40.2110
   metropolitan_municipality_since: 1993
   region: 'Güneydoğu Anadolu'
+  has_sea_access: false
   districts: ['Bağlar', 'Bismil', 'Çermik', 'Çınar', 'Çüngüş', 'Dicle', 'Eğil', 'Ergani', 'Hani', 'Hazro', 'Kayapınar',
     'Kocaköy', 'Kulp', 'Lice', 'Silvan', 'Sur', 'Yenişehir']
 -
   plate_number: 22
   name: 'Edirne'
   phone_code: 284
+  latitude: 41.6771
+  longitude: 26.5557
   metropolitan_municipality_since: null
   region: 'Marmara'
+  has_sea_access: true
   districts: ['Enez', 'Havsa', 'İpsala', 'Keşan', 'Lalapaşa', 'Meriç', 'Merkez', 'Süloğlu', 'Uzunköprü']
 -
   plate_number: 23
   name: 'Elazığ'
   phone_code: 424
+  latitude: 38.6748
+  longitude: 39.2225
   metropolitan_municipality_since: null
   region: 'Doğu Anadolu'
+  has_sea_access: false
   districts: ['Ağın', 'Alacakaya', 'Arıcak', 'Baskil', 'Karakoçan', 'Keban', 'Kovancılar', 'Maden', 'Merkez', 'Palu',
     'Sivrice']
 -
   plate_number: 24
   name: 'Erzincan'
   phone_code: 446
+  latitude: 39.7468
+  longitude: 39.4911
   metropolitan_municipality_since: null
   region: 'Doğu Anadolu'
+  has_sea_access: false
   districts: ['Çayırlı', 'İliç', 'Kemah', 'Kemaliye', 'Merkez', 'Otlukbeli', 'Refahiye', 'Tercan', 'Üzümlü']
 -
   plate_number: 25
   name: 'Erzurum'
   phone_code: 442
+  latitude: 39.9055
+  longitude: 41.2658
   metropolitan_municipality_since: 1993
   region: 'Doğu Anadolu'
+  has_sea_access: false
   districts: ['Aşkale', 'Aziziye', 'Çat', 'Hınıs', 'Horasan', 'İspir', 'Karaçoban', 'Karayazı', 'Köprüköy', 'Narman',
     'Oltu', 'Olur', 'Palandöken', 'Pasinler', 'Pazaryolu', 'Şenkaya', 'Tekman', 'Tortum', 'Uzundere', 'Yakutiye']
 -
   plate_number: 26
   name: 'Eskişehir'
   phone_code: 222
+  latitude: 39.7667
+  longitude: 30.5256
   metropolitan_municipality_since: 1993
   region: 'İç Anadolu'
+  has_sea_access: false
   districts: ['Alpu', 'Beylikova', 'Çifteler', 'Günyüzü', 'Han', 'İnönü', 'Mahmudiye', 'Mihalgazi', 'Mihalıççık',
     'Odunpazarı', 'Sarıcakaya', 'Seyitgazi', 'Sivrihisar', 'Tepebaşı']
 -
   plate_number: 27
   name: 'Gaziantep'
   phone_code: 342
+  latitude: 37.0660
+  longitude: 37.3781
   metropolitan_municipality_since: 1987
   region: 'Güneydoğu Anadolu'
+  has_sea_access: false
   districts: ['Araban', 'İslahiye', 'Karkamış', 'Nizip', 'Nurdağı', 'Oğuzeli', 'Şahinbey', 'Şehitkamil', 'Yavuzeli']
 -
   plate_number: 28
   name: 'Giresun'
   phone_code: 454
+  latitude: 40.9175
+  longitude: 38.3927
   metropolitan_municipality_since: null
   region: 'Karadeniz'
+  has_sea_access: true
   districts: ['Alucra', 'Bulancak', 'Çamoluk', 'Çanakçı', 'Dereli', 'Doğankent', 'Espiye', 'Eynesil', 'Görele', 'Güce',
     'Keşap', 'Merkez', 'Piraziz', 'Şebinkarahisar', 'Tirebolu', 'Yağlıdere']
 -
   plate_number: 29
   name: 'Gümüşhane'
   phone_code: 456
+  latitude: 40.4608
+  longitude: 39.4803
   metropolitan_municipality_since: null
   region: 'Karadeniz'
+  has_sea_access: false
   districts: ['Kelkit', 'Köse', 'Kürtün', 'Merkez', 'Şiran', 'Torul']
 -
   plate_number: 30
   name: 'Hakkari'
   phone_code: 438
+  latitude: 37.5774
+  longitude: 43.7368
   metropolitan_municipality_since: null
   region: 'Doğu Anadolu'
+  has_sea_access: false
   districts: ['Çukurca', 'Derecik', 'Merkez', 'Şemdinli', 'Yüksekova']
 -
   plate_number: 31
   name: 'Hatay'
   phone_code: 326
+  latitude: 36.4018
+  longitude: 36.3498
   metropolitan_municipality_since: 2012
   region: 'Akdeniz'
+  has_sea_access: true
   districts: ['Altınözü', 'Antakya', 'Arsuz', 'Belen', 'Defne', 'Dörtyol', 'Erzin', 'Hassa', 'İskenderun', 'Kırıkhan',
     'Kumlu', 'Payas', 'Reyhanlı', 'Samandağ', 'Yayladağı']
 -
   plate_number: 32
   name: 'Isparta'
   phone_code: 246
+  latitude: 38.0211
+  longitude: 31.0794
   metropolitan_municipality_since: null
   region: 'Akdeniz'
+  has_sea_access: false
   districts: ['Aksu', 'Atabey', 'Eğirdir', 'Gelendost', 'Gönen', 'Keçiborlu', 'Merkez', 'Senirkent', 'Sütçüler',
     'Şarkikaraağaç', 'Uluborlu', 'Yalvaç', 'Yenişarbademli']
 -
   plate_number: 33
   name: 'Mersin'
   phone_code: 324
+  latitude: 36.8121
+  longitude: 34.6415
   metropolitan_municipality_since: 1993
   region: 'Akdeniz'
+  has_sea_access: true
   districts: ['Akdeniz', 'Anamur', 'Aydıncık', 'Bozyazı', 'Çamlıyayla', 'Erdemli', 'Gülnar', 'Mezitli', 'Mut',
     'Silifke', 'Tarsus', 'Toroslar', 'Yenişehir']
 -
   plate_number: 34
   name: 'İstanbul'
   phone_code: [212,216]
+  latitude: 41.0082
+  longitude: 28.9784
   metropolitan_municipality_since: 1984
   region: 'Marmara'
+  has_sea_access: true
   districts: ['Adalar', 'Arnavutköy', 'Ataşehir', 'Avcılar', 'Bağcılar', 'Bahçelievler', 'Bakırköy', 'Başakşehir',
     'Bayrampaşa', 'Beşiktaş', 'Beykoz', 'Beylikdüzü', 'Beyoğlu', 'Büyükçekmece', 'Çatalca', 'Çekmeköy', 'Esenler',
     'Esenyurt', 'Eyüpsultan', 'Fatih', 'Gaziosmanpaşa', 'Güngören', 'Kadıköy', 'Kağıthane', 'Kartal', 'Küçükçekmece',
@@ -266,8 +368,11 @@
   plate_number: 35
   name: 'İzmir'
   phone_code: 232
+  latitude: 38.4237
+  longitude: 27.1428
   metropolitan_municipality_since: 1984
   region: 'Ege'
+  has_sea_access: true
   districts: ['Aliağa', 'Balçova', 'Bayındır', 'Bayraklı', 'Bergama', 'Beydağ', 'Bornova', 'Buca', 'Çeşme', 'Çiğli',
     'Dikili', 'Foça', 'Gaziemir', 'Güzelbahçe', 'Karabağlar', 'Karaburun', 'Karşıyaka', 'Kemalpaşa', 'Kınık', 'Kiraz',
     'Konak', 'Menderes', 'Menemen', 'Narlıdere', 'Ödemiş', 'Seferihisar', 'Selçuk', 'Tire', 'Torbalı', 'Urla']
@@ -275,53 +380,74 @@
   plate_number: 36
   name: 'Kars'
   phone_code: 474
+  latitude: 40.6013
+  longitude: 43.0975
   metropolitan_municipality_since: null
   region: 'Doğu Anadolu'
+  has_sea_access: false
   districts: ['Akyaka', 'Arpaçay', 'Digor', 'Kağızman', 'Merkez', 'Sarıkamış', 'Selim', 'Susuz']
 -
   plate_number: 37
   name: 'Kastamonu'
   phone_code: 366
+  latitude: 41.3766
+  longitude: 33.7765
   metropolitan_municipality_since: null
   region: 'Karadeniz'
+  has_sea_access: true
   districts: ['Abana', 'Ağlı', 'Araç', 'Azdavay', 'Bozkurt', 'Cide', 'Çatalzeytin', 'Daday', 'Devrekani', 'Doğanyurt',
     'Hanönü', 'İhsangazi', 'İnebolu', 'Küre', 'Merkez', 'Pınarbaşı', 'Seydiler', 'Şenpazar', 'Taşköprü', 'Tosya']
 -
   plate_number: 38
   name: 'Kayseri'
   phone_code: 352
+  latitude: 38.7205
+  longitude: 35.4826
   metropolitan_municipality_since: 1988
   region: 'İç Anadolu'
+  has_sea_access: false
   districts: ['Akkışla', 'Bünyan', 'Develi', 'Felahiye', 'Hacılar', 'İncesu', 'Kocasinan', 'Melikgazi', 'Özvatan',
     'Pınarbaşı', 'Sarıoğlan', 'Sarız', 'Talas', 'Tomarza', 'Yahyalı', 'Yeşilhisar']
 -
   plate_number: 39
   name: 'Kırklareli'
   phone_code: 288
+  latitude: 41.7355
+  longitude: 27.2244
   metropolitan_municipality_since: null
   region: 'Marmara'
+  has_sea_access: true
   districts: ['Babaeski', 'Demirköy', 'Kofçaz', 'Lüleburgaz', 'Merkez', 'Pehlivanköy', 'Pınarhisar', 'Vize']
 -
   plate_number: 40
   name: 'Kırşehir'
   phone_code: 386
+  latitude: 39.1461
+  longitude: 34.1595
   metropolitan_municipality_since: null
   region: 'İç Anadolu'
+  has_sea_access: false
   districts: ['Akçakent', 'Akpınar', 'Boztepe', 'Çiçekdağı', 'Kaman', 'Merkez', 'Mucur']
 -
   plate_number: 41
   name: 'Kocaeli'
   phone_code: 262
+  latitude: 40.7654
+  longitude: 29.9408
   metropolitan_municipality_since: 1993
   region: 'Marmara'
+  has_sea_access: false
   districts: ['Başiskele', 'Çayırova', 'Darıca', 'Derince', 'Dilovası', 'Gebze', 'Gölcük', 'İzmit', 'Kandıra',
     'Karamürsel', 'Kartepe', 'Körfez']
 -
   plate_number: 42
   name: 'Konya'
   phone_code: 332
+  latitude: 37.8746
+  longitude: 32.4932
   metropolitan_municipality_since: 1987
   region: 'İç Anadolu'
+  has_sea_access: true
   districts: ['Ahırlı', 'Akören', 'Akşehir', 'Altınekin', 'Beyşehir', 'Bozkır', 'Cihanbeyli', 'Çeltik', 'Çumra',
     'Derbent', 'Derebucak', 'Doğanhisar', 'Emirgazi', 'Ereğli', 'Güneysınır', 'Hadim', 'Halkapınar', 'Hüyük', 'Ilgın',
     'Kadınhanı', 'Karapınar', 'Karatay', 'Kulu', 'Meram', 'Sarayönü', 'Selçuklu', 'Seydişehir', 'Taşkent', 'Tuzlukçu',
@@ -330,290 +456,406 @@
   plate_number: 43
   name: 'Kütahya'
   phone_code: 274
+  latitude: 39.4200
+  longitude: 29.9857
   metropolitan_municipality_since: null
   region: 'Ege'
+  has_sea_access: false
   districts: ['Altıntaş', 'Aslanapa', 'Çavdarhisar', 'Domaniç', 'Dumlupınar', 'Emet', 'Gediz', 'Hisarcık', 'Merkez',
     'Pazarlar', 'Simav', 'Şaphane', 'Tavşanlı']
 -
   plate_number: 44
   name: 'Malatya'
   phone_code: 422
+  latitude: 38.3554
+  longitude: 38.3335
   metropolitan_municipality_since: 2012
   region: 'Doğu Anadolu'
+  has_sea_access: false
   districts: ['Akçadağ', 'Arapgir', 'Arguvan', 'Battalgazi', 'Darende', 'Doğanşehir', 'Doğanyol', 'Hekimhan', 'Kale',
     'Kuluncak', 'Pütürge', 'Yazıhan', 'Yeşilyurt']
 -
   plate_number: 45
   name: 'Manisa'
   phone_code: 236
+  latitude: 38.6140
+  longitude: 27.4296
   metropolitan_municipality_since: 2012
   region: 'Ege'
+  has_sea_access: false
   districts: ['Ahmetli', 'Akhisar', 'Alaşehir', 'Demirci', 'Gölmarmara', 'Gördes', 'Kırkağaç', 'Köprübaşı', 'Kula',
     'Salihli', 'Sarıgöl', 'Saruhanlı', 'Selendi', 'Soma', 'Şehzadeler', 'Turgutlu', 'Yunusemre']
 -
   plate_number: 46
   name: 'Kahramanmaraş'
   phone_code: 344
+  latitude: 37.5753
+  longitude: 36.9228
   metropolitan_municipality_since: 2012
   region: 'Akdeniz'
+  has_sea_access: false
   districts: ['Afşin', 'Andırın', 'Çağlayancerit', 'Dulkadiroğlu', 'Ekinözü', 'Elbistan', 'Göksun', 'Nurhak',
     'Onikişubat', 'Pazarcık', 'Türkoğlu']
 -
   plate_number: 47
   name: 'Mardin'
   phone_code: 482
+  latitude: 37.3129
+  longitude: 40.7340
   metropolitan_municipality_since: 2012
   region: 'Güneydoğu Anadolu'
+  has_sea_access: false
   districts: ['Artuklu', 'Dargeçit', 'Derik', 'Kızıltepe', 'Mazıdağı', 'Midyat', 'Nusaybin', 'Ömerli', 'Savur',
     'Yeşilli']
 -
   plate_number: 48
   name: 'Muğla'
   phone_code: 252
+  latitude: 37.2154
+  longitude: 28.3634
   metropolitan_municipality_since: 2012
   region: 'Ege'
+  has_sea_access: true
   districts: ['Bodrum', 'Dalaman', 'Datça', 'Fethiye', 'Kavaklıdere', 'Köyceğiz', 'Marmaris', 'Menteşe', 'Milas',
     'Ortaca', 'Seydikemer', 'Ula', 'Yatağan']
 -
   plate_number: 49
   name: 'Muş'
   phone_code: 436
+  latitude: 38.7346
+  longitude: 41.4910
   metropolitan_municipality_since: null
   region: 'Doğu Anadolu'
+  has_sea_access: false
   districts: ['Bulanık', 'Hasköy', 'Korkut', 'Malazgirt', 'Merkez', 'Varto']
 -
   plate_number: 50
   name: 'Nevşehir'
   phone_code: 384
+  latitude: 38.6247
+  longitude: 34.7142
   metropolitan_municipality_since: null
   region: 'İç Anadolu'
+  has_sea_access: false
   districts: ['Acıgöl', 'Avanos', 'Derinkuyu', 'Gülşehir', 'Hacıbektaş', 'Kozaklı', 'Merkez', 'Ürgüp']
 -
   plate_number: 51
   name: 'Niğde'
   phone_code: 388
+  latitude: 37.9698
+  longitude: 34.6766
   metropolitan_municipality_since: null
   region: 'İç Anadolu'
+  has_sea_access: false
   districts: ['Altunhisar', 'Bor', 'Çamardı', 'Çiftlik', 'Merkez', 'Ulukışla']
 -
   plate_number: 52
   name: 'Ordu'
   phone_code: 452
+  latitude: 40.9862
+  longitude: 37.8797
   metropolitan_municipality_since: 2012
   region: 'Karadeniz'
+  has_sea_access: true
   districts: ['Akkuş', 'Altınordu', 'Aybastı', 'Çamaş', 'Çatalpınar', 'Çaybaşı', 'Fatsa', 'Gölköy', 'Gülyalı',
     'Gürgentepe', 'İkizce', 'Kabadüz', 'Kabataş', 'Korgan', 'Kumru', 'Mesudiye', 'Perşembe', 'Ulubey', 'Ünye']
 -
   plate_number: 53
   name: 'Rize'
   phone_code: 464
+  latitude: 41.0255
+  longitude: 40.5177
   metropolitan_municipality_since: null
   region: 'Karadeniz'
+  has_sea_access: true
   districts: ['Ardeşen', 'Çamlıhemşin', 'Çayeli', 'Derepazarı', 'Fındıklı', 'Güneysu', 'Hemşin', 'İkizdere', 'İyidere',
     'Kalkandere', 'Merkez', 'Pazar']
 -
   plate_number: 54
   name: 'Sakarya'
   phone_code: 264
+  latitude: 40.7889
+  longitude: 30.4060
   metropolitan_municipality_since: 2000
   region: 'Marmara'
+  has_sea_access: true
   districts: ['Adapazarı', 'Akyazı', 'Arifiye', 'Erenler', 'Ferizli', 'Geyve', 'Hendek', 'Karapürçek', 'Karasu',
     'Kaynarca', 'Kocaali', 'Pamukova', 'Sapanca', 'Serdivan', 'Söğütlü', 'Taraklı']
 -
   plate_number: 55
   name: 'Samsun'
   phone_code: 362
+  latitude: 41.2797
+  longitude: 36.3361
   metropolitan_municipality_since: 1993
   region: 'Karadeniz'
+  has_sea_access: true
   districts: ['19 Mayıs', 'Alaçam', 'Asarcık', 'Atakum', 'Ayvacık', 'Bafra', 'Canik', 'Çarşamba', 'Havza', 'İlkadım', 'Kavak',
     'Ladik', 'Salıpazarı', 'Tekkeköy', 'Terme', 'Vezirköprü', 'Yakakent']
 -
   plate_number: 56
   name: 'Siirt'
   phone_code: 484
+  latitude: 37.9274
+  longitude: 41.9420
   metropolitan_municipality_since: null
   region: 'Güneydoğu Anadolu'
+  has_sea_access: false
   districts: ['Baykan', 'Eruh', 'Kurtalan', 'Merkez', 'Pervari', 'Şirvan', 'Tillo']
 -
   plate_number: 57
   name: 'Sinop'
   phone_code: 368
+  latitude: 42.0280
+  longitude: 35.1517
   metropolitan_municipality_since: null
   region: 'Karadeniz'
+  has_sea_access: true
   districts: ['Ayancık', 'Boyabat', 'Dikmen', 'Durağan', 'Erfelek', 'Gerze', 'Merkez', 'Saraydüzü', 'Türkeli']
 -
   plate_number: 58
   name: 'Sivas'
   phone_code: 346
+  latitude: 39.7505
+  longitude: 37.0150
   metropolitan_municipality_since: null
   region: 'İç Anadolu'
+  has_sea_access: false
   districts: ['Akıncılar', 'Altınyayla', 'Divriği', 'Doğanşar', 'Gemerek', 'Gölova', 'Gürün', 'Hafik', 'İmranlı',
     'Kangal', 'Koyulhisar', 'Merkez', 'Suşehri', 'Şarkışla', 'Ulaş', 'Yıldızeli', 'Zara']
 -
   plate_number: 59
   name: 'Tekirdağ'
   phone_code: 282
+  latitude: 40.9781
+  longitude: 27.5117
   metropolitan_municipality_since: 2012
   region: 'Marmara'
+  has_sea_access: true
   districts: ['Çerkezköy', 'Çorlu', 'Ergene', 'Hayrabolu', 'Kapaklı', 'Malkara', 'Marmaraereğlisi', 'Muratlı', 'Saray',
     'Süleymanpaşa', 'Şarköy']
 -
   plate_number: 60
   name: 'Tokat'
   phone_code: 356
+  latitude: 40.3235
+  longitude: 36.5522
   metropolitan_municipality_since: null
   region: 'Karadeniz'
+  has_sea_access: false
   districts: ['Almus', 'Artova', 'Başçiftlik', 'Erbaa', 'Merkez', 'Niksar', 'Pazar', 'Reşadiye', 'Sulusaray', 'Turhal',
     'Yeşilyurt', 'Zile']
 -
   plate_number: 61
   name: 'Trabzon'
   phone_code: 462
+  latitude: 41.0027
+  longitude: 39.7168
   metropolitan_municipality_since: 2012
   region: 'Karadeniz'
+  has_sea_access: true
   districts: ['Akçaabat', 'Araklı', 'Arsin', 'Beşikdüzü', 'Çarşıbaşı', 'Çaykara', 'Dernekpazarı', 'Düzköy', 'Hayrat',
     'Köprübaşı', 'Maçka', 'Of', 'Ortahisar', 'Sürmene', 'Şalpazarı', 'Tonya', 'Vakfıkebir', 'Yomra']
 -
   plate_number: 62
   name: 'Tunceli'
   phone_code: 428
+  latitude: 39.1062
+  longitude: 39.5483
   metropolitan_municipality_since: null
   region: 'Doğu Anadolu'
+  has_sea_access: false
   districts: ['Çemişgezek', 'Hozat', 'Mazgirt', 'Merkez', 'Nazımiye', 'Ovacık', 'Pertek', 'Pülümür']
 -
   plate_number: 63
   name: 'Şanlıurfa'
   phone_code: 414
+  latitude: 37.1674
+  longitude: 38.7955
   metropolitan_municipality_since: 2012
   region: 'Güneydoğu Anadolu'
+  has_sea_access: false
   districts: ['Akçakale', 'Birecik', 'Bozova', 'Ceylanpınar', 'Eyyübiye', 'Halfeti', 'Haliliye', 'Harran', 'Hilvan',
     'Karaköprü', 'Siverek', 'Suruç', 'Viranşehir']
 -
   plate_number: 64
   name: 'Uşak'
   phone_code: 276
+  latitude: 38.6742
+  longitude: 29.4059
   metropolitan_municipality_since: null
   region: 'Ege'
+  has_sea_access: false
   districts: ['Banaz', 'Eşme', 'Karahallı', 'Merkez', 'Sivaslı', 'Ulubey']
 -
   plate_number: 65
   name: 'Van'
   phone_code: 432
+  latitude: 38.5012
+  longitude: 43.3730
   metropolitan_municipality_since: 2012
   region: 'Doğu Anadolu'
+  has_sea_access: false
   districts: ['Bahçesaray', 'Başkale', 'Çaldıran', 'Çatak', 'Edremit', 'Erciş', 'Gevaş', 'Gürpınar', 'İpekyolu',
     'Muradiye', 'Özalp', 'Saray', 'Tuşba']
 -
   plate_number: 66
   name: 'Yozgat'
   phone_code: 354
+  latitude: 39.8210
+  longitude: 34.8086
   metropolitan_municipality_since: null
   region: 'İç Anadolu'
+  has_sea_access: false
   districts: ['Akdağmadeni', 'Aydıncık', 'Boğazlıyan', 'Çandır', 'Çayıralan', 'Çekerek', 'Kadışehri', 'Merkez',
     'Saraykent', 'Sarıkaya', 'Sorgun', 'Şefaatli', 'Yenifakılı', 'Yerköy']
 -
   plate_number: 67
   name: 'Zonguldak'
   phone_code: 372
+  latitude: 41.4535
+  longitude: 31.7894
   metropolitan_municipality_since: null
   region: 'Karadeniz'
+  has_sea_access: true
   districts: ['Alaplı', 'Çaycuma', 'Devrek', 'Ereğli', 'Gökçebey', 'Kilimli', 'Kozlu', 'Merkez']
 -
   plate_number: 68
   name: 'Aksaray'
   phone_code: 382
+  latitude: 38.3686
+  longitude: 34.0297
   metropolitan_municipality_since: null
   region: 'İç Anadolu'
+  has_sea_access: false
   districts: ['Ağaçören', 'Eskil', 'Gülağaç', 'Güzelyurt', 'Merkez', 'Ortaköy', 'Sarıyahşi', 'Sultanhanı']
 -
   plate_number: 69
   name: 'Bayburt'
   phone_code: 458
+  latitude: 40.2603
+  longitude: 40.2280
   metropolitan_municipality_since: null
   region: 'Karadeniz'
+  has_sea_access: false
   districts: ['Aydıntepe', 'Demirözü', 'Merkez']
 -
   plate_number: 70
   name: 'Karaman'
   phone_code: 338
+  latitude: 37.1810
+  longitude: 33.2222
   metropolitan_municipality_since: null
   region: 'İç Anadolu'
+  has_sea_access: false
   districts: ['Ayrancı', 'Başyayla', 'Ermenek', 'Kazımkarabekir', 'Merkez', 'Sarıveliler']
 -
   plate_number: 71
   name: 'Kırıkkale'
   phone_code: 318
+  latitude: 39.8398
+  longitude: 33.5089
   metropolitan_municipality_since: null
   region: 'İç Anadolu'
+  has_sea_access: false
   districts: ['Bahşılı', 'Balışeyh', 'Çelebi', 'Delice', 'Karakeçili', 'Keskin', 'Merkez', 'Sulakyurt', 'Yahşihan']
 -
   plate_number: 72
   name: 'Batman'
   phone_code: 488
+  latitude: 37.8895
+  longitude: 41.1293
   metropolitan_municipality_since: null
   region: 'Güneydoğu Anadolu'
+  has_sea_access: false
   districts: ['Beşiri', 'Gercüş', 'Hasankeyf', 'Kozluk', 'Merkez', 'Sason']
 -
   plate_number: 73
   name: 'Şırnak'
   phone_code: 486
+  latitude: 37.5190
+  longitude: 42.4537
   metropolitan_municipality_since: null
   region: 'Güneydoğu Anadolu'
+  has_sea_access: false
   districts: ['Beytüşşebap', 'Cizre', 'Güçlükonak', 'İdil', 'Merkez', 'Silopi', 'Uludere']
 -
   plate_number: 74
   name: 'Bartın'
   phone_code: 378
+  latitude: 41.6377
+  longitude: 32.3338
   metropolitan_municipality_since: null
   region: 'Karadeniz'
+  has_sea_access: true
   districts: ['Amasra', 'Kurucaşile', 'Merkez', 'Ulus']
 -
   plate_number: 75
   name: 'Ardahan'
   phone_code: 478
+  latitude: 41.1130
+  longitude: 42.7023
   metropolitan_municipality_since: null
   region: 'Doğu Anadolu'
+  has_sea_access: false
   districts: ['Çıldır', 'Damal', 'Göle', 'Hanak', 'Merkez', 'Posof']
 -
   plate_number: 76
   name: 'Iğdır'
   phone_code: 476
+  latitude: 39.9201
+  longitude: 44.0436
   metropolitan_municipality_since: null
   region: 'Doğu Anadolu'
+  has_sea_access: false
   districts: ['Aralık', 'Karakoyunlu', 'Merkez', 'Tuzluca']
 -
   plate_number: 77
   name: 'Yalova'
   phone_code: 226
+  latitude: 40.6549
+  longitude: 29.2842
   metropolitan_municipality_since: null
   region: 'Marmara'
+  has_sea_access: true
   districts: ['Altınova', 'Armutlu', 'Çınarcık', 'Çiftlikköy', 'Merkez', 'Termal']
 -
   plate_number: 78
   name: 'Karabük'
   phone_code: 370
+  latitude: 41.1956
+  longitude: 32.6227
   metropolitan_municipality_since: null
   region: 'Karadeniz'
+  has_sea_access: false
   districts: ['Eflani', 'Eskipazar', 'Merkez', 'Ovacık', 'Safranbolu', 'Yenice']
 -
   plate_number: 79
   name: 'Kilis'
   phone_code: 348
+  latitude: 36.7165
+  longitude: 37.1147
   metropolitan_municipality_since: null
   region: 'Güneydoğu Anadolu'
+  has_sea_access: false
   districts: ['Elbeyli', 'Merkez', 'Musabeyli', 'Polateli']
 -
   plate_number: 80
   name: 'Osmaniye'
   phone_code: 328
+  latitude: 37.0746
+  longitude: 36.2464
   metropolitan_municipality_since: null
   region: 'Akdeniz'
+  has_sea_access: false
   districts: ['Bahçe', 'Düziçi', 'Hasanbeyli', 'Kadirli', 'Merkez', 'Sumbas', 'Toprakkale']
 -
   plate_number: 81
   name: 'Düzce'
   phone_code: 380
+  latitude: 40.8387
+  longitude: 31.1626
   metropolitan_municipality_since: null
   region: 'Karadeniz'
+  has_sea_access: true
   districts: ['Akçakoca', 'Cumayeri', 'Çilimli', 'Gölyaka', 'Gümüşova', 'Kaynaşlı', 'Merkez', 'Yığılca']
-  

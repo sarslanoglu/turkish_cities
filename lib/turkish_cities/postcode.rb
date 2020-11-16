@@ -17,9 +17,7 @@ class Postcode
     city_file.each do |district|
       district_name = district[0]
       district[1].each do |subdistrict|
-        if subdistrict[1]['postcode'] == postcode.to_i
-          return [city_name, district_name, subdistrict[0]]
-        end
+        return [city_name, district_name, subdistrict[0]] if subdistrict[1]['postcode'] == postcode.to_i
       end
     end
     postcode_not_found_error(postcode)
