@@ -221,14 +221,14 @@ RSpec.describe TurkishCities do
 
   describe '#distance_between' do
     context 'when input is supported' do
-      it 'finds distance between two location' do
+      it 'finds air distance between two location' do
         very_short_distance_results = TurkishCities.distance_between('Bolu', 'Kastamonu', 'air')
         expect(very_short_distance_results[0]).to eq 195.4
         expect(very_short_distance_results[1]).to eq 49
         expect(very_short_distance_results[2])
           .to eq 'Air travel distance between Bolu and Kastamonu is 195.4 km. '\
             'Estimated air travel would take 49 minutes.'
-        short_distance_results = TurkishCities.distance_between('izmir', 'Antalya', 'air')
+        short_distance_results = TurkishCities.distance_between('İzmir', 'Antalya', 'air')
         expect(short_distance_results[0]).to eq 357.18
         expect(short_distance_results[1]).to eq 65
         expect(short_distance_results[2])
@@ -250,6 +250,11 @@ RSpec.describe TurkishCities do
     end
 
     context 'when input is not supported' do
+      it 'gives unsupported_travel_method_error' do
+        expect(TurkishCities.distance_between('Adana', 'Adıyaman', 'time'))
+          .to eq "Travel method 'time' is unsupported"
+      end
+
       it 'gives city_not_found_error' do
         expect(TurkishCities.distance_between('Adansa', 'Adıyaman', 'air'))
           .to eq "Couldn't find cities combination with 'Adansa/Adıyaman'"

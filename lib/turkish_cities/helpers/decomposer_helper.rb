@@ -97,4 +97,8 @@ module DecomposerHelper
 
     result[:metropolitan_municipality_since] = city['metropolitan_municipality_since']
   end
+
+  def unsupported_travel_method(input)
+    "Travel method '#{input}' is unsupported"
+  end
 end

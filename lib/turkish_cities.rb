@@ -31,8 +31,8 @@ class TurkishCities
     City.new.list_districts(city_name)
   end
 
-  def self.distance_between(from, to, travel_method = nil)
-    Distance.new.distance_between(from, to, travel_method)
+  def self.distance_between(from, to, travel_method)
+    Distance.new(from, to, travel_method).distance_between
   end
 
   def self.list_subdistricts(city_name, district_name)
