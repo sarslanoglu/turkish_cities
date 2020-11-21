@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
 
   s.date                  = '2020-04-13'
   s.summary               = 'List and find Turkish cities'
-  s.description           = 'Simple ruby gem for listing and finding Turkish cities via name, plate number or size'
+  s.description           = 'List and find Turkish cities via name, district name, post code, plate number. Calculate air travel distance between cities and get realistic estimates of travel time'
   s.homepage              = 'https://github.com/sarslanoglu/turkish_cities'
   s.license               = 'MIT'
 

@@ -26,9 +26,10 @@ class City
     check_phone_code(phone_code)
 
     CITY_LIST.each do |city|
-      if city['phone_code'].is_a?(Array)
+      case city['phone_code']
+      when Array
         return city['name'] if city['phone_code'].include?(phone_code.to_i)
-      elsif city['phone_code'] == phone_code.to_i
+      when phone_code.to_i
         return city['name']
       end
     end

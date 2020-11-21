@@ -25,6 +25,9 @@
     * [With subdistrict info](#with-subdistrict-info)
     * [Without subdistrict info](#without-subdistrict-info)
   * [Finding city, district and subdistrict name by postcode](#finding-city-district-and-subdistrict-name-by-postcode)
+  * [Finding travel distance and time estimation between two cities](#finding-travel-distance-and-time-estimation-between-two-cities)
+    * [By air](#by-air)
+* [Data sources](#data-sources)
 * [Compatibility](#compatibility)
 * [Contributing](#contributing)
 * [Changelog](#changelog)
@@ -242,6 +245,41 @@ TurkishCities.find_by_postcode(34382)    # => "Couldn't find any subdistrict wit
 TurkishCities.find_by_postcode('100000') # => Given value [100000] is outside bounds of 1010 to 81952.
 ```
 
+### Finding travel distance and time estimation between two cities
+
+### By air
+
+City names can be given case and turkish character insensitive. Travel method should be lower case. Array with 3 elements will be return. First element is distance between cities in kilometers, second element is estimated travel time and last element is description created by first two element.
+
+```rb
+TurkishCities.distance_between('Eskişehir', 'Kastamonu', 'air')
+# => [327.74, 62, "Air travel distance between Eskişehir and Kastamonu is 327.74 km. Estimated air travel would take 62 minutes."]
+TurkishCities.distance_between('kirsehir', 'Ordu', 'air')
+# => [376.89, 67, "Air travel distance between Kırşehir and Ordu is 376.89 km. Estimated air travel would take 67 minutes."]
+TurkishCities.distance_between('İzmir', 'Antalya', 'air')
+# => [357.18, 65, "Air travel distance between İzmir and Antalya is 357.18 km. Estimated air travel would take 65 minutes."]
+TurkishCities.distance_between('istanbul', 'kars', 'air')
+# => [1187.94, 120, "Air travel distance between İstanbul and Kars is 1187.94 km. Estimated air travel would take 120 minutes."]
+TurkishCities.distance_between('Adana', 'Adıyaman', 'time')
+# => "Travel method 'time' is unsupported"
+TurkishCities.distance_between('filansa', 'falansa', 'air')
+# => "Couldn't find cities combination with 'filansa/falansa'"
+```
+
+## Data sources
+
+All information related with cities can be found at:
+
+```
+https://tr.wikipedia.org/wiki/{#city_name_here}
+```
+
+Districts, subdisctricts, neighborhoods and postcodes can be found at:
+
+```
+https://postakodu.ptt.gov.tr/
+```
+
 ## Compatibility
 
 | Ruby Version | Supported          |
@@ -251,7 +289,7 @@ TurkishCities.find_by_postcode('100000') # => Given value [100000] is outside bo
 | 2.5.8        | :white_check_mark: |
 | < 2.5.1      | :x:                |
 
-- This gem heavily depends on ```:turkic``` case mapping support of Ruby string downcase method. Below Ruby version 2.5.1 some functions will run buggy/false or even won't run at all.
+- TurkishCities heavily depends on ```:turkic``` case mapping support of Ruby string downcase method. Below Ruby version 2.5.1 some functions will run buggy/false or even won't run at all.
 
 ## Contributing
 
@@ -260,6 +298,10 @@ Contributing guidelines are available [here](CONTRIBUTING.md).
 ## Changelog
 
 Changelog is available [here](CHANGELOG.md).
+
+## Logo
+
+TurkishCities's logo created by [Nebal Çolpan](https://www.behance.net/nebalcolpan)
 
 ## Copyright
 

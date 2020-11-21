@@ -11,6 +11,10 @@ module DecomposerHelper
     "Couldn't find city name with '#{input}'"
   end
 
+  def cities_not_found_error(first, second)
+    "Couldn't find cities combination with '#{first}/#{second}'"
+  end
+
   def convert_chars(string)
     I18n.transliterate(string.downcase(:turkic))
   end
@@ -92,5 +96,9 @@ module DecomposerHelper
     return unless options.dig(:with, :metropolitan_municipality_since) || options.dig(:with, :all)
 
     result[:metropolitan_municipality_since] = city['metropolitan_municipality_since']
+  end
+
+  def unsupported_travel_method(input)
+    "Travel method '#{input}' is unsupported"
   end
 end

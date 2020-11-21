@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require_relative '../lib/turkish_cities/city'
+require_relative '../lib/turkish_cities/distance'
 require_relative '../lib/turkish_cities/district'
 require_relative '../lib/turkish_cities/postcode'
 require_relative '../lib/turkish_cities/version'
@@ -28,6 +29,10 @@ class TurkishCities
 
   def self.list_districts(city_name)
     City.new.list_districts(city_name)
+  end
+
+  def self.distance_between(from, to, travel_method)
+    Distance.new(from, to, travel_method).distance_between
   end
 
   def self.list_subdistricts(city_name, district_name)
