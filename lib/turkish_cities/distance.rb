@@ -98,7 +98,7 @@ class Distance
   end
 
   def description_text(travel_method, city_array, result_set)
-    travel_method + ' travel distance between ' + city_array[0]['name'] + ' and ' + city_array[1]['name'] + ' is ' +
-      result_set[0].to_s + ' km. Estimated air travel would take ' + result_set[1].to_s + ' minutes.'
+    "#{travel_method} travel distance between #{city_array[0]['name']} and #{city_array[1]['name']} is " \
+      "#{result_set[0]} km. Estimated air travel would take #{result_set[1]} minutes."
   end
 end

@@ -43,7 +43,7 @@ module DecomposerHelper
   end
 
   def prepare_city_list(city_list, options)
-    if options.dig(:with)
+    if options[:with]
       city_list.map do |city|
         result = {}
         result[:name] = city['name']
@@ -65,7 +65,7 @@ module DecomposerHelper
   def sort_alphabetically(list, options = nil)
     turkish_alphabet = ' -0123456789abcçdefgğhıijklmnoöprsştuüvyz'
     list.sort_by do |item|
-      item_to_sort = if options.nil? || options.dig(:with).nil?
+      item_to_sort = if options.nil? || options[:with].nil?
                        item
                      else
                        item[:name]
