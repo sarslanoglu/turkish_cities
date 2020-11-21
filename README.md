@@ -1,13 +1,22 @@
-# 🏙️ Turkish Cities
-[![Gem Version](https://badge.fury.io/rb/turkish_cities.svg)](https://rubygems.org/gems/turkish_cities)
-[![Build Status](https://travis-ci.org/sarslanoglu/turkish_cities.svg?branch=master)](https://travis-ci.org/sarslanoglu/turkish_cities)
-[![Coverage Status](https://coveralls.io/repos/github/sarslanoglu/turkish_cities/badge.svg?branch=master)](https://coveralls.io/github/sarslanoglu/turkish_cities?branch=master)
-[![Maintainability](https://api.codeclimate.com/v1/badges/c1dbe0cef353b152956e/maintainability)](https://codeclimate.com/github/sarslanoglu/turkish_cities/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/c1dbe0cef353b152956e/test_coverage)](https://codeclimate.com/github/sarslanoglu/turkish_cities/test_coverage)
-[![Protected by Hound](https://img.shields.io/badge/Protected_by-Hound-a873d1.svg)](https://houndci.com)
-[![License](https://img.shields.io/github/license/sarslanoglu/turkish_cities.svg)](https://opensource.org/licenses/MIT)
+# ![TurkishCities](./public/assets/img/TurkishCities_yellow-on-darkblue_horizontal_914X343@3x-8.png)
 
-**turkish_cities** is a Ruby gem which makes searching and listing Turkish cities easy. https://rubygems.org/gems/turkish_cities
+<p align="center">
+    <a href="https://rubygems.org/gems/turkish_cities">
+        <img src="https://badge.fury.io/rb/turkish_cities.svg" alt="GemVersion"/></a>
+    <a href="https://travis-ci.org/sarslanoglu/turkish_cities">
+        <img src="https://travis-ci.org/sarslanoglu/turkish_cities.svg?branch=master" alt="BuildStatus"/></a>
+    <a href="https://coveralls.io/github/sarslanoglu/turkish_cities?branch=master">
+        <img src="https://coveralls.io/repos/github/sarslanoglu/turkish_cities/badge.svg?branch=master" alt="CoverageStatus"/></a>
+    <a href="https://codeclimate.com/github/sarslanoglu/turkish_cities/maintainability">
+        <img src="https://api.codeclimate.com/v1/badges/c1dbe0cef353b152956e/maintainability" alt="Maintainability"/></a>
+    <a href="https://houndci.com">
+        <img src="https://img.shields.io/badge/Protected_by-Hound-a873d1.svg" alt="Hound"/></a>
+    <a href="https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/github/license/sarslanoglu/turkish_cities.svg" alt="License"/></a>
+</p>
+
+**Turkish Cities** is a Ruby gem which makes listing and finding Turkish cities easy. Search can be via name, post code, plate number, district name etc. Also calculate your travel distance and travel time between cities via distance methods.
+https://rubygems.org/gems/turkish_cities
 
 ## Table of Contents
 * [Installation](#installation)
@@ -291,9 +300,25 @@ https://postakodu.ptt.gov.tr/
 
 - TurkishCities heavily depends on ```:turkic``` case mapping support of Ruby string downcase method. Below Ruby version 2.5.1 some functions will run buggy/false or even won't run at all.
 
+## Roadmap
+
+- Add missing land travel method
+- Add missing sea travel method
+- Add localization to gem
+- Refactor tests (seperate test suites with more edge case tests)
+
 ## Contributing
 
 Contributing guidelines are available [here](CONTRIBUTING.md).
+
+People behind the 💻
+<table>
+  <tr>
+    <td align="center"><a href="https://enderahmetyurt.com/"><img src="https://avatars2.githubusercontent.com/u/447588" width="100px;" alt=""/><br /><sub><b>Ender Ahmet Yurt</b></sub></a><br /></td>
+    <td align="center"><a href="https://www.linkedin.com/in/serpilacar/"><img src="https://avatars0.githubusercontent.com/u/17191440" width="100px;" alt=""/><br /><sub><b>Serpil Acar</b></sub></a><br /></td>
+    <td align="center"><a href="https://www.linkedin.com/in/semiharslanoglu/"><img src="https://avatars2.githubusercontent.com/u/10260283" width="100px;" alt=""/><br /><sub><b>Semih Arslanoğlu</b></sub></a><br /></td>
+  </tr>
+</table>
 
 ## Changelog
 
@@ -301,7 +326,11 @@ Changelog is available [here](CHANGELOG.md).
 
 ## Logo
 
-TurkishCities's logo created by [Nebal Çolpan](https://www.behance.net/nebalcolpan)
+TurkishCities's logo created by [Nebal Çolpan](https://www.behance.net/nebalcolpan). You can find the logo in various
+formats [here](https://github.com/sarslanoglu/turkish_cities/tree/master/public/assets/img/).
+
+The logo is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/deed.en_GB).
 
 ## Copyright
 
