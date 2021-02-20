@@ -35,6 +35,7 @@ https://rubygems.org/gems/turkish_cities
     * [Without subdistrict info](#without-subdistrict-info)
   * [Finding city, district and subdistrict name by postcode](#finding-city-district-and-subdistrict-name-by-postcode)
   * [Finding travel distance and time estimation between two cities](#finding-travel-distance-and-time-estimation-between-two-cities)
+    * [By land](#by-land)
     * [By air](#by-air)
 * [Data sources](#data-sources)
 * [Compatibility](#compatibility)
@@ -85,7 +86,7 @@ TurkishCities.find_name_by_plate_number(100)  # => 'Given value [100] is outside
 
 ### Finding city name by phone code
 
-There are 81 cities in Turkey. By calling a phone code between 212-488 will give city_name. All phone codes are even sending odd number will give error without searching.
+There are 82 phone codes for each city in Turkey (Istanbul is an exception with different phone codes for Anatolian side and European side). By calling a phone code between 212-488 will give city_name. All phone codes ending with even numbers. So sending an odd number will give an error without searching.
 
 ```rb
 TurkishCities.find_name_by_phone_code(312)    # => "Ankara"
@@ -135,7 +136,7 @@ TurkishCities.list_cities # => ["Adana", "Adıyaman" ... "Kilis", "Osmaniye", "D
 
 ### Listing all cities with only name
 
-While listing cities three additional parameters can be send ```alphabetically_sorted```, ```metropolitan_municipality``` and ```region```. All parameters can be send seperately and together.
+While listing cities three additional parameters can be sent ```alphabetically_sorted```, ```metropolitan_municipality``` and ```region```. All parameters can be sent separately and together.
 
 ```rb
 TurkishCities.list_cities({ alphabetically_sorted: true })
@@ -154,7 +155,7 @@ TurkishCities.list_cities({ alphabetically_sorted: true, metropolitan_municipali
 
 ### Listing all cities with other parameters
 
-While listing cities ```with``` parameter can be used for listing cities with other attributes. These parameters are ```alphabetically_sorted```, ```metropolitan_municipality``` and ```region```. All parameters can be send seperately and together.
+While listing cities ```with``` parameter can be used for listing cities with other attributes. These parameters are ```alphabetically_sorted```, ```metropolitan_municipality``` and ```region```. All parameters can be sent separately and together.
 
 ```rb
 TurkishCities.list_cities({ alphabetically_sorted: true, with: { phone_code: true } })
@@ -210,7 +211,7 @@ TurkishCities.list_subdistricts('İstanbul', 'Kadılarköyü')
 
 ### With subdistrict info
 
-City name can be given case and turkish character insensitive. District name and subdistrict name should be case and turkish character sensitive.(Correct district names can be obtained by ```list_districts``` method. Correct subdistrict names can be obtained by ```list_subdistricts``` method.) Listing of neighborhoods are alphabetically sorted.
+City name can be given case and turkish character insensitive. District name and subdistrict name should be case and turkish character sensitive.(Correct district names can be obtained by the ```list_districts``` method. Correct subdistrict names can be obtained by ```list_subdistricts``` method.) Listings of neighborhoods are alphabetically sorted.
 
 ```rb
 TurkishCities.list_neighborhoods('Adana', 'Seyhan', 'Emek')
@@ -229,7 +230,7 @@ TurkishCities.list_neighborhoods('Eskişehir', 'Odunpazarı', 'Büyükkkkkdere')
 
 Also ```list_neighborhoods``` can work without subdistrict information. This time neighborhoods result will be larger based on searched city and district.
 
-City name can be given case and turkish character insensitive. District name should be case and turkish character sensitive.(Correct district names can be obtained by ```list_districts``` method.) Listing of neighborhoods are alphabetically sorted.
+City name can be given case and turkish character insensitive. District name should be case and turkish character sensitive.(Correct district names can be obtained by the ```list_districts``` method.) Listings of neighborhoods are alphabetically sorted.
 
 ```rb
 TurkishCities.list_neighborhoods('Adana', 'Seyhan')
@@ -256,9 +257,28 @@ TurkishCities.find_by_postcode('100000') # => Given value [100000] is outside bo
 
 ### Finding travel distance and time estimation between two cities
 
+### By land
+
+City names can be given case and turkish character insensitive. Travel method should be lower case. Array with 2 elements will be returned. First element is distance between cities in kilometers and the second element is the description created by the first element.
+
+```rb
+TurkishCities.distance_between('Eskişehir', 'Kastamonu', 'land')
+# => [480, "Land travel distance between Eskişehir and Kastamonu is 480 km."]
+TurkishCities.distance_between('kirsehir', 'Ordu', 'land')
+# => [533, "Land travel distance between Kırşehir and Ordu is 533 km."]
+TurkishCities.distance_between('İzmir', 'Antalya', 'land')
+# => [444, "Land travel distance between İzmir and Antalya is 444 km."]
+TurkishCities.distance_between('istanbul', 'kars', 'land')
+# => [1427, "Land travel distance between İstanbul and Kars is 1427 km."]
+TurkishCities.distance_between('Adana', 'Adıyaman', 'time')
+# => "Travel method 'time' is unsupported"
+TurkishCities.distance_between('filansa', 'falansa', 'land')
+# => "Couldn't find cities combination with 'filansa/falansa'"
+```
+
 ### By air
 
-City names can be given case and turkish character insensitive. Travel method should be lower case. Array with 3 elements will be return. First element is distance between cities in kilometers, second element is estimated travel time and last element is description created by first two element.
+City names can be given case and turkish character insensitive. Travel method should be lower case. Array with 3 elements will be returned. First element is distance between cities in kilometers, the second element is estimated travel time and the last element is the description created by the first two elements.
 
 ```rb
 TurkishCities.distance_between('Eskişehir', 'Kastamonu', 'air')
@@ -289,6 +309,12 @@ Districts, subdisctricts, neighborhoods and postcodes can be found at:
 https://postakodu.ptt.gov.tr/
 ```
 
+Land distance information can be found at:
+
+```
+https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Root/Uzakliklar/ilmesafe.xls
+```
+
 ## Compatibility
 
 | Ruby Version | Supported          |
@@ -302,10 +328,9 @@ https://postakodu.ptt.gov.tr/
 
 ## Roadmap
 
-- Add missing land travel method
 - Add missing sea travel method
 - Add localization to gem
-- Refactor tests (seperate test suites with more edge case tests)
+- Refactor tests (separate test suites with more edge case tests)
 
 ## Contributing
 

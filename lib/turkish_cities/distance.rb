@@ -34,7 +34,16 @@ class Distance
   private
 
   def distance_between_land
-    # TODO
+    city_array = find_city_attributes
+    case city_array
+    when String
+      city_array
+    when Array
+      results = []
+      results[0] = calculate_land_distance(city_array)
+      results[1] = description_text('Land', city_array, results)
+      results
+    end
   end
 
   def distance_between_sea
@@ -65,6 +74,19 @@ class Distance
 
     from_city.nil? || to_city.nil? ? cities_not_found_error(@from, @to) : [from_city, to_city]
   end
+
+  # rubocop:disable Metrics/AbcSize
+  def calculate_land_distance(city_array)
+    # Distance information between cities are kept in yaml files in a plate number order
+    # For example if distance between plate number 10 with plate number 3
+    # Order should be 3 to 10 not 10 to 3
+    if city_array[0]['plate_number'] > city_array[1]['plate_number']
+      return city_array[1]['land_distance'][city_array[0]['plate_number'] - city_array[1]['plate_number'] - 1]
+    end
+
+    city_array[0]['land_distance'][city_array[1]['plate_number'] - city_array[0]['plate_number'] - 1]
+  end
+  # rubocop:enable Metrics/AbcSize
 
   def degree_to_radian(degree)
     degree * Math::PI / 180
@@ -98,7 +120,12 @@ class Distance
   end
 
   def description_text(travel_method, city_array, result_set)
+    if travel_method == 'Air'
+      return "#{travel_method} travel distance between #{city_array[0]['name']} and #{city_array[1]['name']} is " \
+        "#{result_set[0]} km. Estimated air travel would take #{result_set[1]} minutes."
+    end
+
     "#{travel_method} travel distance between #{city_array[0]['name']} and #{city_array[1]['name']} is " \
-      "#{result_set[0]} km. Estimated air travel would take #{result_set[1]} minutes."
+        "#{result_set[0]} km."
   end
 end

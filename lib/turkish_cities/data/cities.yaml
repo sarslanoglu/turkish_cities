@@ -9,6 +9,10 @@
   has_sea_access: true
   districts: ['Aladağ', 'Ceyhan', 'Çukurova', 'Feke', 'İmamoğlu', 'Karaisalı', 'Karataş', 'Kozan', 'Pozantı',
     'Saimbeyli', 'Sarıçam', 'Seyhan', 'Tufanbeyli', 'Yumurtalık', 'Yüreğir']
+  land_distance: [335, 575, 966, 603, 492, 535, 1035, 874, 903, 773, 636, 732, 690, 657, 842, 1101, 577, 581, 755,
+    525, 1178, 494, 670, 809, 690, 212, 720, 778, 898, 191, 617, 69, 948, 901, 1012, 683, 335, 1159, 377, 837, 358,
+    675, 396, 885, 192, 537, 846, 743, 289, 207, 707, 919, 800, 720, 707, 847, 422, 1079, 491, 844, 628, 349, 690,
+    893, 489, 765, 267, 800, 292, 477, 621, 709, 782, 1042, 1069, 899, 714, 246, 87, 735]
 -
   plate_number: 2
   name: 'Adıyaman'
@@ -19,6 +23,10 @@
   region: 'Güneydoğu Anadolu'
   has_sea_access: false
   districts: ['Besni', 'Çelikhan', 'Gerger', 'Gölbaşı', 'Kahta', 'Merkez', 'Samsat', 'Sincik', 'Tut']
+  land_distance: [910, 648, 632, 742, 870, 751, 1209, 1238, 1045, 348, 414, 936, 992, 1114, 1385, 771, 696, 1090, 207,
+    1428, 285, 550, 525, 962, 150, 710, 683, 660, 316, 952, 404, 1198, 1236, 728, 877, 424, 1409, 558, 1087, 693,
+    1010, 187, 1220, 163, 299, 1181, 459, 505, 542, 726, 784, 1050, 749, 389, 890, 412, 1329, 520, 783, 419, 112,
+    1025, 575, 621, 1011, 580, 650, 627, 671, 303, 471, 1028, 758, 751, 1152, 960, 210, 248, 981]
 -
   plate_number: 3
   name: 'Afyon'
@@ -30,6 +38,10 @@
   has_sea_access: false
   districts: ['Başmakçı', 'Bayat', 'Bolvadin', 'Çay', 'Çobanlar', 'Dazkırı', 'Dinar', 'Emirdağ', 'Evciler', 'Hocalar',
     'İhsaniye', 'İscehisar', 'Kızılören', 'Merkez', 'Sandıklı', 'Sinanpaşa', 'Sultandağı', 'Şuhut']
+  land_distance: [1318, 597, 256, 291, 1243, 345, 328, 212, 1095, 1285, 420, 169, 277, 526, 397, 505, 222, 1100, 684,
+    953, 948, 1138, 144, 787, 871, 1015, 1473, 766, 168, 565, 454, 326, 1338, 503, 521, 665, 426, 343, 223, 100, 855,
+    310, 767, 1112, 367, 1202, 440, 459, 827, 1082, 306, 677, 1282, 675, 703, 585, 643, 1007, 1079, 924, 115, 1418,
+    479, 488, 365, 1037, 336, 339, 1196, 1284, 515, 1351, 1429, 338, 447, 821, 662, 375]
 -
   plate_number: 4
   name: 'Ağrı'
@@ -40,6 +52,10 @@
   region: 'Doğu Anadolu'
   has_sea_access: false
   districts: ['Diyadin', 'Doğubayazıt', 'Eleşkirt', 'Hamur', 'Merkez', 'Patnos', 'Taşlıçay', 'Tutak']
+  land_distance: [736, 1054, 1428, 396, 1640, 1567, 1358, 356, 234, 1145, 1423, 1416, 1687, 984, 828, 1517, 441, 1637,
+    496, 370, 183, 1295, 754, 545, 383, 425, 947, 1373, 1035, 1407, 1640, 214, 990, 812, 1618, 942, 1296, 1114, 1373,
+    592, 1624, 811, 519, 1662, 245, 891, 938, 589, 439, 1259, 739, 330, 894, 618, 1538, 675, 476, 423, 617, 1429, 228,
+    842, 1204, 966, 305, 1114, 979, 369, 430, 1173, 308, 143, 1361, 1104, 814, 879, 1190]
 -
   plate_number: 5
   name: 'Amasya'
@@ -50,6 +66,10 @@
   region: 'Karadeniz'
   has_sea_access: false
   districts: ['Göynücek', 'Gümüşhacıköy', 'Hamamözü', 'Merkez', 'Merzifon', 'Suluova', 'Taşova']
+  land_distance: [333, 825, 693, 938, 831, 622, 641, 831, 409, 762, 680, 951, 248, 92, 815, 696, 901, 543, 366, 556,
+    574, 584, 321, 433, 1131, 681, 719, 639, 671, 919, 756, 254, 346, 882, 312, 560, 511, 652, 463, 903, 508, 792, 960,
+    748, 361, 439, 277, 532, 523, 131, 882, 258, 220, 802, 114, 457, 497, 716, 708, 964, 200, 468, 422, 455, 615, 258,
+    796, 982, 437, 781, 847, 625, 368, 644, 613, 454]
 -
   plate_number: 6
   name: 'Ankara'
@@ -62,6 +82,10 @@
   districts: ['Akyurt', 'Altındağ', 'Ayaş', 'Bala', 'Beypazarı', 'Çamlıdere', 'Çankaya', 'Çubuk', 'Elmadağ',
     'Etimesgut', 'Evren', 'Gölbaşı', 'Güdül', 'Haymana', 'Kahramankazan', 'Kalecik', 'Keçiören', 'Kızılcahamam',
     'Mamak', 'Nallıhan', 'Polatlı', 'Pursaklar', 'Sincan', 'Şereflikoçhisar', 'Yenimahalle']
+  land_distance: [543, 979, 597, 536, 316, 892, 1082, 191, 421, 385, 656, 130, 241, 474, 901, 683, 750, 684, 874, 233,
+    655, 607, 751, 1341, 683, 420, 485, 453, 578, 1074, 236, 318, 664, 184, 342, 258, 311, 652, 562, 579, 980, 619,
+    999, 275, 347, 563, 818, 305, 413, 1087, 408, 439, 584, 379, 743, 815, 792, 367, 1215, 215, 266, 225, 773, 369, 75,
+    1001, 1152, 283, 1087, 1165, 407, 215, 715, 579, 236]
 -
   plate_number: 7
   name: 'Antalya'
@@ -73,6 +97,10 @@
   has_sea_access: true
   districts: ['Akseki', 'Aksu', 'Alanya', 'Demre', 'Döşemealtı', 'Elmalı', 'Finike', 'Gazipaşa', 'Gündoğmuş', 'İbradı',
     'Kaş', 'Kemer', 'Kepez', 'Konyaaltı', 'Korkuteli', 'Kumluca', 'Manavgat', 'Muratpaşa', 'Serik']
+  land_distance: [1466, 339, 507, 475, 1171, 1267, 683, 122, 540, 702, 667, 733, 220, 1060, 910, 1029, 1058, 1248, 423,
+    747, 1099, 1166, 1433, 726, 130, 466, 717, 444, 1448, 773, 618, 927, 572, 606, 322, 363, 931, 428, 727, 1072, 311,
+    1278, 537, 544, 1055, 1307, 569, 905, 1242, 945, 810, 848, 871, 1232, 1163, 884, 294, 1428, 684, 751, 462, 1188,
+    374, 567, 1156, 1244, 802, 1473, 1539, 601, 734, 781, 622, 638]
 -
   plate_number: 8
   name: 'Artvin'
@@ -83,6 +111,10 @@
   region: 'Karadeniz'
   has_sea_access: true
   districts: ['Ardanuç', 'Arhavi', 'Borçka', 'Hopa', 'Kemalpaşa', 'Merkez', 'Murgul', 'Şavşat', 'Yusufeli']
+  land_distance: [1584, 1460, 1251, 403, 562, 1038, 1408, 1309, 1580, 894, 738, 1461, 544, 1530, 543, 408, 226, 1220,
+    857, 372, 336, 761, 1016, 1365, 1104, 1300, 1565, 207, 856, 850, 1511, 949, 1189, 1152, 1298, 639, 1549, 863, 640,
+    1606, 479, 929, 976, 416, 161, 1152, 566, 658, 721, 656, 1431, 632, 236, 461, 720, 1354, 564, 837, 1070, 1004, 343,
+    1152, 904, 597, 758, 1039, 116, 341, 1254, 970, 917, 948, 1083]
 -
   plate_number: 9
   name: 'Aydın'
@@ -94,6 +126,10 @@
   has_sea_access: true
   districts: ['Bozdoğan', 'Buharkent', 'Çine', 'Didim', 'Efeler', 'Germencik', 'İncirliova', 'Karacasu', 'Karpuzlu',
     'Koçarlı', 'Köşk', 'Kuşadası', 'Kuyucak', 'Nazilli', 'Söke', 'Sultanhisar', 'Yenipazar']
+  land_distance: [296, 520, 1404, 1594, 716, 269, 445, 451, 738, 846, 126, 1399, 659, 1262, 1270, 1460, 477, 1086,
+    1212, 1356, 1772, 1065, 288, 805, 684, 126, 1660, 844, 830, 676, 767, 573, 532, 408, 1164, 155, 1066, 1411, 99,
+    1511, 749, 768, 1168, 1423, 602, 1018, 1581, 1016, 1022, 630, 984, 1348, 1396, 1223, 273, 1727, 820, 784, 674,
+    1378, 641, 680, 1495, 1583, 856, 1685, 1751, 510, 788, 1120, 961, 671]
 -
   plate_number: 10
   name: 'Balıkesir'
@@ -106,6 +142,10 @@
   districts: ['Altıeylül', 'Ayvalık', 'Balya', 'Bandırma', 'Bigadiç', 'Burhaniye', 'Dursunbey', 'Edremit', 'Erdek',
     'Gömeç', 'Gönen', 'Havran', 'İvrindi', 'Karesi', 'Kepsut', 'Manyas', 'Marmara', 'Savaştepe', 'Sındırgı',
     'Susurluk']
+  land_distance: [245, 1414, 1604, 422, 395, 151, 198, 655, 774, 287, 1423, 406, 1272, 1197, 1387, 303, 1115, 1088,
+    1250, 1801, 1094, 394, 893, 390, 176, 1587, 667, 840, 423, 706, 279, 551, 228, 1174, 141, 1095, 1440, 394, 1521,
+    768, 787, 1044, 1299, 308, 894, 1609, 839, 983, 377, 923, 1224, 1328, 1252, 223, 1737, 759, 490, 693, 1286, 664,
+    619, 1523, 1612, 577, 1568, 1678, 216, 556, 1149, 990, 377]
 -
   plate_number: 11
   name: 'Bilecik'
@@ -116,6 +156,10 @@
   region: 'Marmara'
   has_sea_access: false
   districts: ['Bozüyük', 'Gölpazarı', 'İnhisar', 'Merkez', 'Osmaneli', 'Pazaryeri', 'Söğüt', 'Yenipazar']
+  land_distance: [1194, 1384, 213, 353, 94, 365, 446, 565, 397, 1203, 477, 1052, 988, 1178, 83, 957, 879, 1041, 1643,
+    964, 352, 763, 247, 419, 1378, 458, 620, 458, 486, 136, 421, 112, 954, 384, 881, 1282, 542, 1301, 577, 648, 835,
+    1090, 99, 685, 1389, 630, 763, 378, 703, 1015, 1119, 1094, 251, 1517, 539, 281, 526, 1077, 534, 399, 1303, 1454,
+    368, 1359, 1469, 126, 347, 1017, 860, 168]
 -
   plate_number: 12
   name: 'Bingöl'
@@ -126,6 +170,10 @@
   region: 'Doğu Anadolu'
   has_sea_access: false
   districts: ['Adaklı', 'Genç', 'Karlıova', 'Kiğı', 'Merkez', 'Solhan', 'Yayladere', 'Yedisu']
+  land_distance: [194, 1050, 1187, 1264, 1535, 889, 733, 1281, 141, 1542, 144, 275, 177, 1112, 454, 542, 380, 494, 617,
+    1137, 705, 1312, 1421, 380, 895, 574, 1523, 708, 1201, 878, 1190, 240, 1405, 464, 237, 1426, 111, 655, 702, 586,
+    436, 1164, 721, 280, 866, 467, 1443, 575, 473, 144, 317, 1210, 327, 691, 1109, 730, 302, 878, 821, 194, 380, 1078,
+    410, 471, 1266, 1009, 514, 549, 1095]
 -
   plate_number: 13
   name: 'Bitlis'
@@ -136,6 +184,10 @@
   region: 'Doğu Anadolu'
   has_sea_access: false
   districts: ['Adilcevaz', 'Ahlat', 'Güroymak', 'Hizan', 'Merkez', 'Mutki', 'Tatvan']
+  land_distance: [1240, 1377, 1454, 1725, 1079, 923, 1471, 207, 1732, 334, 465, 349, 1302, 520, 711, 549, 328, 713,
+    1327, 801, 1502, 1611, 432, 1085, 764, 1713, 898, 1391, 1068, 1380, 430, 1595, 577, 285, 1578, 83, 845, 892, 755,
+    605, 1354, 905, 96, 1056, 657, 1633, 765, 642, 334, 383, 1400, 161, 881, 1299, 920, 471, 1024, 1011, 135, 196,
+    1268, 494, 337, 1456, 1199, 580, 645, 1285]
 -
   plate_number: 14
   name: 'Bolu'
@@ -146,6 +198,10 @@
   region: 'Karadeniz'
   has_sea_access: false
   districts: ['Dörtdivan', 'Gerede', 'Göynük', 'Kıbrıscık', 'Mengen', 'Merkez', 'Mudurnu', 'Seben', 'Yeniçağa']
+  land_distance: [561, 271, 542, 233, 352, 605, 1095, 492, 944, 775, 965, 291, 849, 666, 828, 1535, 881, 560, 683, 262,
+    596, 1165, 245, 512, 473, 378, 151, 456, 320, 846, 561, 773, 1174, 750, 1157, 469, 545, 622, 877, 114, 472, 1281,
+    417, 629, 393, 523, 802, 906, 986, 459, 1373, 409, 157, 423, 864, 567, 269, 1195, 1346, 174, 1146, 1256, 216, 134,
+    909, 777, 45]
 -
   plate_number: 15
   name: 'Burdur'
@@ -157,6 +213,10 @@
   has_sea_access: false
   districts: ['Ağlasun', 'Altınyayla', 'Bucak', 'Çavdır', 'Çeltikçi', 'Gölhisar', 'Karamanlı', 'Kemer', 'Merkez',
     'Tefenni', 'Yeşilova']
+  land_distance: [418, 593, 562, 670, 150, 1182, 801, 1045, 1053, 1243, 301, 869, 1036, 1161, 1555, 848, 51, 588, 595,
+    374, 1443, 668, 613, 806, 566, 484, 314, 241, 947, 358, 849, 1194, 241, 1294, 532, 551, 992, 1247, 447, 842, 1364,
+    840, 805, 726, 808, 1172, 1179, 1006, 172, 1510, 644, 629, 457, 1183, 419, 504, 1278, 1366, 680, 1468, 1534, 479,
+    612, 903, 744, 516]
 -
   plate_number: 16
   name: 'Bursa'
@@ -168,6 +228,10 @@
   has_sea_access: true
   districts: ['Büyükorhan', 'Gemlik', 'Gürsu', 'Harmancık', 'İnegöl', 'İznik', 'Karacabey', 'Keles', 'Kestel',
     'Mudanya', 'Mustafakemalpaşa', 'Nilüfer', 'Orhaneli', 'Orhangazi', 'Osmangazi', 'Yenişehir', 'Yıldırım']
+  land_distance: [271, 504, 623, 436, 1272, 419, 1121, 1046, 1236, 152, 1026, 937, 1099, 1712, 1033, 417, 832, 243,
+    325, 1436, 516, 689, 436, 555, 132, 490, 177, 1023, 290, 950, 1351, 543, 1370, 646, 717, 893, 1148, 157, 743, 1458,
+    688, 832, 374, 772, 1073, 1177, 1163, 308, 1586, 608, 339, 595, 1135, 603, 468, 1372, 1523, 426, 1417, 1527, 69,
+    405, 1086, 929, 226]
 -
   plate_number: 17
   name: 'Çanakkale'
@@ -179,6 +243,10 @@
   has_sea_access: true
   districts: ['Ayvacık', 'Bayramiç', 'Biga', 'Bozcaada', 'Çan', 'Eceabat', 'Ezine', 'Gelibolu', 'Gökçeada', 'Lapseki',
     'Merkez', 'Yenice']
+  land_distance: [775, 894, 482, 1543, 216, 1392, 1317, 1507, 423, 1297, 1208, 1370, 1983, 1292, 592, 1091, 318, 327,
+    1707, 787, 960, 233, 826, 399, 749, 426, 1294, 330, 1221, 1622, 549, 1641, 917, 985, 1164, 1419, 428, 1014, 1729,
+    959, 1103, 187, 1043, 1344, 1448, 1434, 421, 1857, 879, 610, 866, 1406, 862, 739, 1643, 1794, 697, 1688, 1798, 336,
+    676, 1347, 1188, 497]
 -
   plate_number: 18
   name: 'Çankırı'
@@ -190,6 +258,9 @@
   has_sea_access: false
   districts: ['Atkaracalar', 'Bayramören', 'Çerkeş', 'Eldivan', 'Ilgaz', 'Kızılırmak', 'Korgun', 'Kurşunlu', 'Merkez',
     'Orta', 'Şabanözü', 'Yapraklı']
+  land_distance: [156, 615, 916, 725, 763, 614, 804, 374, 684, 522, 681, 1370, 768, 561, 570, 495, 719, 1004, 106, 347,
+    706, 213, 384, 353, 452, 681, 703, 608, 1009, 760, 996, 304, 386, 478, 733, 347, 328, 1102, 278, 440, 626, 334,
+    658, 745, 821, 508, 1212, 244, 293, 310, 703, 464, 104, 1016, 1181, 282, 1002, 1095, 449, 193, 744, 664, 278]
 -
   plate_number: 19
   name: 'Çorum'
@@ -201,6 +272,9 @@
   has_sea_access: false
   districts: ['Alaca', 'Bayat', 'Boğazkale', 'Dodurga', 'İskilip', 'Kargı', 'Laçin', 'Mecitözü', 'Merkez', 'Oğuzlar',
     'Ortaköy', 'Osmancık', 'Sungurlu', 'Uğurludağ']
+  land_distance: [723, 760, 844, 607, 458, 648, 482, 618, 366, 525, 1223, 715, 627, 574, 614, 827, 848, 197, 281, 825,
+    220, 503, 419, 560, 527, 811, 542, 856, 868, 840, 296, 374, 322, 577, 466, 172, 946, 266, 284, 745, 178, 502, 589,
+    755, 616, 1056, 108, 411, 330, 547, 530, 166, 860, 1046, 380, 846, 939, 568, 311, 678, 647, 397]
 -
   plate_number: 20
   name: 'Denizli'
@@ -212,6 +286,9 @@
   has_sea_access: false
   districts: ['Acıpayam', 'Babadağ', 'Baklan', 'Bekilli', 'Beyağaç', 'Bozkurt', 'Buldan', 'Çal', 'Çameli', 'Çardak',
     'Çivril', 'Güney', 'Honaz', 'Kale', 'Merkezefendi', 'Pamukkale', 'Sarayköy', 'Serinhisar', 'Tavas']
+  land_distance: [1280, 690, 1139, 1147, 1337, 354, 967, 1089, 1233, 1653, 946, 165, 686, 639, 224, 1537, 721, 707,
+    707, 644, 528, 409, 285, 1041, 208, 947, 1292, 145, 1388, 626, 645, 1045, 1300, 491, 895, 1462, 893, 899, 661, 861,
+    1225, 1273, 1104, 150, 1604, 697, 673, 551, 1255, 518, 557, 1376, 1464, 733, 1562, 1628, 501, 665, 1001, 842, 560]
 -
   plate_number: 21
   name: 'Diyarbakır'
@@ -223,6 +300,9 @@
   has_sea_access: false
   districts: ['Bağlar', 'Bismil', 'Çermik', 'Çınar', 'Çüngüş', 'Dicle', 'Eğil', 'Ergani', 'Hani', 'Hazro', 'Kayapınar',
     'Kocaköy', 'Kulp', 'Lice', 'Silvan', 'Sur', 'Yenişehir']
+  land_distance: [1587, 153, 408, 318, 1121, 313, 683, 521, 475, 506, 1142, 594, 1357, 1426, 521, 950, 583, 1568, 717,
+    1246, 883, 1199, 249, 1410, 370, 96, 1371, 252, 664, 711, 727, 577, 1209, 813, 186, 954, 476, 1488, 584, 614, 277,
+    176, 1215, 368, 700, 1164, 739, 443, 817, 830, 100, 286, 1133, 551, 544, 1311, 1064, 373, 438, 1140]
 -
   plate_number: 22
   name: 'Edirne'
@@ -233,6 +313,9 @@
   region: 'Marmara'
   has_sea_access: true
   districts: ['Enez', 'Havsa', 'İpsala', 'Keşan', 'Lalapaşa', 'Meriç', 'Merkez', 'Süloğlu', 'Uzunköprü']
+  land_distance: [1436, 1267, 1457, 555, 1341, 1158, 1320, 2027, 1369, 800, 1171, 230, 535, 1657, 737, 1004, 62, 870,
+    341, 893, 584, 1338, 538, 1265, 1666, 757, 1649, 961, 1033, 1114, 1369, 378, 964, 1773, 909, 1121, 140, 1015, 1294,
+    1398, 1478, 629, 1865, 901, 560, 911, 1356, 1006, 761, 1687, 1838, 647, 1638, 1748, 406, 626, 1401, 1265, 447]
 -
   plate_number: 23
   name: 'Elazığ'
@@ -244,6 +327,9 @@
   has_sea_access: false
   districts: ['Ağın', 'Alacakaya', 'Arıcak', 'Baskil', 'Karakoçan', 'Keban', 'Kovancılar', 'Maden', 'Merkez', 'Palu',
     'Sivrice']
+  land_distance: [267, 317, 970, 342, 562, 400, 628, 475, 995, 563, 1206, 1279, 520, 797, 432, 1417, 566, 1095, 736,
+    1048, 98, 1263, 322, 249, 1284, 251, 513, 560, 592, 575, 1058, 660, 339, 801, 323, 1337, 431, 500, 136, 319, 1068,
+    467, 547, 1011, 588, 396, 736, 679, 253, 439, 980, 550, 611, 1160, 911, 402, 407, 989]
 -
   plate_number: 24
   name: 'Erzincan'
@@ -254,6 +340,9 @@
   region: 'Doğu Anadolu'
   has_sea_access: false
   districts: ['Çayırlı', 'İliç', 'Kemah', 'Kemaliye', 'Merkez', 'Otlukbeli', 'Refahiye', 'Tercan', 'Üzümlü']
+  land_distance: [190, 925, 607, 295, 133, 765, 740, 1003, 739, 1037, 1270, 390, 620, 442, 1248, 572, 926, 744, 1003,
+    363, 1254, 575, 504, 1292, 382, 521, 568, 325, 308, 889, 446, 555, 591, 248, 1168, 305, 233, 131, 574, 1059, 598,
+    472, 834, 596, 155, 744, 609, 469, 655, 803, 415, 481, 991, 734, 667, 672, 820]
 -
   plate_number: 25
   name: 'Erzurum'
@@ -265,6 +354,9 @@
   has_sea_access: false
   districts: ['Aşkale', 'Aziziye', 'Çat', 'Hınıs', 'Horasan', 'İspir', 'Karaçoban', 'Karayazı', 'Köprüköy', 'Narman',
     'Oltu', 'Olur', 'Palandöken', 'Pasinler', 'Pazaryolu', 'Şenkaya', 'Tekman', 'Tortum', 'Uzundere', 'Yakutiye']
+  land_distance: [1115, 631, 365, 203, 608, 790, 1193, 878, 1227, 1460, 203, 810, 632, 1438, 762, 1116, 934, 1193, 413,
+    1444, 637, 414, 1482, 266, 711, 758, 409, 259, 1079, 559, 445, 714, 438, 1358, 495, 296, 243, 494, 1249, 411, 662,
+    1024, 786, 125, 934, 799, 371, 545, 993, 233, 294, 1181, 924, 691, 722, 1010]
 -
   plate_number: 26
   name: 'Eskişehir'
@@ -276,6 +368,9 @@
   has_sea_access: false
   districts: ['Alpu', 'Beylikova', 'Çifteler', 'Günyüzü', 'Han', 'İnönü', 'Mahmudiye', 'Mihalgazi', 'Mihalıççık',
     'Odunpazarı', 'Sarıcakaya', 'Seyitgazi', 'Sivrihisar', 'Tepebaşı']
+  land_distance: [874, 848, 992, 1560, 881, 300, 680, 325, 410, 1315, 480, 537, 536, 403, 214, 338, 78, 871, 394, 798,
+    1199, 499, 1218, 494, 565, 804, 1059, 177, 654, 1306, 652, 680, 456, 620, 984, 1056, 1011, 217, 1434, 456, 359,
+    443, 1014, 451, 316, 1220, 1371, 446, 1328, 1406, 209, 424, 934, 777, 246]
 -
   plate_number: 27
   name: 'Gaziantep'
@@ -286,6 +381,9 @@
   region: 'Güneydoğu Anadolu'
   has_sea_access: false
   districts: ['Araban', 'İslahiye', 'Karkamış', 'Nizip', 'Nurdağı', 'Oğuzeli', 'Şahinbey', 'Şehitkamil', 'Yavuzeli']
+  land_distance: [701, 740, 686, 193, 829, 281, 1111, 1113, 834, 790, 337, 1322, 471, 1000, 570, 887, 244, 1097, 76,
+    325, 1058, 565, 418, 419, 688, 890, 963, 701, 495, 842, 403, 1242, 472, 825, 476, 137, 902, 681, 534, 924, 479,
+    736, 504, 584, 409, 497, 941, 864, 857, 1065, 873, 64, 125, 894]
 -
   plate_number: 28
   name: 'Giresun'
@@ -297,6 +395,9 @@
   has_sea_access: true
   districts: ['Alucra', 'Bulancak', 'Çamoluk', 'Çanakçı', 'Dereli', 'Doğankent', 'Espiye', 'Eynesil', 'Görele', 'Güce',
     'Keşap', 'Merkez', 'Piraziz', 'Şebinkarahisar', 'Tirebolu', 'Yağlıdere']
+  land_distance: [162, 970, 798, 993, 789, 928, 1193, 565, 484, 492, 1139, 577, 817, 785, 926, 541, 1177, 625, 779,
+    1234, 628, 571, 618, 44, 211, 780, 194, 807, 349, 298, 1059, 260, 136, 426, 794, 982, 773, 465, 698, 646, 240, 794,
+    532, 736, 907, 667, 480, 656, 882, 598, 761, 730, 711]
 -
   plate_number: 29
   name: 'Gümüşhane'
@@ -307,6 +408,9 @@
   region: 'Karadeniz'
   has_sea_access: false
   districts: ['Kelkit', 'Köse', 'Kürtün', 'Merkez', 'Şiran', 'Torul']
+  land_distance: [808, 856, 1111, 847, 1090, 1337, 403, 646, 550, 1301, 680, 979, 852, 1070, 496, 1321, 683, 617, 1378,
+    466, 629, 676, 206, 175, 942, 356, 645, 511, 356, 1221, 372, 100, 264, 697, 1126, 611, 577, 860, 704, 78, 852, 676,
+    574, 745, 829, 428, 494, 1044, 760, 800, 788, 873]
 -
   plate_number: 30
   name: 'Hakkari'
@@ -317,6 +421,9 @@
   region: 'Doğu Anadolu'
   has_sea_access: false
   districts: ['Çukurca', 'Derecik', 'Merkez', 'Şemdinli', 'Yüksekova']
+  land_distance: [879, 1515, 967, 1797, 1799, 560, 1385, 1023, 2008, 1157, 1686, 1256, 1573, 724, 1783, 762, 386, 1744,
+    383, 1104, 1105, 1014, 864, 1649, 1164, 289, 1319, 951, 1928, 1059, 901, 634, 549, 1588, 197, 1175, 1599, 1165,
+    730, 1190, 1270, 375, 189, 1568, 648, 420, 1751, 1499, 746, 811, 1580]
 -
   plate_number: 31
   name: 'Hatay'
@@ -328,6 +435,9 @@
   has_sea_access: true
   districts: ['Altınözü', 'Antakya', 'Arsuz', 'Belen', 'Defne', 'Dörtyol', 'Erzin', 'Hassa', 'İskenderun', 'Kırıkhan',
     'Kumlu', 'Payas', 'Reyhanlı', 'Samandağ', 'Yayladağı']
+  land_distance: [808, 260, 1139, 1092, 993, 874, 434, 1350, 568, 1028, 549, 866, 377, 1076, 173, 518, 1037, 724, 480,
+    398, 785, 997, 991, 798, 688, 939, 500, 1270, 569, 922, 609, 330, 881, 874, 631, 956, 458, 869, 483, 668, 602, 690,
+    973, 1023, 1050, 1090, 905, 145, 129, 926]
 -
   plate_number: 32
   name: 'Isparta'
@@ -339,6 +449,9 @@
   has_sea_access: false
   districts: ['Aksu', 'Atabey', 'Eğirdir', 'Gelendost', 'Gönen', 'Keçiborlu', 'Merkez', 'Senirkent', 'Sütçüler',
     'Şarkikaraağaç', 'Uluborlu', 'Yalvaç', 'Yenişarbademli']
+  land_distance: [564, 594, 382, 1393, 667, 563, 805, 516, 483, 263, 240, 897, 366, 809, 1154, 292, 1244, 482, 501,
+    949, 1204, 446, 799, 1324, 839, 755, 725, 765, 1129, 1129, 966, 171, 1460, 600, 628, 407, 1133, 368, 461, 1238,
+    1326, 679, 1418, 1484, 478, 611, 863, 704, 515]
 -
   plate_number: 33
   name: 'Mersin'
@@ -350,6 +463,9 @@
   has_sea_access: true
   districts: ['Akdeniz', 'Anamur', 'Aydıncık', 'Bozyazı', 'Çamlıyayla', 'Erdemli', 'Gülnar', 'Mezitli', 'Mut',
     'Silifke', 'Tarsus', 'Toroslar', 'Yenişehir']
+  land_distance: [941, 891, 1081, 676, 328, 1152, 370, 830, 348, 665, 465, 875, 261, 606, 777, 812, 282, 200, 776, 988,
+    793, 746, 776, 840, 491, 1072, 560, 913, 697, 418, 680, 962, 482, 758, 260, 869, 235, 470, 690, 778, 775, 1111,
+    1138, 889, 707, 315, 156, 728]
 -
   plate_number: 34
   name: 'İstanbul'
@@ -364,6 +480,9 @@
     'Esenyurt', 'Eyüpsultan', 'Fatih', 'Gaziosmanpaşa', 'Güngören', 'Kadıköy', 'Kağıthane', 'Kartal', 'Küçükçekmece',
     'Maltepe', 'Pendik', 'Sancaktepe', 'Sarıyer', 'Silivri', 'Sultanbeyli', 'Sultangazi', 'Şile', 'Şişli', 'Tuzla',
     'Ümraniye', 'Üsküdar', 'Zeytinburnu']
+  land_distance: [564, 1427, 507, 774, 211, 640, 111, 663, 354, 1108, 529, 1035, 1436, 782, 1419, 731, 803, 884, 1139,
+    148, 734, 1543, 679, 891, 131, 785, 1064, 1168, 1248, 493, 1635, 671, 330, 681, 1126, 776, 531, 1457, 1608, 417,
+    1408, 1518, 176, 396, 1171, 1035, 217]
 -
   plate_number: 35
   name: 'İzmir'
@@ -376,6 +495,9 @@
   districts: ['Aliağa', 'Balçova', 'Bayındır', 'Bayraklı', 'Bergama', 'Beydağ', 'Bornova', 'Buca', 'Çeşme', 'Çiğli',
     'Dikili', 'Foça', 'Gaziemir', 'Güzelbahçe', 'Karabağlar', 'Karaburun', 'Karşıyaka', 'Kemalpaşa', 'Kınık', 'Kiraz',
     'Konak', 'Menderes', 'Menemen', 'Narlıdere', 'Ödemiş', 'Seferihisar', 'Selçuk', 'Tire', 'Torbalı', 'Urla']
+  land_distance: [1660, 825, 847, 552, 748, 453, 549, 332, 1181, 35, 1093, 1438, 224, 1528, 766, 785, 1149, 1404, 482,
+    999, 1608, 997, 1025, 506, 965, 1329, 1401, 1250, 211, 1744, 801, 664, 691, 1359, 662, 661, 1522, 1610, 751, 1673,
+    1751, 390, 730, 1147, 988, 551]
 -
   plate_number: 36
   name: 'Kars'
@@ -386,6 +508,9 @@
   region: 'Doğu Anadolu'
   has_sea_access: false
   districts: ['Akyaka', 'Arpaçay', 'Digor', 'Kağızman', 'Merkez', 'Sarıkamış', 'Selim', 'Susuz']
+  land_distance: [1010, 832, 1638, 962, 1316, 1134, 1393, 616, 1644, 840, 617, 1682, 349, 911, 958, 609, 360, 1279,
+    759, 528, 914, 638, 1558, 695, 435, 443, 697, 1449, 363, 862, 1224, 986, 325, 1134, 999, 567, 628, 1193, 94, 140,
+    1381, 1124, 894, 925, 1210]
 -
   plate_number: 37
   name: 'Kastamonu'
@@ -397,6 +522,9 @@
   has_sea_access: true
   districts: ['Abana', 'Ağlı', 'Araç', 'Azdavay', 'Bozkurt', 'Cide', 'Çatalzeytin', 'Daday', 'Devrekani', 'Doğanyurt',
     'Hanönü', 'İhsangazi', 'İnebolu', 'Küre', 'Merkez', 'Pınarbaşı', 'Seydiler', 'Şenpazar', 'Taşköprü', 'Tosya']
+  land_distance: [453, 718, 319, 396, 459, 558, 717, 806, 714, 1046, 866, 1002, 410, 492, 440, 695, 359, 290, 1136,
+    183, 474, 638, 368, 620, 751, 927, 614, 1218, 301, 214, 416, 709, 570, 210, 1050, 1236, 183, 964, 1101, 461, 114,
+    850, 770, 290]
 -
   plate_number: 38
   name: 'Kayseri'
@@ -408,6 +536,8 @@
   has_sea_access: false
   districts: ['Akkışla', 'Bünyan', 'Develi', 'Felahiye', 'Hacılar', 'İncesu', 'Kocasinan', 'Melikgazi', 'Özvatan',
     'Pınarbaşı', 'Sarıoğlan', 'Sarız', 'Talas', 'Tomarza', 'Yahyalı', 'Yeşilhisar']
+  land_distance: [985, 134, 663, 304, 616, 334, 831, 261, 662, 852, 681, 81, 128, 479, 691, 626, 453, 769, 547, 194,
+    905, 263, 616, 566, 474, 636, 897, 197, 587, 156, 572, 304, 247, 683, 834, 604, 857, 923, 728, 536, 397, 366, 557]
 -
   plate_number: 39
   name: 'Kırklareli'
@@ -418,6 +548,9 @@
   region: 'Marmara'
   has_sea_access: true
   districts: ['Babaeski', 'Demirköy', 'Kofçaz', 'Lüleburgaz', 'Merkez', 'Pehlivanköy', 'Pınarhisar', 'Vize']
+  land_distance: [851, 322, 874, 565, 1319, 555, 1246, 1647, 774, 1630, 942, 1014, 1095, 1350, 359, 945, 1754, 890,
+    1102, 121, 996, 1275, 1379, 1459, 646, 1846, 882, 541, 892, 1337, 987, 742, 1668, 1819, 628, 1619, 1729, 387, 607,
+    1382, 1246, 428]
 -
   plate_number: 40
   name: 'Kırşehir'
@@ -428,6 +561,8 @@
   region: 'İç Anadolu'
   has_sea_access: false
   districts: ['Akçakent', 'Akpınar', 'Boztepe', 'Çiçekdağı', 'Kaman', 'Merkez', 'Mucur']
+  land_distance: [529, 258, 482, 468, 733, 395, 796, 790, 815, 91, 173, 533, 788, 492, 392, 903, 486, 324, 771, 317,
+    713, 700, 608, 538, 1031, 112, 453, 110, 702, 321, 113, 817, 968, 470, 987, 1053, 594, 402, 531, 464, 423]
 -
   plate_number: 41
   name: 'Kocaeli'
@@ -439,6 +574,8 @@
   has_sea_access: false
   districts: ['Başiskele', 'Çayırova', 'Darıca', 'Derince', 'Dilovası', 'Gebze', 'Gölcük', 'İzmit', 'Kandıra',
     'Karamürsel', 'Kartepe', 'Körfez']
+  land_distance: [552, 243, 997, 418, 924, 1325, 671, 1308, 620, 692, 773, 1028, 37, 623, 1432, 568, 780, 242, 674,
+    953, 1057, 1137, 382, 1524, 560, 219, 570, 1015, 665, 420, 1346, 1497, 306, 1297, 1407, 65, 285, 1060, 924, 106]
 -
   plate_number: 42
   name: 'Konya'
@@ -452,6 +589,8 @@
     'Derbent', 'Derebucak', 'Doğanhisar', 'Emirgazi', 'Ereğli', 'Güneysınır', 'Hadim', 'Halkapınar', 'Hüyük', 'Ilgın',
     'Kadınhanı', 'Karapınar', 'Karatay', 'Kulu', 'Meram', 'Sarayönü', 'Selçuklu', 'Seydişehir', 'Taşkent', 'Tuzlukçu',
     'Yalıhüyük', 'Yunak']
+  land_distance: [323, 638, 533, 550, 895, 554, 985, 223, 242, 741, 993, 515, 591, 1065, 631, 496, 794, 557, 918, 870,
+    707, 338, 1201, 370, 531, 148, 874, 119, 253, 979, 1067, 548, 1159, 1225, 547, 480, 604, 445, 501]
 -
   plate_number: 43
   name: 'Kütahya'
@@ -463,6 +602,8 @@
   has_sea_access: false
   districts: ['Altıntaş', 'Aslanapa', 'Çavdarhisar', 'Domaniç', 'Dumlupınar', 'Emet', 'Gediz', 'Hisarcık', 'Merkez',
     'Pazarlar', 'Simav', 'Şaphane', 'Tavşanlı']
+  land_distance: [949, 316, 867, 1212, 430, 1296, 540, 559, 882, 1137, 206, 732, 1382, 730, 758, 485, 698, 1062, 1134,
+    1024, 139, 1512, 534, 388, 465, 1092, 436, 394, 1296, 1384, 475, 1406, 1484, 238, 454, 921, 762, 275]
 -
   plate_number: 44
   name: 'Malatya'
@@ -474,6 +615,8 @@
   has_sea_access: false
   districts: ['Akçadağ', 'Arapgir', 'Arguvan', 'Battalgazi', 'Darende', 'Doğanşehir', 'Doğanyol', 'Hekimhan', 'Kale',
     'Kuluncak', 'Pütürge', 'Yazıhan', 'Yeşilyurt']
+  land_distance: [1165, 224, 345, 1186, 347, 415, 462, 557, 671, 960, 580, 435, 721, 243, 1239, 351, 596, 232, 271,
+    970, 563, 467, 921, 490, 492, 638, 581, 349, 535, 900, 646, 707, 1062, 831, 304, 309, 891]
 -
   plate_number: 45
   name: 'Manisa'
@@ -485,6 +628,8 @@
   has_sea_access: false
   districts: ['Ahmetli', 'Akhisar', 'Alaşehir', 'Demirci', 'Gölmarmara', 'Gördes', 'Kırkağaç', 'Köprübaşı', 'Kula',
     'Salihli', 'Sarıgöl', 'Saruhanlı', 'Selendi', 'Soma', 'Şehzadeler', 'Turgutlu', 'Yunusemre']
+  land_distance: [1077, 1422, 253, 1512, 750, 769, 1133, 1388, 447, 983, 1592, 978, 1009, 509, 949, 1313, 1385, 1234,
+    195, 1728, 785, 629, 675, 1343, 646, 645, 1506, 1594, 716, 1657, 1735, 355, 695, 1131, 972, 516]
 -
   plate_number: 46
   name: 'Kahramanmaraş'
@@ -496,6 +641,8 @@
   has_sea_access: false
   districts: ['Afşin', 'Andırın', 'Çağlayancerit', 'Dulkadiroğlu', 'Ekinözü', 'Elbistan', 'Göksun', 'Nurhak',
     'Onikişubat', 'Pazarcık', 'Türkoğlu']
+  land_distance: [401, 1038, 571, 342, 389, 612, 824, 887, 625, 552, 766, 327, 1166, 396, 749, 456, 213, 882, 738, 458,
+    848, 417, 705, 484, 508, 466, 573, 865, 870, 914, 989, 797, 136, 105, 818]
 -
   plate_number: 47
   name: 'Mardin'
@@ -507,6 +654,8 @@
   has_sea_access: false
   districts: ['Artuklu', 'Dargeçit', 'Derik', 'Kızıltepe', 'Mazıdağı', 'Midyat', 'Nusaybin', 'Ömerli', 'Savur',
     'Yeşilli']
+  land_distance: [1383, 348, 743, 744, 823, 673, 1288, 909, 227, 1050, 572, 1567, 680, 710, 373, 188, 1227, 446, 796,
+    1249, 804, 539, 829, 909, 150, 197, 1229, 647, 622, 1390, 1160, 385, 450, 1219]
 -
   plate_number: 48
   name: 'Muğla'
@@ -518,6 +667,8 @@
   has_sea_access: true
   districts: ['Bodrum', 'Dalaman', 'Datça', 'Fethiye', 'Kavaklıdere', 'Köyceğiz', 'Marmaris', 'Menteşe', 'Milas',
     'Ortaca', 'Seydikemer', 'Ula', 'Yatağan']
+  land_distance: [1533, 771, 790, 1190, 1445, 636, 1040, 1553, 1038, 1044, 728, 1006, 1370, 1418, 1195, 295, 1739, 842,
+    818, 696, 1400, 660, 702, 1467, 1555, 878, 1707, 1773, 608, 810, 1092, 933, 705]
 -
   plate_number: 49
   name: 'Muş'
@@ -528,6 +679,8 @@
   region: 'Doğu Anadolu'
   has_sea_access: false
   districts: ['Bulanık', 'Hasköy', 'Korkut', 'Malazgirt', 'Merkez', 'Varto']
+  land_distance: [762, 809, 672, 522, 1271, 822, 179, 973, 574, 1550, 682, 559, 251, 428, 1317, 216, 798, 1216, 837,
+    388, 985, 928, 218, 279, 1185, 411, 388, 1373, 1116, 625, 656, 1202]
 -
   plate_number: 50
   name: 'Nevşehir'
@@ -538,6 +691,8 @@
   region: 'İç Anadolu'
   has_sea_access: false
   districts: ['Acıgöl', 'Avanos', 'Derinkuyu', 'Gülşehir', 'Hacıbektaş', 'Kozaklı', 'Merkez', 'Ürgüp']
+  land_distance: [82, 553, 770, 583, 468, 850, 562, 273, 862, 337, 695, 647, 555, 555, 978, 203, 544, 75, 651, 258,
+    204, 764, 915, 561, 936, 1002, 685, 493, 478, 376, 514]
 -
   plate_number: 51
   name: 'Niğde'
@@ -548,6 +703,7 @@
   region: 'İç Anadolu'
   has_sea_access: false
   districts: ['Altunhisar', 'Bor', 'Çamardı', 'Çiftlik', 'Merkez', 'Ulukışla']
+  land_distance: [605, 817, 655, 546, 897, 640, 320, 934, 389, 742, 694, 556, 574, 1025, 285, 620, 122, 698, 176, 286, 811, 916, 637, 983, 1049, 757, 569, 453, 294, 590]
 -
   plate_number: 52
   name: 'Ordu'
@@ -559,6 +715,7 @@
   has_sea_access: true
   districts: ['Akkuş', 'Altınordu', 'Aybastı', 'Çamaş', 'Çatalpınar', 'Çaybaşı', 'Fatsa', 'Gölköy', 'Gülyalı',
     'Gürgentepe', 'İkizce', 'Kabadüz', 'Kabataş', 'Korgan', 'Kumru', 'Mesudiye', 'Perşembe', 'Ulubey', 'Ünye']
+  land_distance: [255, 736, 150, 851, 305, 314, 1015, 216, 180, 456, 810, 938, 817, 421, 654, 628, 284, 781, 488, 780, 951, 623, 524, 700, 838, 554, 748, 717, 667]
 -
   plate_number: 53
   name: 'Rize'
@@ -570,6 +727,7 @@
   has_sea_access: true
   districts: ['Ardeşen', 'Çamlıhemşin', 'Çayeli', 'Derepazarı', 'Fındıklı', 'Güneysu', 'Hemşin', 'İkizdere', 'İyidere',
     'Kalkandere', 'Merkez', 'Pazar']
+  land_distance: [991, 405, 701, 560, 497, 1270, 471, 75, 439, 753, 1193, 667, 676, 909, 845, 253, 993, 743, 630, 801, 878, 269, 494, 1093, 809, 950, 929, 922]
 -
   plate_number: 54
   name: 'Sakarya'
@@ -581,6 +739,7 @@
   has_sea_access: true
   districts: ['Adapazarı', 'Akyazı', 'Arifiye', 'Erenler', 'Ferizli', 'Geyve', 'Hendek', 'Karapürçek', 'Karasu',
     'Kaynarca', 'Kocaali', 'Pamukova', 'Sapanca', 'Serdivan', 'Söğütlü', 'Taraklı']
+  land_distance: [586, 1395, 531, 743, 279, 637, 916, 1020, 1100, 345, 1487, 523, 182, 533, 978, 628, 383, 1309, 1460, 269, 1260, 1370, 102, 248, 1023, 887, 69]
 -
   plate_number: 55
   name: 'Samsun'
@@ -592,6 +751,7 @@
   has_sea_access: true
   districts: ['19 Mayıs', 'Alaçam', 'Asarcık', 'Atakum', 'Ayvacık', 'Bafra', 'Canik', 'Çarşamba', 'Havza', 'İlkadım', 'Kavak',
     'Ladik', 'Salıpazarı', 'Tekkeköy', 'Terme', 'Vezirköprü', 'Yakakent']
+  land_distance: [999, 155, 337, 865, 229, 330, 577, 833, 788, 967, 280, 504, 502, 434, 702, 338, 913, 1099, 473, 674, 850, 688, 404, 761, 730, 517]
 -
   plate_number: 56
   name: 'Siirt'
@@ -602,6 +762,7 @@
   region: 'Güneydoğu Anadolu'
   has_sea_access: false
   districts: ['Baykan', 'Eruh', 'Kurtalan', 'Merkez', 'Pervari', 'Şirvan', 'Tillo']
+  land_distance: [1140, 662, 1674, 770, 738, 424, 358, 1397, 257, 886, 1350, 925, 567, 999, 1016, 86, 100, 1319, 590, 433, 1497, 1250, 555, 620, 1326]
 -
   plate_number: 57
   name: 'Sinop'
@@ -612,6 +773,7 @@
   region: 'Karadeniz'
   has_sea_access: true
   districts: ['Ayancık', 'Boyabat', 'Dikmen', 'Durağan', 'Erfelek', 'Gerze', 'Merkez', 'Saraydüzü', 'Türkeli']
+  land_distance: [478, 810, 372, 485, 722, 974, 786, 1122, 374, 397, 588, 589, 742, 382, 1054, 1240, 366, 829, 1005, 633, 297, 902, 871, 462]
 -
   plate_number: 58
   name: 'Sivas'
@@ -623,6 +785,7 @@
   has_sea_access: false
   districts: ['Akıncılar', 'Altınyayla', 'Divriği', 'Doğanşar', 'Gemerek', 'Gölova', 'Gürün', 'Hafik', 'İmranlı',
     'Kangal', 'Koyulhisar', 'Merkez', 'Suşehri', 'Şarkışla', 'Ulaş', 'Yıldızeli', 'Zara']
+  land_distance: [1022, 108, 422, 379, 496, 814, 790, 224, 688, 348, 378, 496, 364, 576, 762, 657, 663, 729, 845, 588, 463, 432, 674]
 -
   plate_number: 59
   name: 'Tekirdağ'
@@ -634,6 +797,7 @@
   has_sea_access: true
   districts: ['Çerkezköy', 'Çorlu', 'Ergene', 'Hayrabolu', 'Kapaklı', 'Malkara', 'Marmaraereğlisi', 'Muratlı', 'Saray',
     'Süleymanpaşa', 'Şarköy']
+  land_distance: [916, 1195, 1299, 1379, 600, 1766, 802, 461, 812, 1257, 907, 662, 1588, 1739, 548, 1539, 1649, 307, 527, 1302, 1166, 348]
 -
   plate_number: 60
   name: 'Tokat'
@@ -645,6 +809,7 @@
   has_sea_access: false
   districts: ['Almus', 'Artova', 'Başçiftlik', 'Erbaa', 'Merkez', 'Niksar', 'Pazar', 'Reşadiye', 'Sulusaray', 'Turhal',
     'Yeşilyurt', 'Zile']
+  land_distance: [396, 436, 604, 754, 898, 205, 582, 412, 394, 565, 304, 684, 870, 551, 720, 786, 739, 482, 532, 501, 568]
 -
   plate_number: 61
   name: 'Trabzon'
@@ -656,6 +821,7 @@
   has_sea_access: true
   districts: ['Akçaabat', 'Araklı', 'Arsin', 'Beşikdüzü', 'Çarşıbaşı', 'Çaykara', 'Dernekpazarı', 'Düzköy', 'Hayrat',
     'Köprübaşı', 'Maçka', 'Of', 'Ortahisar', 'Sürmene', 'Şalpazarı', 'Tonya', 'Vakfıkebir', 'Yomra']
+  land_distance: [364, 790, 1118, 704, 601, 834, 770, 178, 918, 668, 667, 838, 803, 344, 569, 1018, 734, 885, 854, 847]
 -
   plate_number: 62
   name: 'Tunceli'
@@ -666,6 +832,7 @@
   region: 'Doğu Anadolu'
   has_sea_access: false
   districts: ['Çemişgezek', 'Hozat', 'Mazgirt', 'Merkez', 'Nazımiye', 'Ovacık', 'Pertek', 'Pülümür']
+  land_distance: [443, 1190, 467, 603, 965, 722, 260, 870, 740, 338, 524, 934, 468, 534, 1122, 865, 536, 541, 951]
 -
   plate_number: 63
   name: 'Şanlıurfa'
@@ -677,6 +844,7 @@
   has_sea_access: false
   districts: ['Akçakale', 'Birecik', 'Bozova', 'Ceylanpınar', 'Eyyübiye', 'Halfeti', 'Haliliye', 'Harran', 'Hilvan',
     'Karaköprü', 'Siverek', 'Suruç', 'Viranşehir']
+  land_distance: [1039, 544, 671, 1061, 616, 619, 641, 721, 272, 360, 1078, 727, 720, 1202, 1010, 197, 262, 1031]
 -
   plate_number: 64
   name: 'Uşak'
@@ -687,6 +855,7 @@
   region: 'Ege'
   has_sea_access: false
   districts: ['Banaz', 'Eşme', 'Karahallı', 'Merkez', 'Sivaslı', 'Ulubey']
+  land_distance: [1533, 590, 527, 480, 1148, 451, 450, 1311, 1399, 614, 1462, 1540, 375, 558, 936, 777, 414]
 -
   plate_number: 65
   name: 'Van'
@@ -698,6 +867,7 @@
   has_sea_access: false
   districts: ['Bahçesaray', 'Başkale', 'Çaldıran', 'Çatak', 'Edremit', 'Erciş', 'Gevaş', 'Gürpınar', 'İpekyolu',
     'Muradiye', 'Özalp', 'Saray', 'Tuşba']
+  land_distance: [1014, 1432, 1053, 533, 1185, 1144, 296, 357, 1401, 451, 223, 1589, 1332, 741, 806, 1418]
 -
   plate_number: 66
   name: 'Yozgat'
@@ -709,6 +879,7 @@
   has_sea_access: false
   districts: ['Akdağmadeni', 'Aydıncık', 'Boğazlıyan', 'Çandır', 'Çayıralan', 'Çekerek', 'Kadışehri', 'Merkez',
     'Saraykent', 'Sarıkaya', 'Sorgun', 'Şefaatli', 'Yenifakılı', 'Yerköy']
+  land_distance: [484, 222, 599, 433, 140, 800, 986, 484, 887, 953, 625, 415, 594, 563, 454]
 -
   plate_number: 67
   name: 'Zonguldak'
@@ -719,6 +890,7 @@
   region: 'Karadeniz'
   has_sea_access: true
   districts: ['Alaplı', 'Çaycuma', 'Devrek', 'Ereğli', 'Gökçebey', 'Kilimli', 'Kozlu', 'Merkez']
+  land_distance: [498, 923, 642, 344, 1264, 1421, 87, 1178, 1315, 284, 100, 984, 852, 113]
 -
   plate_number: 68
   name: 'Aksaray'
@@ -729,6 +901,7 @@
   region: 'İç Anadolu'
   has_sea_access: false
   districts: ['Ağaçören', 'Eskil', 'Gülağaç', 'Güzelyurt', 'Merkez', 'Ortaköy', 'Sarıyahşi', 'Sultanhanı']
+  land_distance: [726, 211, 210, 839, 976, 515, 1011, 1077, 635, 447, 513, 354, 468]
 -
   plate_number: 69
   name: 'Bayburt'
@@ -739,6 +912,7 @@
   region: 'Karadeniz'
   has_sea_access: false
   districts: ['Aydıntepe', 'Demirözü', 'Merkez']
+  land_distance: [874, 698, 496, 667, 892, 350, 416, 1080, 823, 796, 801, 909]
 -
   plate_number: 70
   name: 'Karaman'
@@ -749,6 +923,7 @@
   region: 'İç Anadolu'
   has_sea_access: false
   districts: ['Ayrancı', 'Başyayla', 'Ermenek', 'Kazımkarabekir', 'Merkez', 'Sarıveliler']
+  land_distance: [364, 913, 1001, 659, 1159, 1225, 660, 591, 538, 379, 612]
 -
   plate_number: 71
   name: 'Kırıkkale'
@@ -759,6 +934,7 @@
   region: 'İç Anadolu'
   has_sea_access: false
   districts: ['Bahşılı', 'Balışeyh', 'Çelebi', 'Delice', 'Karakeçili', 'Keskin', 'Merkez', 'Sulakyurt', 'Yahşihan']
+  land_distance: [930, 1081, 361, 1012, 1090, 485, 293, 644, 564, 314]
 -
   plate_number: 72
   name: 'Batman'
@@ -769,6 +945,7 @@
   region: 'Güneydoğu Anadolu'
   has_sea_access: false
   districts: ['Beşiri', 'Gercüş', 'Hasankeyf', 'Kozluk', 'Merkez', 'Sason']
+  land_distance: [186, 1233, 604, 472, 1411, 1164, 469, 534, 1240]
 -
   plate_number: 73
   name: 'Şırnak'
@@ -779,6 +956,7 @@
   region: 'Güneydoğu Anadolu'
   has_sea_access: false
   districts: ['Beytüşşebap', 'Cizre', 'Güçlükonak', 'İdil', 'Merkez', 'Silopi', 'Uludere']
+  land_distance: [1419, 690, 533, 1562, 1350, 557, 622, 1391]
 -
   plate_number: 74
   name: 'Bartın'
@@ -789,6 +967,7 @@
   region: 'Karadeniz'
   has_sea_access: true
   districts: ['Amasra', 'Kurucaşile', 'Merkez', 'Ulus']
+  land_distance: [1147, 1284, 371, 89, 1001, 869, 200]
 -
   plate_number: 75
   name: 'Ardahan'
@@ -799,6 +978,7 @@
   region: 'Doğu Anadolu'
   has_sea_access: false
   districts: ['Çıldır', 'Damal', 'Göle', 'Hanak', 'Merkez', 'Posof']
+  land_distance: [228, 1362, 1078, 924, 955, 1191]
 -
   plate_number: 76
   name: 'Iğdır'
@@ -809,6 +989,7 @@
   region: 'Doğu Anadolu'
   has_sea_access: false
   districts: ['Aralık', 'Karakoyunlu', 'Merkez', 'Tuzluca']
+  land_distance: [1472, 1215, 917, 982, 1301]
 -
   plate_number: 77
   name: 'Yalova'
@@ -819,6 +1000,7 @@
   region: 'Marmara'
   has_sea_access: true
   districts: ['Altınova', 'Armutlu', 'Çınarcık', 'Çiftlikköy', 'Merkez', 'Termal']
+  land_distance: [350, 1125, 986, 171]
 -
   plate_number: 78
   name: 'Karabük'
@@ -829,6 +1011,7 @@
   region: 'Karadeniz'
   has_sea_access: false
   districts: ['Eflani', 'Eskipazar', 'Merkez', 'Ovacık', 'Safranbolu', 'Yenice']
+  land_distance: [933, 801, 179]
 -
   plate_number: 79
   name: 'Kilis'
@@ -839,6 +1022,7 @@
   region: 'Güneydoğu Anadolu'
   has_sea_access: false
   districts: ['Elbeyli', 'Merkez', 'Musabeyli', 'Polateli']
+  land_distance: [159, 954]
 -
   plate_number: 80
   name: 'Osmaniye'
@@ -849,6 +1033,7 @@
   region: 'Akdeniz'
   has_sea_access: false
   districts: ['Bahçe', 'Düziçi', 'Hasanbeyli', 'Kadirli', 'Merkez', 'Sumbas', 'Toprakkale']
+  land_distance: [822]
 -
   plate_number: 81
   name: 'Düzce'
@@ -859,3 +1044,4 @@
   region: 'Karadeniz'
   has_sea_access: true
   districts: ['Akçakoca', 'Cumayeri', 'Çilimli', 'Gölyaka', 'Gümüşova', 'Kaynaşlı', 'Merkez', 'Yığılca']
+  land_distance: []
