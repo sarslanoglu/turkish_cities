@@ -219,7 +219,41 @@ RSpec.describe TurkishCities do
     end
   end
 
-  describe '#distance_between' do
+  describe '#distance_between(land)' do
+    context 'when input is supported' do
+      it 'finds land distance between two location' do
+        land_distance_results = TurkishCities.distance_between('Adana', 'Bolu', 'land')
+        expect(land_distance_results[0]).to eq 690
+        expect(land_distance_results[1])
+          .to eq 'Land travel distance between Adana and Bolu is 690 km.'
+      end
+
+      it 'finds land distance between two location when cities are not ordered on plate number' do
+        land_distance_results = TurkishCities.distance_between('Zonguldak', 'Afyon', 'land')
+        expect(land_distance_results[0]).to eq 488
+        expect(land_distance_results[1])
+          .to eq 'Land travel distance between Zonguldak and Afyon is 488 km.'
+      end
+    end
+
+    context 'when input is not supported' do
+      it 'gives unsupported_travel_method_error' do
+        expect(TurkishCities.distance_between('Adana', 'Adıyaman', 'time'))
+          .to eq "Travel method 'time' is unsupported"
+      end
+
+      it 'gives city_not_found_error' do
+        expect(TurkishCities.distance_between('Adansa', 'Adıyaman', 'land'))
+          .to eq "Couldn't find cities combination with 'Adansa/Adıyaman'"
+        expect(TurkishCities.distance_between('Kastamonu', 'falansa', 'land'))
+          .to eq "Couldn't find cities combination with 'Kastamonu/falansa'"
+        expect(TurkishCities.distance_between('filansa', 'falansa', 'land'))
+          .to eq "Couldn't find cities combination with 'filansa/falansa'"
+      end
+    end
+  end
+
+  describe '#distance_between(air)' do
     context 'when input is supported' do
       it 'finds air distance between two location' do
         very_short_distance_results = TurkishCities.distance_between('Bolu', 'Kastamonu', 'air')

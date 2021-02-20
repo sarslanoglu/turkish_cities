@@ -1,5 +1,11 @@
 # Changelog
 
+## master
+
+### New features
+
+* [#66](https://github.com/sarslanoglu/turkish_cities/issues/66): Add ```distance_between_land``` method for calculating land travel distances between cities
+
 ## 0.3.0 (2020-11-22)
 
 ### New features
