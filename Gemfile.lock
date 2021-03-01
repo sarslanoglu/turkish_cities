@@ -41,7 +41,7 @@ GEM
     rspec-support (3.10.0)
     rubocop (1.5.2)
       parallel (~> 1.10)
-      parser (>= 2.7.1.5)
+      parser (>= 3.0.0.0)
       rainbow (>= 2.2.2, < 4.0)
       regexp_parser (>= 1.8, < 3.0)
       rexml
@@ -62,7 +62,7 @@ GEM
     thor (1.0.1)
     tins (1.25.0)
       sync
-    unicode-display_width (1.7.0)
+    unicode-display_width (2.0.0)
 
 PLATFORMS
   ruby
