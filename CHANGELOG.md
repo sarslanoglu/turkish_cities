@@ -1,6 +1,6 @@
 # Changelog
 
-## master
+## 0.4.0 (2021-04-25)
 
 ### New features
 
