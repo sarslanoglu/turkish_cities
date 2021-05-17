@@ -4,15 +4,15 @@ module DecomposerHelper
   def check_input_range(input, min, max)
     return if input.to_i.between?(min, max)
 
-    raise RangeError, "Given value [#{input}] is outside bounds of #{min} to #{max}."
+    raise RangeError, I18n.t('errors.outside_bounds', input: input, min: min, max: max)
   end
 
   def city_not_found_error(input)
-    "Couldn't find city name with '#{input}'"
+    I18n.t('errors.city_not_found_error', input: input)
   end
 
   def cities_not_found_error(first, second)
-    "Couldn't find cities combination with '#{first}/#{second}'"
+    I18n.t('errors.cities_not_found_error', first: first, second: second)
   end
 
   def convert_chars(string)
@@ -35,11 +35,11 @@ module DecomposerHelper
   end
 
   def district_not_found_error(district_input, city_input)
-    "Couldn't find district name with '#{district_input}' of '#{city_input}'"
+    I18n.t('errors.district_not_found_error', district_input: district_input, city_input: city_input)
   end
 
   def postcode_not_found_error(postcode_input)
-    "Couldn't find any subdistrict with postcode '#{postcode_input}'"
+    I18n.t('errors.postcode_not_found_error', postcode_input: postcode_input)
   end
 
   def prepare_city_list(city_list, options)
@@ -64,6 +64,7 @@ module DecomposerHelper
 
   def sort_alphabetically(list, options = nil)
     turkish_alphabet = ' -0123456789abcçdefgğhıijklmnoöprsştuüvyz'
+
     list.sort_by do |item|
       item_to_sort = if options.nil? || options[:with].nil?
                        item
@@ -75,7 +76,8 @@ module DecomposerHelper
   end
 
   def subdistrict_not_found_error(subdistrict_input, district_input, city_input)
-    "Couldn't find subdistrict with '#{subdistrict_input}' of '#{district_input}'/'#{city_input}'"
+    I18n.t('errors.subdistrict_not_found_error', subdistrict_input: subdistrict_input, district_input: district_input,
+                                                 city_input: city_input)
   end
 
   private
@@ -99,6 +101,6 @@ module DecomposerHelper
   end
 
   def unsupported_travel_method(input)
-    "Travel method '#{input}' is unsupported"
+    I18n.t('errors.unsupported_travel_method', input: input)
   end
 end

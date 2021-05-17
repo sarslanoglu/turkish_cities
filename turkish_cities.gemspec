@@ -24,7 +24,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'bundler', '~> 2.2.16'
   s.add_development_dependency 'coveralls', '~> 0.8.23'
   s.add_development_dependency 'rspec', '~> 3.10.0'
-  s.add_development_dependency 'rubocop', '~> 1.3.1'
+  s.add_development_dependency 'rubocop', '~> 1.5.2'
 
   if s.respond_to?(:metadata)
     s.metadata['changelog_uri'] = 'https://github.com/sarslanoglu/turkish_cities/blob/master/CHANGELOG.md'

@@ -32,7 +32,7 @@ module NeighborhoodsParser
     end
 
     mahalle = []
-    data_array[3].downcase(:turkic).strip.split(' ').each do |word|
+    data_array[3].downcase(:turkic).strip.split.each do |word|
       if word[0] == '('
         word[1] = word[1].capitalize!(:turkic) unless word[1].to_i.to_s == word[1]
       else

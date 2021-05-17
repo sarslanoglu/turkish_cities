@@ -1,5 +1,11 @@
 # Changelog
 
+## master
+
+### New features
+
+* [#68](https://github.com/sarslanoglu/turkish_cities/issues/68): Add localization for all method responses and errors
+
 ## 0.4.0 (2021-04-25)
 
 ### New features

@@ -9,7 +9,7 @@ Layout/LineLength:
 Metrics/AbcSize:
   Max: 20
 Metrics/BlockLength:
-  ExcludedMethods: ['describe', 'context']
+  IgnoredMethods: ['describe', 'context']
 Metrics/MethodLength:
   Max: 15
 Style/Documentation:
