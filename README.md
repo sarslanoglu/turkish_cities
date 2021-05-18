@@ -20,6 +20,7 @@ https://rubygems.org/gems/turkish_cities
 
 ## Table of Contents
 * [Installation](#installation)
+* [Localization](#localization)
 * [Documentation](#documentation)
   * [Finding city name by plate number](#finding-city-name-by-plate-number)
   * [Finding city name by phone code](#finding-city-name-by-phone-code)
@@ -61,6 +62,24 @@ and run
 
 ```sh
 $ bundle
+```
+
+## Localization
+
+Currently gem supports two different languages, Turkish and English. English is default, if no action taken.
+
+Language can be easily changed by ```change_locale``` method. Valid parameters are 'tr' for Turkish and 'en' for English.
+
+```rb
+TurkishCities.change_locale('tr') # => "Dil Türkçe olarak ayarlandı."
+```
+
+After changing language all errors and result sets will be in desired language
+
+```rb
+TurkishCities.list_districts('Eskişehirrr') # => "'Eskişehirrr' ile bir şehir bulunamadı"
+TurkishCities.distance_between('kirsehir', 'Ordu', 'land')
+# => [533, "Kırşehir ile Ordu arasındaki karayolu mesafesi 533 km"]
 ```
 
 ## Documentation
@@ -319,9 +338,9 @@ https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Root/Uzakliklar/ilme
 
 | Ruby Version | Supported          |
 | ------------ | ------------------ |
-| 2.7.1        | :white_check_mark: |
-| 2.6.6        | :white_check_mark: |
-| 2.5.8        | :white_check_mark: |
+| 2.7.x        | :white_check_mark: |
+| 2.6.x        | :white_check_mark: |
+| 2.5.x        | :white_check_mark: |
 | < 2.5.1      | :x:                |
 
 - TurkishCities heavily depends on ```:turkic``` case mapping support of Ruby string downcase method. Below Ruby version 2.5.1 some functions will run buggy/false or even won't run at all.
@@ -329,7 +348,6 @@ https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Root/Uzakliklar/ilme
 ## Roadmap
 
 - Add missing sea travel method
-- Add localization to gem
 - Refactor tests (separate test suites with more edge case tests)
 
 ## Contributing

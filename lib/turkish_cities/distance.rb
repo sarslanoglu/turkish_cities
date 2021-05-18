@@ -121,11 +121,14 @@ class Distance
 
   def description_text(travel_method, city_array, result_set)
     if travel_method == 'Air'
-      return "#{travel_method} travel distance between #{city_array[0]['name']} and #{city_array[1]['name']} is " \
-        "#{result_set[0]} km. Estimated air travel would take #{result_set[1]} minutes."
+      return I18n.t('description_text.air_travel', first_city: city_array[0]['name'],
+                                                   second_city: city_array[1]['name'],
+                                                   distance: result_set[0],
+                                                   duration: result_set[1])
     end
 
-    "#{travel_method} travel distance between #{city_array[0]['name']} and #{city_array[1]['name']} is " \
-        "#{result_set[0]} km."
+    I18n.t('description_text.land_travel', first_city: city_array[0]['name'],
+                                           second_city: city_array[1]['name'],
+                                           distance: result_set[0])
   end
 end

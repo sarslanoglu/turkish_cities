@@ -8,8 +8,6 @@ require_relative '../turkish_cities/helpers/decomposer_helper'
 class City
   include DecomposerHelper
 
-  I18n.enforce_available_locales = false
-
   file_path = File.join(File.dirname(__FILE__), 'data/cities.yaml')
   CITY_LIST = YAML.load_file(file_path)
 
@@ -67,7 +65,7 @@ class City
   def check_phone_code(input)
     return if input.to_i.even?
 
-    raise ArgumentError, "Given value [#{input}] must be an even number."
+    raise ArgumentError, I18n.t('errors.not_even_input', input: input)
   end
 
   def filter_metropolitan_municipalities(city_list)

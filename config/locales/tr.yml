@@ -1,0 +1,17 @@
+tr:
+  description_text:
+    air_travel: "%{first_city} ile %{second_city} arasındaki havayolu mesafesi %{distance} km. Tahmini uçuş süresi %{duration} dakikadır"
+    land_travel: "%{first_city} ile %{second_city} arasındaki karayolu mesafesi %{distance} km"
+  errors:
+    cities_not_found_error: "'%{first}/%{second}' ile şehir kombinasyonu bulunamadı"
+    city_not_found_error: "'%{input}' ile bir şehir bulunamadı"
+    district_not_found_error: "'%{city_input}' şehrine ait '%{district_input}' ilçesi ile bir kayıt bulunamadı"
+    not_even_input: "Girilen değer [%{input}] çift sayı olmalı"
+    outside_bounds: "Girilen değer [%{input}] %{min} ile %{max} değerleri dışında"
+    postcode_not_found_error: "'%{postcode_input}' posta kodu ile kayıt bulunamadı"
+    subdistrict_not_found_error: "'%{subdistrict_input}' ile '%{district_input}'/'%{city_input}' ait bir kayıt bulunamdı"
+    unsupported_travel_method: "'%{input}' yolculuk methodu desteklenmiyor"
+  language:
+    errors:
+      unsupported_language_code: "Desteklenmeyen dil kodu. Lütfen Türkçe için 'tr', İngilizce için 'en' kullanınız"
+    success: "Dil Türkçe olarak ayarlandı"

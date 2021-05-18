@@ -4,12 +4,13 @@ AllCops:
     - 'Gemfile'
     - 'turkish_cities.gemspec'
   NewCops: enable
+  SuggestExtensions: false
 Layout/LineLength:
   Max: 120
 Metrics/AbcSize:
   Max: 20
 Metrics/BlockLength:
-  ExcludedMethods: ['describe', 'context']
+  IgnoredMethods: ['describe', 'context']
 Metrics/MethodLength:
   Max: 15
 Style/Documentation:

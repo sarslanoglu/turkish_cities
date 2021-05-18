@@ -6,7 +6,22 @@ require_relative '../lib/turkish_cities/district'
 require_relative '../lib/turkish_cities/postcode'
 require_relative '../lib/turkish_cities/version'
 
+require 'i18n'
+
+I18n.load_path << Dir["#{File.expand_path('config/locales')}/*.yml"]
+
 class TurkishCities
+  PLATE_NUMBER = 'plate_number'
+  PHONE_CODE = 'phone_code'
+
+  def self.change_locale(language_code)
+    if %w[en tr].include?(language_code)
+      I18n.locale = language_code.to_sym
+      return I18n.t('language.success')
+    end
+    I18n.t('language.errors.unsupported_language_code')
+  end
+
   def self.find_name_by_plate_number(plate_number)
     City.new.find_by_id(plate_number)
   end
@@ -16,11 +31,11 @@ class TurkishCities
   end
 
   def self.find_plate_number_by_name(city_name)
-    City.new.find_by_name(city_name, 'plate_number')
+    City.new.find_by_name(city_name, self::PLATE_NUMBER)
   end
 
   def self.find_phone_code_by_name(city_name)
-    City.new.find_by_name(city_name, 'phone_code')
+    City.new.find_by_name(city_name, self::PHONE_CODE)
   end
 
   def self.list_cities(options = {})

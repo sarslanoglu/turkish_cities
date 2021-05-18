@@ -3,6 +3,27 @@
 require_relative '../lib/turkish_cities'
 
 RSpec.describe TurkishCities do
+  describe '#change_locale' do
+    context 'when input is supported' do
+      it 'changes to turkish' do
+        expect(TurkishCities.change_locale('tr')).to eq 'Dil Türkçe olarak ayarlandı'
+      end
+
+      it 'changes to english' do
+        expect(TurkishCities.change_locale('en')).to eq 'Language set to English'
+      end
+    end
+
+    context 'when input is not supported' do
+      it 'gives error' do
+        expect(TurkishCities.change_locale(nil))
+          .to eq "Unsupported language code. Please use 'tr' for Turkish, 'en' for English"
+        expect(TurkishCities.change_locale('fr'))
+          .to eq "Unsupported language code. Please use 'tr' for Turkish, 'en' for English"
+      end
+    end
+  end
+
   describe '#find_name_by_plate_number' do
     context 'when input is supported' do
       it 'finds city by plate number' do
@@ -17,11 +38,11 @@ RSpec.describe TurkishCities do
     context 'when input is not supported' do
       it 'gives out of bounds error' do
         expect { TurkishCities.find_name_by_plate_number(nil) }
-          .to raise_error(RangeError, 'Given value [] is outside bounds of 1 to 81.')
+          .to raise_error(RangeError, 'Given value [] is outside bounds of 1 to 81')
         expect { TurkishCities.find_name_by_plate_number(0) }
-          .to raise_error(RangeError, 'Given value [0] is outside bounds of 1 to 81.')
+          .to raise_error(RangeError, 'Given value [0] is outside bounds of 1 to 81')
         expect { TurkishCities.find_name_by_plate_number('1000') }
-          .to raise_error(RangeError, 'Given value [1000] is outside bounds of 1 to 81.')
+          .to raise_error(RangeError, 'Given value [1000] is outside bounds of 1 to 81')
       end
     end
   end
@@ -47,16 +68,16 @@ RSpec.describe TurkishCities do
 
       it 'gives out of bounds error' do
         expect { TurkishCities.find_name_by_phone_code(nil) }
-          .to raise_error(RangeError, 'Given value [] is outside bounds of 212 to 488.')
+          .to raise_error(RangeError, 'Given value [] is outside bounds of 212 to 488')
         expect { TurkishCities.find_name_by_phone_code(0) }
-          .to raise_error(RangeError, 'Given value [0] is outside bounds of 212 to 488.')
+          .to raise_error(RangeError, 'Given value [0] is outside bounds of 212 to 488')
         expect { TurkishCities.find_name_by_phone_code('1000') }
-          .to raise_error(RangeError, 'Given value [1000] is outside bounds of 212 to 488.')
+          .to raise_error(RangeError, 'Given value [1000] is outside bounds of 212 to 488')
       end
 
       it 'gives error when phone code is not an even number' do
         expect { TurkishCities.find_name_by_phone_code(213) }
-          .to raise_error(ArgumentError, 'Given value [213] must be an even number.')
+          .to raise_error(ArgumentError, 'Given value [213] must be an even number')
       end
     end
   end
@@ -225,14 +246,14 @@ RSpec.describe TurkishCities do
         land_distance_results = TurkishCities.distance_between('Adana', 'Bolu', 'land')
         expect(land_distance_results[0]).to eq 690
         expect(land_distance_results[1])
-          .to eq 'Land travel distance between Adana and Bolu is 690 km.'
+          .to eq 'Land travel distance between Adana and Bolu is 690 km'
       end
 
       it 'finds land distance between two location when cities are not ordered on plate number' do
         land_distance_results = TurkishCities.distance_between('Zonguldak', 'Afyon', 'land')
         expect(land_distance_results[0]).to eq 488
         expect(land_distance_results[1])
-          .to eq 'Land travel distance between Zonguldak and Afyon is 488 km.'
+          .to eq 'Land travel distance between Zonguldak and Afyon is 488 km'
       end
     end
 
@@ -261,25 +282,25 @@ RSpec.describe TurkishCities do
         expect(very_short_distance_results[1]).to eq 49
         expect(very_short_distance_results[2])
           .to eq 'Air travel distance between Bolu and Kastamonu is 195.4 km. '\
-            'Estimated air travel would take 49 minutes.'
+            'Estimated air travel would take 49 minutes'
         short_distance_results = TurkishCities.distance_between('İzmir', 'Antalya', 'air')
         expect(short_distance_results[0]).to eq 357.18
         expect(short_distance_results[1]).to eq 65
         expect(short_distance_results[2])
           .to eq 'Air travel distance between İzmir and Antalya is 357.18 km. '\
-            'Estimated air travel would take 65 minutes.'
+            'Estimated air travel would take 65 minutes'
         medium_distance_results = TurkishCities.distance_between('istanbul', 'Ordu', 'air')
         expect(medium_distance_results[0]).to eq 746.71
         expect(medium_distance_results[1]).to eq 96
         expect(medium_distance_results[2])
           .to eq 'Air travel distance between İstanbul and Ordu is 746.71 km. '\
-            'Estimated air travel would take 96 minutes.'
+            'Estimated air travel would take 96 minutes'
         long_distance_results = TurkishCities.distance_between('istanbul', 'kars', 'air')
         expect(long_distance_results[0]).to eq 1187.94
         expect(long_distance_results[1]).to eq 120
         expect(long_distance_results[2])
           .to eq 'Air travel distance between İstanbul and Kars is 1187.94 km. '\
-            'Estimated air travel would take 120 minutes.'
+            'Estimated air travel would take 120 minutes'
       end
     end
 
@@ -372,11 +393,11 @@ RSpec.describe TurkishCities do
 
       it 'gives out of bounds error' do
         expect { TurkishCities.find_by_postcode(nil) }
-          .to raise_error(RangeError, 'Given value [] is outside bounds of 1010 to 81952.')
+          .to raise_error(RangeError, 'Given value [] is outside bounds of 1010 to 81952')
         expect { TurkishCities.find_by_postcode(0) }
-          .to raise_error(RangeError, 'Given value [0] is outside bounds of 1010 to 81952.')
+          .to raise_error(RangeError, 'Given value [0] is outside bounds of 1010 to 81952')
         expect { TurkishCities.find_by_postcode('100000') }
-          .to raise_error(RangeError, 'Given value [100000] is outside bounds of 1010 to 81952.')
+          .to raise_error(RangeError, 'Given value [100000] is outside bounds of 1010 to 81952')
       end
     end
   end
