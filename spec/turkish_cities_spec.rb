@@ -3,6 +3,27 @@
 require_relative '../lib/turkish_cities'
 
 RSpec.describe TurkishCities do
+  describe '#change_locale' do
+    context 'when input is supported' do
+      it 'changes to turkish' do
+        expect(TurkishCities.change_locale('tr')).to eq 'Dil Türkçe olarak ayarlandı'
+      end
+
+      it 'changes to english' do
+        expect(TurkishCities.change_locale('en')).to eq 'Language set to English'
+      end
+    end
+
+    context 'when input is not supported' do
+      it 'gives error' do
+        expect(TurkishCities.change_locale(nil))
+          .to eq "Unsupported language code. Please use 'tr' for Turkish, 'en' for English"
+        expect(TurkishCities.change_locale('fr'))
+          .to eq "Unsupported language code. Please use 'tr' for Turkish, 'en' for English"
+      end
+    end
+  end
+
   describe '#find_name_by_plate_number' do
     context 'when input is supported' do
       it 'finds city by plate number' do
