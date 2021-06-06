@@ -1,6 +1,6 @@
 # Changelog
 
-## master
+## 0.5.0 (2021-06-06)
 
 ### New features
 

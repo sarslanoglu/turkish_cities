@@ -9,7 +9,6 @@ Gem::Specification.new do |s|
   s.authors               = ['Semih Arslanoglu']
   s.email                 = 'arslanoglusemih93@gmail.com'
 
-  s.date                  = '2020-04-13'
   s.summary               = 'List and find Turkish cities'
   s.description           = 'List and find Turkish cities via name, district name, post code, plate number. Calculate air travel distance between cities and get realistic estimates of travel time'
   s.homepage              = 'https://github.com/sarslanoglu/turkish_cities'
