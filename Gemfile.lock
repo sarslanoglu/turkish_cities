@@ -39,7 +39,7 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.10.0)
     rspec-support (3.10.0)
-    rubocop (1.16.0)
+    rubocop (1.18.1)
       parallel (~> 1.10)
       parser (>= 3.0.0.0)
       rainbow (>= 2.2.2, < 4.0)
@@ -71,7 +71,7 @@ DEPENDENCIES
   bundler (~> 2.2.16)
   coveralls (~> 0.8.23)
   rspec (~> 3.10.0)
-  rubocop (~> 1.16.0)
+  rubocop (~> 1.18.1)
   turkish_cities!
 
 BUNDLED WITH
