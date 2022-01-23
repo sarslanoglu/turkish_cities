@@ -8,24 +8,27 @@ Atkaracalar:
     - İlker Mah
     - Kıran Mah
     - Mollaosman Mah
+  Çardaklı:
+    postcode: 18315
+    neighborhoods:
+    - Bozkuş Mah (Çardaklı Beldesi)
+    - Cumhuriyet Mah (Çardaklı Beldesi)
+    - Hürriyet Mah (Çardaklı Beldesi)
+    - Mustafa Kemal Mah (Çardaklı Beldesi)
+    - Nevzat Ayaz Mah (Çardaklı Beldesi)
   Merkezköyler:
     postcode: 18312
     neighborhoods:
-    - Bozkuş Mah (Çardaklı Köyü)
     - Budakpınar Köyü
-    - Cumhuriyet Mah (Çardaklı Köyü)
     - Demirciler Mah (Kükürt Köyü)
     - Demirli Köyü
     - Dere Mah (Yakalı Köyü)
     - Eyüpözü Köyü
-    - Hürriyet Mah (Çardaklı Köyü)
     - Hüyükköy Köyü
     - Ilıpınar Mah
     - Kadıgil Mah (Yakalı Köyü)
     - Kızılibrik Köyü
     - Kolavlağı Mah (Kükürt Köyü)
-    - Mustafa Kemal Mah (Çardaklı Köyü)
-    - Nevzat Ayaz Mah (Çardaklı Köyü)
     - Orta Mah (Kükürt Köyü)
     - Orta Mah (Yakalı Köyü)
     - Susuz Köyü
@@ -57,7 +60,6 @@ Bayramören:
     - Dere Mah (Karakuzu Köyü)
     - Doğan Mah (Yusufoğlu Köyü)
     - Dolaşlar Köyü
-    - Ecük Çayı Mah (Topçu Köyü)
     - Ecük Mah (Topçu Köyü)
     - Ekincik Mah (Kavakköy Köyü)
     - Erenler Köyü
@@ -128,6 +130,7 @@ Bayramören:
     - Aliözü Köyü
     - Avdan Yaylası Mah (Yeşilöz Köyü)
     - Bayındır Köyü
+    - Bayındır Yaylası Mah (Bayındır Köyü)
     - Bedil Köyü
     - Bey Mah (Gökçeler Köyü)
     - Boyuncak Mah (Saraycık Köyü)
@@ -146,7 +149,6 @@ Bayramören:
     - Fındıcak Köyü
     - Gelik Mah (Gelik Ovacık Köyü)
     - Güvem Mah (Çaylı Köyü)
-    - Güzelyurt Mah (Saçak Köyü)
     - Hacılar Köyü
     - Halkaoğlu Köyü
     - Ilıca Mah (Kadıköy Köyü)
@@ -158,7 +160,6 @@ Bayramören:
     - Karamustafa Köyü
     - Karaşar Köyü
     - Karga Köyü
-    - Kayabaşı Mah (Saçak Köyü)
     - Kınık Mah (Aydınlar Köyü)
     - Kışla Mah (Beymelik Köyü)
     - Kirenözü Mah (Yıprak Köyü)
@@ -200,21 +201,24 @@ Bayramören:
     - Taşanlar Köyü
     - Tohumlar Mah (Yıprak Köyü)
     - Uluköy Köyü
-    - Yalıözü Mah (Saçak Köyü)
     - Yalnızca Mah (Kadıköy Köyü)
     - Yayla Evleri Mah (Dikenli Köyü)
-    - Yayla Mah (Akhasan Köyü)
     - Yayla Mah (Türbaşı Köyü)
-    - Yeni Mah (Saçak Köyü)
     - Yeniköy Köyü
     - Yeşilova Mah (Yeşilöz Köyü)
     - Yeşilören Mah (Göynükçukuru Köyü)
     - Yoncalı Köyü
     - Yortan Mah (Kiremitçi Köyü)
-    - Yortan Yaylası Mah (Kiremitçi Köyü)
     - Yörük Mah (Çaylı Köyü)
     - Yumaklı Köyü
     - Yusufoğlu Mah (Kuzören Köyü)
+  Saçak:
+    postcode: 18630
+    neighborhoods:
+    - Güzelyurt Mah (Saçak Beldesi)
+    - Kayabaşı Mah (Saçak Beldesi)
+    - Yalıözü Mah (Saçak Beldesi)
+    - Yeni Mah (Saçak Beldesi)
 Eldivan:
   Eldivan:
     postcode: 18700
@@ -427,7 +431,6 @@ Korgun:
     - Merkez Mah (Dikenli Köyü)
     - Sanı Yaylası Mah (Maruf Köyü)
     - Şıhlar Köyü
-    - Yolkaya Yaylası Mah (Hıcıp Köyü)
 Kurşunlu:
   Kurşunlu:
     postcode: 18300
@@ -532,7 +535,6 @@ Merkez:
     - Kara Ciceli Mah (Taytak Köyü)
     - Karakışla Mah (Süleymanlı Köyü)
     - Karaşeyh Köyü
-    - Kasımağa Mah (Dede Köyü)
     - Kılıçargı Altı Mah (Aşağıyanlar Köyü)
     - Köy İçi Mah (Aşağıyanlar Köyü)
     - Köy İçi Mah (Çivi Köyü)
@@ -579,7 +581,6 @@ Orta:
     - Akçaören Mah (Elmalık Köyü)
     - Buğurören Köyü
     - Büğdüz Köyü
-    - Cumhuriyet Mah (Yaylakent Köyü)
     - Derebayındır Köyü
     - Doğanlar Köyü
     - Elden Köyü
@@ -590,13 +591,10 @@ Orta:
     - Hamamönü Mah (Dodurga Köyü)
     - Hasanhacı Köyü
     - Hatipler Mah (Kalfat Köyü)
-    - Hürriyet Mah (Yaylakent Köyü)
     - Hüyükköy Köyü
     - İncecik Köyü
-    - İnkilap Mah (Yaylakent Köyü)
     - Kanarya Mah (Dodurga Köyü)
     - Karaağaç Köyü
-    - Kayılar Mah (Yaylakent Köyü)
     - Kayıören Köyü
     - Kırsakal Köyü
     - Kısaç Köyü
@@ -626,6 +624,13 @@ Orta:
     - Eski Yayla Mah
     - Kanlıca Mah
     - Sultan Beyazıt Mah
+  Yaylakent:
+    postcode: 18810
+    neighborhoods:
+    - Cumhuriyet Mah (Yaylakent Beldesi)
+    - Hürriyet Mah (Yaylakent Beldesi)
+    - İnkilap Mah (Yaylakent Beldesi)
+    - Kayılar Mah (Yaylakent Beldesi)
 Şabanözü:
   Merkezköyler:
     postcode: 18652

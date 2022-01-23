@@ -9,6 +9,12 @@ Beşiri:
     - Kobin Mah
     - Mehmet Yatkın Mah
     - Milli Egemenlik Mah
+  İkiköprü:
+    postcode: 72240
+    neighborhoods:
+    - Karaduman Mah (İkiköprü Beldesi)
+    - Kıyanç Mah (İkiköprü Beldesi)
+    - Turgut Özal Mah (İkiköprü Beldesi)
   Merkezköyler:
     postcode: 72202
     neighborhoods:
@@ -33,6 +39,7 @@ Beşiri:
     - Bıgevra Mah (Eskihamur Köyü)
     - Bilek Köyü
     - Çakıllı Köyü
+    - Çamlıtepe Mah (Eskihamur Köyü)
     - Çavuşbayırı Köyü
     - Çay Kenarı Mah (Samanlı Köyü)
     - Çaykenarı Mah (Durucak Köyü)
@@ -64,7 +71,6 @@ Beşiri:
     - İslamköy Mah (Durucak Köyü)
     - Kale Mah (Yalınkavak Köyü)
     - Kapaklı Mah (Bahçeli Köyü)
-    - Karaduman Mah (İkiköprü Köyü)
     - Karataş Mah (Kaşüstü Köyü)
     - Karatepe Köyü
     - Kaşüstü Köyü
@@ -72,7 +78,6 @@ Beşiri:
     - Kesiktaş Mah (Alaca Köyü)
     - Kezik Mah (Eskihamur Köyü)
     - Kışlacık Mah (Oğuz Köyü)
-    - Kıyanç Mah (İkiköprü Köyü)
     - Kökebi Mah (Eskihamur Köyü)
     - Kumçay Köyü
     - Kumgeçit Köyü
@@ -86,6 +91,7 @@ Beşiri:
     - Nurettin Mah (Bilek Köyü)
     - Oğuz Köyü
     - Onbaşı Mah (Oğuz Köyü)
+    - Organize Sanayi Bölgesi Mah (Danalı Köyü)
     - Organize Sanayi Bölgesi Mah (Örmegöze Köyü)
     - Ortaalan Mah (Kurukavak Köyü)
     - Otluca Köyü
@@ -98,7 +104,6 @@ Beşiri:
     - Sütlüce Mah (Beşpınar Köyü)
     - Tekağaç Köyü
     - Tepecik Köyü
-    - Turgut Özal Mah (İkiköprü Köyü)
     - Uğurca Köyü
     - Üçkuyular Köyü
     - Yağlıca Mah (Çakıllı Köyü)
@@ -127,6 +132,11 @@ Gercüş:
     - Bağlarbaşı Mah
     - Çukurçeşme Mah
     - Pınarbaşı Mah
+  Kayapınar:
+    postcode: 72310
+    neighborhoods:
+    - Pınarbaşı Mah (Kayapınar Beldesi)
+    - Yeşilyurt Mah (Kayapınar Beldesi)
   Merkezköyler:
     postcode: 72302
     neighborhoods:
@@ -187,9 +197,9 @@ Gercüş:
     - Mağaralı Mah (Aydınlı Köyü)
     - Muratlı Mah (Ardıçlı Köyü)
     - Nurlu Köyü
+    - Otlu Mah (Doruk Köyü)
     - Öteyaka Mah (Kırkat Köyü)
     - Özler Köyü
-    - Pınarbaşı Mah (Kayapınar Köyü)
     - Poyraz Köyü
     - Rüzgarlı Köyü
     - Sargın Köyü
@@ -206,7 +216,6 @@ Gercüş:
     - Yayladüzü Köyü
     - Yemişli Köyü
     - Yenice Köyü
-    - Yeşilyurt Mah (Kayapınar Köyü)
     - Yolağzı Mah
     - Yüceköy Köyü
 Hasankeyf:
@@ -247,6 +256,14 @@ Hasankeyf:
     - Yakaköy Köyü
     - Yolüstü Köyü
 Kozluk:
+  Bekirhan:
+    postcode: 72420
+    neighborhoods:
+    - Adnan Menderes Mah (Bekirhan Beldesi)
+    - Gülpınar Mah (Bekirhan Beldesi)
+    - Ortaçay Mah (Bekirhan Beldesi)
+    - Turgut Özal Mah (Bekirhan Beldesi)
+    - Yapraklı Mah (Bekirhan Beldesi)
   Kozluk:
     postcode: 72400
     neighborhoods:
@@ -267,7 +284,6 @@ Kozluk:
   Merkezköyler:
     postcode: 72402
     neighborhoods:
-    - Adnan Menderes Mah (Bekirhan Köyü)
     - Ağaçlık Mah
     - Ağılbaş Mah (Beşkonak Köyü)
     - Ağlemk Mah (Koçaklı Köyü)
@@ -332,7 +348,6 @@ Kozluk:
     - Gökbudak Mah (Arıkaya Köyü)
     - Güllüce Köyü
     - Gülovası Mah (Uzunçayır Köyü)
-    - Gülpınar Mah (Bekirhan Köyü)
     - Gültepe Mah (Gürpınar Köyü)
     - Gümüşörgü Köyü
     - Gündüzlü Köyü
@@ -386,7 +401,6 @@ Kozluk:
     - Orta Mah (Kavakdibi Köyü)
     - Orta Mah (Ziyaret Köyü)
     - Ortaca Köyü
-    - Ortaçay Mah (Bekirhan Köyü)
     - Oyuktaş Köyü
     - Örensu Köyü
     - Örnek Mah (Tuzlagözü Köyü)
@@ -426,7 +440,6 @@ Kozluk:
     - Toptaş Mah (Kumlupınar Köyü)
     - Tosunpınar Köyü
     - Tunçbilek Mah (İnişli Köyü)
-    - Turgut Özal Mah (Bekirhan Köyü)
     - Tuzlagözü Köyü
     - Uğurlu Mah (Uzunyazı Köyü)
     - Ulaşlı Köyü
@@ -440,7 +453,6 @@ Kozluk:
     - Yanıkkaya Köyü
     - Yankılı Köyü
     - Yapaklı Köyü
-    - Yapraklı Mah (Bekirhan Köyü)
     - Yayalar Köyü
     - Yazılı Köyü
     - Yazpınar Köyü
@@ -469,6 +481,13 @@ Kozluk:
     - Ziyaret Köyü
     - Zorluca Mah (Ulaşlı Köyü)
 Merkez:
+  Balpınar:
+    postcode: 72030
+    neighborhoods:
+    - Segirkan Mah (Balpınar Beldesi)
+    - Seyrantepe Mah (Balpınar Beldesi)
+    - Yeniköy Mah (Balpınar Beldesi)
+    - Yenimahalle Mah (Balpınar Beldesi)
   Çarşı:
     postcode: 72050
     neighborhoods:
@@ -526,7 +545,7 @@ Merkez:
     - Çarıklı Köyü
     - Çayeli Mah (Demirlipınar Köyü)
     - Çayüstü Köyü
-    - Çeşmebaşı Mah (Demirbilek Köyü)
+    - Çeşmebaşı Köyü
     - Çevrimova Köyü
     - Demirbilek Köyü
     - Demirci Mah (Akoba Köyü)
@@ -559,9 +578,7 @@ Merkez:
     - Recepler Köyü
     - Reyhan Mah (Güneşli Köyü)
     - Salkımlı Mah (Çayüstü Köyü)
-    - Segirkan Mah (Balpınar Köyü)
     - Selamet Mah (Bayraklı Köyü)
-    - Seyrantepe Mah (Balpınar Köyü)
     - Sincanlı Mah (Oymataş Köyü)
     - Soğuksu Mah (Oymataş Köyü)
     - Suçeken Köyü
@@ -576,8 +593,6 @@ Merkez:
     - Yaylıca Köyü
     - Yediyol Köyü
     - Yeni Köy Mah (Diktepe Köyü)
-    - Yeniköy Mah (Balpınar Köyü)
-    - Yenimahalle Mah (Balpınar Köyü)
     - Yenişehir Mah
     - Yeşilöz Köyü
     - Yoğurtlu Mah (Bayraklı Köyü)
@@ -604,21 +619,17 @@ Sason:
     - Ağakünük Mah (Dörtbölük Köyü)
     - Ahkar Mezra Mah (Derince Köyü)
     - Akbelen Mah (Heybeli Köyü)
-    - Akyemiş Mezra Mah (Yolüstü Köyü)
     - Altındere Köyü
     - Ambarlı Mezra Mah (Dörtbölük Köyü)
     - Arkök Mah (Yakabağ Köyü)
     - Arpacık Mezra Mah (Çakırpınar Köyü)
     - Aşağı Çayırlı Mah (Çayırlı Köyü)
-    - Aydınlık Mah (Yücebağ Köyü)
     - Aykonak Mah (Bayramlar Köyü)
     - Bakihisar Mah (Yakabağ Köyü)
     - Balbaşı Köyü
-    - Barış Mah (Yücebağ Köyü)
     - Bayramlar Köyü
     - Bergazi Mah (Heybeli Köyü)
     - Beypsiye Mah (Soğanlı Köyü)
-    - Binekli Mah (Yücebağ Köyü)
     - Binöni Mezra Mah (Kelhasan Köyü)
     - Boğazkapı Köyü
     - Bozdoğan Mezra Mah (Dörtbölük Köyü)
@@ -643,7 +654,7 @@ Sason:
     - Dikbayır Köyü
     - Dikmetaş Mah (Bayramlar Köyü)
     - Dörtbölük Köyü
-    - Ekinlik Mezra Mah (Yolüstü Köyü)
+    - Ekinlik Mezra Mah (Ekinlik Köyü)
     - Elagöz Mah (Sarıyayla Köyü)
     - Ellibren Mah (Çakırpınar Köyü)
     - Elmapınar Mezra Mah (Kaşyayla Köyü)
@@ -663,7 +674,6 @@ Sason:
     - Gündoğdu Mezra Mah (Çağlı Köyü)
     - Güneşli Mah (Heybeli Köyü)
     - Güneşli Mezra Mah (Acar Köyü)
-    - Günlüce Mah (Yücebağ Köyü)
     - Günyecik Mezra Mah (Kaşyayla Köyü)
     - Gürgenli Köyü
     - Güvenç Mezra Mah (Gürgenli Köyü)
@@ -680,7 +690,6 @@ Sason:
     - Kaman Mah (Yakabağ Köyü)
     - Karaağaç Mah (Karayün Köyü)
     - Karameşe Köyü
-    - Karşıyaka Mah (Yücebağ Köyü)
     - Kaşyayla Köyü
     - Kavaklı Köyü
     - Kayadibi Mah (Cevizli Köyü)
@@ -693,11 +702,10 @@ Sason:
     - Kısrak Mah (Soğanlı Köyü)
     - Kilis Köyü
     - Kocanlar Mezra Mah (Kavaklı Köyü)
-    - Koçkaya Mah (Yücebağ Köyü)
     - Konaklı Mezra Mah (Çakırpınar Köyü)
     - Kömürdür Mah (Örenağıl Köyü)
     - Köprübaşı Köyü
-    - Kulaksız Mah (Dağçatı Köyü)
+    - Kulaksız Köyü
     - Kurt Mah (Yuvalar Köyü)
     - Kuzkoncuk Mah (Çağlı Köyü)
     - Merge Mah (Umurlu Köyü)
@@ -727,7 +735,6 @@ Sason:
     - Taşlıca Mah (Örenağıl Köyü)
     - Taşyuva Köyü
     - Taşyuva Mah (Kaşyayla Köyü)
-    - Tepe Mah (Yücebağ Köyü)
     - Tepecik Mezra Mah (Kavaklı Köyü)
     - Tire Mah (Karameşe Köyü)
     - Topluca Köyü
@@ -742,7 +749,6 @@ Sason:
     - Yelek Mez Mah (Sarıyayla Köyü)
     - Yeniköy Köyü
     - Yeniyurt Mah (Heybeli Köyü)
-    - Yıldız Mah (Yücebağ Köyü)
     - Yıldızkaya Mah (Sarıyayla Köyü)
     - Yiğitler Köyü
     - Yiğitli Mezra Mah (Yiğitler Köyü)
@@ -753,9 +759,9 @@ Sason:
     - Yukarı Ergünü Mah (Ergünü Köyü)
     - Yukarı Ergünü Mah (Kayadüzü Köyü)
     - Yuvalar Köyü
-    - Yuvarlar Mezra Mah (Gürgenli Köyü)
+    - Yuvalıçay Köyü
     - Yürekli Köyü
-    - Ziyaret Mah (Umurlu Köyü)
+    - Ziyaret Köyü
     - Zornik Mezra Mah (Taşyuva Köyü)
   Sason:
     postcode: 72500
@@ -788,3 +794,14 @@ Sason:
     - Yıldız Mah
     - Yukarı Mah
     - Zafer Mah
+  Yücebağ:
+    postcode: 72510
+    neighborhoods:
+    - Aydınlık Mah (Yücebağ Beldesi)
+    - Barış Mah (Yücebağ Beldesi)
+    - Binekli Mah (Yücebağ Beldesi)
+    - Günlüce Mah (Yücebağ Beldesi)
+    - Karşıyaka Mah (Yücebağ Beldesi)
+    - Koçkaya Mah (Yücebağ Beldesi)
+    - Tepe Mah (Yücebağ Beldesi)
+    - Yıldız Mah (Yücebağ Beldesi)

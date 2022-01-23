@@ -53,7 +53,7 @@ Karakoyunlu:
     - Bulakbaşı Köyü
     - Cennetabat Köyü
     - Gökçeli Köyü
-    - Göl Mah (Zülfikarköy Köyü)
+    - Gölköy Mah (Gölköy Köyü)
     - İslamköy Köyü
     - Kacardoğanşalı Köyü
     - Kerimbeyli Köyü
@@ -67,6 +67,19 @@ Karakoyunlu:
     - Yukarıalican Köyü
     - Zülfikarköy Köyü
 Merkez:
+  Halfeli:
+    postcode: 76410
+    neighborhoods:
+    - Bahçelievler Mah (Halfeli Beldesi)
+    - Özvatan Mah (Halfeli Beldesi)
+    - Said Nursi Mah (Halfeli Beldesi)
+    - Turgut Özal Mah (Halfeli Beldesi)
+    - Yunus Emre Mah (Halfeli Beldesi)
+  Hoşhaber:
+    postcode: 76420
+    neighborhoods:
+    - Faruktoka Mah (Hoşhaber Beldesi)
+    - Yeni Mah (Hoşhaber Beldesi)
   Iğdır:
     postcode: 76103
     neighborhoods:
@@ -84,6 +97,12 @@ Merkez:
     - Söğütlü Mah
     - Topçular Mah
     - Yeni Mah
+  Melekli:
+    postcode: 76401
+    neighborhoods:
+    - Karabağ Mah (Melekli Beldesi)
+    - Mehmet Akif Ersoy Mah (Melekli Beldesi)
+    - Namık Kemal Mah (Melekli Beldesi)
   Merkezköyler:
     postcode: 76002
     neighborhoods:
@@ -94,7 +113,6 @@ Merkez:
     - Asma Köyü
     - Aşağıçarıkçı Köyü
     - Aşağıerhacı Köyü
-    - Bahçelievler Mah (Halfeli Köyü)
     - Bayraktutan Köyü
     - Belalak Mah (Kavaktepe Köyü)
     - Bendemurat Köyü
@@ -107,9 +125,7 @@ Merkez:
     - Elmagöl Köyü
     - Enginalan Köyü
     - Evci Köyü
-    - Faruktoka Mah (Hoşhaber Köyü)
     - Gülpınar Köyü
-    - Güneşli Mah (Melekli Köyü)
     - Güngörmez Köyü
     - Hakmehmet Köyü
     - Harmandöven Köyü
@@ -128,29 +144,22 @@ Merkez:
     - Kuç Mah (Mezraa Köyü)
     - Kuzugüden Köyü
     - Küllük Köyü
-    - Mehmet Akif Ersoy Mah (Melekli Köyü)
     - Mezraa Köyü
     - Mirza Mah (Kavaktepe Köyü)
-    - Namık Kemal Mah (Melekli Köyü)
     - Necefali Köyü
     - Nişankaya Köyü
     - Obaköy Köyü
     - Örüşmüş Köyü
-    - Özvatan Mah (Halfeli Köyü)
     - Panik Köyü
     - Pınarbaşı Köyü
-    - Said Nursi Mah (Halfeli Köyü)
     - Sarıçoban Köyü
     - Suveren Köyü
     - Şanlımırza Mah (Suveren Köyü)
     - Tacirli Köyü
     - Taşlıca Köyü
-    - Turgut Özal Mah (Halfeli Köyü)
     - Yaycı Köyü
-    - Yeni Mah (Hoşhaber Köyü)
     - Yukarıçarıkcı Köyü
     - Yukarıerhacı Mah (Aşağıerhacı Köyü)
-    - Yunus Emre Mah (Halfeli Köyü)
     - Yüzbaşılar Köyü
     - Zor Köyü
 Tuzluca:

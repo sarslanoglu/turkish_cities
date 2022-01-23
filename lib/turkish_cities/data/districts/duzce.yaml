@@ -196,7 +196,7 @@ Gölyaka:
     - Yazıpınar Mah
     - Yeni Mah
     - Yeşil Mah
-  Merkezköyler:
+  Merkez köyler:
     postcode: 81802
     neighborhoods:
     - Açma Köyü
@@ -376,76 +376,112 @@ Kaynaşlı:
     - Yağcılar Bilal Mah (Muratbey Köyü)
     - Yenidoğan Mah (Üçköprü Köyü)
 Merkez:
-  Aziziyegünlü:
-    postcode: 81010
-    neighborhoods:
-    - Ağaköyü Mah
-    - Akpınar Mah
-    - Arapçiftliği Mah
-    - Aziziye Mah
-    - Azmimilli Mah
-    - Burhaniye Mah
-    - Camikebir Mah
-    - Cedidiye Mah
-    - Çakırlar Mah
-    - Çamköy Mah
-    - Çavuşlar Mah
-    - Çay Mah
-    - Darıcı Mah
-    - Dedeler Mah
-    - Fevziçakmak Mah
-    - Kazukoğlu Mah
-    - Kiremitocağı Mah
-    - Koçyazı Mah
-    - Kuyumcuhacıali Mah
-    - Mergiç Mah
-    - Nalbantoğlu Mah
-    - Nusrettin Mah
-    - Sallar Mah
-    - Sancaklar Mah
-    - Sarayyeri Mah
-    - Soğukpınar Mah
-    - Şerefiye Mah
-    - Şıralık Mah
-    - Tokuşlar Mah
-    - Uzunmustafa Mah
-    - Yahyalar Mah
-    - Yukarı Yahyalar Mah
-  Beyciler:
-    postcode: 81030
-    neighborhoods:
-    - Beyciler Mah
-    - Cumhuriyet Mah
-    - Derelitütüncü Mah
-    - Fatih Mah
-    - Hamidiye Mah
-    - Kara Hacımusa Mah
-    - Karaca Mah
-    - Körpeşler Mah
-    - Yeni Mah
-  Beyköy:
-    postcode: 81600
-    neighborhoods:
-    - Akınlar Mah
-    - Kültür Mah
-  Boğaziçi:
-    postcode: 81620
-    neighborhoods:
-    - Şehit Bayram Gökmen Mah
-    - Şehit Hüseyin Kıl Mah
-    - Şehit Kemal Işıldak Mah
-    - Şehit Murat Demir Mah
-  Kalıcıkonutlar:
+  Bahçeşehir:
     postcode: 81630
     neighborhoods:
     - Bahçelievler Mah
+    - Çakırlar Mah
     - Çamlıevler Mah
     - Demetevler Mah
     - Esentepe Mah
     - Güzelbahçe Mah
+    - Kazukoğlu Mah
+    - Kuyumcuhacıali Mah
+    - Nalbantoğlu Mah
+    - Sallar Mah
+    - Tokuşlar Mah
+    - Yahyalar Mah
     - Yeşiltepe Mah
+    - Yukarı Yahyalar Mah
+  Beyköy:
+    postcode: 81600
+    neighborhoods:
+    - Beytepe Mah (Beyköy Beldesi)
+    - Büyükaçma Köyü
+    - Cumhuriyet Mah (Beyköy Beldesi)
+    - Cumhuriyet Osb2 Mah (Beyköy Beldesi)
+    - Çalıcuma Köyü
+    - Değirmenbaşı Mah (Beyköy Beldesi)
+    - İstiklal Mah (Beyköy Beldesi)
+    - İstiklal Osb1 Mah (Beyköy Beldesi)
+    - Kültür Mah (Beyköy Beldesi)
+    - Muradiyemengencik Köyü
+    - Ovapınar Köyü
+    - Yeni Mah (Beyköy Beldesi)
+  Boğaziçi:
+    postcode: 81610
+    neighborhoods:
+    - Ballar Mah (Boğaziçi Beldesi)
+    - Capoğlu Mah (Kabalak Köyü)
+    - Çayırtarla Mah (Boğaziçi Beldesi)
+    - Dinler Mah (Kabalak Köyü)
+    - Dokuzpınar Mah (Boğaziçi Beldesi)
+    - İzmirli Mah (Kabalak Köyü)
+    - Merkez Mah (Kabalak Köyü)
+    - Mezarlık Mah (Kabalak Köyü)
+    - Şekerpınar Mah (Boğaziçi Beldesi)
+    - Tekirpınar Mah (Kabalak Köyü)
+    - Yazlık Mah (Boğaziçi Beldesi)
+    - Yeşilköy Mah (Boğaziçi Beldesi)
+  Cedidiye:
+    postcode: 81010
+    neighborhoods:
+    - Aziziye Mah
+    - Burhaniye Mah
+    - Camikebir Mah
+    - Cedidiye Mah
+    - Fevziçakmak Mah
+    - Kiremitocağı Mah
+    - Kültür Mah
+    - Mergiç Mah
+    - Nusrettin Mah
+    - Şerefiye Mah
+    - Uzunmustafa Mah
+  Çay:
+    postcode: 81020
+    neighborhoods:
+    - Ağaköyü Mah
+    - Azmimilli Mah
+    - Çay Mah
+    - Darıcı Mah
+    - Şıralık Mah
+  Hamidiye:
+    postcode: 81040
+    neighborhoods:
+    - Akınlar Mah
+    - Arapçiftliği Mah
+    - Çamköy Mah
+    - Fatih Mah
+    - Hamidiye Mah
+    - Kara Hacımusa Mah
+    - Körpeşler Mah
+    - Sancaklar Mah
+    - Sarayyeri Mah
+    - Yeni Mah
+  Koçyazı:
+    postcode: 81030
+    neighborhoods:
+    - Akpınar Mah
+    - Beyciler Mah
+    - Cumhuriyet Mah
+    - Çavuşlar Mah
+    - Dedeler Mah
+    - Derelitütüncü Mah
+    - Karaca Mah
+    - Koçyazı Mah
+    - Soğukpınar Mah
   Konuralp:
-    postcode: 81060
+    postcode: 81620
+    neighborhoods:
+    - Çiftepınarlar Mah
+    - Orhangazi Mah
+    - Şehit Bayram Gökmen Mah
+    - Şehit Hüseyin Kıl Mah
+    - Şehit Kemal Işıldak Mah
+    - Şehit Murat Demir Mah
+    - Terzialiler Mah
+  Merkezköyler:
+    postcode: 81100
     neighborhoods:
     - Açmalar Mah (Asar Köyü)
     - Afanoğlu Mah (Yeni Aynalı Köyü)
@@ -458,36 +494,26 @@ Merkez:
     - Aşağı Mah (Yörük Köyü)
     - Aynalı Köyü
     - Bahçelievler Mah (Derdin Köyü)
-    - Ballar Mah (Boğaziçi Köyü)
     - Bataklı Çiftlik Köyü
-    - Beytepe Mah (Beyköy Köyü)
     - Bostanlık Köyü
     - Bucakkurulu Mah (Samandere Köyü)
     - Bük Mah (Çınardüzü Köyü)
-    - Büyükaçma Köyü
-    - Capoğlu Mah (Kabalak Köyü)
     - Cuma Mah (Aydınpınar Köyü)
-    - Cumhuriyet Mah (Beyköy Köyü)
     - Cumhuriyet Mah (Üçyol Köyü)
-    - Cumhuriyet Osb2 Mah (Beyköy Köyü)
     - Çakırhacı İbrahim Köyü
     - Çakmanlar Mah (Sinirci Köyü)
-    - Çalıcuma Köyü
     - Çam Mah (Eski Mengencik Köyü)
     - Çamlık Mah (Uğur Köyü)
     - Çamlısu Köyü
     - Çayırbaşı Mah (Nasırlı Köyü)
-    - Çayırtarla Mah (Boğaziçi Köyü)
     - Çınarlı Köyü
     - Çiçek Mah (İstilli Köyü)
-    - Çiftepınarlar Mah
     - Çiftlik Köyü
     - Çimen Mah (Yeni Taşköprü Köyü)
     - Çobanoğlu Mah (Yeni Aynalı Köyü)
     - Çorak Mah (Kaymakçı Köyü)
     - Çorak Mah (Uğur Köyü)
     - Değirmen Mah (Gölormanı Köyü)
-    - Değirmenbaşı Mah (Beyköy Köyü)
     - Değirmenüstü Mah (Samandere Köyü)
     - Demirciler Mah (Asar Köyü)
     - Depo Mah (Gölormanı Köyü)
@@ -495,10 +521,8 @@ Merkez:
     - Dere Mah (Kurtsuyu Köyü)
     - Develi Besni Köyü
     - Develi Mah (Hacı Ahmetler Köyü)
-    - Dinler Mah (Kabalak Köyü)
     - Doğanlı Köyü
     - Doğanlı Mah (Doğanlı Köyü)
-    - Dokuzpınar Mah (Boğaziçi Köyü)
     - Doruk Mah (Derdin Köyü)
     - Duraklar Köyü
     - Efendi Mah (Hocaoğlu Köyü)
@@ -529,10 +553,7 @@ Merkez:
     - İhsaniye Köyü
     - İslahiye Köyü
     - İslahiye Mah (İslahiye Köyü)
-    - İstiklal Mah (Beyköy Köyü)
     - İstiklal Mah (Üçyol Köyü)
-    - İstiklal Osb1 Mah (Beyköy Köyü)
-    - İzmirli Mah (Kabalak Köyü)
     - Kadıoğlu Köyü
     - Kaledibi Köyü
     - Kalyoncu Mah (Gölormanı Köyü)
@@ -562,7 +583,6 @@ Merkez:
     - Kutlu Köyü
     - Küçükahmet Köyü
     - Küçükmehmet Köyü
-    - Kültür Mah (Beyköy Köyü)
     - Kürt Mah (Ballıca Köyü)
     - Mamure Köyü
     - Merkez Mah (Asar Köyü)
@@ -582,7 +602,6 @@ Merkez:
     - Merkez Mah (Hacı Ahmetler Köyü)
     - Merkez Mah (Hocaoğlu Köyü)
     - Merkez Mah (İstilli Köyü)
-    - Merkez Mah (Kabalak Köyü)
     - Merkez Mah (Kaymakçı Köyü)
     - Merkez Mah (Kirazlı Köyü)
     - Merkez Mah (Kurtsuyu Köyü)
@@ -598,22 +617,18 @@ Merkez:
     - Merkez Mah (Yeni Aynalı Köyü)
     - Merkez Mah (Yeni Taşköprü Köyü)
     - Merkez Mah (Yörük Köyü)
-    - Mezarlık Mah (Kabalak Köyü)
     - Mollaoğlu Mah (Ozanlar Köyü)
     - Muncurlu Mah (Muncurlu Köyü)
-    - Muradiyemengencik Köyü
     - Musababa Köyü
     - Musababa Mah (Musababa Köyü)
     - Nuhlar Mah (Nasırlı Köyü)
     - Nuhlar Mah (Nuhlar Köyü)
     - Nusret Yılmaz Mah (Gölormanı Köyü)
-    - Orhangazi Mah
     - Orta Mah (Otluoğlu Köyü)
     - Orta Mah (Yeni Aynalı Köyü)
     - Osmanca Köyü
     - Otlaklar Mah (Kurtsuyu Köyü)
     - Ova Mah (Yeni Aynalı Köyü)
-    - Ovapınar Köyü
     - Özyanık Köyü
     - Paşakonağı Köyü
     - Paşaormanı Köyü
@@ -627,13 +642,10 @@ Merkez:
     - Sarıkasım Mah (Nasırlı Köyü)
     - Suncuk Köyü
     - Şaziye Köyü
-    - Şekerpınar Mah (Boğaziçi Köyü)
     - Şose Altı Mah (Aydınpınar Köyü)
     - Tantan Kuyu Mah (Kurtsuyu Köyü)
     - Tatil Köyü Mah (Derdin Köyü)
-    - Tekirpınar Mah (Kabalak Köyü)
     - Tepe Altı Mah (Güven Köyü)
-    - Terzialiler Mah
     - Tınaz Mah (Yeni Taşköprü Köyü)
     - Tokmaktarla Mah (Nasırlı Köyü)
     - Tonyalı Mah (Kurtsuyu Köyü)
@@ -648,16 +660,13 @@ Merkez:
     - Yayakbaşı Köyü
     - Yayla Köyü
     - Yaylakapı Mah (Aydınpınar Köyü)
-    - Yazlık Mah (Boğaziçi Köyü)
     - Yeni Karaköy Köyü
     - Yeni Mah (Bahçe Köyü)
-    - Yeni Mah (Beyköy Köyü)
     - Yeni Mah (Kirazlı Köyü)
     - Yeşil Mah (Aydınpınar Köyü)
     - Yeşilçam Köyü
     - Yeşilçam Mah (Yeşilçam Köyü)
     - Yeşilçimen Köyü
-    - Yeşilköy Mah (Boğaziçi Köyü)
     - Yılankaya Mah (Aydınpınar Köyü)
     - Yukarı Mah (Günbaşı Köyü)
     - Yukarı Mah (Yörük Köyü)
@@ -683,6 +692,7 @@ Yığılca:
     - Doğancılar Mah (Redifler Köyü)
     - Dokuz Mah (Hacıyeri Köyü)
     - Elmas Mah (Dibektaş Köyü)
+    - Erenler Mah (Tıraşlar Köyü)
     - Gaziler Köyü
     - Gelenöz Köyü
     - Güney Köyü
@@ -696,7 +706,6 @@ Yığılca:
     - Kazaklar Mah (Gökçeağaç Köyü)
     - Kirseyanı Mah (Hocatman Köyü)
     - Köseler Köyü
-    - Köseler Mah (Tıraşlar Köyü)
     - Kuruca Mah (Yeniyer Köyü)
     - Kuruhüseyin Mah (Dibektaş Köyü)
     - Kuzey Mah (Çamlı Köyü)

@@ -12,15 +12,15 @@ Altunhisar:
   Karakapı:
     postcode: 51603
     neighborhoods:
-    - Cumhuriyet Mah (Karakapı Köyü)
-    - Yaka Mah (Karakapı Köyü)
-    - Yeni Mah (Karakapı Köyü)
+    - Cumhuriyet Mah (Karakapı Beldesi)
+    - Yaka Mah (Karakapı Beldesi)
+    - Yeni Mah (Karakapı Beldesi)
   Keçikalesi:
     postcode: 51604
     neighborhoods:
-    - Cumhuriyet Mah (Keçikalesi Köyü)
-    - Erenler Mah (Keçikalesi Köyü)
-    - Selçuk Mah (Keçikalesi Köyü)
+    - Cumhuriyet Mah (Keçikalesi Beldesi)
+    - Erenler Mah (Keçikalesi Beldesi)
+    - Selçuk Mah (Keçikalesi Beldesi)
   Merkezköyler:
     postcode: 51602
     neighborhoods:
@@ -41,6 +41,13 @@ Altunhisar:
     - Yukarı Asmaz Mah (Yeşilyurt Köyü)
     - Zafer Mah (Akçaören Köyü)
 Bor:
+  Bahçeli:
+    postcode: 51710
+    neighborhoods:
+    - Cumhuriyet Mah (Bahçeli Beldesi)
+    - Saray Mah (Bahçeli Beldesi)
+    - Şeker Mah (Bahçeli Beldesi)
+    - Zafer Mah (Bahçeli Beldesi)
   Bor:
     postcode: 51700
     neighborhoods:
@@ -65,6 +72,20 @@ Bor:
     - Şeker Mah
     - Toplu Konut Mah
     - Yenigöçmen Mah
+  Çukurkuyu:
+    postcode: 51720
+    neighborhoods:
+    - Bektik Mah (Çukurkuyu Beldesi)
+    - Türkmen Yurdu Mah (Çukurkuyu Beldesi)
+  Kemerhisar:
+    postcode: 51730
+    neighborhoods:
+    - Cami Mah (Kemerhisar Beldesi)
+    - Cumhuriyet Mah (Kemerhisar Beldesi)
+    - Çayır Mah (Kemerhisar Beldesi)
+    - Han Mah (Kemerhisar Beldesi)
+    - Kemer Mah (Kemerhisar Beldesi)
+    - Tepe Mah (Kemerhisar Beldesi)
   Merkezköyler:
     postcode: 51702
     neighborhoods:
@@ -74,20 +95,14 @@ Bor:
     - Badak Köyü
     - Balcı Mah (Balcı Köyü)
     - Bayat Köyü
-    - Bektik Mah (Çukurkuyu Köyü)
     - Bereke Köyü
-    - Cami Mah (Kemerhisar Köyü)
     - Cami Mah (Kızılca Köyü)
-    - Cumhuriyet Mah (Bahçeli Köyü)
     - Cumhuriyet Mah (Karanlıkdere Köyü)
-    - Cumhuriyet Mah (Kemerhisar Köyü)
-    - Çayır Mah (Kemerhisar Köyü)
     - Emen Köyü
     - Esendere Mah (Karanlıkdere Köyü)
     - Gayret Mah (Balcı Köyü)
     - Gökbez Köyü
     - Halaç Köyü
-    - Han Mah (Kemerhisar Köyü)
     - Havuzlu Köyü
     - Karacaören Köyü
     - Karamahmutlu Köyü
@@ -95,7 +110,6 @@ Bor:
     - Kavuklu Köyü
     - Kayı Köyü
     - Kaynarca Köyü
-    - Kemer Mah (Kemerhisar Köyü)
     - Kılavuz Köyü
     - Kınıkovası Mah (Tepeköy Köyü)
     - Kızılkapı Köyü
@@ -104,14 +118,8 @@ Bor:
     - Okçu Köyü
     - Okullar Mah (Kızılca Köyü)
     - Postallı Köyü
-    - Saray Mah (Bahçeli Köyü)
     - Seslikaya Köyü
-    - Şeker Mah (Bahçeli Köyü)
-    - Tepe Mah (Kemerhisar Köyü)
     - Tepeköy Köyü
-    - Türkmen Yurdu Mah (Çukurkuyu Köyü)
-    - Yol Boyu Mah (Kaynarca Köyü)
-    - Zafer Mah (Bahçeli Köyü)
 Çamardı:
   Çamardı:
     postcode: 51660
@@ -150,42 +158,50 @@ Bor:
     - Yeni Mah (Burç Köyü)
     - Yeniköy Köyü
 Çiftlik:
+  Azatlı:
+    postcode: 51810
+    neighborhoods:
+    - Çayır Mah (Azatlı Beldesi)
+    - Küllüce Mah (Azatlı Beldesi)
+    - Sağırgöl Mah (Azatlı Beldesi)
+    - Yeni Mah (Azatlı Beldesi)
+    - Yeşilkent Mah (Azatlı Beldesi)
+  Bozköy:
+    postcode: 51816
+    neighborhoods:
+    - Yenice Mah (Bozköy Beldesi)
+    - Yenikent Mah (Bozköy Beldesi)
+    - Yeşilyurt Mah (Bozköy Beldesi)
+  Divarlı:
+    postcode: 51815
+    neighborhoods:
+    - Alpaslan Mah (Divarlı Beldesi)
+    - Fatih Mah (Divarlı Beldesi)
+    - Yeni Mah (Divarlı Beldesi)
   Merkezköyler:
     postcode: 51802
     neighborhoods:
     - 1.ci Küme Mah (Çardak Köyü)
     - 2.ci Küme Mah (Çardak Köyü)
     - 3.ci Küme Mah (Çardak Köyü)
-    - 4.ci Küme Mah (Çardak Köyü)
     - Alışlı Mah (Çınarlı Köyü)
-    - Alpaslan Mah (Divarlı Köyü)
     - Aşağı Mevki Mah (Şeyhler Köyü)
     - Bahçe Mah (Kula Köyü)
     - Bekiroğlu Mah (Kula Köyü)
     - Çakıl İçi Mevki Mah (Şeyhler Köyü)
     - Çardak Köyü
     - Çarşı Mah (Kitreli Köyü)
-    - Çayır Mah (Azatlı Köyü)
     - Çınarlı Köyü
-    - Fatih Mah (Divarlı Köyü)
     - Köprübaşı Mah (Kitreli Köyü)
     - Köyaltı Mah (Kula Köyü)
-    - Küllüce Mah (Azatlı Köyü)
     - Mahmutlu Köyü
     - Mezaraltı Mah (Kula Köyü)
     - Murtazaköy Köyü
     - Ovalıbağ Köyü
-    - Sağırgöl Mah (Azatlı Köyü)
     - Sultanpınarı Köyü
     - Ulucami Mah (Kitreli Köyü)
-    - Yeni Mah (Azatlı Köyü)
-    - Yeni Mah (Divarlı Köyü)
     - Yeni Mah (Kitreli Köyü)
     - Yeni Mevki Mah (Şeyhler Köyü)
-    - Yenice Mah (Bozköy Köyü)
-    - Yenikent Mah (Bozköy Köyü)
-    - Yeşilkent Mah (Azatlı Köyü)
-    - Yeşilyurt Mah (Bozköy Köyü)
     - Yukarı Mevki Mah (Kula Köyü)
     - Yukarı Mevki Mah (Şeyhler Köyü)
   Özyurt:
@@ -207,47 +223,91 @@ Merkez:
     - Şehitler Mah
     - Yenice Mah
     - Yukarı Kayabaşı Mah
+  Aktaş:
+    postcode: 51015
+    neighborhoods:
+    - Cumhuriyet Mah (Aktaş Beldesi)
+    - Devlet Mah (Aktaş Beldesi)
+    - Yeni Mah (Aktaş Beldesi)
+  Alay:
+    postcode: 51010
+    neighborhoods:
+    - Cumhuriyet Mah (Alay Beldesi)
+    - Hürriyet Mah (Alay Beldesi)
+    - Milliyet Mah (Alay Beldesi)
+  Bağlama:
+    postcode: 51030
+    neighborhoods:
+    - Cumhuriyet Mah (Bağlama Beldesi)
+    - Hürriyet Mah (Bağlama Beldesi)
+  Değirmenli:
+    postcode: 51020
+    neighborhoods:
+    - Aşağı Mah (Değirmenli Beldesi)
+    - Orta Mah (Değirmenli Beldesi)
+    - Yukarı Mah (Değirmenli Beldesi)
+  Dündarlı:
+    postcode: 51050
+    neighborhoods:
+    - Cumhuriyet Mah (Dündarlı Beldesi)
+    - Fatih Mah (Dündarlı Beldesi)
+    - Yenice Mah (Dündarlı Beldesi)
+    - Zafer Mah (Dündarlı Beldesi)
+  Edikli:
+    postcode: 51040
+    neighborhoods:
+    - Cumhuriyet Mah (Edikli Beldesi)
+    - Fevzipaşa Mah (Edikli Beldesi)
+    - Hürriyet Mah (Edikli Beldesi)
+    - Yeni Mah (Edikli Beldesi)
+  Gümüşler:
+    postcode: 51060
+    neighborhoods:
+    - Eski Gümüş Mah (Gümüşler Beldesi)
+    - Yeni Gümüş Mah (Gümüşler Beldesi)
+  Hacıabdullah:
+    postcode: 51065
+    neighborhoods:
+    - Boğaziçi Mah (Hacıabdullah Beldesi)
+    - Yeni Mah (Hacıabdullah Beldesi)
+  Karaatlı:
+    postcode: 51075
+    neighborhoods:
+    - Dumlupınar Mah (Karaatlı Beldesi)
+    - Fatih Mah (Karaatlı Beldesi)
+    - Zafer Mah (Karaatlı Beldesi)
+  Kiledere:
+    postcode: 51085
+    neighborhoods:
+    - Cumhuriyet Mah (Kiledere Beldesi)
+    - Hürriyet Mah (Kiledere Beldesi)
+  Konaklı:
+    postcode: 51080
+    neighborhoods:
+    - Cumhuriyet Mah (Konaklı Beldesi)
+    - Hürriyet Mah (Konaklı Beldesi)
+    - Hüyük Mah (Konaklı Beldesi)
   Merkezköyler:
     postcode: 51300
     neighborhoods:
     - Ağcaşar Köyü
-    - Aşağı Mah (Değirmenli Köyü)
     - Aşağı Mah (Koyunlu Köyü)
     - Aşağı Mah (Ovacık Köyü)
-    - Aşağı Mah (Sazlıca Köyü)
-    - Aşağı Mah (Yeşilgölcük Köyü)
     - Aşlama Köyü
     - Bağlar Mah (Çavdarlı Köyü)
     - Bahçelievler Mah (İçmeli Köyü)
     - Bahçelievler Mah (Koyunlu Köyü)
-    - Bahçelievler Mah (Yıldıztepe Köyü)
     - Bahçelievlerosb Mah (Koyunlu Köyü)
     - Ballı Köyü
-    - Boğaziçi Mah (Hacıabdullah Köyü)
     - Cevizler Mah (Kayırlı Köyü)
-    - Cumhuriyet Mah (Aktaş Köyü)
-    - Cumhuriyet Mah (Alay Köyü)
-    - Cumhuriyet Mah (Bağlama Köyü)
-    - Cumhuriyet Mah (Dündarlı Köyü)
-    - Cumhuriyet Mah (Edikli Köyü)
     - Cumhuriyet Mah (Elmalı Köyü)
     - Cumhuriyet Mah (Hacıbeyli Köyü)
-    - Cumhuriyet Mah (Kiledere Köyü)
-    - Cumhuriyet Mah (Konaklı Köyü)
     - Cumhuriyet Mah (Ovacık Köyü)
-    - Cumhuriyet Mah (Yeşilgölcük Köyü)
     - Çarıklı Köyü
     - Çarşı Mah (Dikilitaş Köyü)
     - Çayır Mah (Çayırlı Köyü)
-    - Devlet Mah (Aktaş Köyü)
-    - Dumlupınar Mah (Karaatlı Köyü)
-    - Eski Gümüş Mah (Gümüşler Köyü)
-    - Fatih Mah (Dündarlı Köyü)
-    - Fatih Mah (Karaatlı Köyü)
-    - Fatih Mah (Orhanlı Köyü)
     - Fertek Mah
     - Fesleğen Köyü
-    - Fevzipaşa Mah (Edikli Köyü)
     - Gösterli Köyü
     - Güllüce Köyü
     - Güzelyurt Mah (İçmeli Köyü)
@@ -255,14 +315,7 @@ Merkez:
     - Hançerli Köyü
     - Hasaköy Köyü
     - Himmetli Köyü
-    - Hürriyet Mah (Alay Köyü)
-    - Hürriyet Mah (Bağlama Köyü)
-    - Hürriyet Mah (Edikli Köyü)
     - Hürriyet Mah (Hacıbeyli Köyü)
-    - Hürriyet Mah (Kiledere Köyü)
-    - Hürriyet Mah (Konaklı Köyü)
-    - Hürriyet Mah (Yeşilgölcük Köyü)
-    - Hüyük Mah (Konaklı Köyü)
     - İnönü Mah (Kayırlı Köyü)
     - Kale Mah (Dikilitaş Köyü)
     - Kale Mah (Elmalı Köyü)
@@ -277,9 +330,7 @@ Merkez:
     - Küçükköy Köyü
     - Menderes Mah (Elmalı Köyü)
     - Merkez Mah (Çavdarlı Köyü)
-    - Milliyet Mah (Alay Köyü)
     - Narköy Köyü
-    - Orta Mah (Değirmenli Köyü)
     - Orta Mah (Koyunlu Köyü)
     - Özyurt Köyü
     - Pınarcık Köyü
@@ -291,27 +342,24 @@ Merkez:
     - Tırhan Köyü
     - Uluağaç Köyü
     - Yarhisar Köyü
-    - Yavuz Mah (Orhanlı Köyü)
     - Yaylayolu Köyü
-    - Yeni Gümüş Mah (Gümüşler Köyü)
-    - Yeni Mah (Aktaş Köyü)
     - Yeni Mah (Çayırlı Köyü)
-    - Yeni Mah (Edikli Köyü)
-    - Yeni Mah (Hacıabdullah Köyü)
     - Yeni Mah (Hacıbeyli Köyü)
-    - Yeni Mah (Sazlıca Köyü)
-    - Yeni Mah (Yeşilgölcük Köyü)
-    - Yeni Mah (Yıldıztepe Köyü)
-    - Yenice Mah (Dündarlı Köyü)
     - Yeşilburç Köyü
     - Yeşilova Köyü
-    - Yukarı Mah (Değirmenli Köyü)
     - Yukarı Mah (Dikilitaş Köyü)
     - Yukarı Mah (Koyunlu Köyü)
-    - Yukarı Mah (Sazlıca Köyü)
-    - Yukarı Mah (Yeşilgölcük Köyü)
-    - Zafer Mah (Dündarlı Köyü)
-    - Zafer Mah (Karaatlı Köyü)
+  Orhanlı:
+    postcode: 51280
+    neighborhoods:
+    - Fatih Mah (Orhanlı Beldesi)
+    - Yavuz Mah (Orhanlı Beldesi)
+  Sazlıca:
+    postcode: 51310
+    neighborhoods:
+    - Aşağı Mah (Sazlıca Beldesi)
+    - Yeni Mah (Sazlıca Beldesi)
+    - Yukarı Mah (Sazlıca Beldesi)
   Sungurbey:
     postcode: 51100
     neighborhoods:
@@ -330,6 +378,19 @@ Merkez:
     - Songur Mah
     - Şahinali Mah
     - Şahsüleyman Mah
+  Yeşilgölcük:
+    postcode: 51070
+    neighborhoods:
+    - Aşağı Mah (Yeşilgölcük Beldesi)
+    - Cumhuriyet Mah (Yeşilgölcük Beldesi)
+    - Hürriyet Mah (Yeşilgölcük Beldesi)
+    - Yeni Mah (Yeşilgölcük Beldesi)
+    - Yukarı Mah (Yeşilgölcük Beldesi)
+  Yıldıztepe:
+    postcode: 51110
+    neighborhoods:
+    - Bahçelievler Mah (Yıldıztepe Beldesi)
+    - Yeni Mah (Yıldıztepe Beldesi)
 Ulukışla:
   Merkezköyler:
     postcode: 51902
@@ -388,13 +449,11 @@ Ulukışla:
     - Küme2 Mah (Hacıbekirli Köyü)
     - Küme2 Mah (Hasangazi Köyü)
     - Küme2 Mah (Hüsniye Köyü)
-    - Küme2 Mah (Koçak Köyü)
     - Küme2 Mah (Ovacık Köyü)
     - Küme2 Mah (Porsuk Köyü)
     - Küme2 Mah (Şeyhömerli Köyü)
     - Küme2 Mah (Tabaklı Köyü)
     - Küme2 Mah (Tekneçukur Köyü)
-    - Küme2 Mah (Ünlüyaka Köyü)
     - Küme3 Mah (Bayağıl Köyü)
     - Küme3 Mah (Emirler Köyü)
     - Küme3 Mah (Gümüşköy Köyü)

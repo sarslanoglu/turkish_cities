@@ -30,6 +30,7 @@ Bağlar:
     postcode: 21090
     neighborhoods:
     - 5 Nisan Mah
+    - Alankoz Mah
     - Buyuransu Mah
     - Ekince Mah
     - Fatih Mah
@@ -45,7 +46,6 @@ Bağlar:
     - Oğlaklı Mah
     - Övündüler Mah
     - Sakallı Mah
-    - Yalankoz Mah
     - Yiğityolu Mah
     - Yukarıakdibek Mah
     - Yunus Emre Mah
@@ -391,13 +391,13 @@ Bismil:
     - Değirmensuyu Mah
     - Deveboynu Mah
     - Elmadere Mah
+    - Elyos Mah
     - Geçitköy Mah
     - Gökçepelit Mah
     - Güneydere Mah
     - Handere Mah
     - Hindibaba Mah
     - İbikkaya Mah
-    - İlyas Mah
     - Karakaya Mah
     - Karşıyaka Mah
     - Kaynakköy Mah
@@ -555,6 +555,7 @@ Ergani:
     - Güzelyurt Mah
     - Hançerli Mah
     - Hendekköy Mah
+    - Hilar Mah
     - İncehıdır Mah
     - İstasyon Mah
     - Karaburçak Mah
@@ -588,7 +589,6 @@ Ergani:
     - Saray Mah
     - Savaş Mah
     - Selmanköy Mah
-    - Sesverenpınar Mah
     - Sökündüzü Mah
     - Şirinevler Mah
     - Şölen Mah
@@ -910,7 +910,7 @@ Silvan:
     - Dağcılar Mah
     - Darköprü Mah
     - Demirkuyu Mah
-    - Dolaplıdere Mah
+    - Dolapdere Mah
     - Doluçanak Mah
     - Duru Mah
     - Düzalan Mah
@@ -926,7 +926,7 @@ Silvan:
     - Gündüz Mah
     - Gürpınar Mah
     - Güzderesi Mah
-    - Heybelikonuk Mah
+    - Heybelikonak Mah
     - İncesu Mah
     - Kale Mah
     - Karacalar Mah
@@ -937,7 +937,7 @@ Silvan:
     - Kazandağı Mah
     - Keklikdere Mah
     - Kıraçtepe Mah
-    - Kızlar Mah
+    - Kızlal Mah
     - Konak Mah
     - Kumgölü Mah
     - Kumluk Mah

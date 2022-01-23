@@ -1,5 +1,9 @@
 ---
 Baykan:
+  Atabağı:
+    postcode: 56465
+    neighborhoods:
+    - Atabağı Mah (Atabağı Beldesi)
   Baykan:
     postcode: 56460
     neighborhoods:
@@ -38,12 +42,9 @@ Baykan:
     - Akdiken Mah (Obalı Köyü)
     - Ardıçdalı Köyü
     - Aşağı Tütenocak Mah (Tütenocak Köyü)
-    - Atabağı Mah (Atabağı Köyü)
-    - Atatürk Mah (Veyselkarani Köyü)
     - Bardaklı Mah (Çaykaya Köyü)
     - Binegöl Mah (Yeşilçevre Köyü)
     - Çamtaşı Köyü
-    - Çay Mah (Veyselkarani Köyü)
     - Çaykaya Köyü
     - Çelikli Köyü
     - Çukurca Köyü
@@ -68,10 +69,15 @@ Baykan:
     - Ormanpınar Köyü
     - Sarısalkım Köyü
     - Sarıyurt Mah (Yarımca Köyü)
-    - Şeyhosman Mah (Veyselkarani Köyü)
     - Tütenocak Köyü
     - Ünlüce Köyü
     - Yarımca Köyü
+  Veyselkarani:
+    postcode: 56466
+    neighborhoods:
+    - Atatürk Mah (Veyselkarani Beldesi)
+    - Çay Mah (Veyselkarani Beldesi)
+    - Şeyhosman Mah (Veyselkarani Beldesi)
 Eruh:
   Bağgöze:
     postcode: 56540
@@ -155,6 +161,12 @@ Eruh:
     - Yediyaprak Köyü
     - Yeşilören Köyü
 Kurtalan:
+  Kayabağlar:
+    postcode: 56505
+    neighborhoods:
+    - Bağlar Mah (Kayabağlar Beldesi)
+    - Çeşme Mah (Kayabağlar Beldesi)
+    - Kayalı Mah (Kayabağlar Beldesi)
   Kurtalan:
     postcode: 56500
     neighborhoods:
@@ -189,7 +201,6 @@ Kurtalan:
     - Aydemir Köyü
     - Aydıncık Mah (Tütün Köyü)
     - Azıklı Köyü
-    - Bağlar Mah (Kayabağlar Köyü)
     - Bağlıca Köyü
     - Bahçeli Mah (Saipbeyli Köyü)
     - Balıklı Mah (Çeltikbaşı Köyü)
@@ -206,7 +217,6 @@ Kurtalan:
     - Çay Mah (Tütün Köyü)
     - Çayırlı Köyü
     - Çeltikbaşı Köyü
-    - Çeşme Mah (Kayabağlar Köyü)
     - Çeşmeli Mah (Bölüktepe Köyü)
     - Çukurlu Mah (Tulumtaş Köyü)
     - Demirbaşı Mah (Güzeldere Köyü)
@@ -231,7 +241,6 @@ Kurtalan:
     - Kapıkaya Köyü
     - Karabağ Köyü
     - Kargılı Mah (Üçpınar Köyü)
-    - Kayalı Mah (Kayabağlar Köyü)
     - Kayalısu Köyü
     - Kaynaklı Mah (Erdurağı Köyü)
     - Kılıçlı Köyü
@@ -274,9 +283,14 @@ Kurtalan:
     - Yuvalı Köyü
     - Yuvalı Mah (Ballıkaya Köyü)
     - Yuvalı Mah (Gökdoğan Köyü)
-    - Yuvalık Mah (Uluköy Köyü)
     - Yürekveren Köyü
 Merkez:
+  Gökçebağ:
+    postcode: 56210
+    neighborhoods:
+    - Bağlar Mah (Gökçebağ Beldesi)
+    - Koçpınar Mah (Gökçebağ Beldesi)
+    - Yeni Mah (Gökçebağ Beldesi)
   Merkezköyler:
     postcode: 56220
     neighborhoods:
@@ -286,7 +300,6 @@ Merkez:
     - Aktaş Köyü
     - Akyamaç Köyü
     - Aydoğan Mah (İnkapı Köyü)
-    - Bağlar Mah (Gökçebağ Köyü)
     - Bağlıca Köyü
     - Bakırt Mah (Aktaş Köyü)
     - Bayraktepe Köyü
@@ -311,7 +324,6 @@ Merkez:
     - Kemerli Köyü
     - Kışlacık Köyü
     - Koçlu Köyü
-    - Koçpınar Mah (Gökçebağ Köyü)
     - Konacık Köyü
     - Konaklı Mah (Aktaş Köyü)
     - Köprübaşı Köyü
@@ -333,7 +345,6 @@ Merkez:
     - Tuzkuyusu Köyü
     - Yağmurtepe Köyü
     - Yazlıca Köyü
-    - Yeni Mah (Gökçebağ Köyü)
     - Yerlibahçe Köyü
     - Yığınlı Mah (Yokuşbağları Köyü)
     - Yokuşbağları Köyü
@@ -365,6 +376,11 @@ Merkez:
     - Veysel Karani Mah
     - Yeni Mah
 Pervari:
+  Beğendik:
+    postcode: 56705
+    neighborhoods:
+    - Gazi Mah (Beğendik Beldesi)
+    - Kale Mah (Beğendik Beldesi)
   Merkezköyler:
     postcode: 56702
     neighborhoods:
@@ -385,7 +401,6 @@ Pervari:
     - Düğüncüler Köyü
     - Ekindüzü Köyü
     - Erkent Köyü
-    - Gazi Mah (Beğendik Köyü)
     - Gökbel Mah (Gökçekoru Köyü)
     - Gökbudak Köyü
     - Gökçekoru Köyü
@@ -396,7 +411,6 @@ Pervari:
     - Güleçler Köyü
     - Gümüşören Köyü
     - Güzelbağ Mah (Yapraktepe Köyü)
-    - Kale Mah (Beğendik Köyü)
     - Karadayı Mah (Sarıyaprak Köyü)
     - Karamik Mah (Doğanköy Köyü)
     - Karasungur Köyü

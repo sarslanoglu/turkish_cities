@@ -7,6 +7,8 @@
         <img src="https://travis-ci.org/sarslanoglu/turkish_cities.svg?branch=master" alt="BuildStatus"/></a>
     <a href="https://coveralls.io/github/sarslanoglu/turkish_cities?branch=master">
         <img src="https://coveralls.io/repos/github/sarslanoglu/turkish_cities/badge.svg?branch=master" alt="CoverageStatus"/></a>
+    <a href="https://rubygems.org/gems/turkish_cities">
+        <img src="https://img.shields.io/gem/dt/turkish_cities.svg" alt="DownloadCount"/></a>
     <a href="https://codeclimate.com/github/sarslanoglu/turkish_cities/maintainability">
         <img src="https://api.codeclimate.com/v1/badges/c1dbe0cef353b152956e/maintainability" alt="Maintainability"/></a>
     <a href="https://houndci.com">
@@ -327,11 +329,17 @@ Districts, subdisctricts, neighborhoods and postcodes can be found at:
 ```
 https://postakodu.ptt.gov.tr/
 ```
+All districts/subdistricts are up to date at: 23 January 2022 with using PTT file released at 22 November 2021
 
 Land distance information can be found at:
 
 ```
 https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Root/Uzakliklar/ilmesafe.xls
+```
+
+Statistics for gem can be found at:
+```
+https://bestgems.org/gems/turkish_cities
 ```
 
 ## Compatibility

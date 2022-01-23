@@ -300,7 +300,6 @@ Erdemli:
     - Koyuncu Mah
     - Kösbucağı Mah
     - Kösereli Mah
-    - Kumkuyu Mah
     - Kuşluca Mah
     - Küstülü Mah
     - Limonlu Mah
@@ -314,6 +313,7 @@ Erdemli:
     - Şahna Mah
     - Tabiye Mah
     - Tapureli Mah
+    - Tırtar Mah
     - Toros Mah
     - Tozlu Mah
     - Tömük Mah
@@ -681,7 +681,7 @@ Tarsus:
     - Anıt Mah
     - Gazipaşa Mah
     - Mithatpaşa Mah
-  Aşağı Köyler:
+  Aşağı köyler:
     postcode: 33405
     neighborhoods:
     - Akçakocalı Mah
@@ -831,7 +831,7 @@ Tarsus:
     - Yaramış Mah
     - Yeniçay Mah
     - Yeşiltepe Mah
-  Yukarı Köyler:
+  Yukarı köyler:
     postcode: 33404
     neighborhoods:
     - Akgedik Mah
@@ -888,7 +888,6 @@ Toroslar:
     - Aladağ Mah
     - Alanyalı Mah
     - Arslanköy Mah
-    - Atlılar Mah
     - Ayvagediği Mah
     - Bekiralanı Mah
     - Buluklu Mah
@@ -920,6 +919,7 @@ Toroslar:
     - Kurudere Mah
     - Musalı Mah
     - Resulköy Mah
+    - Sadiye Mah
     - Soğucak Mah
     - Şahinpınarı Mah
     - Tırtar Mah

@@ -410,7 +410,7 @@ Buca:
     - Doğancılar Mah
     - Karacaağaç Mah
     - Kaynaklar Merkez Mah
-    - Kırıklar Mah
+    - Kırklar Mah
     - Kozağaç Mah
     - Kuruçeşme Mah
     - Yenigün Mah
@@ -787,20 +787,19 @@ Kemalpaşa:
   Armutlu:
     postcode: 35737
     neighborhoods:
-    - 85.yıl Cumhuriyet Mah
-    - Hürriyet Mah
+    - Armutlu 85.yıl Cumhuriyet Mah
+    - Armutlu Hürriyet Mah
   Bağyurdu:
     postcode: 35743
     neighborhoods:
-    - 29 Ekim Mah
+    - Bağyurdu 29 Ekim Mah
+    - Bağyurdu Kazımpaşa Mah
+    - Bağyurdu Kemal Atatürk Mah
+    - Bağyurdu Yeni Mah
     - Halilbeyli Mah
-    - Kazımpaşa Mah
-    - Kemal Atatürk Mah
-    - Yeni Mah
   Kemalpaşa:
     postcode: 35730
     neighborhoods:
-    - 75.yıl Cumhuriyet Mah
     - Akalan Mah
     - Ansızca Mah
     - Aşağı Yenmiş Mah
@@ -825,6 +824,7 @@ Kemalpaşa:
     - Mehmet Akif Ersoy Mah
     - Nazarköy Mah
     - Ovacık Mah
+    - Ören 75.yıl Cumhuriyet Mah
     - Örnekköy Mah
     - Sarıçalı Mah
     - Sarılar Mah
@@ -843,13 +843,13 @@ Kemalpaşa:
   Ören:
     postcode: 35733
     neighborhoods:
-    - Egemen Mah
+    - Ören Egemen Mah
   Ulucak:
     postcode: 35735
     neighborhoods:
-    - Cumhuriyet Mah
-    - İstiklal Mah
-    - Mustafa Kemal Atatürk Mah
+    - Ulucak Cumhuriyet Mah
+    - Ulucak İstiklal Mah
+    - Ulucak Mustafa Kemal Atatürk Mah
 Kınık:
   Kınık:
     postcode: 35990

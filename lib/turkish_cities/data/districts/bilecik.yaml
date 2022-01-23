@@ -26,15 +26,15 @@ Bozüyük:
     - Göynücek Köyü
     - Karaçayır Köyü
     - Ketenlik Köyü
-    - Mehmet Akif Mah (Dodurga Köyü)
+    - Mehmet Akif Mah (Dodurga Beldesi)
     - Merkez Mah (Cihangazi Köyü)
-    - Mithatpaşa Mah (Dodurga Köyü)
-    - Namık Kemal Mah (Dodurga Köyü)
+    - Mithatpaşa Mah (Dodurga Beldesi)
+    - Namık Kemal Mah (Dodurga Beldesi)
     - Osmaniye Köyü
     - Yenidodurga Köyü
     - Yeniüreğil Köyü
     - Yeşilçukurca Köyü
-    - Ziya Gökalp Mah (Dodurga Köyü)
+    - Ziya Gökalp Mah (Dodurga Beldesi)
   Merkezköyler:
     postcode: 11302
     neighborhoods:
@@ -167,6 +167,12 @@ Gölpazarı:
     - Samrı Köyü
     - Tozman Köyü
 Merkez:
+  Bayırköy:
+    postcode: 11120
+    neighborhoods:
+    - Fatih Mah (Bayırköy Beldesi)
+    - Gazi Mah (Bayırköy Beldesi)
+    - Sarmaşık Mah (Bayırköy Beldesi)
   Bilecik:
     postcode: 11100
     neighborhoods:
@@ -210,9 +216,6 @@ Merkez:
     - Dereşemsettin Mah (Dereşemsettin Köyü)
     - Elmabahçe Köyü
     - Erkoca Köyü
-    - Ertuğrulgazi Mah (Vezirhan Köyü)
-    - Fatih Mah (Bayırköy Köyü)
-    - Gazi Mah (Bayırköy Köyü)
     - Gökpınar Köyü
     - Gökpınar Mah (Gökpınar Köyü)
     - Gülümbe Mah (Gülümbe Köyü)
@@ -221,18 +224,15 @@ Merkez:
     - İkizce Köyü
     - İlyasbey Köyü
     - İlyasça Köyü
-    - İstasyon Mah (Vezirhan Köyü)
     - Kapaklı Köyü
     - Karaağaç Köyü
     - Karasu Mevki Mah (Kurtköy Köyü)
     - Kavaklı Köyü
-    - Kayalar Mah (Vezirhan Köyü)
     - Kendirli Köyü
     - Kepirler Köyü
     - Kınık Köyü
     - Kızıldamlar Köyü
     - Koyunköy Köyü
-    - Köprülü Mehmet Paşa Mah (Vezirhan Köyü)
     - Kurtköy Köyü
     - Kurtuluş Mah (Gülümbe Köyü)
     - Kurular Mah (Gülümbe Köyü)
@@ -243,7 +243,6 @@ Merkez:
     - Necmiyeköy Köyü
     - Okluca Köyü
     - Ören Köyü
-    - Sarmaşık Mah (Bayırköy Köyü)
     - Selbükü Köyü
     - Selöz Köyü
     - Selöz Mah (Selöz Köyü)
@@ -252,10 +251,17 @@ Merkez:
     - Taşçılar Köyü
     - Taşçılar Mah (Taşçılar Köyü)
     - Ulupınar Köyü
-    - Yeni Mah (Vezirhan Köyü)
     - Yeniköy Köyü
     - Yeniköy Mah (Yeniköy Köyü)
     - Yunuslar Mah (Gülümbe Köyü)
+  Vezirhan:
+    postcode: 11130
+    neighborhoods:
+    - Ertuğrulgazi Mah (Vezirhan Beldesi)
+    - İstasyon Mah (Vezirhan Beldesi)
+    - Kayalar Mah (Vezirhan Beldesi)
+    - Köprülü Mehmet Paşa Mah (Vezirhan Beldesi)
+    - Yeni Mah (Vezirhan Beldesi)
 Osmaneli:
   Merkezköyler:
     postcode: 11502
@@ -330,7 +336,6 @@ Pazaryeri:
     - Karadede Köyü
     - Karaköy Köyü
     - Karaköy Mah (Karaköy Köyü)
-    - Karaköy-2 Mah (Karaköy Köyü)
     - Kınık Köyü
     - Küçükelmalı Köyü
     - Nazifpaşa Köyü
@@ -356,7 +361,6 @@ Söğüt:
     - Akçasu Köyü
     - Borcak Köyü
     - Dereboyu Köyü
-    - Dereboyu Mah (Dereboyu Köyü)
     - Dömez Köyü
     - Dudaş Köyü
     - Geçitli Köyü

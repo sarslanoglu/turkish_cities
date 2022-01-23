@@ -358,6 +358,7 @@ Hendek:
     - Beylice Mah
     - Bıçkıatik Mah
     - Büyükdere Mah
+    - Çağlayan Mah
     - Çakallık Mah
     - Çamlıca Mah
     - Çayırbaşı Mah
@@ -403,7 +404,6 @@ Hendek:
     - Mahmutbey Mah
     - Martinler Mah
     - Muradiye Mah
-    - Necatipaşa Mah
     - Nuriye Mah
     - Paşaköy Mah
     - Pınarlı Mah
@@ -686,8 +686,8 @@ Serdivan:
     postcode: 54130
     neighborhoods:
     - Köprübaşı Mah
-    - Orta Mah
     - Vatan Mah
+    - Yazlık Mah
 Söğütlü:
   Söğütlü:
     postcode: 54160

@@ -64,12 +64,17 @@ Havsa:
     - Oğulpaşa Köyü
     - Oğulpaşa Mah (Oğulpaşa Köyü)
     - Osmanlı Köyü
-    - Reşadiye Mah (Oğulpaşa Köyü)
     - Şerbettar Köyü
     - Tahal Köyü
     - Taptık Köyü
     - Yolageldi Köyü
 İpsala:
+  Esetçe:
+    postcode: 22440
+    neighborhoods:
+    - Atatürk Mah (Esetçe Beldesi)
+    - Cumhuriyet Mah (Esetçe Beldesi)
+    - Kurtuluş Mah (Esetçe Beldesi)
   İpsala:
     postcode: 22400
     neighborhoods:
@@ -83,25 +88,19 @@ Havsa:
     postcode: 22490
     neighborhoods:
     - Aliçopehlivan Köyü
-    - Atatürk Mah (Esetçe Köyü)
     - Atatürk Mah (Kocahıdır Köyü)
     - Atatürk Mah (Sultan Köyü)
     - Balabancık Köyü
-    - Cumhuriyet Mah (Esetçe Köyü)
     - Cumhuriyet Mah (Kocahıdır Köyü)
-    - Fevzi Çakmak Mah (Yenikarpuzlu Köyü)
-    - Gazi Mah (Yenikarpuzlu Köyü)
     - Gemici Mah (İbriktepe Köyü)
     - Gündoğan Mah (Hacı Köyü)
     - Hamidiye Mah (İbriktepe Köyü)
     - Hıdırköy Köyü
     - İnönü Mah (İbriktepe Köyü)
-    - İnönü Mah (Yenikarpuzlu Köyü)
     - Karaağaç Köyü
     - Korucu Köyü
     - Koyuntepe Köyü
     - Kumdere Köyü
-    - Kurtuluş Mah (Esetçe Köyü)
     - Küçükdoğanca Köyü
     - Menderes Mah (Sultan Köyü)
     - Paşaköy Köyü
@@ -114,7 +113,20 @@ Havsa:
     - Turpçular Köyü
     - Yapıldak Köyü
     - Zaferiye Mah (Hacı Köyü)
+  Yenikarpuzlu:
+    postcode: 22420
+    neighborhoods:
+    - Fevzi Çakmak Mah (Yenikarpuzlu Beldesi)
+    - Gazi Mah (Yenikarpuzlu Beldesi)
+    - İnönü Mah (Yenikarpuzlu Beldesi)
 Keşan:
+  Beğendik:
+    postcode: 22890
+    neighborhoods:
+    - Aydoğan Mah (Beğendik Beldesi)
+    - Beykent Mah (Beğendik Beldesi)
+    - Kemalpaşa Mah (Beğendik Beldesi)
+    - Yeni Mah (Beğendik Beldesi)
   Keşan:
     postcode: 22800
     neighborhoods:
@@ -155,20 +167,13 @@ Keşan:
     neighborhoods:
     - Akçeşme Köyü
     - Altıntaş Köyü
-    - Atatürk Mah (Yenimuhacir Köyü)
-    - Aydoğan Mah (Beğendik Köyü)
-    - Beykent Mah (Beğendik Köyü)
     - Boztepe Köyü
-    - Cumhuriyet Mah (Yenimuhacir Köyü)
     - Çobançeşmesi Köyü
     - Gündüzler Köyü
-    - İnönü Mah (Yenimuhacir Köyü)
-    - İstiklal Mah (Yenimuhacir Köyü)
     - İzzetiye Mah
     - Karacaali Köyü
     - Karahisar Köyü
     - Karasatı Köyü
-    - Kemalpaşa Mah (Beğendik Köyü)
     - Kılıçköy Köyü
     - Kozköy Köyü
     - Küçükdoğanca Köyü
@@ -177,8 +182,14 @@ Keşan:
     - Paşayiğit Mah
     - Siğilli Köyü
     - Türkmen Köyü
-    - Yeni Mah (Beğendik Köyü)
     - Yeniceçiftlik Köyü
+  Yenimuhacir:
+    postcode: 22810
+    neighborhoods:
+    - Atatürk Mah (Yenimuhacir Beldesi)
+    - Cumhuriyet Mah (Yenimuhacir Beldesi)
+    - İnönü Mah (Yenimuhacir Beldesi)
+    - İstiklal Mah (Yenimuhacir Beldesi)
   Yerlisu:
     postcode: 22272
     neighborhoods:
@@ -239,11 +250,9 @@ Meriç:
     neighborhoods:
     - Adasarhanlı Köyü
     - Büyükaltıağaç Köyü
-    - Gazi Mah (Küplü Köyü)
-    - İzzet Paşa Mah (Subaşı Köyü)
+    - Gazi Mah (Küplü Beldesi)
     - Küçükaltıağaç Köyü
-    - Merkez Mah (Küplü Köyü)
-    - Şehit Mehmet Aydın Mah (Subaşı Köyü)
+    - Merkez Mah (Küplü Beldesi)
   Meriç:
     postcode: 22600
     neighborhoods:
@@ -270,6 +279,11 @@ Meriç:
     - Umurca Köyü
     - Yakupbey Köyü
     - Yenicegörüce Köyü
+  Subaşı:
+    postcode: 22670
+    neighborhoods:
+    - İzzet Paşa Mah (Subaşı Beldesi)
+    - Şehit Mehmet Aydın Mah (Subaşı Beldesi)
 Merkez:
   Edirne:
     postcode: 22100
@@ -415,11 +429,11 @@ Uzunköprü:
     postcode: 22260
     neighborhoods:
     - Aslıhan Köyü
-    - Balaban Mah (Kırcasalih Köyü)
-    - Cumhuriyet Mah (Kırcasalih Köyü)
-    - İstiklal Mah (Kırcasalih Köyü)
+    - Balaban Mah (Kırcasalih Beldesi)
+    - Cumhuriyet Mah (Kırcasalih Beldesi)
+    - İstiklal Mah (Kırcasalih Beldesi)
     - Meşeli Köyü
-    - Okullar Mah (Kırcasalih Köyü)
+    - Okullar Mah (Kırcasalih Beldesi)
     - Sazlımalkoç Köyü
   Merkezköyler:
     postcode: 22360

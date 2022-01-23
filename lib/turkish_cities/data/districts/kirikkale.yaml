@@ -4,10 +4,10 @@ Bahşılı:
     postcode: 71460
     neighborhoods:
     - Atadönmez Mah
-    - Bahçeli Mah
     - Doğanay Mah
+    - Halim Şenses Mah
+    - Hidayet Doğruer Mah
     - Hüseyin Onbaşı Mah
-    - Yeşilköy Mah
   Merkezköyler:
     postcode: 71462
     neighborhoods:
@@ -18,7 +18,6 @@ Bahşılı:
     - Esentepe Mah (Karaahmetli Köyü)
     - Küçüksarıkayalar Köyü
     - Küreboğazı Köyü
-    - Mezra Mah (Çamlıca Köyü)
     - Sarıkayalar Köyü
     - Yayla Evleri Mah (Küreboğazı Köyü)
     - Yaylaevi Mah (Çamlıca Köyü)
@@ -99,6 +98,14 @@ Balışeyh:
     - Tilkili Köyü
     - Yukarışıh Köyü
 Delice:
+  Çerikli:
+    postcode: 71670
+    neighborhoods:
+    - Gökçebel Mah (Çerikli Beldesi)
+    - Merkez Mah (Çerikli Beldesi)
+    - Sakarya Mah (Çerikli Beldesi)
+    - Yeni Mah (Çerikli Beldesi)
+    - Yerlikent Mah (Çerikli Beldesi)
   Delice:
     postcode: 71700
     neighborhoods:
@@ -135,7 +142,6 @@ Delice:
     - Elmalı Köyü
     - Evliyalı Köyü
     - Fadılobası Köyü
-    - Gökçebel Mah (Çerikli Köyü)
     - Gözükızıllı Köyü
     - Hacıobası Köyü
     - Halitli Köyü
@@ -149,10 +155,8 @@ Delice:
     - Kurtoğlu Köyü
     - Kuzayyurt Köyü
     - Küçükafşar Köyü
-    - Merkez Mah (Çerikli Köyü)
     - Meşeyayla Köyü
     - Ocakbaşı Köyü
-    - Sakarya Mah (Çerikli Köyü)
     - Sarıyaka Köyü
     - Şahcalı Köyü
     - Taşyazı Köyü
@@ -162,9 +166,7 @@ Delice:
     - Yaylayurt Köyü
     - Yeni Mah (Büyükafşar Köyü)
     - Yeni Mah (Büyükyağlı Köyü)
-    - Yeni Mah (Çerikli Köyü)
     - Yeniyapan Köyü
-    - Yerlikent Mah (Çerikli Köyü)
     - Yıldız Mah (Büyükyağlı Köyü)
 Karakeçili:
   Karakeçili:
@@ -280,23 +282,26 @@ Merkez:
     - Fabrikalar Mah
     - Yaylacık Mah
     - Yenimahalle Mah
+  Hacılar:
+    postcode: 71480
+    neighborhoods:
+    - Altınova Mah (Hacılar Beldesi)
+    - Hacıbey Mah (Hacılar Beldesi)
+    - Sağlık Mah (Hacılar Beldesi)
   Merkezköyler:
     postcode: 71010
     neighborhoods:
-    - Altınova Mah (Hacılar Köyü)
     - Bağlar Mah (Hasandede Köyü)
     - Bahçelievler Mah (Hasandede Köyü)
     - Dağevi Köyü
     - Gülevler Mah (Hasandede Köyü)
     - Gündoğdu Mah (Hasandede Köyü)
-    - Hacıbey Mah (Hacılar Köyü)
     - Karacaali Köyü
     - Kazmaca Köyü
     - Kızıldere Köyü
     - Ömerli Mah (Ahılı Köyü)
     - Pazarcık Köyü
     - Pınarbaşı Mah (Ahılı Köyü)
-    - Sağlık Mah (Hacılar Köyü)
     - Tekke Mah (Ahılı Köyü)
     - Ulaş Köyü
     - Yukarımahmutlar Köyü
@@ -370,9 +375,9 @@ Sulakyurt:
   Sulakyurt:
     postcode: 71900
     neighborhoods:
+    - Cumhuriyet Mah
     - Yayla Mah
     - Yeni Mah
-    - Yeni Öz Mah
     - Yenihayat Mah
     - Yeşilyurt Mah
     - Yıldız Mah
@@ -382,7 +387,6 @@ Yahşihan:
     postcode: 71452
     neighborhoods:
     - Aktaşlar Yaylası Mah (Mahmutlar Köyü)
-    - Araplı Mevkii Mah (Mahmutlar Köyü)
     - Bahçelievler Mah (Kılıçlar Köyü)
     - Battalgazi Mah (Irmak Köyü)
     - Bayraktepe Mah

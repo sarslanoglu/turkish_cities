@@ -16,8 +16,8 @@ module NeighborhoodsParser
   last_postcode = 1720
 
   # rubocop:disable Metrics/BlockLength
-  CSV.parse(File.read('ptt_list.csv'), headers: true).each do |row|
-    data_array = row['il;ilçe;semt_bucak_belde;Mahalle;PK'].split(';')
+  File.open('ptt_list.csv', 'r').each_line do |row|
+    data_array = row.split(',')
 
     if data_array[0].downcase(:turkic).strip.capitalize(:turkic) != last_city ||
        data_array[4].to_i != last_postcode
@@ -33,7 +33,7 @@ module NeighborhoodsParser
 
     mahalle = []
     data_array[3].downcase(:turkic).strip.split.each do |word|
-      if word[0] == '('
+      if word[0] == '(' && !word[1].nil?
         word[1] = word[1].capitalize!(:turkic) unless word[1].to_i.to_s == word[1]
       else
         word.capitalize!(:turkic)

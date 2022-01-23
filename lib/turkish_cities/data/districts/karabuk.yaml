@@ -273,11 +273,9 @@ Eskipazar:
     - Beye Mah (Kapaklı Köyü)
     - Beytarla Yaylası Mah (Beytarla Köyü)
     - Bölme Mah (Adiller Köyü)
-    - Bölme Yayla Evleri Mah (Adiller Köyü)
     - Bürnük Mah (Hamzalar Köyü)
     - Büyüktarla Mah (Doğancılar Köyü)
     - Cumaderesi Mah (Yeşiller Köyü)
-    - Çakmakkaya Yaylası Mah (Hamzalar Köyü)
     - Çatacık Mah (Yürecik Köyü)
     - Çavuşlar Mah (Köyceğiz Köyü)
     - Çay Mah (Karaören Köyü)
@@ -332,7 +330,6 @@ Eskipazar:
     - Kızılcapınar Mah (Tamışlar Köyü)
     - Kirazgil Mah (Kabaarmut Köyü)
     - Kirazlar Mah (Sofular Köyü)
-    - Kurudere Yaylası Mah (Hamzalar Köyü)
     - Kurukavak Mah (Başpınar Köyü)
     - Kuruözü Mah (Başpınar Köyü)
     - Kuzdere Mah (Sofular Köyü)
@@ -401,7 +398,6 @@ Eskipazar:
     - Soblan Mah (Deresoblan Köyü)
     - Softalar Mah (Başpınar Köyü)
     - Söğütlüçeşme Mah (Gözlü Köyü)
-    - Şekerler Yaylası Mah (Hamzalar Köyü)
     - Şıhlar Mah (Sadeyaka Köyü)
     - Şıhlar Mah (Yazıboy Köyü)
     - Taşlık Mah (Deresoblan Köyü)
@@ -471,9 +467,8 @@ Merkez:
     neighborhoods:
     - Abdi Mah (Ortaca Köyü)
     - Afet Evleri Mah (Kahyalar Köyü)
-    - Akçabük Mah (Cemaller Köyü)
+    - Akçabük Mah (Zopran Köyü)
     - Akyol Mah (Bulak Köyü)
-    - Armağan Mah (Cumayanı Köyü)
     - Aşağı Aktaş Mah (Kamış Köyü)
     - Aşağı Mah (Arıcak Köyü)
     - Aşağı Mah (Bulak Köyü)
@@ -488,6 +483,7 @@ Merkez:
     - Cemelovası Mah (Cemaller Köyü)
     - Cildekısık Mah (Çukurca Köyü)
     - Cobu Mah (Çukurca Köyü)
+    - Cumayanı Köyü
     - Çakıllar Mah (Kahyalar Köyü)
     - Çamlık Mah (Aşağı Kızılcaören Köyü)
     - Çandırlar Mah (Burunsuz Köyü)
@@ -495,7 +491,6 @@ Merkez:
     - Çay Mah (Burunsuz Köyü)
     - Çay Mah (Ortaca Köyü)
     - Çiğdemler Mah (Saitler Köyü)
-    - Değirmen Mah (Cumayanı Köyü)
     - Değirmenönü Mah (Cemaller Köyü)
     - Demirciler Mah (Bürnük Köyü)
     - Dere Mah (Çukurca Köyü)
@@ -506,8 +501,7 @@ Merkez:
     - Elezler Mah (Kale Köyü)
     - Erikler Mah (Bürnük Köyü)
     - Eskiköy Mah (Kale Köyü)
-    - Göklen Mah (Yukarı Kızılcaören Köyü)
-    - Göklen Mah (Yukarı Kızılcaören Köyü)
+    - Göklen Mah (Zopran Köyü)
     - Gözür Mah (Saitler Köyü)
     - Güllüce Mah (Kadı Köyü)
     - Gülveren Mah (Sipahiler Köyü)
@@ -527,7 +521,6 @@ Merkez:
     - Kadıoğlu Mah (Tandır Köyü)
     - Kado Mah (Davutlar Köyü)
     - Kalafatlar Mah (Bürnük Köyü)
-    - Kalaycılar Mah (Aşağı Kızılcaören Köyü)
     - Karaağaç Mah (Üçbaş Köyü)
     - Karadaş Mah (Yeşiltepe Köyü)
     - Karaseyitler Mah (Yukarı Kızılcaören Köyü)
@@ -580,7 +573,6 @@ Merkez:
     - Okul Sokak Mah (Yeşilköy Köyü)
     - Organize Sanayi Bölgesi Mah (Kale Köyü)
     - Orman Mah (Yukarı Kızılcaören Köyü)
-    - Orta Mah (Cumayanı Köyü)
     - Orta Mah (Ortaca Köyü)
     - Orta Mah (Salmanlar Köyü)
     - Ortaköy Mah (Başköy Köyü)
@@ -592,11 +584,9 @@ Merkez:
     - Selima Mah (Tandır Köyü)
     - Seyitler Mah (Bürnük Köyü)
     - Sofular Mah (Davutlar Köyü)
-    - Soğuksu Mah (Cumayanı Köyü)
     - Sökü Mah (Başköy Köyü)
     - Sündeller Mah (Kadı Köyü)
     - Şıhlar Mah (Kadı Köyü)
-    - Tepe Mah (Cumayanı Köyü)
     - Tepe Mah (Yukarı Kızılcaören Köyü)
     - Yalnızca Mah (Bolkuş Köyü)
     - Yavaşlar Mah (Şenler Köyü)
@@ -606,7 +596,6 @@ Merkez:
     - Yeni Mah (Aşağı Kızılcaören Köyü)
     - Yeşilköy Mah (Yeşilköy Köyü)
     - Yılmazlar Mah (Acıöz Köyü)
-    - Yolboyu Mah (Cumayanı Köyü)
     - Yukarı Aktaş Mah (Kamış Köyü)
     - Yukarı Mah (Arıcak Köyü)
     - Yukarı Mah (Çukurca Köyü)
@@ -824,6 +813,7 @@ Safranbolu:
     - Eyciler Mah (Çavuşlar Köyü)
     - Fazlıoğlu Mah (Dere Köyü)
     - Ferhatlar Mah (Konarı Köyü)
+    - Gayza Köyü
     - Geren Köyü
     - Giriş Mah (Düzce Köyü)
     - Gölyanı Mah (Konarı Köyü)
@@ -837,7 +827,6 @@ Safranbolu:
     - Hatırlık Köy Tarlası Mah (Kadıbükü Köyü)
     - Hisar Mah (Yazıköy Köyü)
     - Hoşafcıoğlu Mah (İnceçay Köyü)
-    - İncekaya Köyü
     - İnönü Mah (Yazıköy Köyü)
     - İrezli Mah (Çerçen Köyü)
     - Kabakçıoğlu Mah (Çavuşlar Köyü)
@@ -861,7 +850,6 @@ Safranbolu:
     - Kozcağız Mah (Düzce Köyü)
     - Köprübaşı Mah (Çavuşlar Köyü)
     - Köprübaşı Mah (Davutobası Köyü)
-    - Köprüyanı Mah (Kadıbükü Köyü)
     - Kurttepesi Mah (Aşağıçiftlik Köyü)
     - Kuşbaş Mah (Nebioğlu Köyü)
     - Mahmutoğlu Mah (Tayyip Köyü)
@@ -918,7 +906,6 @@ Safranbolu:
     - Rahmanoğlu Mah (Bağcığaz Köyü)
     - Sabuncular Mah (Ağaçkese Köyü)
     - Sabuncular Mah (Alören Köyü)
-    - Sağıroğlu Mah (Nebioğlu Köyü)
     - Sakalar Mah (Alören Köyü)
     - Sallar Mah (Hacılarobası Köyü)
     - Sandalcıoğlu Mah (Nebioğlu Köyü)
@@ -959,7 +946,7 @@ Safranbolu:
     neighborhoods:
     - 15 Temmuz Mah
     - Akçasu Mah
-    - Aşağıtokatlıbağları Mah
+    - Aşağı Tokatlı Mah
     - Atatürk Mah
     - Babasultan Mah
     - Bağlarbaşı Mah
@@ -994,7 +981,6 @@ Yenice:
     - Arslanlar Mah (Güney Köyü)
     - Aşağı Mah (Çamlı Köyü)
     - Aşağı Mah (Yamaçköy Köyü)
-    - Atatürk Mah (Yortan Köyü)
     - Ateşler Mah (Şirinköy Köyü)
     - Ayanlar -1 Mah (Tir Köyü)
     - Ayanlar Mah (Ibrıcak Köyü)
@@ -1024,7 +1010,6 @@ Yenice:
     - Çayıroğlu Mah (Kayadibi Köyü)
     - Çenesizler Mah (Güney Köyü)
     - Çengeller Mah (Yeniköy Köyü)
-    - Çengeller Mah (Yortan Köyü)
     - Çobanlar Mah (Yazıköy Köyü)
     - Çolaklar Mah (Abdullahoğlu Köyü)
     - Çötüroğlu Mah (Keyfallar Köyü)
@@ -1035,10 +1020,8 @@ Yenice:
     - Demirciler Mah (Yeşilköy Köyü)
     - Dere Mah (Çeltik Köyü)
     - Dere Mah (Satuk Köyü)
-    - Dere Mah (Yortan Köyü)
     - Derebaşı Köyü
     - Doğancılar Mah (Bağbaşı Köyü)
-    - Döngeller Mah (Yortan Köyü)
     - Düzyer Mah (Ibrıcak Köyü)
     - Ekmekçiler Mah (Saray Köyü)
     - Elbiyi Mah (Güney Köyü)
@@ -1070,8 +1053,6 @@ Yenice:
     - Karagüller Mah (Kadıköy Köyü)
     - Karagüller Mah (Satuk Köyü)
     - Karakavuz Mah (Yeşilköy Köyü)
-    - Karaman Güneyi Mah (Yeniköy Köyü)
-    - Karaömerler Mah (Yortan Köyü)
     - Karapınar Mah (Cihanbey Köyü)
     - Karaşlar Mah (Akmanlar Köyü)
     - Karşı Kadıköyü Mah (Hüseyinbeyoğlu Köyü)
@@ -1109,7 +1090,6 @@ Yenice:
     - Merkez Mah (Şenköy Köyü)
     - Merkez Mah (Şirinköy Köyü)
     - Merkez Mah (Yirmibeşoğlu Köyü)
-    - Merkez Mah (Yortan Köyü)
     - Muratlar Mah (Yamaçköy Köyü)
     - Onanlar Mah (Güney Köyü)
     - Orta Mah (Kayaarkası Köyü)
@@ -1121,10 +1101,8 @@ Yenice:
     - Recepbeyoğlu Mah (Tir Köyü)
     - Saraydüzü Mah (Saray Köyü)
     - Sarıoğlu Mah (Keyfallar Köyü)
-    - Satuk Mah (Satuk Köyü)
     - Serdengeçtiler Mah (Çeltik Köyü)
     - Seyisoğlu Mah (Abdullahoğlu Köyü)
-    - Sipahiler Mah (Yortan Köyü)
     - Softalar Mah (Bağbaşı Köyü)
     - Sofuoğlu Mah (Tir Köyü)
     - Soğuk Su Mah (Akmanlar Köyü)
@@ -1132,7 +1110,6 @@ Yenice:
     - Tabaklar Mah (Ibrıcak Köyü)
     - Tabaklar Mah (Satuk Köyü)
     - Taciller Mah (Güney Köyü)
-    - Taşlı Mah (Tir Köyü)
     - Taşlıoğlu Mah (Tir Köyü)
     - Tefenlioğlu Mah (Tir Köyü)
     - Tırpolu Mah (Şenköy Köyü)
@@ -1169,3 +1146,13 @@ Yenice:
     - Merkez Mah
     - Özal Mah
     - Yirmibeşler Mah
+  Yortan:
+    postcode: 78703
+    neighborhoods:
+    - Atatürk Mah (Yortan Beldesi)
+    - Çengeller Mah (Yortan Beldesi)
+    - Dere Mah (Yortan Beldesi)
+    - Döngeller Mah (Yortan Beldesi)
+    - Karaömerler Mah (Yortan Beldesi)
+    - Merkez Mah (Yortan Beldesi)
+    - Sipahiler Mah (Yortan Beldesi)

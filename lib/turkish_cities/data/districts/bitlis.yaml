@@ -11,6 +11,16 @@ Adilcevaz:
     - Kaleboynu Mah
     - Orta Mah
     - Selçuklu Mah
+  Aydınlar:
+    postcode: 13504
+    neighborhoods:
+    - Atatürk Mah (Aydınlar Beldesi)
+    - Budaklı Mah (Aydınlar Beldesi)
+    - Esentepe Mah (Aydınlar Beldesi)
+    - Gültepe Mah (Aydınlar Beldesi)
+    - İsmet Paşa Mah (Aydınlar Beldesi)
+    - Kışkılı Mah (Aydınlar Beldesi)
+    - Menderes Mah (Aydınlar Beldesi)
   Merkezköyler:
     postcode: 13502
     neighborhoods:
@@ -20,34 +30,27 @@ Adilcevaz:
     - Aşağı Mah (İpekçayır Köyü)
     - Aşağı Mah (Yarımada Köyü)
     - Aşağısüphan Köyü
-    - Atatürk Mah (Aydınlar Köyü)
     - Aygırgölü Köyü
     - Ayvacık Mah (Yukarısüphan Köyü)
     - Bahçedere Köyü
-    - Budaklı Mah (Aydınlar Köyü)
     - Cihangir Köyü
     - Çanakyayla Köyü
     - Dizdar Köyü
     - Erikbağı Köyü
     - Esenkıyı Köyü
-    - Esentepe Mah (Aydınlar Köyü)
     - Gölbaşı Mah (Akçıra Köyü)
     - Göldüzü Köyü
     - Gölüstü Köyü
-    - Gültepe Mah (Aydınlar Köyü)
     - Gümüşdüven Köyü
     - Harmantepe Köyü
     - Heybeli Köyü
     - Işıklar Mah (Yukarısüphan Köyü)
-    - İsmet Paşa Mah (Aydınlar Köyü)
     - Karakol Köyü
     - Karaşeyh Köyü
     - Karşıyaka Köyü
     - Kavuştuk Köyü
-    - Kışkılı Mah (Aydınlar Köyü)
     - Kömürlü Köyü
     - Kuzel Mah (Erikbağı Köyü)
-    - Menderes Mah (Aydınlar Köyü)
     - Mollafadıl Köyü
     - Örentaş Köyü
     - Sarıçay Mah (Karakol Köyü)
@@ -113,15 +116,34 @@ Ahlat:
     - Gölgören Köyü
     - Karaağaç Mah (Kırıkkaya Köyü)
     - Kırıkkaya Köyü
-    - Kurtuluş Mah (Ovakışla Köyü)
-    - Kültür Mah (Ovakışla Köyü)
+    - Kurtuluş Mah (Ovakışla Beldesi)
+    - Kültür Mah (Ovakışla Beldesi)
     - Nazik Köyü
-    - Orta Mah (Ovakışla Köyü)
+    - Orta Mah (Ovakışla Beldesi)
     - Otluyazı Köyü
-    - Saray Mah (Ovakışla Köyü)
-    - Yıldızlar Mah (Ovakışla Köyü)
+    - Saray Mah (Ovakışla Beldesi)
+    - Yıldızlar Mah (Ovakışla Beldesi)
     - Yoğurtyemez Köyü
 Güroymak:
+  Gölbaşı:
+    postcode: 13810
+    neighborhoods:
+    - Gültepe Mah (Gölbaşı Beldesi)
+    - Köşk Mah (Gölbaşı Beldesi)
+    - Şenkaya Mah (Gölbaşı Beldesi)
+    - Şenyayla Mah (Gölbaşı Beldesi)
+    - Yeni Mah (Gölbaşı Beldesi)
+    - Yeşiltepe Mah (Gölbaşı Beldesi)
+  Günkırı:
+    postcode: 13803
+    neighborhoods:
+    - Cami Mah (Günkırı Beldesi)
+    - Cumhuriyet Mah (Günkırı Beldesi)
+    - Hürriyet Mah (Günkırı Beldesi)
+    - Pınarbaşı Mah (Günkırı Beldesi)
+    - Refahiye Mah (Günkırı Beldesi)
+    - Şenyurt Mah (Günkırı Beldesi)
+    - Yeşilyurt Mah (Günkırı Beldesi)
   Güroymak:
     postcode: 13800
     neighborhoods:
@@ -147,17 +169,13 @@ Güroymak:
     - Arpacık Köyü
     - Aşağıkolbaşı Köyü
     - Budaklı Köyü
-    - Cami Mah (Günkırı Köyü)
     - Cevizyatağı Köyü
-    - Cumhuriyet Mah (Günkırı Köyü)
     - Çallı Köyü
     - Çayarası Köyü
     - Çıtak Köyü
     - Değirmen Köyü
     - Gedikpınar Köyü
-    - Gültepe Mah (Gölbaşı Köyü)
     - Güzelli Köyü
-    - Hürriyet Mah (Günkırı Köyü)
     - Işıklı Mah (Saklı Köyü)
     - Kaleli Köyü
     - Kani Reş Mah (Çıtak Köyü)
@@ -166,18 +184,12 @@ Güroymak:
     - Kekliktepe Köyü
     - Konak Mah (Arpacık Köyü)
     - Köşk Mah (Değirmen Köyü)
-    - Köşk Mah (Gölbaşı Köyü)
     - Kuştaşı Köyü
     - Oduncular Köyü
     - Özkavak Köyü
-    - Pınarbaşı Mah (Günkırı Köyü)
-    - Refahiye Mah (Günkırı Köyü)
     - Saklı Köyü
     - Sorani Mah (Budaklı Köyü)
     - Sütderesi Köyü
-    - Şenkaya Mah (Gölbaşı Köyü)
-    - Şenyayla Mah (Gölbaşı Köyü)
-    - Şenyurt Mah (Günkırı Köyü)
     - Tahtalı Köyü
     - Taşüstü Köyü
     - Üzümveren Köyü
@@ -186,9 +198,6 @@ Güroymak:
     - Yayladere Köyü
     - Yazıkonak Köyü
     - Yemişveren Köyü
-    - Yeni Mah (Gölbaşı Köyü)
-    - Yeşiltepe Mah (Gölbaşı Köyü)
-    - Yeşilyurt Mah (Günkırı Köyü)
     - Yukarıkolbaşı Köyü
 Hizan:
   Hizan:
@@ -456,7 +465,6 @@ Merkez:
     - Akgün Mah (Çobansuyu Köyü)
     - Aktaş Mah (Alaniçi Köyü)
     - Alaniçi Köyü
-    - Aşağı Dikme Mah (Dikme Köyü)
     - Aşağıkaraboy Köyü
     - Aşağıkoç Mah (Aşağıyolak Köyü)
     - Aşağıyolak Köyü
@@ -464,7 +472,6 @@ Merkez:
     - Başhan Köyü
     - Bayırlı Mah (Kınalı Köyü)
     - Beşkaynak Köyü
-    - Boztepe Mah (Yolalan Köyü)
     - Buğdaylı Mah (Tabanözü Köyü)
     - Cevizdalı Köyü
     - Cevizüstü Mah (Dörtağaç Köyü)
@@ -474,7 +481,6 @@ Merkez:
     - Çallı Mah (Çeltikli Köyü)
     - Çayır Mah (Tatlıkaynak Köyü)
     - Çeltikli Köyü
-    - Çınarbaşı Mah (Yolalan Köyü)
     - Çobansuyu Köyü
     - Değirmenaltı Köyü
     - Deliktaş Köyü
@@ -483,18 +489,15 @@ Merkez:
     - Doğanlı Mah (Karbastı Köyü)
     - Dörtağaç Köyü
     - Döşkaya Köyü
-    - Düz Mah (Yolalan Köyü)
     - Ekinli Köyü
     - Esen Mah (Sarpkaya Köyü)
     - İçmeli Köyü
-    - Kale Mah (Yolalan Köyü)
     - Karakaş Mah (Aşağıyolak Köyü)
     - Karınca Köyü
     - Kayadağ Mah (Kayadağ Köyü)
     - Keçeli Mah (Ortakapı Köyü)
     - Kılyat Mah (Tanrıyar Köyü)
     - Kireçtaşı Köyü
-    - Konaç Mah (Yolalan Köyü)
     - Konalga Köyü
     - Konuksayar Köyü
     - Koruk Köyü
@@ -505,7 +508,6 @@ Merkez:
     - Narlıdere Köyü
     - Ortakapı Köyü
     - Otluk Mah (Deliktaş Köyü)
-    - Pınarbaşı Mah (Yolalan Köyü)
     - Sarıkonak Köyü
     - Sarıyıldız Mah (Aşağıkaraboy Köyü)
     - Sinekar Mah (Kayalıbağ Köyü)
@@ -516,22 +518,31 @@ Merkez:
     - Tatlıkaynak Köyü
     - Tınar Köyü
     - Uçankuş Köyü
-    - Üç Kardeş Mah (Yolalan Köyü)
     - Ünaldı Köyü
     - Yanlızçamlar Köyü
     - Yarönü Köyü
     - Yavuzlar Mah (Çalıdüzü Köyü)
     - Yaygın Köyü
-    - Yeni Mah (Yolalan Köyü)
     - Yenice Mah (Alaniçi Köyü)
     - Yeşilsırt Köyü
-    - Yolalan Mah (Yolalan Köyü)
     - Yolyazı Köyü
     - Yukarıkaraboy Köyü
     - Yukarıyolak Köyü
     - Yumurtatepe Köyü
     - Yücebaş Köyü
     - Ziyaret Mah (Sarpkaya Köyü)
+  Yolalan:
+    postcode: 13003
+    neighborhoods:
+    - Boztepe Mah (Yolalan Beldesi)
+    - Çınarbaşı Mah (Yolalan Beldesi)
+    - Düz Mah (Yolalan Beldesi)
+    - Kale Mah (Yolalan Beldesi)
+    - Konaç Mah (Yolalan Beldesi)
+    - Pınarbaşı Mah (Yolalan Beldesi)
+    - Üç Kardeş Mah (Yolalan Beldesi)
+    - Yeni Mah (Yolalan Beldesi)
+    - Yolalan Mah (Yolalan Beldesi)
 Mutki:
   Geyikpınar:
     postcode: 13703
@@ -554,6 +565,16 @@ Mutki:
     - Yanıkçakır Köyü
     - Yazıcık Köyü
     - Yuvalıdam Köyü
+  Kavakbaşı:
+    postcode: 13705
+    neighborhoods:
+    - Arpalıseki Mah (Kavakbaşı Beldesi)
+    - Cami Mah (Kavakbaşı Beldesi)
+    - Çimen Mah (Kavakbaşı Beldesi)
+    - Gölbaşı Mah (Kavakbaşı Beldesi)
+    - Orta Mah (Kavakbaşı Beldesi)
+    - Yeni Mah (Kavakbaşı Beldesi)
+    - Yüksekova Mah (Kavakbaşı Beldesi)
   Merkezköyler:
     postcode: 13702
     neighborhoods:
@@ -565,7 +586,6 @@ Mutki:
     - Alatoprak Köyü
     - Alıcık Köyü
     - Alkoyun Köyü
-    - Arpalıseki Mah (Kavakbaşı Köyü)
     - Aydemir Köyü
     - Aydınlar Mah (Akıncı Köyü)
     - Bahçeli Mah (Erler Köyü)
@@ -573,7 +593,6 @@ Mutki:
     - Beşevler Köyü
     - Boğazönü Köyü
     - Bozburun Köyü
-    - Cami Mah (Kavakbaşı Köyü)
     - Çağdaş Mah (Akçaağaç Köyü)
     - Çanaklı Mah (Alatoprak Köyü)
     - Çatalsöğüt Köyü
@@ -581,7 +600,6 @@ Mutki:
     - Çayırlı Köyü
     - Çevreli Mah (Çitliyol Köyü)
     - Çığır Köyü
-    - Çimen Mah (Kavakbaşı Köyü)
     - Çitliyol Köyü
     - Çukurca Mah (İkizler Köyü)
     - Dağarcık Köyü
@@ -592,7 +610,6 @@ Mutki:
     - Erler Köyü
     - Eyubiye Mah (Koyunlu Köyü)
     - Fatih Mah (Koyunlu Köyü)
-    - Gölbaşı Mah (Kavakbaşı Köyü)
     - Göztepe Köyü
     - Güvenli Mah (Bozburun Köyü)
     - Havarik Mah (Erler Köyü)
@@ -611,7 +628,6 @@ Mutki:
     - Ocaklı Mah (Çığır Köyü)
     - Oluklu Köyü
     - Onbaşı Mah (Kocainiş Köyü)
-    - Orta Mah (Kavakbaşı Köyü)
     - Ömeriye Mah (Koyunlu Köyü)
     - Özenli Köyü
     - Sarıçiçek Köyü
@@ -625,7 +641,6 @@ Mutki:
     - Uran Köyü
     - Üstyayla Köyü
     - Yalıntaş Köyü
-    - Yeni Mah (Kavakbaşı Köyü)
     - Yenidoğan Köyü
     - Yeniköy Köyü
     - Yeşilce Mah (Oluklu Köyü)
@@ -633,7 +648,6 @@ Mutki:
     - Yiğitler Mah (Dağlık Köyü)
     - Yoncalı Mah (Ekizler Köyü)
     - Yumrumeşe Köyü
-    - Yüksekova Mah (Kavakbaşı Köyü)
   Meydan:
     postcode: 13704
     neighborhoods:
@@ -799,7 +813,6 @@ Tatvan:
     - Top Mah (Eğritaş Köyü)
     - Topraklı Köyü
     - Tosunlu Köyü
-    - Tuzluca Mah (Göllü Köyü)
     - Uçankuş Mah (Sarıdal Köyü)
     - Ulusoy Köyü
     - Uncular Köyü

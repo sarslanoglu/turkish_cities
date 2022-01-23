@@ -463,7 +463,6 @@ Eyyübiye:
     - Kırkmağara Mah
     - Kızılkuyu Mah
     - Koçören Mah
-    - Koçören Osb Mah
     - Köprülük Mah
     - Kubacık Mah
     - Kurucuk Mah
@@ -519,6 +518,7 @@ Eyyübiye:
     - Yaykılıç Mah
     - Yediyol Mah
     - Yenice Mah
+    - Yeşildere Mah
     - Yolbaşı Mah
     - Yolbilir Mah
     - Yukarıçaykuyu Mah
@@ -772,7 +772,6 @@ Harran:
     - Ahmetkara Mah
     - Akkuş Mah
     - Alacalı Mah
-    - Algılı Mah
     - Altılı Mah
     - Aralı Mah
     - Arın Mah
@@ -824,7 +823,6 @@ Harran:
     - Gögeç Mah
     - Gökçe Mah
     - Göktaş Mah
-    - Gölbaşı Mah
     - Gözcü Mah
     - Gürgelen Mah
     - Hazreti İmambakır Mah
@@ -845,6 +843,7 @@ Harran:
     - Küçükminare Mah
     - Küçükyıldız Mah
     - Küplüce Mah
+    - Kütüklü Mah
     - Meydankapı Mah
     - Minare Mah
     - Miyanlı Mah
@@ -886,10 +885,12 @@ Harran:
     - Yayvandoruk Mah
     - Yenice Mah
     - Yenidoğan Mah
-    - Yıldız Mah
+    - Yeşilova Mah
     - Yolgider Mah
+    - Yukarıkesmekaya Mah
     - Yukarıyakınyol Mah
     - Yukarıyarımca Mah
+    - Yünlüce Mah
     - Zeytindalı Mah
 Hilvan:
   Hilvan:
@@ -976,7 +977,6 @@ Karaköprü:
     - Akıncı Mah
     - Akpınar Mah
     - Akpıyar Mah
-    - Akziyaret Mah
     - Ali Baba Mah
     - Apaydın Mah
     - Aşağıçiftlik Mah
@@ -990,13 +990,13 @@ Karaköprü:
     - Bozköy Mah
     - Bölücek Mah
     - Buğdayhüyük Mah
+    - Büyük Akziyaret Mah
     - Büyükalanlı Mah
     - Büyükçömlekçi Mah
     - Büyükkargılı Mah
     - Büyükördek Mah
     - Büyüksalkım Mah
     - Cemal Mah
-    - Cülmen Mah
     - Çakmak Mah
     - Çamlıyayla Mah
     - Çankaya Mah
@@ -1034,6 +1034,7 @@ Karaköprü:
     - Köksüren Mah
     - Kuşluca Mah
     - Kuyucak Mah
+    - Küçük Akziyaret Mah
     - Küçükalanlı Mah
     - Küçüktülmen Mah
     - Külaflı Mah
@@ -1426,7 +1427,6 @@ Viranşehir:
     - Hürriyet Mah
     - Işıldar Mah
     - İncirli Mah
-    - İsaharabesi Mah
     - Kadıköy Mah
     - Kale Mah
     - Karakuzu Mah

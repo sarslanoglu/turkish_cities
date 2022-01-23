@@ -1,5 +1,17 @@
 ---
 Kelkit:
+  Deredolu:
+    postcode: 29610
+    neighborhoods:
+    - Cumhuriyet Mah (Deredolu Beldesi)
+    - Hürriyet Mah (Deredolu Beldesi)
+    - Mahmatlı Mah (Deredolu Beldesi)
+  Gümüşgöze:
+    postcode: 29615
+    neighborhoods:
+    - Fatih Mah (Gümüşgöze Beldesi)
+    - Göztepe Mah (Gümüşgöze Beldesi)
+    - Özyurt Mah (Gümüşgöze Beldesi)
   Kelkit:
     postcode: 29600
     neighborhoods:
@@ -31,9 +43,7 @@ Kelkit:
     - Beşdeğirmen Köyü
     - Bindal Köyü
     - Bulak Köyü
-    - Büyükcami Mah (Ünlüpınar Köyü)
     - Cemalli Köyü
-    - Cumhuriyet Mah (Deredolu Köyü)
     - Çağlar Köyü
     - Çakırlar Köyü
     - Çamur Köyü
@@ -47,25 +57,17 @@ Kelkit:
     - Dölek Köyü
     - Elmelik Köyü
     - Esenler Mah (Kaş Köyü)
-    - Esentepe Mah (Öbektaş Köyü)
     - Eskikadı Köyü
     - Eskiyol Köyü
     - Eymür Köyü
-    - Fatih Mah (Gümüşgöze Köyü)
     - Fatih Mah (Kaş Köyü)
-    - Fatih Mah (Öbektaş Köyü)
-    - Fatih Mah (Ünlüpınar Köyü)
     - Gevezit Mah (Yenice Köyü)
-    - Göztepe Mah (Gümüşgöze Köyü)
     - Güllüce Köyü
     - Gültepe Köyü
     - Günbatur Köyü
     - Güneyçevirme Köyü
     - Gürleyik Köyü
-    - Gürleyik Mah (Gürleyik Köyü)
     - Güzyurdu Köyü
-    - Halkevi Mah (Öbektaş Köyü)
-    - Hürriyet Mah (Deredolu Köyü)
     - Karacaören Köyü
     - Karaçayır Mah
     - Karşıyaka Köyü
@@ -78,14 +80,12 @@ Kelkit:
     - Kömür Köyü
     - Köycük Köyü
     - Kuşluk Köyü
-    - Mahmatlı Mah (Deredolu Köyü)
     - Merkez Mah (Bezendi Köyü)
     - Merkez Mah (Çömlecik Köyü)
     - Merkez Mah (Gerdekhisar Köyü)
     - Merkez Mah (Gödül Köyü)
     - Merkez Mah (Kazanpınar Köyü)
     - Merkez Mah (Kızılca Köyü)
-    - Merkez Mah (Söğütlü Köyü)
     - Meydanlar Mah (Gerdekhisar Köyü)
     - Mezra Mah (Gödül Köyü)
     - Obalar Köyü
@@ -93,7 +93,6 @@ Kelkit:
     - Öğütlü Köyü
     - Örenbel Köyü
     - Özen Köyü
-    - Özyurt Mah (Gümüşgöze Köyü)
     - Sadak Köyü
     - Salördek Köyü
     - Sarışeyh Köyü
@@ -109,6 +108,7 @@ Kelkit:
     - Yayla Mah (Babakonağı Köyü)
     - Yayla Mah (Gürleyik Köyü)
     - Yayla Mah (Kızılca Köyü)
+    - Yayla Mah (Yeşilpınar Köyü)
     - Yeniköy Köyü
     - Yeniyol Köyü
     - Yeşilova Köyü
@@ -117,6 +117,21 @@ Kelkit:
     - Yolçatı Köyü
     - Yukarıözlüce Köyü
     - Yunus Emre Mah
+  Öbektaş:
+    postcode: 29620
+    neighborhoods:
+    - Esentepe Mah (Öbektaş Beldesi)
+    - Fatih Mah (Öbektaş Beldesi)
+    - Halkevi Mah (Öbektaş Beldesi)
+  Söğütlü:
+    postcode: 29625
+    neighborhoods:
+    - Merkez Mah (Söğütlü Beldesi)
+  Ünlüpınar:
+    postcode: 29630
+    neighborhoods:
+    - Büyükcami Mah (Ünlüpınar Beldesi)
+    - Fatih Mah (Ünlüpınar Beldesi)
 Köse:
   Köse:
     postcode: 29650
@@ -176,20 +191,15 @@ Kürtün:
     - Aşağı Mah (Kızılot Köyü)
     - Aşağı Mah (Söğüteli Köyü)
     - Aşağı Mah (Yaylalı Köyü)
-    - Atkoyu Mah (Aktaş Köyü)
     - Avleka Mah (Konacık Köyü)
     - Ayazmane Mah (Aşağıkaradere Köyü)
-    - Ayderesi Mah (Aktaş Köyü)
-    - Ayderesi Mah (Ekinciler Köyü)
     - Aygeriş Mah (Yeşilköy Köyü)
     - Aykutlu Mah (Gündoğdu Köyü)
-    - Ayutlu Mah (Kırgeriş Köyü)
     - Balıklı Mah (Sarıbaba Köyü)
     - Baliçukur Mah (Araköy Köyü)
     - Baş Mah (Söğüteli Köyü)
     - Baş Mah (Yaylalı Köyü)
     - Başövet Mah (Elciğez Köyü)
-    - Başyurt Mah (Araköy Köyü)
     - Bayrakalanı Mah (Konacık Köyü)
     - Beşiraltı Mah (Beşirköy Köyü)
     - Büyük Çeğel Mah (Yeşilköy Köyü)
@@ -199,17 +209,14 @@ Kürtün:
     - Cami Mah (Yaylalı Köyü)
     - Camii Mah (Akçal Köyü)
     - Camii Mah (Damlı Köyü)
-    - Camii Mah (Kızılcatam Köyü)
+    - Camii Mah (Gürgenli Köyü)
+    - Camii Mah (Kızılcadam Köyü)
     - Camii Mah (Sarıbaba Köyü)
     - Camii Yanı Mah (Elciğez Köyü)
     - Camönü Mah (Yukarıkaradere Köyü)
-    - Cayra Mah (Özkürtün Köyü)
-    - Çadırçukuru Mah (Kızılcatam Köyü)
     - Çakmakkaya Mah (Gündoğdu Köyü)
     - Çalalanı Mah (Yeşilköy Köyü)
     - Çamat Mah (Yeşilköy Köyü)
-    - Çambaşı Mah (Çayırçukur Köyü)
-    - Çambaşı Mah (Şendere Köyü)
     - Çardak Alanı Mah (Yeşilköy Köyü)
     - Çardakyanı Mah (Taşlıca Köyü)
     - Çarşı Mah (Demirciler Köyü)
@@ -220,7 +227,6 @@ Kürtün:
     - Çıkrıkdüzü Mah (Yeşilköy Köyü)
     - Çokma Mah (Gürgenli Köyü)
     - Çoruhlu Mah (Beytarla Köyü)
-    - Çökek Mah (Gürgenli Köyü)
     - Çöplüce Mah (Çayırçukur Köyü)
     - Dağtarla-karaağaç-kökbükü Mah (Taşlıca Köyü)
     - Delmece Mah (Sapmaz Köyü)
@@ -228,7 +234,6 @@ Kürtün:
     - Dere Mah (Yaylalı Köyü)
     - Dere Oba Mah (Tilkicek Köyü)
     - Deregözü Mah (Taşlıca Köyü)
-    - Dereyatağı Mah (Taşlıca Köyü)
     - Derindere Mah (Yaylalı Köyü)
     - Doğuba Mah (Araköy Köyü)
     - Düz Mah (Aşağıkaradere Köyü)
@@ -247,7 +252,7 @@ Kürtün:
     - Göcü Mereği Mah (Şendere Köyü)
     - Gölceğiz Mah (Yeşilköy Köyü)
     - Gölönü Mah (Yaylalı Köyü)
-    - Güllüşah Mah (Kızılcatam Köyü)
+    - Güllüşah Mah (Kızılcadam Köyü)
     - Güney Mah (Beşirköy Köyü)
     - Güvende Mah (Yeşilköy Köyü)
     - Hacılı Mah (Sapmaz Köyü)
@@ -256,12 +261,11 @@ Kürtün:
     - Harmancık Mah (Gürgenli Köyü)
     - Hayatderesi Mah (Sapmaz Köyü)
     - Hayin Dere Mah (Kızılot Köyü)
-    - Herekli Mah (Kızılcatam Köyü)
+    - Herekli Mah (Kızılcadam Köyü)
     - Hocali Mah (Konacık Köyü)
     - Horoz Mah (Konacık Köyü)
     - Imukyurt Mah (Sarıbaba Köyü)
     - İbrahim Alanı Mah (Yeşilköy Köyü)
-    - İğnesiburnu Mah (Sapmaz Köyü)
     - İkibaca Mah (Taşlıca Köyü)
     - İmat Kıranı Mah (Üçtaş Köyü)
     - İncelidüz Mah (Üçtaş Köyü)
@@ -275,10 +279,9 @@ Kürtün:
     - Karaağaç Mah (Aşağıkaradere Köyü)
     - Karaağaç Mah (Günyüzü Köyü)
     - Karaboya Mah (Yukarıkaradere Köyü)
-    - Karaçukur Mah (Özkürtün Köyü)
     - Karaçukur Mah (Sapmaz Köyü)
     - Karahamzalı Mah (Günyüzü Köyü)
-    - Karallı Mah (Kızılcatam Köyü)
+    - Karallı Mah (Kızılcadam Köyü)
     - Karşı Mah (Damlı Köyü)
     - Karşı Mah (Kızılot Köyü)
     - Karşı Mah (Tilkicek Köyü)
@@ -286,7 +289,6 @@ Kürtün:
     - Kavastamyanı Mah (Çayırçukur Köyü)
     - Kavraz Mah (Taşlıca Köyü)
     - Kayalgil Mah (Elciğez Köyü)
-    - Kekre Mah (Aktaş Köyü)
     - Keleşoğlu Mah (Yeşilköy Köyü)
     - Kepez Mah (Beşirköy Köyü)
     - Kıran Çeğel Mah (Yeşilköy Köyü)
@@ -300,7 +302,6 @@ Kürtün:
     - Kızıltaş Mah (Bağlama Köyü)
     - Kirazalanı Mah (Çayırçukur Köyü)
     - Kiselice Mah (Yeşilköy Köyü)
-    - Kodalı Mah (Aktaş Köyü)
     - Komanyurt Mah (Beytarla Köyü)
     - Kökeç Mah (Bağlama Köyü)
     - Köprübaşı Mah (Sapmaz Köyü)
@@ -311,19 +312,17 @@ Kürtün:
     - Kuşlağanağzı Mah (Günyüzü Köyü)
     - Kutlu Mah (Konacık Köyü)
     - Kuz Mah (Kırgeriş Köyü)
-    - Kuz Mah (Kızılcatam Köyü)
+    - Kuz Mah (Kızılcadam Köyü)
     - Kuzugölü Mah (Çayırçukur Köyü)
     - Kuzugölü Mah (Şendere Köyü)
     - Küçük Köyceğiz Mah (Yeşilköy Köyü)
     - Küçükdere Mah (Yeşilköy Köyü)
-    - Kürüllük Mah (Gürgenli Köyü)
     - Kütüklüyurt Mah (Yeşilköy Köyü)
     - Langas Mah (Akçal Köyü)
     - Mallıca Mah (Tilkicek Köyü)
     - Masul Yurdu Mah (Yeşilköy Köyü)
     - Melikli Mah (Demirciler Köyü)
     - Memişli Mah (Gündoğdu Köyü)
-    - Merek Yanı Mah (Gürgenli Köyü)
     - Merekdere Mah (Kırgeriş Köyü)
     - Merkez Mah (Aktaş Köyü)
     - Merkez Mah (Arpacık Köyü)
@@ -356,21 +355,16 @@ Kürtün:
     - Patıryurdu Mah (Yeşilköy Köyü)
     - Pınar Gözü Mah (Gürgenli Köyü)
     - Pınarbaşı Mah (Şendere Köyü)
-    - Pinti Mah (Çayırçukur Köyü)
     - Ramazanyurdu Mah (Yaylalı Köyü)
     - Sarıç Mah (Aşağıkaradere Köyü)
     - Sarıtaş Mah (Üçtaş Köyü)
     - Sazlıbük Mah (Günyüzü Köyü)
     - Sevincek Mah (Gündoğdu Köyü)
-    - Sırganlık Mah (Konacık Köyü)
     - Sicimli Mah (Günyüzü Köyü)
     - Sobatlı Mah (Demirciler Köyü)
     - Soğuk Oluk Mah (Elmalı Köyü)
-    - Soğukoluk Mah (Sapmaz Köyü)
     - Suluca Mah (Taşlıca Köyü)
     - Suluçayır Mah (Taşlıca Köyü)
-    - Süme Mah (Özkürtün Köyü)
-    - Tanrı Vermiş Mah (Sapmaz Köyü)
     - Taşbaşı Mah (Sapmaz Köyü)
     - Taşboğazı Mah (Sarıbaba Köyü)
     - Taşdibi Mah (Çayırçukur Köyü)
@@ -378,7 +372,6 @@ Kürtün:
     - Teknecük Mah (Yukarıkaradere Köyü)
     - Tepeköy Mah (Kızılot Köyü)
     - Tohtamur Mah (Taşlıca Köyü)
-    - Topraklıyurt Mah (Beşirköy Köyü)
     - Tutluca Mah (Çayırçukur Köyü)
     - Tüfekçili Mah (Göndere Köyü)
     - Türkmen Mah (Yaylalı Köyü)
@@ -386,10 +379,7 @@ Kürtün:
     - Üst Mah (Gündoğdu Köyü)
     - Üst Mah (Tilkicek Köyü)
     - Ütük Mah (Şendere Köyü)
-    - Üvek Mah (Beşirköy Köyü)
-    - Yanık Merek Mah (Gürgenli Köyü)
     - Yaraş Mah (Aktaş Köyü)
-    - Yatak Yeri Mah (Gürgenli Köyü)
     - Yayla Mah (Günyüzü Köyü)
     - Yazıcı Oğulları Mah (Konacık Köyü)
     - Yehenceli Mah (Konacık Köyü)
@@ -398,11 +388,26 @@ Kürtün:
     - Yeni Mah (Arpacık Köyü)
     - Yeniçeri Mah (Sapmaz Köyü)
     - Yılanlı Mah (Yaylalı Köyü)
-    - Yoncalık Mah (Kızılcatam Köyü)
+    - Yoncalık Mah (Kızılcadam Köyü)
     - Yukarı Alan Mah (Kızılot Köyü)
     - Yukarı-orta-karşı Mah (Aşağıkaradere Köyü)
     - Yürümez Mah (Yaylalı Köyü)
+  Özkürtün:
+    postcode: 29810
+    neighborhoods:
+    - Cayra Mah (Özkürtün Beldesi)
+    - Karaçukur Mah (Özkürtün Beldesi)
+    - Süme Mah (Özkürtün Beldesi)
 Merkez:
+  Arzularkabaköy:
+    postcode: 29020
+    neighborhoods:
+    - Ekinciler Mah (Arzularkabaköy Beldesi)
+    - Esentepe Mah (Arzularkabaköy Beldesi)
+    - Fatih Mah (Arzularkabaköy Beldesi)
+    - Gaziler Mah (Arzularkabaköy Beldesi)
+    - Mezire Mah (Arzularkabaköy Beldesi)
+    - Osman Gazi Mah (Arzularkabaköy Beldesi)
   Gümüşhane:
     postcode: 29010
     neighborhoods:
@@ -427,6 +432,7 @@ Merkez:
     - Ağılören Mah (Olucak Köyü)
     - Akçakale Mah
     - Akdikli Mah (Mescitli Köyü)
+    - Akhisar Köyü
     - Alacaçayır Mah (Çorak Köyü)
     - Alamanlı Mah (Aktutan Köyü)
     - Alçakdere Mah (Alçakdere Köyü)
@@ -507,8 +513,6 @@ Merkez:
     - Çukur Mah (Dumanlı Köyü)
     - Daşlıova Mah (Dumanlı Köyü)
     - Değirmen Mah (Çamlı Köyü)
-    - Değirmenler Mah (Arslanca Köyü)
-    - Değirmenyurdu Mah (Çorak Köyü)
     - Demirören Mah (Demirören Köyü)
     - Dere Mah (Övündü Köyü)
     - Derindere Mah (Çorak Köyü)
@@ -525,24 +529,19 @@ Merkez:
     - Efendiler Mah (Mescitli Köyü)
     - Eftelan Mah (Dumanlı Köyü)
     - Eğrisi Mah (Çorak Köyü)
-    - Ekinciler Mah (Arzularkabaköy Köyü)
     - Ekmekçi Mah (Dibekli Köyü)
     - Emirler Mah (Dörtkonak Köyü)
     - Erikli Mah (Yitirmez Köyü)
     - Esenler Mah (Esenler Köyü)
-    - Esenler Yaylası Mah (Esenler Köyü)
     - Esentepe Mah (Aktutan Köyü)
-    - Esentepe Mah (Arzularkabaköy Köyü)
     - Eski Yayla Mah (Buğalı Köyü)
     - Eskiköy Mah (Geçit Köyü)
     - Evlice Mah (Yağlıdere Köyü)
     - Evreni Mah (Karamustafa Köyü)
-    - Fatih Mah (Arzularkabaköy Köyü)
     - Fazlıoğlu Mah (İkisu Köyü)
     - Fırtına Mah (Mescitli Köyü)
     - Gacili Mah (Buğalı Köyü)
     - Garipli Mah (Dölek Köyü)
-    - Gaziler Mah (Arzularkabaköy Köyü)
     - Gırlavu Mah (Çorak Köyü)
     - Giretli Mah (Aktutan Köyü)
     - Gobal Mah (Dumanlı Köyü)
@@ -551,10 +550,8 @@ Merkez:
     - Gökçepınar Mah (Gökçepınar Köyü)
     - Gökdere 2 Mah (Gökdere Köyü)
     - Gökdere Mah (Gökdere Köyü)
-    - Gözeler Mah (Gözeler Köyü)
     - Gümüşlük Mah (Akgedik Köyü)
     - Gündoğdu Mah (Demirkaynak Köyü)
-    - Gündüzoğlu Mah (Buğalı Köyü)
     - Güneşli Mah (Yeşildere Köyü)
     - Güney Mah (Buğalı Köyü)
     - Güngören Mah (Güngören Köyü)
@@ -618,7 +615,6 @@ Merkez:
     - Kayabaşı Yaylası Mah (Kayabaşı Köyü)
     - Kayalçı Mah (Akgedik Köyü)
     - Kelhasan Mah (Dumanlı Köyü)
-    - Keşka Mah (Karamustafa Köyü)
     - Kıran Mah (Dörtkonak Köyü)
     - Kızılca Mah (Kızılca Köyü)
     - Kızılkaya Mah (Akocak Köyü)
@@ -635,6 +631,7 @@ Merkez:
     - Krom Mah (Yağlıdere Köyü)
     - Kumlar Mah (Karamustafa Köyü)
     - Kurtdere Mah (Çorak Köyü)
+    - Kurtdere-dilaver Mah (Çorak Köyü)
     - Kurtgil Mah (Dölek Köyü)
     - Kurtoğlu Mah (Kurtoğlu Köyü)
     - Kuşlu Mah (Yeşildere Köyü)
@@ -688,7 +685,6 @@ Merkez:
     - Merkez Mah (Yağlıdere Köyü)
     - Merkez Mah (Yeniköy Köyü)
     - Mescitli Mah (Mescitli Köyü)
-    - Mezire Mah (Arzularkabaköy Köyü)
     - Minconos Mah (Çorak Köyü)
     - Mizit Yaylası Mah (Yağlıdere Köyü)
     - Mollaali Mah (Yağlıdere Köyü)
@@ -710,7 +706,6 @@ Merkez:
     - Orta Mah (Yaydemir Köyü)
     - Orta Mah (Yayladere Köyü)
     - Oruçlu Mah (Dölek Köyü)
-    - Osman Gazi Mah (Arzularkabaköy Köyü)
     - Osmangil Mah (Dörtkonak Köyü)
     - Örenler Mah (Örenler Köyü)
     - Örenler Yaylası Mah (Örenler Köyü)
@@ -741,7 +736,6 @@ Merkez:
     - Sungurbeyli Mah (Sungurbeyli Köyü)
     - Şakallı Mah (Yeşildere Köyü)
     - Şaphane Mah (Şephane Köyü)
-    - Şaphane Yaylası Mah (Şephane Köyü)
     - Şican Mah (Çorak Köyü)
     - Tarazalı Mah (Aktutan Köyü)
     - Taşaltı Mah (Dumanlı Köyü)
@@ -771,7 +765,6 @@ Merkez:
     - Yağmurdere Mah (Yağmurdere Köyü)
     - Yamaç Mah (Yağlıdere Köyü)
     - Yapraklı Mah (Yukarı Yuvalı Köyü)
-    - Yaydemir Mah (Yaydemir Köyü)
     - Yayla Yolu Mah (Kaletaş Köyü)
     - Yeni Çamlık Mah (Yağlıdere Köyü)
     - Yeni Mah (Ballıca Köyü)
@@ -781,7 +774,6 @@ Merkez:
     - Yenice Mah (Yenice Köyü)
     - Yeşilyurt Mah (Erdemler Köyü)
     - Yetimli Mah (Yeşilyurt Köyü)
-    - Yılanlı Mah (Yukarı Yuvalı Köyü)
     - Yılmazlar Mah (İkisu Köyü)
     - Yoğurtlu Mah (Yağlıdere Köyü)
     - Yoncalı Mah (Harmancık Köyü)
@@ -800,7 +792,6 @@ Merkez:
     - Yukarı Yuvalı Mah (Yukarı Yuvalı Köyü)
     - Yukarı Zuvas Mah (Arslanca Köyü)
     - Zeynepli Mah (Yeşildere Köyü)
-    - Zırganlı Hanları Mah (Dumanlı Köyü)
     - Zurnacili Mah (Dumanlı Köyü)
 Şiran:
   Merkezköyler:
@@ -808,7 +799,6 @@ Merkez:
     neighborhoods:
     - Akbulak Yaylası Mah (Akbulak Köyü)
     - Aksaray Köyü
-    - Akyayla Mah (Yeşilbük Köyü)
     - Alacahan Köyü
     - Alıç Köyü
     - Araköy Köyü
@@ -824,7 +814,6 @@ Merkez:
     - Bahçeli Yaylası Mah (Bahçeli Köyü)
     - Balıkhisar Köyü
     - Belen Köyü
-    - Beydere Mah (Yeşilbük Köyü)
     - Bilgili Mah
     - Boğazyayla Köyü
     - Bolluk Köyü
@@ -864,7 +853,6 @@ Merkez:
     - Kaynakbaşı Köyü
     - Kırıntı Köyü
     - Kızılca Su Mah (Kırıntı Köyü)
-    - Konaklı Mah (Yeşilbük Köyü)
     - Koyunbaba Köyü
     - Kozağaç Köyü
     - Merkez Mah (Akbulak Köyü)
@@ -884,9 +872,7 @@ Merkez:
     - Sarıtaş Mah (Seydibaba Köyü)
     - Sarıyer Mah (Seydibaba Köyü)
     - Seki Mah (Tomara Mah) (Seydibaba Köyü)
-    - Selimiye Yaylası Mah (Selimiye Köyü)
     - Sellidere Köyü
-    - Seydibaba Yaylası Mah (Seydibaba Köyü)
     - Sinanlı Köyü
     - Siteler Mah (Selimiye Köyü)
     - Susuz Köyü
@@ -897,8 +883,6 @@ Merkez:
     - Yedibölük Köyü
     - Yeniköy Köyü
     - Yeniköy Yaylası Mah (Yeniköy Köyü)
-    - Yeşilkent Mah (Yeşilbük Köyü)
-    - Yeşilyurt Mah (Yeşilbük Köyü)
     - Yolbilen Köyü
     - Yukarı Akçalı Mah (Akçalı Köyü)
     - Yukarıduruçay Köyü
@@ -912,17 +896,22 @@ Merkez:
     - Mertekli Mah
     - Şehit Hakan Mah
     - Tekke Mah
+  Yeşilbük:
+    postcode: 29750
+    neighborhoods:
+    - Akyayla Mah (Yeşilbük Beldesi)
+    - Beydere Mah (Yeşilbük Beldesi)
+    - Konaklı Mah (Yeşilbük Beldesi)
+    - Yeşilkent Mah (Yeşilbük Beldesi)
+    - Yeşilyurt Mah (Yeşilbük Beldesi)
 Torul:
   Merkezköyler:
     postcode: 29802
     neighborhoods:
     - Acekise Mh. (İlecik Köyü)
-    - Acenkise Mah (İlecik Köyü)
     - Adisa Yaylası Mah (Yıldız Köyü)
-    - Afuka Mah (Budak Köyü)
     - Ahmatlı Mh. (Budak Köyü)
     - Aksüt Yaylası Mah (Aksüt Köyü)
-    - Aktaş Mh. (Dedeli Köyü)
     - Allan Mh. (Güzeloluk Köyü)
     - Alpullu Mah (Uğurtaşı Köyü)
     - Altıntaşlar Mah (Kocadal Köyü)
@@ -933,7 +922,6 @@ Torul:
     - Aslanoğlu Mah (Demirkapı Köyü)
     - Aşağı Mh. (Arılı Köyü)
     - Aşağı Mh. (Yurt Köyü)
-    - Atalar Köyü Merkez
     - Atgüney Mah (Demirkapı Köyü)
     - Avcılar Mah (Gülaçar Köyü)
     - Ayazlı Mh. (Işık Köyü)
@@ -998,13 +986,11 @@ Torul:
     - Durmuşlar Mh. (Gülaçar Köyü)
     - Düz Mh. (Demirkapı Köyü)
     - Elma Mh. (Kocadal Köyü)
-    - Elma Mh.yaylası (Kocadal Köyü)
     - Emirler Dere Mh. (Büyükçit Köyü)
     - Emirler Mh. (Büyükçit Köyü)
     - Emirler Mh. Mah (Yayla Evleri Mah) (Büyükçit Köyü)
     - Emrük Mah (Demirkapı Köyü)
     - Erdemler Mh. (Kocadal Köyü)
-    - Erdemler Yaylası Mah (Kocadal Köyü)
     - Esentepe Mah (Gülaçar Köyü)
     - Esentepe Mah (Herek Köyü)
     - Eski Muhtarlar Mah (Bahçelik Köyü)
@@ -1014,7 +1000,6 @@ Torul:
     - Gadohor Mh. (Aksüt Köyü)
     - Gambat Mh. (Budak Köyü)
     - Gardoba Mah (Aksüt Köyü)
-    - Gebe Yurt Mah (Güzeloluk Köyü)
     - Gelinkaya Mh. (Harmancık Köyü)
     - Gorofta Mah (Köstere Köyü)
     - Göğüs Mh. (Güzeloluk Köyü)
@@ -1024,7 +1009,6 @@ Torul:
     - Gugule Mah (Yurt Köyü)
     - Güllü Mah (Herek Köyü)
     - Güllü Mh. (Kocadal Köyü)
-    - Güllü Mh. Yaylası (Kocadal Köyü)
     - Güneşli Mah (Altınpınar Köyü)
     - Gürpınar Mah (Altınpınar Köyü)
     - Güvercinlik Mah (Yalınkavak Köyü)
@@ -1037,7 +1021,6 @@ Torul:
     - Hıtırıllez Mh. (Demirkapı Köyü)
     - Horobos Mh. (Demirkapı Köyü)
     - Işıklar Mh. (Zigana Köyü)
-    - İlecik Mh. (İlecik Köyü)
     - K.yücebelen Mh. (Yücebelen Köyü)
     - K.yücebelen Minarli Yay. Mah (Yücebelen Köyü)
     - K.yücebelen Şep Mezrası Mah (Yücebelen Köyü)
@@ -1051,7 +1034,6 @@ Torul:
     - Karel Mh. (Harmancık Köyü)
     - Karşıyaka Mah (Dedeli Köyü)
     - Karşıyaka Mah (İnkılap Köyü)
-    - Kavraz Yaylası Mah (Güzeloluk Köyü)
     - Kayadibi Mh. (Demirkapı Köyü)
     - Kaycılar Yaylası Mah (Güvemli Köyü)
     - Keklik Mah (Yalınkavak Köyü)
@@ -1089,7 +1071,6 @@ Torul:
     - Merkez Alas Mah (Atalar Köyü)
     - Merkez Mah (Alınyayla Köyü)
     - Merkez Mah (Arpalı Köyü)
-    - Merkez Mah (Atalar Köyü)
     - Merkez Mah (Büyükçit Köyü)
     - Merkez Mah (Dağdibi Köyü)
     - Merkez Mah (Gümüştuğ Köyü)
@@ -1138,8 +1119,8 @@ Torul:
     - Sarıç Mah (Yurt Köyü)
     - Selen Mah (Zigana Köyü)
     - Sofular Mah (Zigana Köyü)
-    - Soya Mh. (Küçükçit Köyü)
     - Söğütözü Mah (Herek Köyü)
+    - Şena Mah (Küçükçit Köyü)
     - Şep Mezrası Mah (Yücebelen Köyü)
     - Şimonoy Mah (Dedeli Köyü)
     - Temeller Mah (Bahçelik Köyü)
@@ -1149,7 +1130,6 @@ Torul:
     - Udali Mah (Budak Köyü)
     - Usluca Mah (Tokçam Köyü)
     - Usluca Yaylası Mah (Tokçam Köyü)
-    - Vartlı Mh. (Güvemli Köyü)
     - Yalınkavak Yaylası Mah (Yalınkavak Köyü)
     - Yaycılı Mah (Demirkapı Köyü)
     - Yayıkcılar Mezere Mevki Mah (Gümüştuğ Köyü)

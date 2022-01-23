@@ -45,6 +45,12 @@ Demirözü:
     - Esentepe Mah
     - Güneşli Mah
     - Şirin Mah
+  Gökçedere:
+    postcode: 69450
+    neighborhoods:
+    - Karşıyaka Mah (Gökçedere Beldesi)
+    - Pınarbaşı Mah (Gökçedere Beldesi)
+    - Yeşilyurt Mah (Gökçedere Beldesi)
   Merkezköyler:
     postcode: 69402
     neighborhoods:
@@ -65,20 +71,23 @@ Demirözü:
     - Işıkova Köyü
     - Kalecik Köyü
     - Karayaşmak Köyü
-    - Karşıyaka Mah (Gökçedere Köyü)
     - Kavaklı Köyü
     - Otlukbeli Köyü
     - Petekli Köyü
-    - Pınarbaşı Mah (Gökçedere Köyü)
     - Pınarcık Köyü
     - Serenli Köyü
     - Yakupabdal Köyü
     - Yazıbaşı Köyü
     - Yelpınar Köyü
     - Yeşilyurt Mah (Beşpınar Köyü)
-    - Yeşilyurt Mah (Gökçedere Köyü)
     - Yukarıpınarlı Köyü
 Merkez:
+  Arpalı:
+    postcode: 69300
+    neighborhoods:
+    - Cumhuriyet Mah (Arpalı Beldesi)
+    - Çiçekli Mah (Arpalı Beldesi)
+    - Hürriyet Mah (Arpalı Beldesi)
   Bayburt:
     postcode: 69010
     neighborhoods:
@@ -157,13 +166,11 @@ Merkez:
     - Bayırtepe Köyü
     - Bayraktar Köyü
     - Buğdaylı Köyü
-    - Cumhuriyet Mah (Arpalı Köyü)
     - Çakırbağ Köyü
     - Çamdere Köyü
     - Çamlıkoz Köyü
     - Çatılar Mah (Sancaktepe Köyü)
     - Çayırözü Köyü
-    - Çiçekli Mah (Arpalı Köyü)
     - Çiğdemtepe Köyü
     - Çorak Köyü
     - Dağçatı Köyü
@@ -189,7 +196,6 @@ Merkez:
     - Hacıoğlu Köyü
     - Harmanözü Köyü
     - Heybetepe Köyü
-    - Hürriyet Mah (Arpalı Köyü)
     - Kabaçayır Köyü
     - Karlıca Köyü
     - Karşıgeçit Köyü

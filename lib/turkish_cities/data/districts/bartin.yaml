@@ -182,6 +182,13 @@ Merkez:
     - Orta Mah
     - Şiremirçavuş Mah
     - Tuna Mah
+  Hasankadı:
+    postcode: 74420
+    neighborhoods:
+    - Gerişli Mah (Hasankadı Beldesi)
+    - Merkez Mah (Hasankadı Beldesi)
+    - Şabankadı Mah (Hasankadı Beldesi)
+    - Tüloğlu Mah (Hasankadı Beldesi)
   Kozcağız:
     postcode: 74400
     neighborhoods:
@@ -223,9 +230,9 @@ Merkez:
     - Çömlekler Mah (Yeşilyurt Köyü)
     - Çubukçu Deresi Mah (Hanyeri Köyü)
     - Davutlar Mah (Çaybükü Köyü)
-    - Değirmenci Mah (Kozcağız Köyü)
+    - Değirmenci Mah (Kozcağız Beldesi)
     - Deliktaş Mah (Eyüpoğlu Köyü)
-    - Demirci Ahmetler Mah (Kozcağız Köyü)
+    - Demirci Ahmetler Mah (Kozcağız Beldesi)
     - Demirci Mah (Tasmacı Köyü)
     - Dırazlar Mah (Dırazlar Köyü)
     - Doroğlu Mah (Hanyeri Köyü)
@@ -239,7 +246,6 @@ Merkez:
     - Fırdan Mah (Akbaş Köyü)
     - Gartosmanlar Mah (Akbaş Köyü)
     - Geciksuyu Mah (Hasanefendi Köyü)
-    - Gerişli Mah (Hasankadı Köyü)
     - Gofuroğlu Mah (Tasmacı Köyü)
     - Göcü Mah (Akağaç Köyü)
     - Göçmenler Mah (Eskiemirler Köyü)
@@ -258,7 +264,7 @@ Merkez:
     - Karşı Mah (Bedil Köyü)
     - Karşı Mah (Yeğenli Köyü)
     - Karşıbakraç Mah (Bakioğlu Köyü)
-    - Kavlaklık Mah (Kozcağız Köyü)
+    - Kavlaklık Mah (Kozcağız Beldesi)
     - Kayımlar Mah (Akçamescit Köyü)
     - Kerimoğlu Mah (Ecikler Köyü)
     - Kerpiçlik Mah (Mamak Köyü)
@@ -289,11 +295,10 @@ Merkez:
     - Merkez Mah (Eyüpoğlu Köyü)
     - Merkez Mah (Hanyeri Köyü)
     - Merkez Mah (Hasanefendi Köyü)
-    - Merkez Mah (Hasankadı Köyü)
     - Merkez Mah (Hıdırlar Köyü)
     - Merkez Mah (Karayakup Köyü)
     - Merkez Mah (Karşıyaka Köyü)
-    - Merkez Mah (Kozcağız Köyü)
+    - Merkez Mah (Kozcağız Beldesi)
     - Merkez Mah (Köyyeri Köyü)
     - Merkez Mah (Mamak Köyü)
     - Merkez Mah (Sofular Köyü)
@@ -321,7 +326,6 @@ Merkez:
     - Sazlık Mah (Akbaş Köyü)
     - Solganlar Mah (Dırazlar Köyü)
     - Subaşı Mah (Hocaoğlu Köyü)
-    - Şabankadı Mah (Hasankadı Köyü)
     - Şanlılar Mah (Hocaoğlu Köyü)
     - Şıvgılar Mah (Ecikler Köyü)
     - Şirinköy Köyü
@@ -335,11 +339,10 @@ Merkez:
     - Topallar Mah (Yeşilyurt Köyü)
     - Toroğlu Mah (Ecikler Köyü)
     - Turuplar Mah (Ustaoğlu Köyü)
-    - Tüloğlu Mah (Hasankadı Köyü)
     - Uslular Mah (Akağaç Köyü)
     - Yeni Mah (Bedil Köyü)
     - Yeni Mah (Ustaoğlu Köyü)
-    - Yenişar Mah (Kozcağız Köyü)
+    - Yenişar Mah (Kozcağız Beldesi)
     - Yılmazlar Mah (Hocaoğlu Köyü)
     - Yukarı Ali Osmanlar Mah (Özbaşı Köyü)
     - Yukarı Mah (Akağaç Köyü)
@@ -732,6 +735,14 @@ Merkez:
     - Esentepe Mah
     - Karaköy Mah
 Ulus:
+  Abdipaşa:
+    postcode: 74610
+    neighborhoods:
+    - Derecik Mah (Abdipaşa Beldesi)
+    - Kadıoğlu Mah (Abdipaşa Beldesi)
+    - Karadiken Mah (Abdipaşa Beldesi)
+    - Ulupınar Mah (Abdipaşa Beldesi)
+    - Yeşilpazar Mah (Abdipaşa Beldesi)
   Kumluca:
     postcode: 74410
     neighborhoods:
@@ -796,7 +807,7 @@ Ulus:
     - Karabacak Mah (Uluköy Köyü)
     - Karakaşoğlu Mah (Akörensöküler Köyü)
     - Karavelioğlu Mah (Zafer Köyü)
-    - Kavaklıkaldırım Mah (Kumluca Köyü)
+    - Kavaklıkaldırım Mah (Kumluca Beldesi)
     - Kazaskeroğlu Mah (Zafer Köyü)
     - Keloğlu Mah (Zafer Köyü)
     - Kızılovaz Mah (Akörensöküler Köyü)
@@ -819,7 +830,7 @@ Ulus:
     - Merkez Mah (Kızıllar Köyü)
     - Merkez Mah (Konak Köyü)
     - Merkez Mah (Konuklu Köyü)
-    - Merkez Mah (Kumluca Köyü)
+    - Merkez Mah (Kumluca Beldesi)
     - Merkez Mah (Yenikışla Köyü)
     - Merkez Mah (Yılanlar Köyü)
     - Milne Mah (Üçsaray Köyü)
@@ -837,7 +848,7 @@ Ulus:
     - Üçpınar Mah (Zafer Köyü)
     - Yamaklar Mah (Kıyıklar Köyü)
     - Yeni Mah (Ceyüpler Köyü)
-    - Yeni Mah (Kumluca Köyü)
+    - Yeni Mah (Kumluca Beldesi)
     - Yeni Mah (Uluköy Köyü)
     - Yeni Mah (Yılanlar Köyü)
     - Yirmibeşoğlu Mah (Uluköy Köyü)
@@ -848,7 +859,6 @@ Ulus:
     neighborhoods:
     - Ahmet Mah (Aşağıdere Köyü)
     - Ahmetçelebi Mah (Kozanlı Köyü)
-    - Akmeşeyanı Mah (Dodurga Köyü)
     - Aktaş Mah (Aktaş Köyü)
     - Aktoprak Mah (Hasanören Köyü)
     - Alaoğlu Mah (Güneyören Köyü)
@@ -902,7 +912,6 @@ Ulus:
     - Dere Mah (Arpacık Köyü)
     - Dere Mah (Güneyören Köyü)
     - Dere Mah (Kirazcık Köyü)
-    - Derecik Mah (Abdipaşa Köyü)
     - Dereli Mah (Sarıfasıl Köyü)
     - Doruk Mah (İbrahimderesi Köyü)
     - Dutlu Mah (Köklü Köyü)
@@ -939,7 +948,6 @@ Ulus:
     - Kabaoğlu Mah (İğneciler Köyü)
     - Kadı Mah (Aktaş Köyü)
     - Kadı Mah (İnceçam Köyü)
-    - Kadıoğlu Mah (Abdipaşa Köyü)
     - Kadirağa Mah (Gökpınar Köyü)
     - Kalfalar Mah (Dereli Köyü)
     - Kanavaka Mah (Hocaköy Köyü)
@@ -950,7 +958,6 @@ Ulus:
     - Karakaçoğlu Mah (Abdurrahman Köyü)
     - Karakuz Mah (Güneyören Köyü)
     - Karamadanoğlu Mah (Kadıköy Köyü)
-    - Karamanoğlu Mah (Dodurga Köyü)
     - Karasa Mah (Düzköy Köyü)
     - Kargacak Mah (Eldeş Köyü)
     - Kaşaltı Mah (Kalecik Köyü)
@@ -1034,7 +1041,6 @@ Ulus:
     - Taşçıoğlu Mah (Düzköy Köyü)
     - Tekmenoğlu Mah (Kadıköy Köyü)
     - Tombooğlu Mah (Çavuşköy Köyü)
-    - Ulupınar Mah (Abdipaşa Köyü)
     - Üçpınar Mah (Balıcak Köyü)
     - Vildanlar Mah (Eseler Köyü)
     - Yalvaç Mah (Hocaköy Köyü)
@@ -1043,7 +1049,6 @@ Ulus:
     - Yeni Mah (Hasanören Köyü)
     - Yeni Mah (Sarnıç Köyü)
     - Yenice Mah (Aşağıdere Köyü)
-    - Yeşilpazar Mah (Abdipaşa Köyü)
     - Yukarı Mah (Aşağıçerçi Köyü)
     - Yukarı Mah (Aşağıemirce Köyü)
     - Yukarı Mah (Aşağıköy Köyü)
@@ -1058,7 +1063,6 @@ Ulus:
     postcode: 74600
     neighborhoods:
     - Kaldırım Mah
-    - Karadiken Mah (Abdipaşa Köyü)
     - Kasımlar Mah
     - Mezgeller Mah
     - Samat Mah

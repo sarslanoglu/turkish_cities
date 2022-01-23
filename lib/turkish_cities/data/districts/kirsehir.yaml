@@ -129,6 +129,14 @@ Boztepe:
     - Osman Şevki Mah
     - Yeni Mah
     - Yenişehir Mah
+  Köseli:
+    postcode: 40730
+    neighborhoods:
+    - Bahçelievler Mah (Köseli Beldesi)
+    - Cumhuriyet Mah (Köseli Beldesi)
+    - Çiçek Mah (Köseli Beldesi)
+    - Çiftlik Mah (Köseli Beldesi)
+    - Devreceli Mah (Köseli Beldesi)
   Merkezköyler:
     postcode: 40702
     neighborhoods:
@@ -145,7 +153,6 @@ Boztepe:
     - B Grubu Mah (Gölcük Köyü)
     - B Grubu Mah (Hacıhasanlı Köyü)
     - Bağlarbaşı Mah (Boğazevci Köyü)
-    - Bahçelievler Mah (Köseli Köyü)
     - Bahçepınar Köyü
     - Baraklı Köyü
     - Beşikli Köyü
@@ -154,17 +161,13 @@ Boztepe:
     - Büyükteflek Köyü
     - Camili Kümesi Mah (Beşikli Köyü)
     - Cenderözü Mah (Hacıhasanlı Köyü)
-    - Cumhuriyet Mah (Köseli Köyü)
     - Çanakpınar Köyü
     - Çepni Köyü
-    - Çiçek Mah (Köseli Köyü)
     - Çiçekli Köyü
     - Çiftlik İşletmesi Mah (Tatbekirli Köyü)
-    - Çiftlik Mah (Köseli Köyü)
     - Çopraşık Köyü
     - Çubuktarla Köyü
     - Demirli Köyü
-    - Devreceli Mah (Köseli Köyü)
     - Doğankaş Köyü
     - Gölcük Köyü
     - Güzeltepe Mah (Boğazevci Köyü)
@@ -208,9 +211,7 @@ Kaman:
     neighborhoods:
     - Bahçelievler Mah
     - Bahçelievler Mah (Çağırkan Köyü)
-    - Bahçelievler Mah (Kurancılı Köyü)
     - Cuma Mah
-    - Cumhuriyet Mah (Kurancılı Köyü)
     - Çiftlikli Mah
     - Darıözü Mah
     - Fatih Mah (Çağırkan Köyü)
@@ -219,15 +220,20 @@ Kaman:
     - Müderris Mah
     - Orta Mah
     - Orta Mah (Çağırkan Köyü)
-    - Orta Mah (Kurancılı Köyü)
     - Orta Mah (Savcılıbüyükoba Köyü)
     - Sarıuşağı Mah
     - Sırbeli Mah (Savcılıbüyükoba Köyü)
     - Yeni Mah
     - Yeni Mah (Çağırkan Köyü)
-    - Yeni Mah (Kurancılı Köyü)
     - Yeni Mah (Savcılıbüyükoba Köyü)
     - Ziyarettepe Mah
+  Kurancılı:
+    postcode: 40390
+    neighborhoods:
+    - Bahçelievler Mah (Kurancılı Beldesi)
+    - Cumhuriyet Mah (Kurancılı Beldesi)
+    - Orta Mah (Kurancılı Beldesi)
+    - Yeni Mah (Kurancılı Beldesi)
   Merkezköyler:
     postcode: 40302
     neighborhoods:
@@ -340,7 +346,6 @@ Merkez:
     - Güllütarla Mah (Yağmurlubüyükoba Köyü)
     - Güzler Köyü
     - Hashüyük Köyü
-    - Helvacılar Mah (Özbağ Köyü)
     - Homurlu Beşler Köyü
     - Homurlu Üçler Köyü
     - Hürriyet Mah (Toklümen Köyü)
@@ -354,13 +359,10 @@ Merkez:
     - Karasüleyman Çiftliği Mah (Çuğun Köyü)
     - Karıncalı Köyü
     - Karşıyaka Mah (Dulkadirli Köyü)
-    - Karşıyaka Mah (Özbağ Köyü)
     - Kartalkaya Köyü
     - Kayabaşı Mah (Toklümen Köyü)
     - Kesikköprü Köyü
     - Kırkpınar Köyü
-    - Kışlapınar Mah (Özbağ Köyü)
-    - Kızılca Mah (Özbağ Köyü)
     - Killik Mah (Sıdıklıbüyükoba Köyü)
     - Kocabey Köyü
     - Kortulu Köyü
@@ -369,9 +371,7 @@ Merkez:
     - Kurtbeliyeniyapan Köyü
     - Kuruağıl Köyü
     - Kuytuluk Mah (Yağmurlubüyükoba Köyü)
-    - Örcün Mah (Özbağ Köyü)
     - Saraycık Köyü
-    - Saraylar Mah (Özbağ Köyü)
     - Sevdiğin Köyü
     - Seyrekköy Köyü
     - Sıdıklıbüyükoba Köyü
@@ -396,12 +396,21 @@ Merkez:
     - Yarımkale Mah (Dulkadirli Köyü)
     - Yayla Mah (Karahıdır Köyü)
     - Yeni Mah (Çayağzı Köyü)
-    - Yeni Mah (Özbağ Köyü)
     - Yeraltı Şehri Mah (Dulkadirli Köyü)
     - Yeşilli Köyü
     - Yeşiloba Köyü
     - Yukarı Homurlu Köyü
     - Yunus Emre Mah (Ulupınar Köyü)
+  Özbağ:
+    postcode: 40080
+    neighborhoods:
+    - Helvacılar Mah (Özbağ Beldesi)
+    - Karşıyaka Mah (Özbağ Beldesi)
+    - Kışlapınar Mah (Özbağ Beldesi)
+    - Kızılca Mah (Özbağ Beldesi)
+    - Örcün Mah (Özbağ Beldesi)
+    - Saraylar Mah (Özbağ Beldesi)
+    - Yeni Mah (Özbağ Beldesi)
 Mucur:
   Merkezköyler:
     postcode: 40502

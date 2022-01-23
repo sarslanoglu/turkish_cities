@@ -26,7 +26,6 @@
     - Büyükgelengeç Köyü
     - Büyükyaylaköy Köyü
     - Cennetpınar Köyü
-    - Coşan Köyü
     - Çataksu Köyü
     - Çaykent Köyü
     - Çayönü Köyü
@@ -181,7 +180,6 @@ Kemah:
     - Akça Köyü
     - Aksakal Mah (Olukpınar Köyü)
     - Aktaş Köyü
-    - Aktaş Mah (Seringöze Köyü)
     - Akyünlü Köyü
     - Aligıcikgil Mah (Karaca Köyü)
     - Alp Köyü
@@ -207,7 +205,6 @@ Kemah:
     - Çalıklar Köyü
     - Çalolar Mah (Karaca Köyü)
     - Çamlıyayla Köyü
-    - Çat Mah (Bozoğlak Köyü)
     - Çay Mah (Bozoğlak Köyü)
     - Çay Mah (Çiğdemli Köyü)
     - Çay Mah (Dikyamaç Köyü)
@@ -338,7 +335,6 @@ Kemaliye:
     - Akçalı Köyü
     - Akçiçek Mah (Dutluca Köyü)
     - Aşağı Mah (Dutluca Köyü)
-    - Aşağı Mah (Ocak Köyü)
     - Aşağı Yuvacık Mah (Ocak Köyü)
     - Boylu Köyü
     - Çakırtaş Köyü
@@ -460,6 +456,16 @@ Merkez:
     - Taksim Mah
     - Yavuz Selim Mah
     - Yenimahalle Mah
+  Çağlayan:
+    postcode: 24130
+    neighborhoods:
+    - Atatürk Mah (Çağlayan Beldesi)
+    - Cumhuriyet Mah (Çağlayan Beldesi)
+    - Derebağ Mah (Çağlayan Beldesi)
+    - Erdene Mah (Çağlayan Beldesi)
+    - Mertekli Mah (Çağlayan Beldesi)
+    - Şelale Mah (Çağlayan Beldesi)
+    - Yamaçlı Mah (Çağlayan Beldesi)
   Merkezköyler:
     postcode: 24002
     neighborhoods:
@@ -469,8 +475,6 @@ Merkez:
     - Aktoprak Mah
     - Akyazı Mah
     - Alsancak Mah
-    - Atatürk Mah (Çağlayan Köyü)
-    - Atatürk Mah (Mollaköy Köyü)
     - Atatürk Mah (Tatlısu Köyü)
     - Aydoğdu Köyü
     - Aziz Baba Mah
@@ -494,8 +498,6 @@ Merkez:
     - Cemal Gürsel Mah
     - Cevizli Köyü
     - Cevizli Mah (Çubuklu Köyü)
-    - Cumhuriyet Mah (Çağlayan Köyü)
-    - Cumhuriyet Mah (Mollaköy Köyü)
     - Cumhuriyet Mah (Tatlısu Köyü)
     - Çadırkaya Mah (Ağılözü Köyü)
     - Çatalarmut Köyü
@@ -506,13 +508,11 @@ Merkez:
     - Davarlı Mah
     - Değirmenköy Mah (Değirmenköy Köyü)
     - Demetevler Mah
-    - Derebağ Mah (Çağlayan Köyü)
     - Dereyurt Mah
     - Ekinci Köyü
     - Ekinli Mah (Çubuklu Köyü)
     - Ekmekli Köyü
     - Elmaköy Köyü
-    - Erdene Mah (Çağlayan Köyü)
     - Ergan Köyü
     - Ertuğrul Gazi Mah
     - Esentepe Mah
@@ -555,10 +555,8 @@ Merkez:
     - Kurtuluş Mah (Tatlısu Köyü)
     - Kurutilek Mah
     - Küçükçakırman Köyü
-    - Mahmutlu Mah (Mollaköy Köyü)
     - Mecidiye Köyü
     - Memetalibey Mah (Binkoç Köyü)
-    - Mertekli Mah (Çağlayan Köyü)
     - Munzur Mah
     - Mustafa Kemal Paşa Mah
     - Müftüoğlu Mah (Kilimli Köyü)
@@ -584,10 +582,8 @@ Merkez:
     - Şehit Cengiz Topel Mah
     - Şehit Serhat Yurtbaşı Mah
     - Şehitserhat Mah
-    - Şelale Mah (Çağlayan Köyü)
     - Şorak Mah (Ağılözü Köyü)
     - Tandırlı Köyü
-    - Tepecik Mah (Mollaköy Köyü)
     - Terzibaba Mah
     - Türkmenoğlu Köyü
     - Ulalar Mah
@@ -596,12 +592,18 @@ Merkez:
     - Vank Mah (Günbağı Köyü)
     - Yalınca Köyü
     - Yalnızbağ Mah
-    - Yamaçlı Mah (Çağlayan Köyü)
     - Yenidoğan Mah
     - Yeniköy Köyü
     - Yeşilçat Köyü
     - Yeşilçay Köyü
-    - Yeşilyurt Mah (Mollaköy Köyü)
+  Mollaköy:
+    postcode: 24055
+    neighborhoods:
+    - Atatürk Mah (Mollaköy Beldesi)
+    - Cumhuriyet Mah (Mollaköy Beldesi)
+    - Mahmutlu Mah (Mollaköy Beldesi)
+    - Tepecik Mah (Mollaköy Beldesi)
+    - Yeşilyurt Mah (Mollaköy Beldesi)
 Otlukbeli:
   Merkezköyler:
     postcode: 24515
@@ -813,18 +815,38 @@ Refahiye:
   Refahiye:
     postcode: 24300
     neighborhoods:
+    - Binali Yıldırım Mah
     - Camiişerif Mah
     - Hakoğlu Mah
-    - Kemaliye Mah
+    - Hökümet Mah
     - Yenidoğan Mah
 Tercan:
+  Çadırkaya:
+    postcode: 24870
+    neighborhoods:
+    - Camii Kebir Mah (Çadırkaya Beldesi)
+    - Gözeler Mah (Çadırkaya Beldesi)
+    - Yeni Mah (Çadırkaya Beldesi)
+  Kargın:
+    postcode: 24880
+    neighborhoods:
+    - Camii Şerif Mah (Kargın Beldesi)
+    - İstasyon Mah (Kargın Beldesi)
+    - Sucuali Mah (Kargın Beldesi)
+    - Şehit Ahmet Aytekin Mah (Kargın Beldesi)
+    - Yollarüstü Mah (Kargın Beldesi)
+  Mercan:
+    postcode: 24860
+    neighborhoods:
+    - Akşemsettin Mah (Mercan Beldesi)
+    - Atatürk Mah (Mercan Beldesi)
+    - Fatih Mah (Mercan Beldesi)
   Merkezköyler:
     postcode: 24802
     neighborhoods:
     - A.tepecik Mah (İğiki Mah) (Ilısu Köyü)
     - Ağören Köyü
     - Akmezar Mezrası Mah (Balyayla Köyü)
-    - Akşemsettin Mah (Mercan Köyü)
     - Aktaş Köyü
     - Akyurt Köyü
     - Altınkaya Köyü
@@ -835,7 +857,6 @@ Tercan:
     - Aşağı Bahçe Mezrası Mah (Konarlı Köyü)
     - Aşağı Cemal Mezrası Mah (Konarlı Köyü)
     - Aşağı Konarlı Mezrası Mah (Konarlı Köyü)
-    - Atatürk Mah (Mercan Köyü)
     - Atçayırı Mah (Doluca Köyü)
     - Azime Mah (Yazıören Köyü)
     - Bağpınar Köyü
@@ -851,8 +872,6 @@ Tercan:
     - Bulmuş Köyü
     - Bulmuş-kom Mah (Bulmuş Köyü)
     - Büklümdere Köyü
-    - Camii Kebir Mah (Çadırkaya Köyü)
-    - Camii Şerif Mah (Kargın Köyü)
     - Cırnavuk Mah (Fındıklı Köyü)
     - Çalkışla Köyü
     - Çatakdere Köyü
@@ -872,7 +891,6 @@ Tercan:
     - Elaldı Köyü
     - Elmalı Merkez Mah (Elmalı Köyü)
     - Esenevler Köyü
-    - Fatih Mah (Mercan Köyü)
     - Fındıklı Köyü
     - Gafurefendi Köyü
     - Gedikdere Köyü
@@ -886,7 +904,6 @@ Tercan:
     - Göl Mezrası Mah (Konarlı Köyü)
     - Göllüce Mah (Yaylım Köyü)
     - Göncükhan Mah (Yaylım Köyü)
-    - Gözeler Mah (Çadırkaya Köyü)
     - Güzbulak Köyü
     - Hacıbayram Köyü
     - Harhuru Mah (Başbudak Köyü)
@@ -898,8 +915,6 @@ Tercan:
     - İnaklı Mezrası Mah (Yaylım Köyü)
     - İshak Mah (Yaylım Köyü)
     - İsmail Ağa Mah (Konarlı Köyü)
-    - İstasyon Mah (Kargın Köyü)
-    - Kadı Mezrası Mah (Yaylım Köyü)
     - Kale Mezrası Mah (Gedikdere Köyü)
     - Kalecik Köyü
     - Kamer Komu Mah (Konarlı Köyü)
@@ -948,9 +963,7 @@ Tercan:
     - Sarıkaya Köyü
     - Seygi Mezrası Mah (Yalınkaş Köyü)
     - Sırmalı Mah (Aktaş Köyü)
-    - Sucuali Mah (Kargın Köyü)
     - Şakirağa Mah (Konarlı Köyü)
-    - Şehit Ahmet Aytekin Mah (Kargın Köyü)
     - Şengül Köyü
     - Tepebaşı Köyü
     - Topalhasan Köyü
@@ -965,12 +978,10 @@ Tercan:
     - Yaylım Köyü
     - Yazıören Köyü
     - Yeni Köy Mezrası Mah (Esenevler Köyü)
-    - Yeni Mah (Çadırkaya Köyü)
     - Yenibucak Köyü
     - Yenievler Mah (İkizler Köyü)
     - Yeşilyayla Köyü
-    - Yoğurtlu Mah (Mazan Mah) (Yastıkköy Köyü)
-    - Yollarüstü Mah (Kargın Köyü)
+    - Yoğurtlu Mah ( Mazan Mah) (Yastıkköy Köyü)
     - Yolluca Mah (Çalkışla Köyü)
     - Yoncalar Mah (Konarlı Köyü)
     - Yukarı Bahçe Mezrası Mah (Konarlı Köyü)
@@ -995,11 +1006,12 @@ Tercan:
   Altınbaşak:
     postcode: 24160
     neighborhoods:
-    - Büyük Kadağan Mah (Altınbaşak Köyü)
-    - Fırat Mahellesi Mah (Altınbaşak Köyü)
-    - İstasyon Mah (Altınbaşak Köyü)
-    - Pınarbaşı Mah (Altınbaşak Köyü)
-    - Süleymanlı Mahellesi Mah (Altınbaşak Köyü)
+    - Büyük Kadağan Mah (Altınbaşak Beldesi)
+    - Fırat Mahellesi Mah (Altınbaşak Beldesi)
+    - İstasyon Mah (Altınbaşak Beldesi)
+    - Küçükkadağan Mah (Altınbaşak Beldesi)
+    - Pınarbaşı Mah (Altınbaşak Beldesi)
+    - Süleymanlı Mahellesi Mah (Altınbaşak Beldesi)
   Merkezköyler:
     postcode: 24152
     neighborhoods:
@@ -1033,7 +1045,6 @@ Tercan:
     - Demirpınar Köyü
     - Denizdamı Köyü
     - Derebük Köyü
-    - Derebük Mah (Pelitli Köyü)
     - Düzali Mah (Çardaklı Köyü)
     - Ergenekon Mah (Karakaya Köyü)
     - Esenyurt Köyü
@@ -1051,7 +1062,6 @@ Tercan:
     - Kazmalı Mah (Kureyşlisarıkaya Köyü)
     - Kom Mah (Avcılar Köyü)
     - Kureyşlisarıkaya Köyü
-    - Küçükkadağan Mah (Altınbaşak Köyü)
     - Maho Mezrası Mah (Çardaklı Köyü)
     - Ocakbaşı Köyü
     - Orum Mezrası Mah (Çardaklı Köyü)
@@ -1063,7 +1073,6 @@ Tercan:
     - Sağlamlı Mah (Ocakbaşı Köyü)
     - Sansa Mah (Bağlar Köyü)
     - Sedo Mah (Kureyşlisarıkaya Köyü)
-    - Sülümür Mah (Pelitli Köyü)
     - Yıldız Mah (Pelitli Köyü)
     - Yunus Emre Mah (Bayırbağ Köyü)
   Üzümlü:
