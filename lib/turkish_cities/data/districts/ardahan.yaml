@@ -85,6 +85,13 @@ Göle:
     - Kazım Karabekir Mah
     - Kubilay Bey Mah
     - Salim Bey Mah
+  Köprülü:
+    postcode: 75780
+    neighborhoods:
+    - Dedeşen Mah (Köprülü Beldesi)
+    - Durançam Mah (Köprülü Beldesi)
+    - Köprülü Merkez Mah (Köprülü Beldesi)
+    - Kuzupınarı Mah (Köprülü Beldesi)
   Merkezköyler:
     postcode: 75702
     neighborhoods:
@@ -101,11 +108,9 @@ Göle:
     - Çullu Köyü
     - Damlasu Köyü
     - Dedekılıcı Köyü
-    - Dedeşen Mah (Köprülü Köyü)
     - Dengeli Köyü
     - Dereyolu Köyü
     - Dölekçayır Köyü
-    - Durançam Mah (Köprülü Köyü)
     - Esenboğaz Köyü
     - Esenyayla Köyü
     - Eskidemirkapı Köyü
@@ -123,9 +128,7 @@ Göle:
     - Kore Mah (Durucasu Köyü)
     - Koyunlu Köyü
     - Köprübaşı Mah (Dedekılıcı Köyü)
-    - Köprülü Merkez Mah (Köprülü Köyü)
     - Kuytuca Köyü
-    - Kuzupınarı Mah (Köprülü Köyü)
     - Küçükaltınbulak Köyü
     - Mollahasan Köyü
     - Okçu Köyü
@@ -314,7 +317,7 @@ Posof:
     - Aşağı Mah (Günlüce Köyü)
     - Aşıküzeyir Köyü
     - Aşıkzülali Köyü
-    - Balgözü Köyü
+    - Balgöze Köyü
     - Binbaşıeminbey Köyü
     - Binbaşıeminbey Köyü Yayla Evleri
     - Cadeze Mah (Günlüce Köyü)
@@ -362,8 +365,8 @@ Posof:
     - Sütoluk Yayla Evleri Mah (Sütoluk Köyü)
     - Taşkıran Köyü
     - Tikas Mah (Demirdöver Köyü)
-    - Türgözü Köyü
-    - Türkgözü Mah (Türgözü Köyü)
+    - Türkgözü Köyü
+    - Türkgözü Mah (Türkgözü Köyü)
     - Uğurca Köy Yaylaları
     - Uğurca Köyü
     - Uluçam Köyü

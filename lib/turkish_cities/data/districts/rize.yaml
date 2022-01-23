@@ -28,7 +28,6 @@ Ardeşen:
     postcode: 53480
     neighborhoods:
     - Açıkmeşe Mah (Çıraklar Köyü)
-    - Ada Mah (Tunca Köyü)
     - Akarsu Mah (Güney Köyü)
     - Akpınar Mah (Akdere Köyü)
     - Ali Efendi Mah (Ortaalan Köyü)
@@ -85,10 +84,8 @@ Ardeşen:
     - Düz Mah (Manganez Köyü)
     - Düz Mah (Pirinçlik Köyü)
     - Düz Mah (Seslikaya Köyü)
-    - Düz Mah (Tunca Köyü)
     - Düz Mah (Yamaçdere Köyü)
     - Esentepe Mah (Ortaalan Köyü)
-    - Esentepe Mah (Tunca Köyü)
     - Eskiarmutluk Köyü
     - Gençler Mah (Gündoğan Köyü)
     - Gulivat Mah (Köprüköy Köyü)
@@ -113,7 +110,6 @@ Ardeşen:
     - Kirazlık Köyü
     - Koçoğlu Mah (Armağan Köyü)
     - Koda Mah (Pirinçlik Köyü)
-    - Konak Mah (Tunca Köyü)
     - Konaktepe Mah
     - Korzati Mah (Ortaalan Köyü)
     - Köprübaşı Mah (Köprüköy Köyü)
@@ -133,7 +129,6 @@ Ardeşen:
     - Merkez Mah (Seslikaya Köyü)
     - Merkez Mah (Sinan Köyü)
     - Merkez Mah (Şenyurt Köyü)
-    - Merkez Mah (Tunca Köyü)
     - Merkez Mah (Yeniköy Köyü)
     - Merkez Mah (Yeşiltepe Köyü)
     - Merkez Mah (Yurtsever Köyü)
@@ -146,7 +141,6 @@ Ardeşen:
     - Orta Mah (Doğanay Köyü)
     - Orta Mah (Seslikaya Köyü)
     - Orta Mah (Şendere Köyü)
-    - Orta Mah (Tunca Köyü)
     - Orta Mah (Yamaçdere Köyü)
     - Orta Mah (Yavuz Köyü)
     - Orta Mah (Yeşiltepe Köyü)
@@ -161,7 +155,6 @@ Ardeşen:
     - Sırt Mah (Pirinçlik Köyü)
     - Suluzeni Mah (Ortaalan Köyü)
     - Şefkibey Mah (Yeniyol Köyü)
-    - Şenyuva Mah (Tunca Köyü)
     - Taş Kapı Mah (Armağan Köyü)
     - Tercümanlar Mah (Duygulu Köyü)
     - Topaloğlu Mah (Duygulu Köyü)
@@ -183,6 +176,16 @@ Ardeşen:
     - Yüksek Mah (Akdere Köyü)
     - Zeytinlik Köyü
     - Zumadi Mah (Gündoğan Köyü)
+  Tunca:
+    postcode: 53490
+    neighborhoods:
+    - Ada Mah (Tunca Beldesi)
+    - Düz Mah (Tunca Beldesi)
+    - Esentepe Mah (Tunca Beldesi)
+    - Konak Mah (Tunca Beldesi)
+    - Merkez Mah (Tunca Beldesi)
+    - Orta Mah (Tunca Beldesi)
+    - Şenyuva Mah (Tunca Beldesi)
 Çamlıhemşin:
   Çamlıhemşin:
     postcode: 53750
@@ -244,6 +247,7 @@ Ardeşen:
     - Lakubar Mah (Çatköy Köyü)
     - Maden Mah (Komilo Köyü)
     - Maden Mah (Topluca Köyü)
+    - Maselevat Mah (Topluca Köyü)
     - Merkez Mah (Dikkaya Köyü)
     - Merkez Mah (Komilo Köyü)
     - Merkez Mah (Köprübaşı Köyü)
@@ -280,7 +284,9 @@ Ardeşen:
     postcode: 53210
     neighborhoods:
     - Aloğlu Mah (Karaağaç Köyü)
+    - Altıntaş Mah (Büyükköy Beldesi)
     - Arıcılar Mah (Derecik Köyü)
+    - Arkadere Mah (Büyükköy Beldesi)
     - Aşağı Sırt Mah (Karaağaç Köyü)
     - Aydınlar Mah (Gürgenli Köyü)
     - Balcılar Mah (Derecik Köyü)
@@ -289,13 +295,17 @@ Ardeşen:
     - Bekiroğlu Mah (Gürgenli Köyü)
     - Boğazlar Mah (Karaağaç Köyü)
     - Cumhuriyet Mah (Gürgenli Köyü)
+    - Çavuşlu Mah (Büyükköy Beldesi)
+    - Çaycılar Mah (Büyükköy Beldesi)
     - Çaydahor Mah (Karaağaç Köyü)
     - Çukurlu Mah (Çeşmeli Köyü)
     - Dalaklı Mah (Karaağaç Köyü)
+    - Demirciler Mah (Büyükköy Beldesi)
     - Demirciler Mah (Karaağaç Köyü)
     - Dere Mah (Yıldızeli Köyü)
     - Dikilitaş Mah (Gürgenli Köyü)
     - Ehkartepe Mah (Gürgenli Köyü)
+    - Gümüştaş Mah (Büyükköy Beldesi)
     - Güneşli Mah (Derecik Köyü)
     - Güneşli Mah (Gürgenli Köyü)
     - Güneştepe Mah (Gürgenli Köyü)
@@ -316,6 +326,7 @@ Ardeşen:
     - Malipos Mah (Çeşmeli Köyü)
     - Merkez Kakşioğlu Mah (Beşikçiler Köyü)
     - Merkez Mah (Armutlu Köyü)
+    - Merkez Mah (Büyükköy Beldesi)
     - Merkez Mah (Çeşmeli Köyü)
     - Merkez Mah (Gürgenli Köyü)
     - Merkez Mah (Karaağaç Köyü)
@@ -333,6 +344,7 @@ Ardeşen:
     - Saladop Mah (Çeşmeli Köyü)
     - Serinırmak Mah (Yıldızeli Köyü)
     - Seyrantepe Mah (Yeşilköy Köyü)
+    - Soğuksu Mah (Büyükköy Beldesi)
     - Şehit Muhammet Yüce Mah (Karaağaç Köyü)
     - Tepe Mah (Armutlu Köyü)
     - Tepe Mah (Derecik Köyü)
@@ -364,21 +376,31 @@ Ardeşen:
     - Yalı Mah
     - Yenicami Mah
     - Yenipazar Mah
+  Madenli:
+    postcode: 53220
+    neighborhoods:
+    - Aloğlu Mah (Madenli Beldesi)
+    - Çamlıca Mah (Madenli Beldesi)
+    - Gürçam Mah (Madenli Beldesi)
+    - Habiboğlu Mah (Madenli Beldesi)
+    - Kazancılar Mah (Madenli Beldesi)
+    - Maden Mah (Madenli Beldesi)
+    - Merkez Mah (Madenli Beldesi)
+    - Topkaya Mah (Madenli Beldesi)
+    - Yazıcılar Mah (Madenli Beldesi)
+    - Yeni Mah (Madenli Beldesi)
   Merkezköyler:
     postcode: 53260
     neighborhoods:
     - Alıcanlar Mah (Beyazsu Köyü)
-    - Aloğlu Mah (Madenli Köyü)
     - Alt Mah (Başköy Köyü)
     - Alt Mah (Köprübaşı Köyü)
     - Alt Mah (Latifli Köyü)
     - Alt Mah (Uzundere Köyü)
     - Alt Mah (Yeşiltepe Köyü)
     - Alt Mah (Zafer Köyü)
-    - Altıntaş Mah (Büyükköy Köyü)
     - Altveis Mah (Haremtepe Köyü)
     - Arekner Mah (Çukurluhoca Köyü)
-    - Arkadere Mah (Büyükköy Köyü)
     - Aşağı Cordanlar Mah (Haremtepe Köyü)
     - Aşağı Mah (Aşıklar Köyü)
     - Aşağı Mah (Kemerköy Köyü)
@@ -417,16 +439,12 @@ Ardeşen:
     - Çahçuri Mah (Kemerköy Köyü)
     - Çakırlı Mah (Yenitepe Köyü)
     - Çakıroğlu Mah (Sarısu Köyü)
-    - Çamlıca Mah (Madenli Köyü)
-    - Çavuşlu Mah (Büyükköy Köyü)
-    - Çaycılar Mah (Büyükköy Köyü)
     - Çelikler Ve Sandıkçılar Mah (Latifli Köyü)
     - Çevre Mah (Maltepe Köyü)
     - Çınartepe Köyü
     - Çil Mah (Abdullahhoca Köyü)
     - Çolaklı Mah (Güzeltepe Köyü)
     - Darboğaz Mah (Beyazsu Köyü)
-    - Demirciler Mah (Büyükköy Köyü)
     - Demirciler Mah (Çilingir Köyü)
     - Dere Mah (Beyazsu Köyü)
     - Dere Mah (Kaçkar Köyü)
@@ -449,10 +467,7 @@ Ardeşen:
     - Gülova Mah (Selimiye Köyü)
     - Gümüşler Mah (Kaptanpaşa Köyü)
     - Gümüşpınar Mah (Buzlupınar Köyü)
-    - Gümüştaş Mah (Büyükköy Köyü)
     - Güneli Mah (Yeşiltepe Köyü)
-    - Gürçam Mah (Madenli Köyü)
-    - Habiboğlu Mah (Madenli Köyü)
     - Hanifli Mah (Güzeltepe Köyü)
     - Hasançavuş Mah (Yamaç Köyü)
     - Haşafı Mah (Seslidere Köyü)
@@ -478,7 +493,6 @@ Ardeşen:
     - Kavala Mah (Selimiye Köyü)
     - Kaymaklı Mah (Çataldere Köyü)
     - Kayna Mah (Kemerköy Köyü)
-    - Kazancılar Mah (Madenli Köyü)
     - Kestanelik Mah (Haremtepe Köyü)
     - Kısırlar Mah (Sefalı Köyü)
     - Kireçhane Mah (Maltepe Köyü)
@@ -496,7 +510,6 @@ Ardeşen:
     - Kuyubaşı Mah (Gürpınar Köyü)
     - Küçükmustafalı Mah (Yamaç Köyü)
     - Maden Mah (Kemerköy Köyü)
-    - Maden Mah (Madenli Köyü)
     - Mahmutoğlu Mah (Ormancık Köyü)
     - Makraş Mah (Ortaköy Köyü)
     - Maloza Mah (Güzeltepe Köyü)
@@ -507,7 +520,6 @@ Ardeşen:
     - Merkez 2 Mah (Sefalı Köyü)
     - Merkez Mah (Aşıklar Köyü)
     - Merkez Mah (Beyazsu Köyü)
-    - Merkez Mah (Büyükköy Köyü)
     - Merkez Mah (Çataldere Köyü)
     - Merkez Mah (Çukurluhoca Köyü)
     - Merkez Mah (Erenler Köyü)
@@ -516,7 +528,6 @@ Ardeşen:
     - Merkez Mah (Kaptanpaşa Köyü)
     - Merkez Mah (Kemerköy Köyü)
     - Merkez Mah (Kestanelik Köyü)
-    - Merkez Mah (Madenli Köyü)
     - Merkez Mah (Maltepe Köyü)
     - Merkez Mah (Ormancık Köyü)
     - Merkez Mah (Seslidere Köyü)
@@ -558,7 +569,6 @@ Ardeşen:
     - Sırt Mah (Yenice Köyü)
     - Sırt Mah (Zafer Köyü)
     - Siranlık Mah (Köprübaşı Köyü)
-    - Soğuksu Mah (Büyükköy Köyü)
     - Soğuksu Mah (Ortaköy Köyü)
     - Songurler Mah (Kaçkar Köyü)
     - Suiçmezler Mah (Latifli Köyü)
@@ -576,7 +586,6 @@ Ardeşen:
     - Tepeler Mah (Latifli Köyü)
     - Tepeler Mah (Sarısu Köyü)
     - Tepeli Mah (Uzundere Köyü)
-    - Topkaya Mah (Madenli Köyü)
     - Türkgeldi Mah (Demirhisar Köyü)
     - Ulaş Mah (Ormancık Köyü)
     - Üst Mah (Köprübaşı Köyü)
@@ -589,8 +598,6 @@ Ardeşen:
     - Voyna Mah (Ortaköy Köyü)
     - Yalçınlar Mah (Buzlupınar Köyü)
     - Yavuzlar Köyü
-    - Yazıcılar Mah (Madenli Köyü)
-    - Yeni Mah (Madenli Köyü)
     - Yenihisar Köyü
     - Yeşilırmak Köyü
     - Yılmayanlar Mah (Kemerköy Köyü)
@@ -845,6 +852,7 @@ Hemşin:
     postcode: 53690
     neighborhoods:
     - Ahmetli Mah (Diktaş Köyü)
+    - Allar Mah (Çifteköprü Köyü)
     - Aprojli Mah (Ballıköy Köyü)
     - Arkanet Mah (Diktaş Köyü)
     - Aşağı Mah (Gürdere Köyü)
@@ -854,6 +862,7 @@ Hemşin:
     - Ayvazlı Mah (Diktaş Köyü)
     - Başköy Köyü
     - Bayırköy Köyü
+    - Bektaşlar Mah (Çifteköprü Köyü)
     - Büyük Cami Mah (Ilıcaköy Köyü)
     - Cevizlik Köyü
     - Çakat Mah (Diktaş Köyü)
@@ -866,6 +875,7 @@ Hemşin:
     - Demirli Mah (Diktaş Köyü)
     - Dereköy Köyü
     - Dikmetaş Mah (Diktaş Köyü)
+    - Emekçiler Mah (Çifteköprü Köyü)
     - Eskice Köyü
     - Gölyayla Köyü
     - Gudurlu Mah (Çiçekli Köyü)
@@ -888,6 +898,7 @@ Hemşin:
     - Kızıltepe Mah (Güneyce Köyü)
     - Köprübaşı Mah (Güneyce Köyü)
     - Köseli Mah (Çiçekli Köyü)
+    - Köyiçi Mah (Çifteköprü Köyü)
     - Kumluk Mah (Gürdere Köyü)
     - Kurdoğlu Mah (Ballıköy Köyü)
     - Kurtuluş Mah (Güneyce Köyü)
@@ -914,6 +925,7 @@ Hemşin:
     - Sivrikaya Köyü
     - Tulumpınar Köyü
     - Turahlı Mah (Tozköy Köyü)
+    - Tuzikolar Mah (Çifteköprü Köyü)
     - Yağcılar Köyü
     - Yeni Mah (Dereköy Köyü)
     - Yerelma Köyü
@@ -1063,6 +1075,14 @@ Merkez:
     - Yukarı Karşı Mah (Söğütlü Köyü)
     - Yukarı Mah (Balıkçılar Köyü)
     - Yukarı Mah (Söğütlü Köyü)
+  Kendirli:
+    postcode: 53620
+    neighborhoods:
+    - Asmalık Mah (Kendirli Beldesi)
+    - Düz Mah (Kendirli Beldesi)
+    - Halaslar Mah (Kendirli Beldesi)
+    - Orta Mah (Kendirli Beldesi)
+    - Sırt Mah (Kendirli Beldesi)
   Merkezköyler:
     postcode: 53870
     neighborhoods:
@@ -1075,7 +1095,6 @@ Merkez:
     - Ardin Mah (Taşköprü Köyü)
     - Arnault Mah (Pazarköy Köyü)
     - Asgoroz Mah (Küçükçayır Köyü)
-    - Asmalık Mah (Kendirli Köyü)
     - Aşağı Mah (Küçükköy Köyü)
     - Aşağı Mah (Topkaya Köyü)
     - Ayane Köyü
@@ -1105,7 +1124,6 @@ Merkez:
     - Dere Mah (Taşköprü Köyü)
     - Devranlar Mah (Derebaşı Köyü)
     - Dörtyol Köyü
-    - Düz Mah (Kendirli Köyü)
     - Düzköy Köyü
     - Eminoğlu Mah (Eminuka Mah) (Derebaşı Köyü)
     - Erenköy Köyü
@@ -1120,14 +1138,11 @@ Merkez:
     - Gölgeli-2 Mah (Gölgeli Köyü)
     - Gültepe Mah (Derebaşı Köyü)
     - Güneli Mah (Zincirliköprü Köyü)
-    - Güneşli Mah (Salarha Köyü)
-    - Güneştepe Mah (Salarha Köyü)
     - Güneyler Mah (Karasu Köyü)
     - Güven Mah (Karayemiş Köyü)
     - Güzeltepe Mah (Pazarköy Köyü)
     - Güzelyurt Mah (Elmalı Köyü)
     - Güzelyurt Mah (Köprülü Köyü)
-    - Halaslar Mah (Kendirli Köyü)
     - Hamçayır Mah (Camidağı Köyü)
     - Hamçayır Mah (Derebaşı Köyü)
     - Havger Mah (Güzelyurt Köyü)
@@ -1144,24 +1159,19 @@ Merkez:
     - Karşı Mah (Köprülü Köyü)
     - Karşıyaka Mah (Elmalı Köyü)
     - Kartaltepe Mah (Pazarköy Köyü)
-    - Kasarcılar Mah (Salarha Köyü)
     - Katıla Mah (Derebaşı Köyü)
     - Kayadibi Mah (Karasu Köyü)
     - Kayalık Mah (Karayemiş Köyü)
     - Kirazlık Mah (Elmalı Köyü)
-    - Kireçhane Mah (Salarha Köyü)
     - Kocatepe Köyü
     - Koçallar Mah (Ambarlık Köyü)
     - Koçlar Mah (Yemişlik Köyü)
-    - Kokulukaya Mah (Salarha Köyü)
     - Konaklar Mah (Ambarlık Köyü)
     - Kop Mah (Karasu Köyü)
     - Korutürk Mah (Kırklartepesi Köyü)
     - Koseler Mah (Ambarlık Köyü)
     - Kostanlar Mah (Derebaşı Köyü)
     - Kotos Mah (Karayemiş Köyü)
-    - Kömürcüler Mah (Muradiye Köyü)
-    - Köprübaşı Mah (Muradiye Köyü)
     - Köseler Mah (Camidağı Köyü)
     - Köseler Mah (Derebaşı Köyü)
     - Kurs'tan İtibaren Mah (Güzelköy Köyü)
@@ -1183,34 +1193,27 @@ Merkez:
     - Merkez Mah (Taşköprü Köyü)
     - Merkez Mah (Yenikasarcılar Köyü)
     - Merkez-aşağı Mah (Karasu Köyü)
-    - Mesudiye Mah (Muradiye Köyü)
     - Mezra Mah (Üçkaya Köyü)
-    - Müderrisler Mah (Salarha Köyü)
     - Orta Mah (Azaklıhoca Köyü)
     - Orta Mah (Camidağı Köyü)
     - Orta Mah (Çaybaşı Köyü)
-    - Orta Mah (Kendirli Köyü)
     - Orta Mah (Kırklartepesi Köyü)
     - Orta Mah (Küçükköy Köyü)
     - Orta Mah (Taşköprü Köyü)
     - Orta Mah (Üçkaya Köyü)
     - Orta Mah (Yemişlik Köyü)
-    - Orta Muradiye Mah (Muradiye Köyü)
     - Ortapazar Köyü
     - Öksüzler Mah (Sütlüce Köyü)
     - Örnek Köyü
     - Sadıklar Mah (Camidağı Köyü)
     - Selimiye Köyü
     - Seyrantepe Mah (Elmalı Köyü)
-    - Sırt Kasarcılar Mah (Salarha Köyü)
     - Sırt Mah (Çaybaşı Köyü)
     - Sırt Mah (Elmalı Köyü)
     - Sırt Mah (Karasu Köyü)
-    - Sırt Mah (Kendirli Köyü)
     - Silyanlı Mah (Güzelköy Köyü)
     - Soğukçeşme Köyü
     - Soğuksu Mah (Melek Köyü)
-    - Soğuksu Mah (Muradiye Köyü)
     - Sukas Mah (Çimenli Köyü)
     - Şahintepe Mah (Ambarlık Köyü)
     - Şehit Mah (Ambarlık Köyü)
@@ -1225,14 +1228,11 @@ Merkez:
     - Üst Mah (Topkaya Köyü)
     - Üst Mah (Tuğlalı Köyü)
     - Üst Mah (Üçkaya Köyü)
-    - Üzümlü Mah (Salarha Köyü)
     - Yağlıtaş Mah (Melek Köyü)
     - Yeni Melek Mah (Melek Köyü)
     - Yenigüzelköy Köyü
     - Yeniköy Mah (Azaklıhoca Köyü)
     - Yeniselimiye Köyü
-    - Yeşildere Mah (Muradiye Köyü)
-    - Yeşilılıca Mah (Salarha Köyü)
     - Yeşilyurt Mah (Elmalı Köyü)
     - Yıldıztepe Mah (Ambarlık Köyü)
     - Yıldıztepe-güzeldere Mah (Yeşildere Köyü)
@@ -1241,6 +1241,15 @@ Merkez:
     - Yukarı Mah (Küçükköy Köyü)
     - Yukarı Mah (Topkaya Köyü)
     - Yukarı Mah (Yemişlik Köyü)
+  Muradiye:
+    postcode: 53970
+    neighborhoods:
+    - Kömürcüler Mah (Muradiye Beldesi)
+    - Köprübaşı Mah (Muradiye Beldesi)
+    - Mesudiye Mah (Muradiye Beldesi)
+    - Orta Muradiye Mah (Muradiye Beldesi)
+    - Soğuksu Mah (Muradiye Beldesi)
+    - Yeşildere Mah (Muradiye Beldesi)
   Rize:
     postcode: 53020
     neighborhoods:
@@ -1252,6 +1261,7 @@ Merkez:
     - Boğaz Mah
     - Bozkale Mah
     - Camiönü Mah
+    - Canpolat Mah
     - Çamlıbel Mah
     - Çarşı Mah
     - Çiftekavak Mah
@@ -1264,6 +1274,7 @@ Merkez:
     - Ekrem Orhon Mah
     - Eminettin Mah
     - Engindere Mah
+    - Engindere Sb Mah
     - Fatih Mah
     - Fener Mah
     - Gülbahar Mah
@@ -1291,8 +1302,19 @@ Merkez:
     - Taşlıdere Mah
     - Tophane Mah
     - Yağlıtaş Mah
-    - Yeni Mah
     - Yeniköy Mah
+  Salarha:
+    postcode: 53950
+    neighborhoods:
+    - Güneşli Mah (Salarha Beldesi)
+    - Güneştepe Mah (Salarha Beldesi)
+    - Kasarcılar Mah (Salarha Beldesi)
+    - Kireçhane Mah (Salarha Beldesi)
+    - Kokulukaya Mah (Salarha Beldesi)
+    - Müderrisler Mah (Salarha Beldesi)
+    - Sırt Kasarcılar Mah (Salarha Beldesi)
+    - Üzümlü Mah (Salarha Beldesi)
+    - Yeşilılıca Mah (Salarha Beldesi)
 Pazar:
   Merkezköyler:
     postcode: 53340

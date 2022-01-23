@@ -7,6 +7,13 @@ Alaplı:
     - Tepeköy Mah
     - Yeni Siteler Mah
     - Yenimahalle Mah
+  Gümeli:
+    postcode: 67856
+    neighborhoods:
+    - Erenköy Mah (Gümeli Beldesi)
+    - Fındıklı Ağılı Mah (Gümeli Beldesi)
+    - Kale Mah (Gümeli Beldesi)
+    - Merkez Mah (Gümeli Beldesi)
   Merkezköyler:
     postcode: 67852
     neighborhoods:
@@ -38,10 +45,8 @@ Alaplı:
     - Durabeyli Mah (İsafakılı Köyü)
     - Durular Mah (Musabeyli Köyü)
     - Dürgelli Mah (Ahiler Köyü)
-    - Erenköy Mah (Gümeli Köyü)
     - Esentepe Mah (Kürkükler Köyü)
     - Eteklioğlu Mah (Çatak Köyü)
-    - Fındıklı Ağılı Mah (Gümeli Köyü)
     - Geçmiş Altı Mah (Aydınyayla Köyü)
     - Gökçeler Mah (Alaplıömerli Köyü)
     - Güncüoğlu Mah (Çamcılar Köyü)
@@ -59,7 +64,6 @@ Alaplı:
     - İmzeli Mah (Kasımlı Köyü)
     - İncivezaltı Mah (Küçüktekke Köyü)
     - Kadıoğlu Mah (Alaplıkocaali Köyü)
-    - Kale Mah (Gümeli Köyü)
     - Karabakal Mah (Sabırlı Köyü)
     - Karadoruk Mah (Aydınyayla Köyü)
     - Karşıyaka Mah
@@ -94,7 +98,6 @@ Alaplı:
     - Merkez Mah (Durhanlı Köyü)
     - Merkez Mah (Fındıklı Köyü)
     - Merkez Mah (Gökhasan Köyü)
-    - Merkez Mah (Gümeli Köyü)
     - Merkez Mah (Gürpınar Köyü)
     - Merkez Mah (Hasanlı Köyü)
     - Merkez Mah (İsafakılı Köyü)
@@ -157,27 +160,36 @@ Alaplı:
     - Velioğluosb Mah
     - Yeni Mah
     - Yeşiltepe Mah
-  Hisarönü(filyos):
+  Filyos:
     postcode: 67660
     neighborhoods:
-    - Abacık Mah (Filyos Köyü)
+    - Abacık Mah (Filyos Beldesi)
     - Akpınar Köyü
     - Çayköy Köyü
     - Derecikören Mah (Derecikören Köyü)
     - Esenyurt Köyü
-    - Geriş Mah (Filyos Köyü)
+    - Geriş Mah (Filyos Beldesi)
     - Gökçeler Köyü
-    - Hisarönü Mah (Filyos Köyü)
-    - Kocaali Mah (Filyos Köyü)
+    - Hisarönü Mah (Filyos Beldesi)
+    - Kocaali Mah (Filyos Beldesi)
     - Merkez Mah (Yukarıgöynük Köyü)
     - Orta Mah (Çömlekçi Köyü)
     - Öteyüz Mah (Çömlekçi Köyü)
-    - Öteyüz Mah (Filyos Köyü)
+    - Öteyüz Mah (Filyos Beldesi)
     - Peyenli Mah (Yukarıgöynük Köyü)
     - Salmanlar Mah (Yukarıgöynük Köyü)
-    - Sefercik Mah (Filyos Köyü)
+    - Sefercik Mah (Filyos Beldesi)
     - Temenler Köyü
     - Yukarı Mah (Çömlekçi Köyü)
+  Karapınar:
+    postcode: 67975
+    neighborhoods:
+    - Aşağı Çukur Mah (Karapınar Beldesi)
+    - Durmuşlar Mah (Karapınar Beldesi)
+    - Merkez Mah (Karapınar Beldesi)
+    - Tilkiler Mah (Karapınar Beldesi)
+    - Torlaklar Mah (Karapınar Beldesi)
+    - Yukarı Çukur Mah (Karapınar Beldesi)
   Merkezköyler:
     postcode: 67902
     neighborhoods:
@@ -296,6 +308,13 @@ Alaplı:
     - Yukarıtaşcılı Mah (Taşçılı Köyü)
     - Yusufhanlı Mah (Taşçılı Köyü)
     - Zobalaklar Mah (Güzelyaka Köyü)
+  Nebioğlu:
+    postcode: 67965
+    neighborhoods:
+    - Karaevligeriş Mah (Nebioğlu Beldesi)
+    - Terziler Mah (Nebioğlu Beldesi)
+    - Yeni Pazar Mah (Nebioğlu Beldesi)
+    - Yeşilyurt Mah (Nebioğlu Beldesi)
   Perşembe:
     postcode: 67960
     neighborhoods:
@@ -324,7 +343,7 @@ Alaplı:
     - Emiroğlu Mah (Madenler Köyü)
     - Epçeloğlu Mah (Basat Köyü)
     - Eserler Mah (Emirşah Köyü)
-    - Hacı Kadı Mah (Perşembe Köyü)
+    - Hacı Kadı Mah (Perşembe Beldesi)
     - Hacı Muharremoğlu Mah (Şehler Köyü)
     - Hamdiloğlu Mah (Hacıibadi Köyü)
     - Hamzaoğlu Mah (Şenköy Köyü)
@@ -341,10 +360,9 @@ Alaplı:
     - Kadir Efendioğlu Mah (Sandallar Köyü)
     - Kaptanlar Mah (Hacıibadi Köyü)
     - Karacaoğlu Mah (Basat Köyü)
-    - Karaevligeriş Mah (Nebioğlu Köyü)
     - Katırcıoğlu Mah (Şenköy Köyü)
-    - Keçecioğlu Mah (Perşembe Köyü)
-    - Keçecioğluosb Mah (Perşembe Köyü)
+    - Keçecioğlu Mah (Perşembe Beldesi)
+    - Keçecioğluosb Mah (Perşembe Beldesi)
     - Kekeş Mah (Hacıosmanlar Köyü)
     - Kılçallar Mah (Koramanlar Köyü)
     - Kocabasat Mah (Basat Köyü)
@@ -370,7 +388,7 @@ Alaplı:
     - Merkez Mah (Madenler Köyü)
     - Merkez Mah (Muharremşah Köyü)
     - Merkez Mah (Musausta Köyü)
-    - Merkez Mah (Perşembe Köyü)
+    - Merkez Mah (Perşembe Beldesi)
     - Merkez Mah (Şehler Köyü)
     - Merkez Mah (Yazıbaşı Köyü)
     - Muslubaşoğlu Mah (Dursunlar Köyü)
@@ -384,7 +402,7 @@ Alaplı:
     - Sağıroğlu Mah (Kerimler Köyü)
     - Sakaoğlu Mah (Karaahmetler Köyü)
     - Sancıoğlu Mah (Kerimler Köyü)
-    - Sarı Kadı Mah (Perşembe Köyü)
+    - Sarı Kadı Mah (Perşembe Beldesi)
     - Sarıözler Mah (Helvacılar Köyü)
     - Seferler Mah (Kızılbel Köyü)
     - Severler Mah (Muharremşah Köyü)
@@ -393,14 +411,11 @@ Alaplı:
     - Şehler Mah (Koramanlar Köyü)
     - Tabaklar Mah (Basat Köyü)
     - Teceller - Bacaklar Mah (Koramanlar Köyü)
-    - Terziler Mah (Nebioğlu Köyü)
     - Ünsallar Mah (Helvacılar Köyü)
     - Yahyabaşıoğlu Mah (Sandallar Köyü)
     - Yanıklar Mah (Dursunlar Köyü)
     - Yazıköy Köyü
     - Yeni Mah (Basat Köyü)
-    - Yeni Pazar Mah (Nebioğlu Köyü)
-    - Yeşilyurt Mah (Nebioğlu Köyü)
     - Yörübaş Mah (Muharremşah Köyü)
   Saltukova:
     postcode: 67970
@@ -409,7 +424,6 @@ Alaplı:
     - Ahmetler Mah (Aşağısarmaşık Köyü)
     - Alibeyoğlu Mah (Coburlar Köyü)
     - Arapoğlu Mah (Hacılar Köyü)
-    - Aşağı Çukur Mah (Karapınar Köyü)
     - Aşağı Mah (Hacılar Köyü)
     - Bedekler Mah (Sarmaşık Köyü)
     - Bıçakçıoğlu Mah (İhsanoğlu Köyü)
@@ -421,8 +435,7 @@ Alaplı:
     - Çökelezler Mah (Güzeloğlu Köyü)
     - Demircioğlu Mah (İhsanoğlu Köyü)
     - Durcanlar Mah (Hacılar Köyü)
-    - Durmuşlar Mah (Karapınar Köyü)
-    - Düz Mah (Saltukova Köyü)
+    - Düz Mah (Saltukova Beldesi)
     - Engel Mah (Coburlar Köyü)
     - Eysanlar Mah (İhsanoğlu Köyü)
     - Fındık Eneti Mah (Aşağıihsaniye Köyü)
@@ -436,14 +449,14 @@ Alaplı:
     - Hüseyin Kaptanlar Mah (Sarmaşık Köyü)
     - Kalafatlar Mah (İhsanoğlu Köyü)
     - Kara Hasan Paşa Mah (Ramazanoğlu Köyü)
-    - Karboğaz Mah (Saltukova Köyü)
+    - Karboğaz Mah (Saltukova Beldesi)
     - Kartallar Mah (Aşağısarmaşık Köyü)
     - Kaşıkçılar Mah (Yukarıihsaniye Köyü)
     - Kavakpınarı Mah (Coburlar Köyü)
     - Kavukoğlu Mah (Hacılar Köyü)
     - Kışla Mah (Aşağıihsaniye Köyü)
     - Kirazoğlu Mah (Kahvecioğlu Köyü)
-    - Kokaksu Mah (Saltukova Köyü)
+    - Kokaksu Mah (Saltukova Beldesi)
     - Köstebekler Mah (Gökçetabaklar Köyü)
     - Kuloğlu Mah (Karakoç Köyü)
     - Kuyu Mah (İhsanoğlu Köyü)
@@ -456,7 +469,6 @@ Alaplı:
     - Merkez Mah (İhsanoğlu Köyü)
     - Merkez Mah (Kahvecioğlu Köyü)
     - Merkez Mah (Karakoç Köyü)
-    - Merkez Mah (Karapınar Köyü)
     - Merkez Mah (Serdaroğlu Köyü)
     - Merkez Mah (Yukarıihsaniye Köyü)
     - Ocakçıoğlu Mah (Karakoç Köyü)
@@ -464,23 +476,29 @@ Alaplı:
     - Pazar Yeri Mah (İhsanoğlu Köyü)
     - Sarıkadıoğlu Mah (Serdaroğlu Köyü)
     - Sarıkum Mah (Hacılar Köyü)
-    - Sarıkum Mah (Saltukova Köyü)
+    - Sarıkum Mah (Saltukova Beldesi)
     - Sazköy Köyü
     - Şenköy Mah (Yukarıihsaniye Köyü)
     - Tetikler Mah (Başaran Köyü)
-    - Tilkiler Mah (Karapınar Köyü)
-    - Torlaklar Mah (Karapınar Köyü)
     - Yeni Mah (Aşağısarmaşık Köyü)
     - Yeni Mah (Kahvecioğlu Köyü)
     - Yeniköy Köyü
     - Yeşilköy Köyü
     - Yeşilyayla Köyü
     - Yolcuoğlu Mah (Aşağısarmaşık Köyü)
-    - Yukarı Çukur Mah (Karapınar Köyü)
     - Yukarı Mah (Hacılar Köyü)
     - Yukarı Mah (Yukarıihsaniye Köyü)
     - Yumuklar Mah (Serdaroğlu Köyü)
 Devrek:
+  Çaydeğirmeni:
+    postcode: 67830
+    neighborhoods:
+    - Çay Mah (Çaydeğirmeni Beldesi)
+    - Himmetoğlu Mah (Çaydeğirmeni Beldesi)
+    - Kemerler Mah (Çaydeğirmeni Beldesi)
+    - Merkez Mah (Çaydeğirmeni Beldesi)
+    - Recep Tayyip Erdoğan Mah (Çaydeğirmeni Beldesi)
+    - Yeni Mah (Çaydeğirmeni Beldesi)
   Devrek:
     postcode: 67800
     neighborhoods:
@@ -640,7 +658,6 @@ Devrek:
     - Çantıoğlu Mah (Oğuzhan Köyü)
     - Çavuşoğlu Mah (İsabeyli Köyü)
     - Çay Mah (Bakırcılar Köyü)
-    - Çay Mah (Çaydeğirmeni Köyü)
     - Çay Mah (Gürbüzler Köyü)
     - Çay Mah (Güzelyurt Köyü)
     - Çay Mah (Halilbeyoğlu Köyü)
@@ -715,7 +732,6 @@ Devrek:
     - Hırabaşoğlu Mah (Dedeoğlu Köyü)
     - Hırçaoğlu Mah (Mumcuoğlu Köyü)
     - Hışırlar Mah (Hışıroğlu Köyü)
-    - Himmetoğlu Mah (Çaydeğirmeni Köyü)
     - Hocaoğlu Mah (Ataköy Köyü)
     - Isbahlar Mah (Başlarkadı Köyü)
     - Islaklar Mah (Çorak Köyü)
@@ -767,7 +783,6 @@ Devrek:
     - Keklikoğlu Mah (Seyisoğlu Köyü)
     - Keleşoğlu Mah (Pınarönü Köyü)
     - Keloğlu Mah (Sofular Köyü)
-    - Kemerler Mah (Çaydeğirmeni Köyü)
     - Kevkeroğlu Mah (Pınarönü Köyü)
     - Kılıçoğlu Mah (Mumcuoğlu Köyü)
     - Kışla Mah (Halilbeyoğlu Köyü)
@@ -821,7 +836,6 @@ Devrek:
     - Merkez Mah (Bılık Köyü)
     - Merkez Mah (Burhanoğlu Köyü)
     - Merkez Mah (Çağlar Köyü)
-    - Merkez Mah (Çaydeğirmeni Köyü)
     - Merkez Mah (Dedeoğlu Köyü)
     - Merkez Mah (Derebulaca Köyü)
     - Merkez Mah (Ermekoğlu Köyü)
@@ -928,7 +942,6 @@ Devrek:
     - Yazıcıoğlu Mah (Yazıcıoğlu Köyü)
     - Yeni Hocaoğlu Mah (Ataköy Köyü)
     - Yeni Mah (Burhanoğlu Köyü)
-    - Yeni Mah (Çaydeğirmeni Köyü)
     - Yeni Mah (Gürbüzler Köyü)
     - Yeni Mah (Yeniköy Köyü)
     - Yeniköy Mah (Mekekler Köyü)
@@ -936,6 +949,21 @@ Devrek:
     - Yukarıköy Mah (Velibeyler Köyü)
     - Yusufoğlu Mah (Güzelyurt Köyü)
 Ereğli:
+  Gülüç:
+    postcode: 67350
+    neighborhoods:
+    - Bekyeri Mah (Gülüç Beldesi)
+    - Çengel Mah (Gülüç Beldesi)
+    - Merkez Mah (Gülüç Beldesi)
+    - Örencik Mah (Gülüç Beldesi)
+  Kandilli:
+    postcode: 67390
+    neighborhoods:
+    - Armutçuk Mah (Kandilli Beldesi)
+    - Geyikbeli Mah (Kandilli Beldesi)
+    - Gökçeler Mah (Kandilli Beldesi)
+    - Şehitlik Mah (Kandilli Beldesi)
+    - Yeni Mah (Kandilli Beldesi)
   Karadenizereğli:
     postcode: 67300
     neighborhoods:
@@ -977,7 +1005,6 @@ Ereğli:
     - Akıllı Mah (Aşağıkayalıdere Köyü)
     - Akköy Mah (Uludağ Köyü)
     - Akyazı Mah (Şamlar Köyü)
-    - Armutçuk Mah (Kandilli Köyü)
     - Armutlucuma Mah (Aydın Köyü)
     - Asarlı Köyü
     - Aşağı Mah (Akkaya Köyü)
@@ -989,7 +1016,6 @@ Ereğli:
     - Bagıllar Mah (Yunuslu Köyü)
     - Bakırlık Köyü
     - Balaban Mah (Cemaller Köyü)
-    - Bekyeri Mah (Gülüç Köyü)
     - Bereketler Mah (Dedeler Köyü)
     - Burgucu Mah (Yazıcılar Köyü)
     - Buruncuk Mah (Keşkek Köyü)
@@ -1001,7 +1027,6 @@ Ereğli:
     - Çatalçam Mah (Yunuslu Köyü)
     - Çavuşlar Mah (Külah Köyü)
     - Çayırbaşı Mah (Davutlar Köyü)
-    - Çengel Mah (Gülüç Köyü)
     - Çevlik Köyü
     - Çobanlar Mah (Soğanlıyörük Köyü)
     - Çollar Mah (Ortaköy Köyü)
@@ -1016,8 +1041,6 @@ Ereğli:
     - Esentepe Mah (Kızılca Köyü)
     - Esentepe Mah (Sücüllü Köyü)
     - Esentepe Mah (Şamlar Köyü)
-    - Geyikbeli Mah (Kandilli Köyü)
-    - Gökçeler Mah (Kandilli Köyü)
     - Göleviç Mah (Süleymanbeyler Köyü)
     - Güllük Mah (Merkez Mah) (Güllük Köyü)
     - Gülyalı Mah (Abdi Köyü)
@@ -1080,7 +1103,6 @@ Ereğli:
     - Merkez Mah (Elmacı Köyü)
     - Merkez Mah (Esenköy Köyü)
     - Merkez Mah (Gebe Köyü)
-    - Merkez Mah (Gülüç Köyü)
     - Merkez Mah (Halaşlı Köyü)
     - Merkez Mah (Hasbeyler Köyü)
     - Merkez Mah (Işıklı Köyü)
@@ -1120,7 +1142,6 @@ Ereğli:
     - Orta Mah (Kızılca Köyü)
     - Orta Mah (Yazıcılar Köyü)
     - Örencik Mah (Aydınlar Köyü)
-    - Örencik Mah (Gülüç Köyü)
     - Pazarpınar Mah (Yeni Pazar Mah) (Kurtlar Köyü)
     - Piller Mah (Esenler Köyü)
     - Saka Mah (Aydın Köyü)
@@ -1131,7 +1152,6 @@ Ereğli:
     - Serdaroğlu Mah (Süleymanbeyler Köyü)
     - Subaşı Mah (Süleymanbeyler Köyü)
     - Sütlüce Köyü
-    - Şehitlik Mah (Kandilli Köyü)
     - Tabaklar Mah (Abdi Köyü)
     - Taklar Mah (Zındancılar Köyü)
     - Tantanlar Mah (İmranlar Köyü)
@@ -1145,7 +1165,6 @@ Ereğli:
     - Yavuzlar Mah (Zındancılar Köyü)
     - Yeni Mah (Çayırlı Köyü)
     - Yeni Mah (Hasbeyler Köyü)
-    - Yeni Mah (Kandilli Köyü)
     - Yeni Mah (Ortaköy Köyü)
     - Yeniköy Mah (Yeniköy Köyü)
     - Yörük Mah (Soğanlıyörük Köyü)
@@ -1218,7 +1237,7 @@ Ereğli:
     - Merkez Mah (Karakavuz Köyü)
     - Merkez Mah (Kaymaklar Köyü)
     - Merkez Mah (Kızılcapınar Köyü)
-    - Merkez Mah (Ormanlı Köyü)
+    - Merkez Mah (Ormanlı Beldesi)
     - Merkez Mah (Ova Köyü)
     - Merkez Mah (Topallı Köyü)
     - Merkez Mah (Toyfanlı Köyü)
@@ -1231,10 +1250,10 @@ Ereğli:
     - Sanayi Mah (Toyfanlı Köyü)
     - Sarıahmetler Mah (Sarıkaya Köyü)
     - Sarıca Mah (Ortacı Köyü)
-    - Sarıkaya Mah (Ormanlı Köyü)
+    - Sarıkaya Mah (Ormanlı Beldesi)
     - Sekeli Mah (Yeşilköy Köyü)
-    - Seyit Ahmetli Mah (Ormanlı Köyü)
-    - Sinitli Mah (Ormanlı Köyü)
+    - Seyit Ahmetli Mah (Ormanlı Beldesi)
+    - Sinitli Mah (Ormanlı Beldesi)
     - Sucahlı Mah (Sarıkaya Köyü)
     - Şıhlar Mah (Sarıkaya Köyü)
     - Tepeköy Mah (Fındıklı Köyü)
@@ -1242,6 +1261,12 @@ Ereğli:
     - Terzi Mah (Emirali Köyü)
     - Yeni Mah (Kızılcapınar Köyü)
 Gökçebey:
+  Bakacakkadı:
+    postcode: 67680
+    neighborhoods:
+    - Kadıoğlu Mah (Bakacakkadı Beldesi)
+    - Merkez Mah (Bakacakkadı Beldesi)
+    - Satıbeyler Mah (Bakacakkadı Beldesi)
   Gökçebey:
     postcode: 67670
     neighborhoods:
@@ -1274,7 +1299,7 @@ Gökçebey:
     - Çay Mah (Uzunahmetler Köyü)
     - Çayır Mah (Aktarla Köyü)
     - Çukur Mah
-    - Dağköyü Mah (Çukur Köyü)
+    - Dağköyü Mah (Karahatipler Köyü)
     - Dervişler Mah (Aydınlar Köyü)
     - Emiroğlu Mah (Örmeci Köyü)
     - Enbioğlu Mah (Veyisoğlu Köyü)
@@ -1290,13 +1315,12 @@ Gökçebey:
     - Haylamazlar Mah (Aydınlar Köyü)
     - Helme Mah (Aliusta Köyü)
     - Herkime Mah (Hacımusa Köyü)
-    - Hüseyinbeyoğlu Mah (Çukur Köyü)
+    - Hüseyinbeyoğlu Mah (Karahatipler Köyü)
     - İbadiçelebioğlu Mah (Uzunahmetler Köyü)
     - İbrahimbeyoğlu Mah (Veyisoğlu Köyü)
     - İmamlar Mah (Aydınlar Köyü)
     - İncemehmetler Mah (Gaziler Köyü)
-    - Kadıoğlu Mah (Bakacakkadı Köyü)
-    - Karahatipler Mah (Çukur Köyü)
+    - Karahatipler Mah (Karahatipler Köyü)
     - Karanlıkoğlu Mah (Gaziler Köyü)
     - Karşıyaka Mah (Aliusta Köyü)
     - Kelezoğlu Mah (Veyisoğlu Köyü)
@@ -1305,16 +1329,15 @@ Gökçebey:
     - Köseoğlu Mah (Veyisoğlu Köyü)
     - Kurtdamı Mah (Bodaç Köyü)
     - Kütükcüoğlu Mah (Yeşilköy Köyü)
-    - Kütükoğlu Mah (Çukur Köyü)
+    - Kütükoğlu Mah (Karahatipler Köyü)
     - Mankıroğlu Mah (Muharremler Köyü)
     - Merkez Mah (Aktarla Köyü)
     - Merkez Mah (Aliusta Köyü)
-    - Merkez Mah (Bakacakkadı Köyü)
     - Merkez Mah (Bodaç Köyü)
     - Merkez Mah (Dağdemirciler Köyü)
     - Merkez Mah (Pazarlıoğlu Köyü)
     - Muratlar Mah (Aydınlar Köyü)
-    - Musabeyoğlu Mah (Çukur Köyü)
+    - Musabeyoğlu Mah (Karahatipler Köyü)
     - Müsebeyoğlu Mah (Gaziler Köyü)
     - Oluklar Mah (Aktarla Köyü)
     - Osmanbaşoğlu Mah (Veyisoğlu Köyü)
@@ -1323,7 +1346,6 @@ Gökçebey:
     - Sakalar Mah (Muharremler Köyü)
     - Salmanlar Mah (Örmeci Köyü)
     - Saraçlar Köyü
-    - Satıbeyler Mah (Bakacakkadı Köyü)
     - Satuklar Mah (Karapınar Köyü)
     - Simitcioğlu Mah (Örmeci Köyü)
     - Soğuksu Mah (Aliusta Köyü)
@@ -1344,6 +1366,24 @@ Gökçebey:
     - Yukarı Mah (Aliusta Köyü)
     - Zaimoğlu Mah (Namazgah Köyü)
 Kilimli:
+  Çatalağzı:
+    postcode: 67150
+    neighborhoods:
+    - Cuma Yanı Mah (Çatalağzı Beldesi)
+    - Doğancılar Mah (Çatalağzı Beldesi)
+    - Hacıoğlu Mah (Çatalağzı Beldesi)
+    - Kırımsa Mah (Çatalağzı Beldesi)
+    - Kokurdan Mah (Çatalağzı Beldesi)
+    - Kuzyaka Mah (Çatalağzı Beldesi)
+    - Merkez Mah (Çatalağzı Beldesi)
+  Gelik:
+    postcode: 67510
+    neighborhoods:
+    - Ayiçi Mah (Gelik Beldesi)
+    - Ayiçi Merkez Mah (Gelik Beldesi)
+    - Esen Mah (Gelik Beldesi)
+    - Gelik Merkez Mah (Gelik Beldesi)
+    - Kırat Mah (Gelik Beldesi)
   Kilimli:
     postcode: 67500
     neighborhoods:
@@ -1360,34 +1400,25 @@ Kilimli:
     postcode: 67502
     neighborhoods:
     - Aşağı Mah (Göbü Köyü)
-    - Ayiçi Mah (Gelik Köyü)
-    - Ayiçi Merkez Mah (Gelik Köyü)
     - Başköy Mah (Türkali Köyü)
-    - Cuma Yanı Mah (Çatalağzı Köyü)
-    - Cumhuriyet Mah (Muslu Köyü)
     - Çalca Mah (Şirinköy Köyü)
-    - Doğancılar Mah (Çatalağzı Köyü)
-    - Emirler Mah (Muslu Köyü)
-    - Esen Mah (Gelik Köyü)
-    - Gelik Merkez Mah (Gelik Köyü)
-    - Hacıoğlu Mah (Çatalağzı Köyü)
     - Haliller Mah (Göbü Köyü)
     - Hatipler Mah (Türkali Köyü)
     - Karşı Mah (Göbü Köyü)
     - Karşıköy Mah (Türkali Köyü)
-    - Kırat Mah (Gelik Köyü)
-    - Kırımsa Mah (Çatalağzı Köyü)
-    - Kokurdan Mah (Çatalağzı Köyü)
-    - Kuzyaka Mah (Çatalağzı Köyü)
-    - Merkez Mah (Çatalağzı Köyü)
     - Merkez Mah (Kurtköy Köyü)
-    - Merkez Mah (Muslu Köyü)
     - Merkez Mah (Şirinköy Köyü)
     - Merkez Mah (Türkali Köyü)
     - Mustakiller Mah (Türkali Köyü)
     - Oruçlar Mah (Göbü Köyü)
     - Yeniköy Mah (Kurtköy Köyü)
     - Yukarıdere Mah (Türkali Köyü)
+  Muslu:
+    postcode: 67170
+    neighborhoods:
+    - Cumhuriyet Mah (Muslu Beldesi)
+    - Emirler Mah (Muslu Beldesi)
+    - Merkez Mah (Muslu Beldesi)
 Kozlu:
   Kozlu:
     postcode: 67600
@@ -1469,12 +1500,12 @@ Merkez:
     - Başören Mah (Kumtarla Köyü)
     - Belevrek Mah (Ayvatlar Köyü)
     - Beyler Mah (Korucak Köyü)
-    - Beytepe Mah (Beycuma Köyü)
-    - Birlik Mah (Beycuma Köyü)
+    - Beytepe Mah (Beycuma Beldesi)
+    - Birlik Mah (Beycuma Beldesi)
     - Bozcaoğlu Mah (Çukurören Köyü)
     - Bölüçek Mah (Ayvatlar Köyü)
     - Çakallar Mah (Kaleoğlu Köyü)
-    - Çamlık Mah (Beycuma Köyü)
+    - Çamlık Mah (Beycuma Beldesi)
     - Çavuşlar Mah (Keller Köyü)
     - Çay Mah (Eceler Köyü)
     - Çay Mah (Hacıali Köyü)
@@ -1495,7 +1526,7 @@ Merkez:
     - Kabalaklı Köyü
     - Karşıyaka Mah (Himmetoğlu Köyü)
     - Karşıyaka Mah (Korucak Köyü)
-    - Kasımlar Mah (Beycuma Köyü)
+    - Kasımlar Mah (Beycuma Beldesi)
     - Kılavlar Mah (Kaleoğlu Köyü)
     - Kıymetoğlu Mah (Hacıali Köyü)
     - Kirazlı Mah (Kumtarla Köyü)
@@ -1504,7 +1535,7 @@ Merkez:
     - Merkez Gerdek Mah (Himmetoğlu Köyü)
     - Merkez Keller Mah (Keller Köyü)
     - Merkez Mah (Ayvatlar Köyü)
-    - Merkez Mah (Beycuma Köyü)
+    - Merkez Mah (Beycuma Beldesi)
     - Merkez Mah (Çukurören Köyü)
     - Merkez Mah (Eceler Köyü)
     - Merkez Mah (Hacıali Köyü)
@@ -1514,7 +1545,7 @@ Merkez:
     - Merkez Mah (Saraycık Köyü)
     - Merkez Mah (Taşçılar Köyü)
     - Mudaroğlu Mah (Karadere Köyü)
-    - Muratlı Mah (Beycuma Köyü)
+    - Muratlı Mah (Beycuma Beldesi)
     - Musunlu Mah (Çukurören Köyü)
     - Orta Mah (Karapınar Köyü)
     - Ömeroğlu Mah (Osmanlı Köyü)
@@ -1533,26 +1564,37 @@ Merkez:
     - Veliköy Mah (Karadere Köyü)
     - Yallıoğlu Mah (Hacıali Köyü)
     - Yayla Mah (Himmetoğlu Köyü)
-    - Yeni Mah (Beycuma Köyü)
+    - Yeni Mah (Beycuma Beldesi)
     - Yeni Mah (Karapınar Köyü)
     - Yukarı Mah (Karapınar Köyü)
     - Yusufoğlu Mah (Himmetoğlu Köyü)
+  Elvanpazarcık:
+    postcode: 67990
+    neighborhoods:
+    - Celepçioğlu Mah (Elvanpazarcık Beldesi)
+    - Cumhuriyet Mah (Elvanpazarcık Beldesi)
+    - Çalca Mah (Elvanpazarcık Beldesi)
+    - Elvan Mah (Elvanpazarcık Beldesi)
+    - Hayat Mah (Elvanpazarcık Beldesi)
+    - Merkez Mah (Elvanpazarcık Beldesi)
+    - Tasmacı Mah (Elvanpazarcık Beldesi)
+  Karaman:
+    postcode: 67010
+    neighborhoods:
+    - Kadı Mah (Karaman Beldesi)
+    - Karamanlar Mah (Karaman Beldesi)
+    - Merkez Mah (Karaman Beldesi)
+    - Satıklı Mah (Karaman Beldesi)
+    - Yeni Mah (Karaman Beldesi)
   Merkezköyler:
     postcode: 67002
     neighborhoods:
     - Alaca Mah (Kardeşler Köyü)
     - Aşağı Mah (Olukyanı Köyü)
     - Aşağıköy Mah (Sarımsak Köyü)
-    - Celepçioğlu Mah (Elvanpazarcık Köyü)
-    - Cumhuriyet Mah (Elvanpazarcık Köyü)
-    - Çalca Mah (Elvanpazarcık Köyü)
     - Dere Mah (Sofular Köyü)
     - Dikimçe Mah (Çağlı Köyü)
-    - Elvan Mah (Elvanpazarcık Köyü)
-    - Hayat Mah (Elvanpazarcık Köyü)
     - İmamlar Mah (Olukyanı Köyü)
-    - Kadı Mah (Karaman Köyü)
-    - Karamanlar Mah (Karaman Köyü)
     - Karşı Mah (Sarımsak Köyü)
     - Kireç Mah (Çağlı Köyü)
     - Kokaksu Mah (Kardeşler Köyü)
@@ -1561,17 +1603,12 @@ Merkez:
     - Merkez Çağlı Mah (Çağlı Köyü)
     - Merkez Çayırcık Mah (Çağlı Köyü)
     - Merkez Mah (Alancık Köyü)
-    - Merkez Mah (Elvanpazarcık Köyü)
-    - Merkez Mah (Karaman Köyü)
     - Merkez Mah (Kardeşler Köyü)
     - Merkez Mah (Sofular Köyü)
     - Mezarlık Mah (Sarımsak Köyü)
     - Orta Mah (Olukyanı Köyü)
     - Recep Harman Mah (Sarımsak Köyü)
     - Sapça Mah (Sapça Köyü)
-    - Satıklı Mah (Karaman Köyü)
-    - Tasmacı Mah (Elvanpazarcık Köyü)
-    - Yeni Mah (Karaman Köyü)
     - Yukarı Mah (Olukyanı Köyü)
     - Zeytin 1 Mah (Alancık Köyü)
     - Zeytin 2 Mah (Alancık Köyü)

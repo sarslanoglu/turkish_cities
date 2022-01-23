@@ -75,13 +75,18 @@ Bucak:
   Kızılkaya:
     postcode: 15310
     neighborhoods:
-    - Pazar Mah
-    - Yeni Mah
+    - Avdan Mah (Kızılkaya Beldesi)
+    - Pazar Mah (Kızılkaya Beldesi)
+    - Yeni Mah (Kızılkaya Beldesi)
+    - Yuva Mah (Kızılkaya Beldesi)
   Kocaaliler:
     postcode: 15325
     neighborhoods:
-    - Cami Mah (Kızılseki Köyü)
+    - Camii Mah (Kocaaliler Beldesi)
     - Esirlik Mah (Kızılseki Köyü)
+    - Gökalan Mah (Kocaaliler Beldesi)
+    - Karşıyaka Mah (Kocaaliler Beldesi)
+    - Pazar Mah (Kocaaliler Beldesi)
     - Sarıotlu Mah (Kızılseki Köyü)
     - Seki Avlığı Mah (Kızılseki Köyü)
     - Sinanbaba Mah (Kızılseki Köyü)
@@ -97,7 +102,6 @@ Bucak:
     - Ankara Mah (Ürkütlü Köyü)
     - Aşağı Mah (Kuşbaba Köyü)
     - Aşağı Mah (Taşyayla Köyü)
-    - Avdan Mah (Kızılkaya Köyü)
     - Aykırı Mah (Karaot Köyü)
     - Belören Köyü
     - Beşkonak Köyü
@@ -105,8 +109,8 @@ Bucak:
     - Boğazköy Köyü
     - Bozyaka Mah (Elsazı Köyü)
     - Cami Mah (Karaot Köyü)
+    - Cami Mah (Kızılseki Köyü)
     - Camii Mah
-    - Camii Mah (Kocaaliler Köyü)
     - Cumhuriyet Mah (Uğurlu Köyü)
     - Çobanlar Mah (Kargı Köyü)
     - Dağarcık Köyü
@@ -117,7 +121,6 @@ Bucak:
     - Erekli Mah (Karaot Köyü)
     - Fatih Mah
     - Fatih Mah (Uğurlu Köyü)
-    - Gökalan Mah (Kocaaliler Köyü)
     - Güllüalan Mah (Karaot Köyü)
     - Hacıbağ Mah (Çamlık Köyü)
     - Hacıismailler Mah (Kızıllı Köyü)
@@ -130,7 +133,6 @@ Bucak:
     - Karacaören Köyü
     - Karapınar Köyü
     - Karaseki Köyü
-    - Karşıyaka Mah (Kocaaliler Köyü)
     - Kavacık Köyü
     - Kavak Mah (Elsazı Köyü)
     - Kavaklı Mah (Çamlık Köyü)
@@ -153,8 +155,7 @@ Bucak:
     - Narağacı Mah (Çobanpınarı Köyü)
     - Narlı Mah (Çamlık Köyü)
     - Orta Mah (Kuşbaba Köyü)
-    - Pazar Mah (Kızılkaya Köyü)
-    - Pazar Mah (Kocaaliler Köyü)
+    - Pazar Mah
     - Pazar Mah (Ürkütlü Köyü)
     - Pazaralan Mah (Çobanpınarı Köyü)
     - Sahil Mah (Çamlık Köyü)
@@ -167,11 +168,10 @@ Bucak:
     - Taşdibi Mah (Kargı Köyü)
     - Tepe Boynu Mah (Dutalanı Köyü)
     - Üzümlübel Köyü
+    - Yeni Mah
     - Yeni Mah (Gündoğdu Köyü)
-    - Yeni Mah (Kızılkaya Köyü)
     - Yenice Mah (Elsazı Köyü)
     - Yukarı Mah (Kuyubaşı Köyü)
-    - Yuva Mah (Kızılkaya Köyü)
     - Yüreğil Köyü
 Çavdır:
   Çavdır:
@@ -190,20 +190,23 @@ Bucak:
     - Bölmepınar Köyü
     - Büyükalan Köyü
     - Çakır Mah (Kızıllar Köyü)
-    - Çeşme Mah (Söğüt Köyü)
     - Depo Mah (Kozağacı Köyü)
-    - Fatih Mah (Söğüt Köyü)
     - İshakköy Köyü
     - Karaköy Köyü
     - Kayacık Köyü
     - Küçükalan Köyü
     - Merkez Mah (Kızıllar Köyü)
     - Pazar Mah
-    - Pazar Mah (Söğüt Köyü)
     - Saray Burnu Mah (Kozağacı Köyü)
     - Yazır Köyü
     - Yeni Mah
-    - Yeşil Mah (Söğüt Köyü)
+  Söğüt:
+    postcode: 15930
+    neighborhoods:
+    - Çeşme Mah (Söğüt Beldesi)
+    - Fatih Mah (Söğüt Beldesi)
+    - Pazar Mah (Söğüt Beldesi)
+    - Yeşil Mah (Söğüt Beldesi)
 Çeltikçi:
   Çeltikçi:
     postcode: 15070
@@ -240,7 +243,6 @@ Gölhisar:
     - Merkez Camii Mah
     - Pazar Mah
     - Ulucamii Mah
-    - Yusufça Mah (Yusufça Köyü)
   Merkezköyler:
     postcode: 15402
     neighborhoods:
@@ -286,6 +288,10 @@ Gölhisar:
     - Yeni Mah (İbecik Köyü)
     - Yılanlı Mah (Elmalıyurt Köyü)
     - Yukarı Mah (Uylupınar Köyü)
+  Yusufça:
+    postcode: 15413
+    neighborhoods:
+    - Yusufça Mah (Yusufça Beldesi)
 Karamanlı:
   Karamanlı:
     postcode: 15700

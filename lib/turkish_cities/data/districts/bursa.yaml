@@ -454,12 +454,13 @@ Kestel:
     postcode: 16450
     neighborhoods:
     - Ağlaşan Mah
-    - Ahmet Vefik Paşaosb Mah
+    - Ahmet Vefik Paşa Osb Mah
     - Ahmetvefikpaşa Mah
     - Aksu Mah
     - Alaçam Mah
     - Babasultan Mah
     - Barakfakih Mah
+    - Barakfakih Osb Mah
     - Burhaniye Mah
     - Çataltepe Mah
     - Derekızık Mah
@@ -858,7 +859,7 @@ Orhaneli:
     - Yakuplar Mah
     - Yenidanişment Mah
     - Yeşiller Mah
-    - Yörücekler Mah
+    - Yörükler Mah
 Orhangazi:
   Orhangazi:
     postcode: 16800

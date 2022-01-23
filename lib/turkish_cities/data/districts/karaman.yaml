@@ -80,30 +80,40 @@ Ermenek:
     - Seyran Mah
     - Susaklı Mah
     - Taşbaşı Mah
+  Güneyyurt:
+    postcode: 70450
+    neighborhoods:
+    - Aralık Mah (Güneyyurt Beldesi)
+    - Cami Mah (Güneyyurt Beldesi)
+    - Habib Mah (Güneyyurt Beldesi)
+    - Kışlacık Mah (Güneyyurt Beldesi)
+    - Oda Mah (Güneyyurt Beldesi)
+    - Orta Mah (Güneyyurt Beldesi)
+    - Pınargözü Mah (Güneyyurt Beldesi)
+    - Yenimahalle Mah (Güneyyurt Beldesi)
   Kazancı:
     postcode: 70460
     neighborhoods:
     - Aşağı Mah (Sarıvadi Köyü)
     - Beliçekkoz Mah (İkizçınar Köyü)
-    - Bucak Mah (Kazancı Köyü)
-    - Çatalbadem Mah (Kazancı Köyü)
+    - Bucak Mah (Kazancı Beldesi)
+    - Çatalbadem Mah (Kazancı Beldesi)
     - Değirmen Mah (Ardıçkaya Köyü)
-    - Gökceler Mah (Kazancı Köyü)
+    - Gökceler Mah (Kazancı Beldesi)
     - Gökçekent Köyü
     - Havuz Merkez Mah (İkizçınar Köyü)
-    - Merkez Mah (Kazancı Köyü)
-    - Tepecik Mah (Kazancı Köyü)
-    - Türbeseki Mah (Kazancı Köyü)
-    - Uluköy Mah (Kazancı Köyü)
+    - Merkez Mah (Kazancı Beldesi)
+    - Tepecik Mah (Kazancı Beldesi)
+    - Türbeseki Mah (Kazancı Beldesi)
+    - Uluköy Mah (Kazancı Beldesi)
     - Yaylapazarı Köyü
     - Yeşilköy Köyü
-    - Yukarı Mah (Kazancı Köyü)
+    - Yukarı Mah (Kazancı Beldesi)
     - Yukarı Mah (Sarıvadi Köyü)
   Merkezköyler:
     postcode: 70402
     neighborhoods:
     - Ağaççatı Köyü
-    - Aralık Mah (Güneyyurt Köyü)
     - Aşağıçağlar Köyü
     - Avcılar Mah (Evsin Köyü)
     - Balkusan Köyü
@@ -111,7 +121,6 @@ Ermenek:
     - Belen Mah (Yalındal Köyü)
     - Boyalık Köyü
     - Bozyaka Mah (Elmayurdu Köyü)
-    - Cami Mah (Güneyyurt Köyü)
     - Çamlıca Köyü
     - Çarıklı Mah (Görmeli Köyü)
     - Çatalarmut Mah (Görmeli Köyü)
@@ -123,14 +132,12 @@ Ermenek:
     - Gökceseki Köyü
     - Güneri Mah (Yalındal Köyü)
     - Güney Mah (Aşağıçağlar Köyü)
-    - Habib Mah (Güneyyurt Köyü)
     - Harmanbağı Mah (Aşağıçağlar Köyü)
     - Hatilla Mah (Elmayurdu Köyü)
     - İğdeyakası Mah (Yalındal Köyü)
     - Katranlı Köyü
     - Kayaönü Köyü
     - Kışla Mah (Görmeli Köyü)
-    - Kışlacık Mah (Güneyyurt Köyü)
     - Kızılalan Mah (Gökceseki Köyü)
     - Köprübaşı Mah (Görmeli Köyü)
     - Köprübaşı Mah (Kayaönü Köyü)
@@ -138,18 +145,14 @@ Ermenek:
     - Kumyaka Mah (Elmayurdu Köyü)
     - Mezarlıalan Mah (Görmeli Köyü)
     - Nisa Mah (Görmeli Köyü)
-    - Oda Mah (Güneyyurt Köyü)
     - Olukpınar Köyü
-    - Orta Mah (Güneyyurt Köyü)
     - Pamuklu Köyü
-    - Pınargözü Mah (Güneyyurt Köyü)
     - Pınarönü Köyü
     - Şahinler Mah (Yerbağ Köyü)
     - Taştekne Mah (Tepebaşı Köyü)
     - Tekke Mah (Görmeli Köyü)
     - Tepebaşı Köyü
     - Ülüğer Mah (Pamuklu Köyü)
-    - Yenimahalle Mah (Güneyyurt Köyü)
     - Yerbağ Köyü
     - Yolçatı Mah (Elmayurdu Köyü)
     - Yukarıçağlar Köyü
@@ -179,8 +182,12 @@ Merkez:
     postcode: 70110
     neighborhoods:
     - Atatürk Mah
+    - Atatürk Mah (Akçaşehir Beldesi)
     - Fatih Mah
+    - Fatih Mah (Akçaşehir Beldesi)
+    - Gazi Mah (Akçaşehir Beldesi)
     - Hürriyet Mah
+    - Hürriyet Mah (Akçaşehir Beldesi)
   Hisar:
     postcode: 70200
     neighborhoods:
@@ -233,7 +240,6 @@ Merkez:
     - Aşağı Yayla Mah (Ortaoba Köyü)
     - Aşağıakın Köyü
     - Aşağıkızılca Köyü
-    - Atatürk Mah (Akçaşehir Köyü)
     - Atatürk Mah (Kılbasan Köyü)
     - Atatürk Mah (Kisecik Köyü)
     - Atatürk Mah (Taşkale Köyü)
@@ -243,7 +249,6 @@ Merkez:
     - Bağlıbük Mah (Elmadağı Köyü)
     - Bağlık Mah (Burhan Köyü)
     - Bahçelievler Mah (Pınarbaşı Köyü)
-    - Bahçelievler Mah (Sudurağı Köyü)
     - Barutkavuran Köyü
     - Başkışla Köyü
     - Bayır Köyü
@@ -257,7 +262,6 @@ Merkez:
     - Bucakkışla Köyü
     - Camikebir Mah (Yollarbaşı Köyü)
     - Cumhuriyet Mah (Kisecik Köyü)
-    - Cumhuriyet Mah (Sudurağı Köyü)
     - Cumhuriyet Mah (Süleymanhacı Köyü)
     - Çakırbağ Köyü
     - Çakırdağ Mah (Burunoba Köyü)
@@ -286,8 +290,6 @@ Merkez:
     - Eminler Köyü
     - Esentepe Mah (Çakırbağ Köyü)
     - Eskiköy Mah (Aybastı Köyü)
-    - Fatih Mah (Akçaşehir Köyü)
-    - Gazi Mah (Akçaşehir Köyü)
     - Göçer Köyü
     - Gökçe Köyü
     - Gökçepınar Mah (Bayır Köyü)
@@ -303,7 +305,6 @@ Merkez:
     - Hamidiye Köyü
     - Harman Mah (Burhan Köyü)
     - Hinsar Mah (Burhan Köyü)
-    - Hürriyet Mah (Akçaşehir Köyü)
     - İbrahim Fakı Mah (Yollarbaşı Köyü)
     - İmamlar Mah (Kılbasan Köyü)
     - İmamoğlu Mah (Kılbasan Köyü)
@@ -320,11 +321,11 @@ Merkez:
     - Kayaönü Mah (Yeşildere Köyü)
     - Kayapınar Mah (Göçer Köyü)
     - Kaynar Mah (Lale Köyü)
-    - Ketenci Mah (Sudurağı Köyü)
     - Kır Mah (Burhan Köyü)
     - Kızık Köyü
     - Kızıllarağını Köyü
     - Kızılyaka Köyü
+    - Kovalıöz Mah (Değirmenbaşı Köyü)
     - Kozlubucak Köyü
     - Kumoba Mah (Çoğlu Köyü)
     - Kurtderesi Köyü
@@ -395,7 +396,10 @@ Merkez:
     postcode: 70140
     neighborhoods:
     - Bahçelievler Mah
+    - Bahçelievler Mah (Sudurağı Beldesi)
     - Cumhuriyet Mah
+    - Cumhuriyet Mah (Sudurağı Beldesi)
+    - Ketenci Mah (Sudurağı Beldesi)
   Sümer:
     postcode: 70100
     neighborhoods:
@@ -428,31 +432,32 @@ Sarıveliler:
     postcode: 70810
     neighborhoods:
     - Boyunağıl Mah (Uğurlu Köyü)
-    - Cumhuriyet Mah (Göktepe Köyü)
+    - Cumhuriyet Mah (Göktepe Beldesi)
     - Çetince Önü Mah (Uğurlu Köyü)
     - Çevlik Başı Mah (Uğurlu Köyü)
+    - Çukurbağ Mah (Göktepe Beldesi)
     - Dikenli Mah (Dumlugöze Köyü)
+    - Esentepe Mah (Göktepe Beldesi)
     - Gezirail Mah (Uğurlu Köyü)
-    - Göksu Mah (Göktepe Köyü)
-    - Gülpazar Mah (Göktepe Köyü)
+    - Göksu Mah (Göktepe Beldesi)
+    - Gülpazar Mah (Göktepe Beldesi)
+    - Günder Mah (Göktepe Beldesi)
+    - Hesbek Mah (Uğurlu Köyü)
     - Kale Döşeği Mah (Uğurlu Köyü)
     - Merkez Mah (Koçaşlı Köyü)
     - Pireli/aşakbel-geven-dikenli-ormanlı-çukur-çetincy Mah (Dumlugöze Köyü)
     - Sıtma Pınarı Mah (Uğurlu Köyü)
-    - Yeşilyurt Mah (Göktepe Köyü)
-    - Yıldız Mah (Göktepe Köyü)
+    - Yeşilyurt Mah (Göktepe Beldesi)
+    - Yıldız Mah (Göktepe Beldesi)
   Merkezköyler:
     postcode: 70802
     neighborhoods:
     - Civandere Köyü
     - Civler Köyü
-    - Çukurbağ Mah (Göktepe Köyü)
     - Çulhalar-kızılçukur-aşağı Süvari-yukarı-sivarı-ala Mah (Dumlugöze Köyü)
     - Daran Köyü
     - Dumlugöze Köyü
-    - Esentepe Mah (Göktepe Köyü)
     - Göksu Mah (Koçaşlı Köyü)
-    - Günder Mah (Göktepe Köyü)
     - Işıklı Köyü
     - Kaynarca Mah (Uğurlu Köyü)
     - Manastır Mah (Uğurlu Köyü)

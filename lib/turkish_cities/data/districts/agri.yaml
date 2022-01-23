@@ -13,7 +13,6 @@ Diyadin:
   Merkezköyler:
     postcode: 4902
     neighborhoods:
-    - Abdulhadi Mah (Sürenkök Köyü)
     - Abdulkadir Çetin Mah (Sürmelikoç Köyü)
     - Adakent Mah (Davut Köyü)
     - Ahmet Işık Mah (Sürmelikoç Köyü)
@@ -22,7 +21,6 @@ Diyadin:
     - Akçevre Köyü
     - Akyolaç Köyü
     - Alaçayır Mah (Dedebulak Köyü)
-    - Alikom Mah (Batıbeyli Köyü)
     - Altınkilit Köyü
     - Altınkilit Mah (Altınkilit Köyü)
     - Amereşk Mah (Sürmelikoç Köyü)
@@ -110,7 +108,6 @@ Diyadin:
     - Yanıkçukur Köyü
     - Yeniçadır Köyü
     - Yeşildurak Köyü
-    - Yılan Mah (Tazekent Köyü)
     - Yıldırım Köyü
     - Yıldız Köyü
     - Yol Boyu Mah (Yeşildurak Köyü)
@@ -308,27 +305,21 @@ Eleşkirt:
     - Ali Paşa Mah (Mollasüleyman Köyü)
     - Alkuşak Köyü
     - Arifbey Köyü
-    - Aşağıcihanbey Mah (Yayladüzü Köyü)
     - Aşağıkopuz Köyü
     - Aydoğdu Köyü
-    - Cumhuriyet Mah (Yayladüzü Köyü)
     - Çatalpınar Köyü
     - Çatkösedağ Köyü
-    - Çelik Mah (Mollasüleyman Köyü)
     - Çetinsu Köyü
     - Çiftepınar Köyü
     - Dalkılıç Konutlar Mah (Dalkılıç Köyü)
     - Dalkılıç Köyü
-    - Değirmengeçidi Mah (Yayladüzü Köyü)
     - Değirmenoluğu Köyü
     - Dolutaş Köyü
     - Düzağıl Köyü
     - Düzyayla Köyü
     - Ergözü Köyü
-    - Esentepe Mah (Yücekapı Köyü)
     - Eyüpkomu Mah (Yağmurlu Köyü)
     - Goncalı Köyü
-    - Gökçayır Mah (Yayladüzü Köyü)
     - Gözaydın Köyü
     - Güneykaya Köyü
     - Güvence Köyü
@@ -343,13 +334,11 @@ Eleşkirt:
     - İndere Köyü
     - Kanatgeren Köyü
     - Karabacak Köyü
-    - Karşıyaka Mah (Yayladüzü Köyü)
     - Kayayolu Köyü
     - Kokulupınar Köyü
     - Körpeçayır Köyü
     - Mollahüseyin Köyü
     - Mollasüleyman Köyü
-    - Oklavalı Mah (Yücekapı Köyü)
     - Öztoprak Köyü
     - Palakçayırı Köyü
     - Pirabat Köyü
@@ -361,7 +350,6 @@ Eleşkirt:
     - Söbetaş Köyü
     - Sultanabat Köyü
     - Süzgeçli Köyü
-    - Şehit Engin Mah (Yücekapı Köyü)
     - Toprakkale Köyü
     - Türkeli Köyü
     - Uludal Köyü
@@ -370,16 +358,29 @@ Eleşkirt:
     - Yanıkdere Köyü
     - Yelkesen Köyü
     - Yeşilova Köyü
-    - Yeşilyurt Mah (Yücekapı Köyü)
     - Yığıntaş Köyü
     - Yukarıkopuz Köyü
-    - Zeyit Yaylası Mah (Mollasüleyman Köyü)
   Tahir:
     postcode: 4401
     neighborhoods:
-    - Aydıntepe Mah (Tahir Köyü)
-    - Karşıyaka Mah (Tahir Köyü)
-    - Yeşil Mah (Tahir Köyü)
+    - Aydıntepe Mah (Tahir Beldesi)
+    - Karşıyaka Mah (Tahir Beldesi)
+    - Yeşil Mah (Tahir Beldesi)
+  Yayladüzü:
+    postcode: 4640
+    neighborhoods:
+    - Aşağıcihanbey Mah (Yayladüzü Beldesi)
+    - Cumhuriyet Mah (Yayladüzü Beldesi)
+    - Değirmengeçidi Mah (Yayladüzü Beldesi)
+    - Gökçayır Mah (Yayladüzü Beldesi)
+    - Karşıyaka Mah (Yayladüzü Beldesi)
+  Yücekapı:
+    postcode: 4630
+    neighborhoods:
+    - Esentepe Mah (Yücekapı Beldesi)
+    - Oklavalı Mah (Yücekapı Beldesi)
+    - Şehit Engin Mah (Yücekapı Beldesi)
+    - Yeşilyurt Mah (Yücekapı Beldesi)
 Hamur:
   Hamur:
     postcode: 4850
@@ -653,18 +654,22 @@ Patnos:
   Dedeli:
     postcode: 4503
     neighborhoods:
+    - Akbulut Mah (Dedeli Beldesi)
     - Arpacık Mah (Bozoğlak Köyü)
     - Balcılar Mah (Karbasan Köyü)
     - Baştarla Köyü
+    - Batıbeyli Mah (Bozoğlak Köyü)
     - Bozoğlak Köyü
-    - Budak Mah (Dedeli Köyü)
+    - Budak Mah (Dedeli Beldesi)
     - Cızvız Mah (Pirömer Köyü)
-    - Cumhuriyet Mah (Dedeli Köyü)
+    - Cumhuriyet Mah (Dedeli Beldesi)
     - Çavuş Mah (Bozoğlak Köyü)
+    - Çaybaşı Mah (Dedeli Beldesi)
     - Çiçek Mah (Hasandolu Köyü)
     - Çimenli Köyü
     - Çukurbağ Köyü
     - Dambat Mah (Baştarla Köyü)
+    - Değirmen Mah (Dedeli Beldesi)
     - Değirmendüzü Köyü
     - Derecik Köyü
     - Derekomu Mah (Karbasan Köyü)
@@ -677,17 +682,17 @@ Patnos:
     - Kaş Köyü
     - Keleşler Mezrası Mah (Çukurbağ Köyü)
     - Kızılağıl Mah (Değirmendüzü Köyü)
-    - Merkez Mah (Dedeli Köyü)
+    - Merkez Mah (Dedeli Beldesi)
     - Meydandağı Köyü
     - Ortadamla Köyü
     - Örendik Köyü
     - Pirömer Köyü
     - Şeytanova Mah (Baştarla Köyü)
     - Tozbelen Mah (Ortadamla Köyü)
-    - Üzümlü Mah (Dedeli Köyü)
+    - Üzümlü Mah (Dedeli Beldesi)
     - Yeşilçimen Mah (Bozoğlak Köyü)
     - Yeşilhisar Köyü
-    - Yeşilova Mah (Dedeli Köyü)
+    - Yeşilova Mah (Dedeli Beldesi)
     - Yk.hırbe Mah (Bozoğlak Köyü)
     - Yukarıdamla Köyü
     - Zali Mah (Derecik Köyü)
@@ -731,12 +736,11 @@ Patnos:
     - Güzeldere Mah (Tanyeli Köyü)
     - Hacılar Köyü
     - Halife Mah (Uzungün Köyü)
-    - İncesu Mah (Uzungün Köyü)
+    - İncesu Mah (Yukarıgöçmez Köyü)
     - Kale Mah (Alatay Köyü)
     - Kanışeviti Mah (Yukarıkülecik Köyü)
     - Karatoklu Köyü
     - Kayadibi Mah (Tanyeli Köyü)
-    - Kılka Mah (Yukarıkülecik Köyü)
     - Kızıltepe Köyü
     - Kızkapan Köyü
     - Koçaklar Köyü
@@ -766,7 +770,6 @@ Patnos:
     - Uzunca Köyü
     - Uzungün Köyü
     - Üçoymak Köyü
-    - Vara Mah (Yukarıkülecik Köyü)
     - Varan Mah (Yukarıkülecik Köyü)
     - Y.salahana Mah (Tanyeli Köyü)
     - Yalçınkaya Köyü
@@ -848,7 +851,6 @@ Patnos:
     - Satıbulak Mah (Zirekli Köyü)
     - Taşkın Köyü
     - Ürküt Köyü
-    - Yayla Evi Mah (Taşkın Köyü)
     - Yeşilce Mah (Armutlu Köyü)
     - Yeşilyurt Köyü
     - Yılanlı Mah (Ergeçli Köyü)
@@ -959,7 +961,6 @@ Tutak:
     - Daldalık Köyü
     - Damlakaya Köyü
     - Dayıpınarı Köyü
-    - Değirmendere Mah (Karakuyu Köyü)
     - Dereköy Köyü
     - Dibelek Köyü
     - Dikbıyık Köyü
@@ -991,7 +992,6 @@ Tutak:
     - Karakuyu Köyü
     - Kaşönü Köyü
     - Kayadibi Mah (Bahçe Köyü)
-    - Kayalar Mah (Sarıgöze Köyü)
     - Kesik Köyü
     - Kılıçgediği Köyü
     - Kuşkaya Mah (Karacan Köyü)

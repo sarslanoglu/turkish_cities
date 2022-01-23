@@ -317,6 +317,8 @@ Süleymanpaşa:
     - 100. Yıl Mah
     - Altınova Mah
     - Ertuğrul Mah
+    - Topağaç Mah
+    - Vatan Mah
     - Yavuz Mah
   Aydoğdu:
     postcode: 59200
@@ -328,12 +330,15 @@ Süleymanpaşa:
   Eskicami:
     postcode: 59030
     neighborhoods:
+    - Atatürk Mah
     - Bahçelievler Mah
+    - Cumhuriyet Mah
+    - Çiftlikönü Mah
     - Değirmenaltı Mah
-    - Eskicami-ortacami Mah
-    - Gündoğdu-turgut Mah
     - Hürriyet Mah
+    - İstiklal Mah
     - Namık Kemal Mah
+    - Ortacami Mah
   Kumbağ:
     postcode: 59060
     neighborhoods:

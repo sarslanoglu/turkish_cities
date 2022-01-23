@@ -29,7 +29,7 @@ Ağaçören:
     - Hüsrevköy Köyü
     - İydeli Mah (Yağmurhüyüğü Köyü)
     - Karapınar Mah (Yağmurhüyüğü Köyü)
-    - Kaşıçalık Köyü
+    - Kaşıçalıklar Köyü
     - Kederli Köyü
     - Kılıçlı Köyü
     - Kırımini Köyü
@@ -56,6 +56,13 @@ Eskil:
     - Mimar Sinan Mah
     - Yıldırım Mah
     - Zafer Mah
+  Eşmekaya:
+    postcode: 68810
+    neighborhoods:
+    - Camikebir Mah (Eşmekaya Beldesi)
+    - Kayacık Mah (Eşmekaya Beldesi)
+    - Yeni Mah (Eşmekaya Beldesi)
+    - Yeşilyurt Mah (Eşmekaya Beldesi)
   Merkezköyler:
     postcode: 68802
     neighborhoods:
@@ -64,7 +71,6 @@ Eskil:
     - Bezirci Yaylası Mah (Güneşli Köyü)
     - Butacı Yaylası Mah (Başaran Köyü)
     - Büğet Köyü
-    - Camikebir Mah (Eşmekaya Köyü)
     - Celil Kümesi Mah (Celil Köyü)
     - Çağlak Yaylası Mah (Güneşli Köyü)
     - Çimyayla Mah (Büğet Köyü)
@@ -80,15 +86,19 @@ Eskil:
     - Hoca Yaylası Mah (Büğet Köyü)
     - Karaburun Yaylası Mah (Güneşli Köyü)
     - Katrancı Kümesi Mah (Katrancı Köyü)
-    - Kayacık Mah (Eşmekaya Köyü)
     - Kökez Köyü
     - Sağsak Kümesi Mah (Sağsak Köyü)
     - Şavvel Yaylası Mah (Büğet Köyü)
     - Yavuz Sultan Selim Mah
-    - Yeni Mah (Eşmekaya Köyü)
-    - Yeşilyurt Mah (Eşmekaya Köyü)
     - Yukarıbezirci Yaylası Mah (Güneşli Köyü)
 Gülağaç:
+  Demirci:
+    postcode: 68940
+    neighborhoods:
+    - Eskicami Mah (Demirci Beldesi)
+    - Kalealtı Mah (Demirci Beldesi)
+    - Kurtuluş Mah (Demirci Beldesi)
+    - Yenipazar Mah (Demirci Beldesi)
   Gülağaç:
     postcode: 68900
     neighborhoods:
@@ -96,38 +106,40 @@ Gülağaç:
     - Fatih Mah
     - Hürriyet Mah
     - Yeni Mah
+  Gülpınar:
+    postcode: 68910
+    neighborhoods:
+    - Cumhuriyet Mah (Gülpınar Beldesi)
+    - Fatih Mah (Gülpınar Beldesi)
+    - Koyunlu Mah (Gülpınar Beldesi)
+    - Pınarbaşı Mah (Gülpınar Beldesi)
+    - Tuzla Mah (Gülpınar Beldesi)
   Merkezköyler:
     postcode: 68902
     neighborhoods:
     - Akmezar Köyü
     - Camiliören Köyü
     - Cumhuriyet Mah (Bekarlar Köyü)
-    - Cumhuriyet Mah (Gülpınar Köyü)
-    - Cumhuriyet Mah (Saratlı Köyü)
     - Çatalsu Köyü
-    - Eskicami Mah (Demirci Köyü)
-    - Fatih Mah (Gülpınar Köyü)
     - Fatih Mah (Sofular Köyü)
     - Fevzi Çakmak Mah (Sofular Köyü)
     - Hürriyet Mah (Bekarlar Köyü)
     - İstiklal Mah
-    - İstiklal Mah (Saratlı Köyü)
-    - Kalealtı Mah (Demirci Köyü)
-    - Karşıyaka Mah (Saratlı Köyü)
     - Kayabaşı Mah (Bekarlar Köyü)
     - Kızılkaya Köyü
-    - Koyunlu Mah (Gülpınar Köyü)
-    - Kurtuluş Mah (Demirci Köyü)
     - Meydan Mah
-    - Meydan Mah (Saratlı Köyü)
     - Osmanlı Köyü
     - Pınarbaşı Köyü
-    - Pınarbaşı Mah (Gülpınar Köyü)
     - Süleymanhüyüğü Köyü
-    - Tuzla Mah (Gülpınar Köyü)
     - Yavuz Selim Mah (Sofular Köyü)
-    - Yenipazar Mah (Demirci Köyü)
-    - Zafer Mah (Saratlı Köyü)
+  Saratlı:
+    postcode: 68950
+    neighborhoods:
+    - Cumhuriyet Mah (Saratlı Beldesi)
+    - İstiklal Mah (Saratlı Beldesi)
+    - Karşıyaka Mah (Saratlı Beldesi)
+    - Meydan Mah (Saratlı Beldesi)
+    - Zafer Mah (Saratlı Beldesi)
 Güzelyurt:
   Güzelyurt:
     postcode: 68500
@@ -136,31 +148,39 @@ Güzelyurt:
     - Aşağı Mah
     - Yeni Mah
     - Yukarı Mah
+  Ihlara:
+    postcode: 68570
+    neighborhoods:
+    - Akpınar Mah (Ihlara Beldesi)
+    - Harmanlık Mah (Ihlara Beldesi)
+    - Karşıyaka Mah (Ihlara Beldesi)
+    - Kayaardı Mah (Ihlara Beldesi)
   Merkezköyler:
     postcode: 68502
     neighborhoods:
-    - Akpınar Mah (Ihlara Köyü)
     - Alanyurt Köyü
     - Belisırma Köyü
     - Bozcayurt Köyü
     - Gaziemir Köyü
-    - Harmanlık Mah (Ihlara Köyü)
-    - Karşıyaka Mah (Ihlara Köyü)
-    - Kayaaltı Mah (Selime Köyü)
-    - Kayaardı Mah (Ihlara Köyü)
-    - Köprübaşı Mah (Selime Köyü)
     - Meydan Mah (Ilısu Köyü)
     - Sivrihisar Köyü
     - Uzunkaya Köyü
     - Yaprakhisar Köyü
     - Yeni Mah (Ilısu Köyü)
-    - Yeni Mah (Selime Köyü)
+  Selime:
+    postcode: 68470
+    neighborhoods:
+    - Kayaaltı Mah (Selime Beldesi)
+    - Köprübaşı Mah (Selime Beldesi)
+    - Yeni Mah (Selime Beldesi)
 Merkez:
   Bağlıkaya:
     postcode: 68120
     neighborhoods:
-    - Kurtuluş Mah
-    - Yenimahalle Mah
+    - Boğaziçi Mah (Bağlıkaya Beldesi)
+    - Çimeli Mah (Bağlıkaya Beldesi)
+    - Kurtuluş Mah (Bağlıkaya Beldesi)
+    - Yenimahalle Mah (Bağlıkaya Beldesi)
   Çarşı:
     postcode: 68100
     neighborhoods:
@@ -195,8 +215,10 @@ Merkez:
   Helvadere:
     postcode: 68165
     neighborhoods:
-    - Cumhuriyet Mah
-    - Zafer Mah
+    - Aydınlar Mah (Helvadere Beldesi)
+    - Cumhuriyet Mah (Helvadere Beldesi)
+    - Kirazlı Mah (Helvadere Beldesi)
+    - Zafer Mah (Helvadere Beldesi)
   Merkezköyler:
     postcode: 68010
     neighborhoods:
@@ -208,7 +230,6 @@ Merkez:
     - Akin Köyü
     - Alayhan Mezrası Mah (Alayhanı Köyü)
     - Alayhanı Köyü
-    - Aşağı Mah (Tatlıca Köyü)
     - Ataköy Köyü
     - Atatürk Mah (Karaören Köyü)
     - Atatürk Mah (Kutlu Köyü)
@@ -222,7 +243,6 @@ Merkez:
     - Bebek Köyü
     - Beyazsaray Mah (Sarayhan Köyü)
     - Birlik Mah (Altınkaya Köyü)
-    - Boğaziçi Mah (Bağlıkaya Köyü)
     - Borucu Köyü
     - Bostanlık Köyü
     - Boyalı Köyü
@@ -233,30 +253,26 @@ Merkez:
     - Cankıllı Köyü
     - Ceran Köyü
     - Cerit Köyü
+    - Cumhuriyet Mah
     - Cumhuriyet Mah (Yuva Köyü)
     - Çağlayan Köyü
     - Çavdarlılar Köyü
     - Çekiçler Köyü
     - Çeltek Köyü
-    - Çimeli Mah (Bağlıkaya Köyü)
     - Çimeliyeni Köyü
     - Çitçir Yolu Mah (Tatlıca Köyü)
     - Çolaknebi Köyü
-    - Divanoğlu Mah (Sağlık Köyü)
     - Ekecikgödeler Köyü
     - Ekeciktol Köyü
     - Ekecikyeni Köyü
     - Fatih Mah (Acıpınar Köyü)
     - Fatih Mah (Kutlu Köyü)
-    - Fatih Mah (Sağlık Köyü)
     - Fatih Mah (Sevinçli Köyü)
-    - Fatih Mah (Topakkaya Köyü)
     - Fatmauşağı Köyü
     - Gençosman Köyü
     - Gökçe Köyü
     - Göksügüzel Köyü
     - Gücünkaya Köyü
-    - Gülhane Mah (Topakkaya Köyü)
     - Gültepe Köyü
     - Hanobası Köyü
     - Hatipoğlutolu Köyü
@@ -270,12 +286,11 @@ Merkez:
     - Kazıcık Köyü
     - Kocatepe Mah (Doğantarla Köyü)
     - Koyak Köyü
-    - Kurtuluş Mah (Bağlıkaya Köyü)
+    - Kurtuluş Mah
     - Kurtuluş Mah (Doğantarla Köyü)
     - Küçükgüve Köyü
     - Küçükpörnekler Köyü
     - Macarlı Köyü
-    - Medeni Mah (Topakkaya Köyü)
     - Nurgöz Köyü
     - Öz Mevkii Mah (Gökçe Köyü)
     - Peçenek Mah (Büyükgüve Köyü)
@@ -300,10 +315,15 @@ Merkez:
     - Yeni Mah (Altınkaya Köyü)
     - Yeni Mah (Doğantarla Köyü)
     - Yeni Mah (Sevinçli Köyü)
-    - Yenimahalle Mah (Bağlıkaya Köyü)
-    - Yenimahalle Mah (Sağlık Köyü)
-    - Yeşilçam Mah (Topakkaya Köyü)
+    - Yenimahalle Mah
     - Yeşilyur Mah (Sapmaz Köyü)
+    - Zafer Mah
+  Sağlık:
+    postcode: 68270
+    neighborhoods:
+    - Divanoğlu Mah (Sağlık Beldesi)
+    - Fatih Mah (Sağlık Beldesi)
+    - Yenimahalle Mah (Sağlık Beldesi)
   Sanayi:
     postcode: 68200
     neighborhoods:
@@ -333,44 +353,54 @@ Merkez:
     - 5.küme Mah (Yenipınar Köyü)
     - 6.küme Mah (Yenipınar Köyü)
     - Akseki Mah (İncesu Köyü)
-    - Aydınlar Mah (Helvadere Köyü)
     - Camikebir Mah (İncesu Köyü)
-    - Cumhuriyet Mah (Helvadere Köyü)
     - Cumhuriyet Mah (Karkın Köyü)
     - Dikmen Köyü
     - Elmacık Köyü
-    - Erenler Mah (Taşpınar Köyü)
-    - Erenler Osb Mah (Taşpınar Köyü)
+    - Erenler Mah (Taşpınar Beldesi)
+    - Erenler Osb Mah (Taşpınar Beldesi)
     - Genç Osman Mah (Armutlu Köyü)
     - Gözlükuyu Köyü
     - Hürriyet Mah (Akçakent Köyü)
     - Karacaören Köyü
     - Karşıyaka Mah (İncesu Köyü)
-    - Kirazlı Mah (Helvadere Köyü)
+    - Kırımlı Osb Mah
     - Koçpınar Köyü
     - Vatan Mah (Karkın Köyü)
     - Yavuz Selim Mah (Armutlu Köyü)
-    - Yavuz Selim Mah (Taşpınar Köyü)
-    - Yeni Cami Mah (Taşpınar Köyü)
+    - Yavuz Selim Mah (Taşpınar Beldesi)
+    - Yeni Cami Mah (Taşpınar Beldesi)
     - Yenikent Mah (Akçakent Köyü)
     - Yenipınar Köyü
-    - Zafer Mah (Helvadere Köyü)
+  Topakkaya:
+    postcode: 68105
+    neighborhoods:
+    - Fatih Mah (Topakkaya Beldesi)
+    - Gülhane Mah (Topakkaya Beldesi)
+    - Medeni Mah (Topakkaya Beldesi)
+    - Yeşilçam Mah (Topakkaya Beldesi)
+  Yenikent:
+    postcode: 68135
+    neighborhoods:
+    - Gazi Mah (Yenikent Beldesi)
+    - İstiklal Mah (Yenikent Beldesi)
+    - Zafer Mah (Yenikent Beldesi)
   Yeşilova:
     postcode: 68180
     neighborhoods:
-    - Alasakallı Mah (Yeşilova Köyü)
-    - Çalışkan Mah (Yeşiltepe Köyü)
+    - Alasakallı Mah (Yeşilova Beldesi)
     - Darıhüyük Köyü
     - Fatih Mah (Ulukışla Köyü)
-    - Fatih Mah (Yeşiltepe Köyü)
-    - Gazi Mah (Yenikent Köyü)
-    - Hürriyet Mah (Yeşiltepe Köyü)
-    - İstiklal Mah (Yenikent Köyü)
-    - Köseli Mah (Yeşilova Köyü)
-    - Parabaşlı Mah (Yeşilova Köyü)
+    - Köseli Mah (Yeşilova Beldesi)
+    - Parabaşlı Mah (Yeşilova Beldesi)
     - Yavuz Mah (Ulukışla Köyü)
-    - Zafer Mah (Yenikent Köyü)
-    - Zafer Mah (Yeşiltepe Köyü)
+  Yeşiltepe:
+    postcode: 68230
+    neighborhoods:
+    - Çalışkan Mah (Yeşiltepe Beldesi)
+    - Fatih Mah (Yeşiltepe Beldesi)
+    - Hürriyet Mah (Yeşiltepe Beldesi)
+    - Zafer Mah (Yeşiltepe Beldesi)
 Ortaköy:
   Balcı:
     postcode: 68601
@@ -409,7 +439,6 @@ Ortaköy:
     - 2.küme Mah (Seksenuşağı Köyü)
     - 3.küme Mah (Akpınar Köyü)
     - 4.küme Mah (Akpınar Köyü)
-    - Akpınar Köyü
     - Camızlık Yayla Mah (Camuzluk Köyü)
     - Camuzluk Köyü
     - Cumhuriyet Mah (Bozkır Köyü)

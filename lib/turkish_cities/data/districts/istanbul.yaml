@@ -670,9 +670,7 @@ Esenyurt:
     neighborhoods:
     - Akşemseddin Mah
     - Ardıçlı Mah
-    - Aşık Veysel Mah
     - Balıkyolu Mah
-    - Esenkent Mah
     - İncirtepe Mah
     - İnönü Mah
     - Sultaniye Mah
@@ -682,7 +680,6 @@ Esenyurt:
   Kıraç:
     postcode: 34522
     neighborhoods:
-    - Akçaburgaz Mah
     - Atatürk Mah
     - Barbaros Hayrettin Paşa Mah
     - Battalgazi Mah
@@ -690,7 +687,6 @@ Esenyurt:
     - Hürriyet Mah
     - İstiklal Mah
     - Necip Fazıl Kısakürek Mah
-    - Osmangazi Mah
     - Şehitler Mah
   Mehterçeşme:
     postcode: 34515
@@ -716,8 +712,12 @@ Esenyurt:
   Sanayi:
     postcode: 34538
     neighborhoods:
+    - Akçaburgaz Mah
+    - Aşık Veysel Mah
+    - Esenkent Mah
     - Koza Mah
     - Orhan Gazi Mah
+    - Osmangazi Mah
 Eyüpsultan:
   Alibeyköy:
     postcode: 34060
@@ -1034,7 +1034,7 @@ Kağıthane:
     postcode: 34408
     neighborhoods:
     - Hamidiye Mah
-  Kağıthane Merkez:
+  Kağıthane merkez:
     postcode: 34406
     neighborhoods:
     - Merkez Mah
@@ -1084,7 +1084,7 @@ Kartal:
     - Topselvi Mah
     - Yalı Mah
     - Yunus Mah
-  Uğur Mumcu:
+  Uğur mumcu:
     postcode: 34882
     neighborhoods:
     - Uğur Mumcu Mah
@@ -1352,13 +1352,13 @@ Silivri:
   Çanta:
     postcode: 34580
     neighborhoods:
-    - Balaban Mah
-    - Sancaktepe Mah
+    - Çanta Balaban Mah
+    - Çanta Sancaktepe Mah
   Değirmenköy:
     postcode: 34586
     neighborhoods:
-    - Fevzipaşa Mah
-    - İsmetpaşa Mah
+    - Değirmenköy Fevzipaşa Mah
+    - Değirmenköy İsmetpaşa Mah
   Fener:
     postcode: 34582
     neighborhoods:
@@ -1377,8 +1377,8 @@ Silivri:
   Kavaklı:
     postcode: 34596
     neighborhoods:
-    - Hürriyet Mah
-    - Kavaklı Mah
+    - Kavaklı Hürriyet Mah
+    - Kavaklı İstiklal Mah
   Ortaköy:
     postcode: 34592
     neighborhoods:

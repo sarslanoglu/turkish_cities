@@ -101,6 +101,10 @@ Arpaçay:
     - Tepeköy Köyü
     - Tomarlı Köyü
 Digor:
+  Dağpınar:
+    postcode: 36680
+    neighborhoods:
+    - Merkez Mah (Dağpınar Beldesi)
   Digor:
     postcode: 36670
     neighborhoods:
@@ -133,7 +137,6 @@ Digor:
     - Kocaköy Köyü
     - Köseler Köyü
     - Mahirbey Köyü
-    - Merkez Mah (Dağpınar Köyü)
     - Merkez Mah (Dolaylı Köyü)
     - Nebiyurdu Mah (Sorkunlu Köyü)
     - Oyuklu Köyü
@@ -224,7 +227,6 @@ Kağızman:
     - Kömürlü Köyü
     - Köprübaşı Mah (Akçay Köyü)
     - Köprübaşı Mah (Aydınkavak Köyü)
-    - Körpınar Afetevleri Mah (Körpınar Köyü)
     - Körpınar Köyü
     - Kötek Köyü
     - Köyiçi Mah (Aydınkavak Köyü)
@@ -307,7 +309,7 @@ Merkez:
     - Bayraktar Köyü
     - Bekler Köyü
     - Boğatepe Köyü
-    - Boğaz Köyü
+    - Boğazköy Köyü
     - Borluk Köyü
     - Bozkale Köyü
     - Bulanık Köyü
@@ -328,7 +330,6 @@ Merkez:
     - Eşmeyazı Köyü
     - Gelirli Köyü
     - Güdeli Köyü
-    - Güllüce Mah (Alaca Köyü)
     - Hacıhalil Köyü
     - Hacıveli Köyü
     - Halefoğlu Köyü

@@ -183,7 +183,7 @@ Hacılar:
     - Yediağaç Mah
     - Yeni Mah
     - Yukarı Mah
-  Hacılar Köyler:
+  Hacılar köyler:
     postcode: 38315
     neighborhoods:
     - Hürmetci Mah
@@ -267,10 +267,10 @@ Kocasinan:
     postcode: 38050
     neighborhoods:
     - Camikebir Mah
-    - Dere Mah
+    - Ertuğrul Gazi Mah
     - General Emir Mah
     - Osmangazi Mah
-  Erkilet Köyler:
+  Erkilet köyler:
     postcode: 38055
     neighborhoods:
     - Akin Mah
@@ -284,7 +284,7 @@ Kocasinan:
     - Kuşçu Mah
     - Taşhan Mah
     - Yazır Mah
-  Fevzi Çakmak:
+  Fevzi çakmak:
     postcode: 38020
     neighborhoods:
     - Erciyesevler Mah
@@ -313,7 +313,7 @@ Kocasinan:
     - Salur Mah
     - Vatan Mah
     - Yüreğil Mah
-  Kazım Karabekir:
+  Kazım karabekir:
     postcode: 38070
     neighborhoods:
     - Şeker Mah
@@ -327,7 +327,7 @@ Kocasinan:
     postcode: 38015
     neighborhoods:
     - Sahabiye Mah
-  Yeni Mahalle:
+  Yeni mahalle:
     postcode: 38040
     neighborhoods:
     - Boztepe Mah
@@ -422,7 +422,7 @@ Melikgazi:
     neighborhoods:
     - Gesi Fatih Mah
     - İldem Cumhuriyet Mah
-  Kazım Karabekir:
+  Kazım karabekir:
     postcode: 38130
     neighborhoods:
     - Esentepe Mah
@@ -683,7 +683,7 @@ Talas:
     - Tablakaya Mah
     - Yenidoğan Mah
     - Yukarı Mah
-  Talas Köyler:
+  Talas köyler:
     postcode: 38300
     neighborhoods:
     - Akçakaya Mah

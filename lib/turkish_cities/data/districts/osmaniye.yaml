@@ -62,6 +62,22 @@ Bahçe:
     - Yukarı Kümesi Mah (Kızlaç Köyü)
     - Yukarıoba Mah (Savranlı Köyü)
 Düziçi:
+  Atalan:
+    postcode: 80710
+    neighborhoods:
+    - Çukuroba Mah (Atalan Beldesi)
+    - Katobası Mah (Atalan Beldesi)
+    - Merkez Mah (Atalan Beldesi)
+    - Şehit Hüseyin Sarı Mah (Atalan Beldesi)
+  Böcekli:
+    postcode: 80740
+    neighborhoods:
+    - Boyalı Mah (Böcekli Beldesi)
+    - Celiller Mah (Böcekli Beldesi)
+    - Demirciler Mah (Böcekli Beldesi)
+    - Dümbürdek Mah (Böcekli Beldesi)
+    - Kürt Mahmutlar Mah (Böcekli Beldesi)
+    - Yeşil Yurt Mah (Böcekli Beldesi)
   Düziçi:
     postcode: 80600
     neighborhoods:
@@ -84,6 +100,17 @@ Düziçi:
     - Yenice Haruniye Mah
     - Yeşilova Mah
     - Yukarı Hacılar Mah
+  Ellek:
+    postcode: 80730
+    neighborhoods:
+    - Aydınlar Mah (Ellek Beldesi)
+    - Çevlik Mah (Ellek Beldesi)
+    - Çiraz Mah (Ellek Beldesi)
+    - Ellek Mah (Ellek Beldesi)
+    - Gökyıldız Mah (Ellek Beldesi)
+    - Peçenek Mah (Ellek Beldesi)
+    - Soylar Mah (Ellek Beldesi)
+    - Şehit Ali Gökçe Mah (Ellek Beldesi)
   Merkezköyler:
     postcode: 80602
     neighborhoods:
@@ -94,35 +121,25 @@ Düziçi:
     - Akçakoyunlu Köyü
     - Aksaylar Mah (Karagedik Köyü)
     - Arpaçukuru Mah (Gökçayır Köyü)
-    - Aydınlar Mah (Ellek Köyü)
     - Aydınlı Mah (Akçakoyunlu Köyü)
     - Ayşeler Mah (Yazlamazlı Köyü)
     - Boşnak Mah (Pirsultanlı Köyü)
-    - Boyalı Mah (Böcekli Köyü)
-    - Celiller Mah (Böcekli Köyü)
     - Çamiçi Mah
     - Çamkonuşu Mah (Çatak Köyü)
     - Çatal Mah (Elbeyli Köyü)
-    - Çevlik Mah (Ellek Köyü)
-    - Çiraz Mah (Ellek Köyü)
     - Çirişlikaş Mah (Gümüş Köyü)
     - Çömezler Mah (Gökçayır Köyü)
-    - Çukuroba Mah (Atalan Köyü)
     - Delihaliller Mah (Çerçioğlu Köyü)
-    - Demirciler Mah (Böcekli Köyü)
     - Demirciler Mah (Gökçayır Köyü)
     - Derealibozlusu Mah (Alibozlu Köyü)
     - Doruklar Mah (Bostanlar Köyü)
-    - Dümbürdek Mah (Böcekli Köyü)
     - E.u.a.ş. Mah (Gökçayır Köyü)
     - Eğrelti Mah (Yeşildere Köyü)
     - Ekizler Mah (Gökçayır Köyü)
-    - Ellek Mah (Ellek Köyü)
     - Ellezli Mah (Elbeyli Köyü)
     - Emirkara Mah (Pirsultanlı Köyü)
     - Farsak Köyü
     - Fındık Mah (Yenifarsak Köyü)
-    - Gökyıldız Mah (Ellek Köyü)
     - Göllüler Mah (Bostanlar Köyü)
     - Hacıibişler Mah (Bostanlar Köyü)
     - Hartlap Mah (Elbeyli Köyü)
@@ -135,8 +152,6 @@ Düziçi:
     - İbişler Mah (Bayındırlı Köyü)
     - İkizler Mah (Karagedik Köyü)
     - Kadirler Mah (Gökçayır Köyü)
-    - Karacaören Mah (Yarbaşı Köyü)
-    - Karaçarlı Mah (Yarbaşı Köyü)
     - Karaisa Mah (Çitli Köyü)
     - Karakuyu Mah (Çerçioğlu Köyü)
     - Karanıdere Mah (Selverler Köyü)
@@ -144,7 +159,6 @@ Düziçi:
     - Karayusuflar Mah (Çerçioğlu Köyü)
     - Kaş Mah (Bostanlar Köyü)
     - Kaş Mah (Pirsultanlı Köyü)
-    - Katobası Mah (Atalan Köyü)
     - Kazıklı Mah (Oluklu Köyü)
     - Keller Mah (Elbeyli Köyü)
     - Kışla Mah (Gümüş Köyü)
@@ -152,11 +166,9 @@ Düziçi:
     - Koyuntaş Mah (Oluklu Köyü)
     - Köşkerler Mah (Gökçayır Köyü)
     - Köşkerli Mah (Yeşilköy Köyü)
-    - Kürt Mahmutlar Mah (Böcekli Köyü)
     - Manlar Mah (Bayındırlı Köyü)
     - Mehmetoğluyeri Mah (Kuşcu Köyü)
     - Merkez Mah (Alibozlu Köyü)
-    - Merkez Mah (Atalan Köyü)
     - Merkez Mah (Bayındırlı Köyü)
     - Merkez Mah (Bostanlar Köyü)
     - Merkez Mah (Çatak Köyü)
@@ -171,20 +183,15 @@ Düziçi:
     - Merkez Mah (Kuşcu Köyü)
     - Merkez Mah (Oluklu Köyü)
     - Merkez Mah (Pirsultanlı Köyü)
-    - Merkez Mah (Yarbaşı Köyü)
     - Merkez Mah (Yazlamazlı Köyü)
     - Merkez Mah (Yenifarsak Köyü)
     - Merkez Mah (Yeşilköy Köyü)
     - Mezdağ Mah (Gümüş Köyü)
     - Nacarfarsağı Mah (Farsak Köyü)
     - Nasıflı Mah (Yeşildere Köyü)
-    - Peçenek Mah (Ellek Köyü)
     - Selverler Köyü
-    - Soylar Mah (Ellek Köyü)
     - Söğütlügöl Köyü
     - Şamlar Mah (Güzelyurt Köyü)
-    - Şehit Ali Gökçe Mah (Ellek Köyü)
-    - Şehit Hüseyin Sarı Mah (Atalan Köyü)
     - Tabaklar Mah (Gökçayır Köyü)
     - Telliler Mah (Alibozlu Köyü)
     - Tozluyurt Mah (Gümüş Köyü)
@@ -192,9 +199,14 @@ Düziçi:
     - Uzundere Mah (Karagedik Köyü)
     - Yavuz Sultan Selim Mah (Alibozlu Köyü)
     - Yeşil Mah (Çerçioğlu Köyü)
-    - Yeşil Yurt Mah (Böcekli Köyü)
     - Yeşilyurt Köyü
     - Yolatı Mah (Yeşildere Köyü)
+  Yarbaşı:
+    postcode: 80720
+    neighborhoods:
+    - Karacaören Mah (Yarbaşı Beldesi)
+    - Karaçarlı Mah (Yarbaşı Beldesi)
+    - Merkez Mah (Yarbaşı Beldesi)
 Hasanbeyli:
   Hasanbeyli:
     postcode: 80850
@@ -478,6 +490,13 @@ Merkez:
     - Yeşil Yurt Mah
     - Yıldırım Beyazıt Mah
     - Yunus Emre Mah
+  Cevdetiye:
+    postcode: 80440
+    neighborhoods:
+    - Cumhuriyet Mah (Cevdetiye Beldesi)
+    - Karataş Mah (Cevdetiye Beldesi)
+    - Kocatepe Mah (Cevdetiye Beldesi)
+    - Yeşiltepe Mah (Cevdetiye Beldesi)
   Merkezköyler:
     postcode: 80080
     neighborhoods:
@@ -490,7 +509,6 @@ Merkez:
     - Babaoğlu Mah (Kazmaca Köyü)
     - Bahçe Köyü
     - Bıçakçı Mah (Dervişli Köyü)
-    - Cumhuriyet Mah (Cevdetiye Köyü)
     - Cumhuriyet Mah (Kırmıtlı Köyü)
     - Çağşak Köyü
     - Çamlıbel Mah (Kazmaca Köyü)
@@ -507,10 +525,10 @@ Merkez:
     - Dereobası Köyü
     - Dereobası Mah (Kırmacılı Köyü)
     - Gazi Sinan Mah (Kırmıtlı Köyü)
-    - Gökçedam Köyü
     - Gültepe Mah (Kırmacılı Köyü)
     - Hamus Mah (Kumarlı Köyü)
     - Haraz Mah (Çona Köyü)
+    - Hemite Köyü
     - İbiş Ağalar E-24 Karayolu Üzeri Mah (Dervişli Köyü)
     - Kahyalar Mah (Dervişli Köyü)
     - Kanlı Koz Mah (Çona Köyü)
@@ -518,9 +536,7 @@ Merkez:
     - Karacakışla Mah (Kumarlı Köyü)
     - Karacalar Köyü
     - Karataş Köyü
-    - Karataş Mah (Cevdetiye Köyü)
     - Kayalı Köyü
-    - Kocatepe Mah (Cevdetiye Köyü)
     - Koçyurdu Köyü
     - Köyyeri Köyü
     - Kumluca Mah (Dereobası Köyü)
@@ -553,9 +569,14 @@ Merkez:
     - Tülücüler Mah (Kırmacılı Köyü)
     - Yarpuz Köyü
     - Yeniköy Köyü
-    - Yeşiltepe Mah (Cevdetiye Köyü)
     - Yukarıçona Mah (Çona Köyü)
 Sumbas:
+  Mehmetli:
+    postcode: 80940
+    neighborhoods:
+    - Armağanlı Mah (Mehmetli Beldesi)
+    - Cumhuriyet Mah (Mehmetli Beldesi)
+    - Yeni Mah (Mehmetli Beldesi)
   Merkezköyler:
     postcode: 80902
     neighborhoods:
@@ -564,12 +585,10 @@ Sumbas:
     - Akyar Mah (Akdam Köyü)
     - Alasırt Mah (Çiçeklidere Köyü)
     - Alişanlı Mah (Kızılömerli Köyü)
-    - Armağanlı Mah (Mehmetli Köyü)
     - Aydınlar Mah (Akçataş Köyü)
     - Bağdaş Mah (Esenli Köyü)
     - Bağyeri Mah (Gafarlı Köyü)
     - Cemiller Mah (Gafarlı Köyü)
-    - Cumhuriyet Mah (Mehmetli Köyü)
     - Çıkıkalan Mah (Çiçeklidere Köyü)
     - Çintizli Mah (Akçataş Köyü)
     - Çukurfenk Mah (Yeşilyayla Köyü)
@@ -622,7 +641,6 @@ Sumbas:
     - Taşocağı Mah (Gafarlı Köyü)
     - Terelik Mah (Gafarlı Köyü)
     - Yeni Cennetli Mah (Esenli Köyü)
-    - Yeni Mah (Mehmetli Köyü)
     - Yirce Mah (Çiçeklidere Köyü)
     - Zincarcık Mah (Çiçeklidere Köyü)
   Sumbas:
@@ -641,15 +659,18 @@ Toprakkale:
   Toprakkale:
     postcode: 80950
     neighborhoods:
-    - Büyüktüysüz Mah (Tüysüz Köyü)
-    - Cumhuriyet Mah (Tüysüz Köyü)
     - Çamlıkevler Mah
     - Dagıstan Mah
     - Fatıh Sultan Mehmet Mah
-    - Fatih Mah (Tüysüz Köyü)
     - Göçmenler Mah
     - Karataş Mah
     - Kışla Mah
     - Kumarlı Mah
     - Sazlık Mah
     - Tepe Mah
+  Tüysüz:
+    postcode: 80990
+    neighborhoods:
+    - Büyüktüysüz Mah (Tüysüz Beldesi)
+    - Cumhuriyet Mah (Tüysüz Beldesi)
+    - Fatih Mah (Tüysüz Beldesi)

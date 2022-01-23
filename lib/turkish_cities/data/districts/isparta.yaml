@@ -85,7 +85,6 @@ Eğirdir:
   Merkezköyler:
     postcode: 32502
     neighborhoods:
-    - Ağa Mah (Sarıidris Köyü)
     - Ağılköy Köyü
     - Akdoğan Köyü
     - Akmescit Mah (Barla Köyü)
@@ -109,7 +108,6 @@ Eğirdir:
     - Çay Köyü
     - Çiftlik Mah (Eyüpler Köyü)
     - Deniz Altı Mah (Haymana Köyü)
-    - Dere Mah (Sarıidris Köyü)
     - Erenler Mah (Sipahiler Köyü)
     - Eyüpler Köyü
     - Göktaş Köyü
@@ -118,9 +116,7 @@ Eğirdir:
     - Havutlu Köyü
     - Haymana Köyü
     - Hürriyet Mah (Gökçehöyük Köyü)
-    - Hürriyet Mah (Sarıidris Köyü)
     - İstiklal Mah (Gökçehöyük Köyü)
-    - İstiklal Mah (Sarıidris Köyü)
     - Karşıyaka Mah (Akdoğan Köyü)
     - Kırıntı Köyü
     - Koca Cesme Mah (Haymana Köyü)
@@ -142,6 +138,13 @@ Eğirdir:
     - Yukarı Mah (Pazarköy Köyü)
     - Yuvalı Köyü
     - Zafer Mah (Gökçehöyük Köyü)
+  Sarıidris:
+    postcode: 32550
+    neighborhoods:
+    - Ağa Mah (Sarıidris Beldesi)
+    - Dere Mah (Sarıidris Beldesi)
+    - Hürriyet Mah (Sarıidris Beldesi)
+    - İstiklal Mah (Sarıidris Beldesi)
 Gelendost:
   Gelendost:
     postcode: 32900
@@ -195,18 +198,21 @@ Gönen:
     - Kasap Mah
     - Musalla Mah
     - Pazar Mah
+  Güneykent:
+    postcode: 32720
+    neighborhoods:
+    - Baladız Mah (Güneykent Beldesi)
+    - Orta Mah (Güneykent Beldesi)
+    - Tekke Mah (Güneykent Beldesi)
+    - Yenice Mah (Güneykent Beldesi)
   Merkezköyler:
     postcode: 32092
     neighborhoods:
-    - Baladız Mah (Güneykent Köyü)
     - Gölbaşı Köyü
     - İğdecik Mah (İğdecik Köyü)
     - Kızılcık Köyü
     - Koçtepe Köyü
-    - Orta Mah (Güneykent Köyü)
     - Senirce Mah (Senirce Köyü)
-    - Tekke Mah (Güneykent Köyü)
-    - Yenice Mah (Güneykent Köyü)
 Keçiborlu:
   Keçiborlu:
     postcode: 32700
@@ -230,7 +236,6 @@ Keçiborlu:
     - Ardıçlı Köyü
     - Camii Kebir Mah (Aydoğmuş Köyü)
     - Cumhuriyet Mah (İncesu Köyü)
-    - Cumhuriyet Mah (Senir Köyü)
     - Çukurören Köyü
     - Gülköy Köyü
     - Gültepe Mah (Aydoğmuş Köyü)
@@ -240,18 +245,22 @@ Keçiborlu:
     - Kavak Köyü
     - Kozluca Köyü
     - Kurtuluş Mah (Aydoğmuş Köyü)
-    - Kuşçular Mah (Senir Köyü)
     - Kuyucak Köyü
-    - Orta Mah (Senir Köyü)
     - Özbahçe Köyü
     - Saracık Köyü
-    - Tepecik Mah (Senir Köyü)
     - Toki Mah
-    - Yeni Mah (Senir Köyü)
     - Yenitepe Köyü
     - Yeşilyurt Köyü
+  Senir:
+    postcode: 32750
+    neighborhoods:
+    - Cumhuriyet Mah (Senir Beldesi)
+    - Kuşçular Mah (Senir Beldesi)
+    - Orta Mah (Senir Beldesi)
+    - Tepecik Mah (Senir Beldesi)
+    - Yeni Mah (Senir Beldesi)
 Merkez:
-  Çelebıler:
+  Çelebiler:
     postcode: 32040
     neighborhoods:
     - Ayazmana Mah
@@ -282,6 +291,12 @@ Merkez:
     - Karaağaç Mah
     - Kepeci Mah
     - Sermet Mah
+  Kuleönü:
+    postcode: 32110
+    neighborhoods:
+    - Kemal Mah (Kuleönü Beldesi)
+    - Okul Mah (Kuleönü Beldesi)
+    - Yenicami Mah (Kuleönü Beldesi)
   Kutlubey:
     postcode: 32100
     neighborhoods:
@@ -302,7 +317,6 @@ Merkez:
     - Aliköy Köyü
     - Aşağı Mah (Deregümü Köyü)
     - Aşağı Mah (Direkli Köyü)
-    - Aşağı Mah (Savköy Köyü)
     - Bahçelievler Mah (Yakaören Köyü)
     - Bozanönü Köyü
     - Bögürtlenli Mah (Darıderesi Köyü)
@@ -314,7 +328,6 @@ Merkez:
     - Çukurköy Köyü
     - Derebogazı Mah (Karahafız Mah) (Küçükkışla Köyü)
     - Dereboğazı Mah (Kışlaköy Köyü)
-    - Fatih Mah (Savköy Köyü)
     - Gelincik Köyü
     - Güney Bahçe Evleri Mah (Küçükgökçeli Köyü)
     - Güneyce Köyü
@@ -324,7 +337,6 @@ Merkez:
     - Kavaklı Çeşme Mah (Direkli Köyü)
     - Kayıköy Köyü
     - Kaynarpınar Mah (Direkli Köyü)
-    - Kemal Mah (Kuleönü Köyü)
     - Kırkayak Mah (Büyükgökçeli Köyü)
     - Kışlaköy Köyü
     - Kolcubeli Mah (Kadılar Köyü)
@@ -335,7 +347,6 @@ Merkez:
     - Küçükhacılar Köyü
     - Merkez Mah (Yakaören Köyü)
     - Okul Mah (Büyükgökçeli Köyü)
-    - Okul Mah (Kuleönü Köyü)
     - Okul Mah (Yakaören Köyü)
     - Sarıyer Mah (Darıören Köyü)
     - Şekerler Mah (Kadılar Köyü)
@@ -343,11 +354,9 @@ Merkez:
     - Yağcıoğlu Mah (Darıderesi Köyü)
     - Yayla Mah (Direkli Köyü)
     - Yazısöğüt Köyü
-    - Yenicami Mah (Kuleönü Köyü)
     - Yukarı Mah (Darıderesi Köyü)
     - Yukarı Mah (Deregümü Köyü)
     - Yukarı Mah (Direkli Köyü)
-    - Yukarı Mah (Savköy Köyü)
   Sanayi:
     postcode: 32200
     neighborhoods:
@@ -362,7 +371,22 @@ Merkez:
     - Sanayi Mah
     - Yedişehitler Mah
     - Zafer Mah
+  Sav:
+    postcode: 32120
+    neighborhoods:
+    - Aşağı Mah (Sav Beldesi)
+    - Fatih Mah (Sav Beldesi)
+    - Yukarı Mah (Sav Beldesi)
 Senirkent:
+  Büyükkabaca:
+    postcode: 32610
+    neighborhoods:
+    - Camii Mah (Büyükkabaca Beldesi)
+    - Dere Mah (Büyükkabaca Beldesi)
+    - Karşı Mah (Büyükkabaca Beldesi)
+    - Orta Mah (Büyükkabaca Beldesi)
+    - Sultan Süleyman Mah (Büyükkabaca Beldesi)
+    - Zafer Mah (Büyükkabaca Beldesi)
   Merkezköyler:
     postcode: 32602
     neighborhoods:
@@ -372,24 +396,18 @@ Senirkent:
     - Bozdurmuş Mah (Gençali Köyü)
     - Bülbül Mah (Akkeçili Köyü)
     - Büyükçeşme Mah (Uluğbey Köyü)
-    - Camii Mah (Büyükkabaca Köyü)
     - Çanlar Mah (Yassıören Köyü)
-    - Dere Mah (Büyükkabaca Köyü)
     - Eski Köy Mah (Gençali Köyü)
     - Karababa Mah (Akkeçili Köyü)
-    - Karşı Mah (Büyükkabaca Köyü)
     - Kayaağzı Mah (Karip Köyü)
     - Kuzyaka Mah (Akkeçili Köyü)
     - Merkez Mah (Karip Köyü)
     - Onkuyu Mah (Gençali Köyü)
-    - Orta Mah (Büyükkabaca Köyü)
     - Ortayazı Köyü
-    - Sultan Süleyman Mah (Büyükkabaca Köyü)
     - Türbe Mah (Uluğbey Köyü)
     - Yayla Mah (Uluğbey Köyü)
     - Yukarı Mah (Gençali Köyü)
     - Yukarı Mah (Yassıören Köyü)
-    - Zafer Mah (Büyükkabaca Köyü)
   Senirkent:
     postcode: 32600
     neighborhoods:
@@ -456,40 +474,46 @@ Sütçüler:
     - Yeşildere Mah
     - Yukarı Mah
 Şarkikaraağaç:
+  Çarıksaraylar:
+    postcode: 32810
+    neighborhoods:
+    - Bölükler Mah (Çarıksaraylar Beldesi)
+    - Cumhuriyet Mah (Çarıksaraylar Beldesi)
+    - Çukur Mah (Çarıksaraylar Beldesi)
+    - Suvar Mah (Çarıksaraylar Beldesi)
+    - Ulu Mah (Çarıksaraylar Beldesi)
+  Çiçekpınar:
+    postcode: 32820
+    neighborhoods:
+    - Aşağı Mah (Çiçekpınar Beldesi)
+    - Çördük Mah (Çiçekpınar Beldesi)
+    - Orta Mah (Çiçekpınar Beldesi)
   Merkezköyler:
     postcode: 32802
     neighborhoods:
     - Arak Köyü
     - Armutlu Köyü
     - Aslandoğmuş Köyü
-    - Aşağı Mah (Çiçekpınar Köyü)
     - Aşağı Mah (Göksöğüt Köyü)
     - Aşağıdinek Köyü
     - Başdeğirmen Köyü
     - Belceğiz Köyü
     - Beyköy Köyü
-    - Bölükler Mah (Çarıksaraylar Köyü)
-    - Cumhuriyet Mah (Çarıksaraylar Köyü)
     - Çaltı Köyü
     - Çavundur Köyü
     - Çeltek Köyü
-    - Çördük Mah (Çiçekpınar Köyü)
-    - Çukur Mah (Çarıksaraylar Köyü)
     - Fakılar Köyü
+    - Fele Köyü
     - Gedikli Köyü
     - Karayaka Köyü
     - Kıyakdede Köyü
     - Köprü Köyü
     - Muratbağı Köyü
-    - Orta Mah (Çiçekpınar Köyü)
     - Ördekci Köyü
     - Örenköy Köyü
     - Salur Köyü
     - Sarıkaya Köyü
-    - Suvar Mah (Çarıksaraylar Köyü)
-    - Ulu Mah (Çarıksaraylar Köyü)
     - Yakaemir Köyü
-    - Yassıbel Köyü
     - Yeni Mah (Göksöğüt Köyü)
     - Yenicekale Köyü
     - Yeniköy Köyü
@@ -529,6 +553,14 @@ Uluborlu:
     - Topraklık Mah
     - Zincirli Mah
 Yalvaç:
+  Hüyüklü:
+    postcode: 32430
+    neighborhoods:
+    - Eskigeçit Mah (Hüyüklü Beldesi)
+    - Mescit Mah (Hüyüklü Beldesi)
+    - Nalbant Mah (Hüyüklü Beldesi)
+    - Yanarık Mah (Hüyüklü Beldesi)
+    - Yeni Mah (Hüyüklü Beldesi)
   Merkezköyler:
     postcode: 32402
     neighborhoods:
@@ -559,7 +591,6 @@ Yalvaç:
     - Eğirler Köyü
     - Esentepe Mah (Tokmacık Köyü)
     - Eski Mah (Körküler Köyü)
-    - Eskigeçit Mah (Hüyüklü Köyü)
     - Eyüpler Köyü
     - Fatih Mah (Bağkonak Köyü)
     - Fatih Mah (Kozluçay Köyü)
@@ -584,11 +615,9 @@ Yalvaç:
     - Kurusarı Köyü
     - Kuzyaka Mah (Özbayat Köyü)
     - Küçüktepe Mah (Aşağıtırtar Köyü)
-    - Mescit Mah (Hüyüklü Köyü)
     - Mezarlık Mah (Aşağıtırtar Köyü)
     - Mısırlı Köyü
     - Mithatpaşa Mah (Çetince Köyü)
-    - Nalbant Mah (Hüyüklü Köyü)
     - Orta Mah (Dedeçam Köyü)
     - Orta Mah (Kumdanlı Köyü)
     - Orta Mah (Kuyucak Köyü)
@@ -602,7 +631,6 @@ Yalvaç:
     - Tolyüzü Mah (Aşağıtırtar Köyü)
     - Ulucamii Mah (Bağkonak Köyü)
     - Yağcılar Köyü
-    - Yanarık Mah (Hüyüklü Köyü)
     - Yarıkkaya Köyü
     - Yayla Mah (Kozluçay Köyü)
     - Yayla Mah (Tokmacık Köyü)
@@ -610,7 +638,6 @@ Yalvaç:
     - Yeni Mah (Bağkonak Köyü)
     - Yeni Mah (Çetince Köyü)
     - Yeni Mah (Dedeçam Köyü)
-    - Yeni Mah (Hüyüklü Köyü)
     - Yeni Mah (Kozluçay Köyü)
     - Yeni Mah (Körküler Köyü)
     - Yeni Mah (Kumdanlı Köyü)

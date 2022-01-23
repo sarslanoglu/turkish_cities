@@ -91,6 +91,7 @@ Hozat:
     - Amaçlı Mah (Sarısaltık Köyü)
     - Aşağı Buzlupınar Mah (Buzlupınar Köyü)
     - Aşağı Kardelen Mah (Kardelen Köyü)
+    - Balkaynar Köyü
     - Balolar Mah (Balkaynar Köyü)
     - Başatlı Mah (Doluçeşme Mah) (Çığırlı Köyü)
     - Beşelma Köyü
@@ -120,7 +121,6 @@ Hozat:
     - Gümüşsuyu Mah (Altınçevre Köyü)
     - Hadişar-bayram Mah (Kalecik Köyü)
     - Halilağa Mah (Karabakır Köyü)
-    - Heller Mah (Balkaynar Köyü)
     - Hıdırdamı Mah (Karabakır Köyü)
     - Hopağaç Mah (Çağlarca Köyü)
     - İbrahim Taner Mah (Çaytaşı Köyü)
@@ -138,6 +138,7 @@ Hozat:
     - Kızıl Kom Mah (Taşıtlı Köyü)
     - Koru Köyü
     - Kozluca Köyü
+    - Köybaşı Mah (Sarısaltık Köyü)
     - Kurukafalar Mah (Balkaynar Köyü)
     - Kurukaymak Köyü
     - Kuzuluk Mah (Akpınar Köyü)
@@ -169,6 +170,17 @@ Hozat:
     - Yorganlı Mah (Kavuktepe Köyü)
     - Yüceldi Köyü
 Mazgirt:
+  Akpazar:
+    postcode: 62810
+    neighborhoods:
+    - Çarşıbaşı Mah (Akpazar Beldesi)
+    - Elmalık Mah (Akpazar Beldesi)
+    - Güneşdere Mah (Akpazar Beldesi)
+    - Güneyharman Mah (Akpazar Beldesi)
+    - Karabulut Mah (Akpazar Beldesi)
+    - Kepektaşı Mah (Akpazar Beldesi)
+    - Kuşçu Mah (Akpazar Beldesi)
+    - Örs Mah (Akpazar Beldesi)
   Mazgirt:
     postcode: 62800
     neighborhoods:
@@ -210,7 +222,6 @@ Mazgirt:
     - Cefkan Mah (Geçitveren Köyü)
     - Çalosur Mah (Doğanlı Köyü)
     - Çangal Mah (Balkan Köyü)
-    - Çarşıbaşı Mah (Akpazar Köyü)
     - Çatköy Köyü
     - Çobanlı Mah (Sökücek Köyü)
     - Çobanlı Mah (Sülüntaş Köyü)
@@ -226,7 +237,6 @@ Mazgirt:
     - Doğanlı Köyü
     - Doğucak Köyü
     - Dostar Mah (Kızılkale Köyü)
-    - Elmalık Mah (Akpazar Köyü)
     - Fevzi Mah (Sülüntaş Köyü)
     - Gaz Mah (Doğucak Köyü)
     - Geçitveren Köyü
@@ -239,8 +249,6 @@ Mazgirt:
     - Görcan Mah (İsmailli Köyü)
     - Güleç Köyü
     - Gümüşgün Köyü
-    - Güneşdere Mah (Akpazar Köyü)
-    - Güneyharman Mah (Akpazar Köyü)
     - Hacı Yusuf Mah (Doğucak Köyü)
     - Hıdyan Mah (Sülüntaş Köyü)
     - Hopik Mah (Ataçınar Köyü)
@@ -253,7 +261,6 @@ Mazgirt:
     - Kale Mah (Dallıbel Köyü)
     - Kamışlı Mah (Ataçınar Köyü)
     - Kamkamik Mah (Gümüşgün Köyü)
-    - Karabulut Mah (Akpazar Köyü)
     - Karataş Mah (Ataçınar Köyü)
     - Karayazı Mah (Avunca Köyü)
     - Karayusuf Köyü
@@ -262,7 +269,6 @@ Mazgirt:
     - Kartutan Köyü
     - Kavaktepe Köyü
     - Kayacı Köyü
-    - Kepektaşı Mah (Akpazar Köyü)
     - Kepur Mah (Ataçınar Köyü)
     - Kızılcık Köyü
     - Kızılkale Köyü
@@ -275,7 +281,6 @@ Mazgirt:
     - Körtelaçin Mah (Dayılar Köyü)
     - Köseoğlu Mah (Aşağıoyumca Köyü)
     - Kuşaklı Köyü
-    - Kuşçu Mah (Akpazar Köyü)
     - Kuşhane Köyü
     - Kuşhane Mah (Otlukaya Köyü)
     - Lemper Mah (Obuzbaşı Köyü)
@@ -295,7 +300,6 @@ Mazgirt:
     - Otlukaya Köyü
     - Oymadal Köyü
     - Öreniçi Köyü
-    - Örs Mah (Akpazar Köyü)
     - Özdek Köyü
     - Panan Mah (İbimahmut Köyü)
     - Polatlar Mah (Gelincik Köyü)

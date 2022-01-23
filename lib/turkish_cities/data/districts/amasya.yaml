@@ -90,7 +90,6 @@ Gümüşhacıköy:
     - Albaz Deresi Mah (Çalköy Köyü)
     - Alıçlı Çukur Mah (Sarayözü Köyü)
     - Alören Köyü
-    - Alören Yaylası Mah (Alören Köyü)
     - Armutalan Mah (Sarayözü Köyü)
     - Aşağı Balıklı Mah (Balıklı Köyü)
     - Bacakoğlu Köyü
@@ -188,7 +187,6 @@ Hamamözü:
     - Tekçam Köyü
     - Tutkunlar Köyü
     - Umarca Köyü
-    - Yayla Mah (Dedeköy Köyü)
     - Yayla Mah (Gölköy Köyü)
     - Yemişen Köyü
     - Yukarıovacık Köyü
@@ -233,10 +231,10 @@ Merkez:
     - Koza Mah
     - Kurşunlu Mah
     - Orman Bağları Mah
-    - Sarılar Mah
     - Şehirüstü Mah
     - Şeyhcui Mah
     - Üçler Mah
+    - Yeniköy Mah
     - Yeşilyenice Mah
     - Yüzevler Mah
   Merkezköyler:
@@ -253,7 +251,6 @@ Merkez:
     - Alaşık Mah (Yağcıabdal Köyü)
     - Albayrak Köyü
     - Ardıçlar Köyü
-    - Aşağı Mah (Ziyaret Köyü)
     - Atatürk Mah (Albayrak Köyü)
     - Avşar Köyü
     - Aydınlık Köyü
@@ -376,7 +373,6 @@ Merkez:
     - Pamuklu Mah (Ormanözü Köyü)
     - Salamut Mah (Aksalur Köyü)
     - Saraycık Köyü
-    - Saraycık Mah (Ziyaret Köyü)
     - Sarayözü Köyü
     - Sarıalan Köyü
     - Sarıkız Köyü
@@ -408,9 +404,14 @@ Merkez:
     - Yolyanı Mah (Mahmatlar Köyü)
     - Yukarı Kayrak Mah (Kayrak Köyü)
     - Yukarı Kızseki Mah (Kızseki Köyü)
-    - Yukarı Mah (Ziyaret Köyü)
     - Yuvacık Köyü
     - Yuvaköy Köyü
+  Ziyaret:
+    postcode: 5240
+    neighborhoods:
+    - Aşağı Mah (Ziyaret Beldesi)
+    - Saraycık Mah (Ziyaret Beldesi)
+    - Yukarı Mah (Ziyaret Beldesi)
 Merzifon:
   Merkezköyler:
     postcode: 5302
@@ -621,6 +622,7 @@ Taşova:
     - Aşağı Mah (Sepetli Köyü)
     - Aydınlar Mah (Esençay Köyü)
     - Aydınyeri Mah (Yeşiltepe Köyü)
+    - Bahçecik Mah (Yeşiltepe Köyü)
     - Bahçelievler Mah (Boraboy Köyü)
     - Bakırpınar Mah (Kavaloluğu Köyü)
     - Ballıca Mah (Ballıca Köyü)
@@ -635,6 +637,7 @@ Taşova:
     - Çambükü Köyü
     - Çaydibi Köyü
     - Çerkezler Mah (Kavaloluğu Köyü)
+    - Çermik Mah (Şeyhli Köyü)
     - Çılkıdır Köyü
     - Çıngılık Mah (Kavaloluğu Köyü)
     - Çiftlik Mah (Karlık Köyü)
@@ -678,10 +681,13 @@ Taşova:
     - Ilıca Köyü
     - Ilıpınar Köyü
     - İkipöğre Mah (Karsavul Köyü)
+    - İkisamanlık Mah (Kavaloluğu Köyü)
     - İsmet Paşa Mah (Belevi Köyü)
     - Kadılar Mah (Kavaloluğu Köyü)
     - Karaağaç Mah (Alçakbel Köyü)
     - Karabük Köyü
+    - Karaçukur Mah (Alçakbel Köyü)
+    - Karadüz Mah (Yeşiltepe Köyü)
     - Karamuk Köyü
     - Karamuk Mah (Korubaşı Köyü)
     - Karlık Dere Mah (Karlık Köyü)
@@ -691,6 +697,7 @@ Taşova:
     - Kavaloluğu Köyü
     - Kemalpaşa Mah (Belevi Köyü)
     - Kırdağın Mah (Alçakbel Köyü)
+    - Kırık Çukuru Mah (Karlık Köyü)
     - Kırkharman Köyü
     - Kızgüldüren Köyü
     - Kızılağaç Mah (Mercimekköy Köyü)
@@ -701,6 +708,8 @@ Taşova:
     - Kozluca Köyü
     - Köseli Mah (Alçakbel Köyü)
     - Kumluca Köyü
+    - Kuz Mah (Şeyhli Köyü)
+    - Kuzkışla Mah (Karlık Köyü)
     - Leğenkaya Mah (Yeşiltepe Köyü)
     - Mercimekköy Köyü
     - Merkez Mah (Destek Köyü)
@@ -725,6 +734,7 @@ Taşova:
     - Tekpınar Köyü
     - Tepe Mah (Sepetli Köyü)
     - Terzili Mah (Alçakbel Köyü)
+    - Topalın Fırın Mah (Kavaloluğu Köyü)
     - Turan Güneş Mah (Esençay Köyü)
     - Tuzlalı Geriş Mah (Kavaloluğu Köyü)
     - Türkmendamı Köyü
@@ -732,6 +742,7 @@ Taşova:
     - Yağbasan Mah (Sofualan Köyü)
     - Yakakent Mah (Boraboy Köyü)
     - Yalamageriş Mah (Şeyhli Köyü)
+    - Yatak Mah (Alçakbel Köyü)
     - Yayladibi Köyü
     - Yaylasaray Köyü
     - Yenidere Köyü

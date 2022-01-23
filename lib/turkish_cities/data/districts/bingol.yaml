@@ -165,11 +165,11 @@ Genç:
     - Derman Mah (Yazkonağı Köyü)
     - Develi Mah (Doğanca Köyü)
     - Dibek Mah (Doğanca Köyü)
+    - Dikmeci Mah (Sarısaman Köyü)
     - Dikmeli Mah (Sarısaman Köyü)
     - Dikmetaş Mah (Yazkonağı Köyü)
     - Dikpınar Köyü
     - Direkli Mah (Şehitköy Köyü)
-    - Doganlar Mah (Doğanevler Köyü)
     - Doğanca Mah (Karcı Köyü)
     - Doğanevler Köyü
     - Doğanlar Mah (Yazkonağı Köyü)
@@ -179,8 +179,6 @@ Genç:
     - Doludere Mah (Doludere Köyü)
     - Domluca Mah (Keklikdere Köyü)
     - Doyumlu Mah (Sağgöze Köyü)
-    - Döş Mah (Dedebağı Köyü)
-    - Döşemırne Mah (Yazılı Köyü)
     - Durmuşlar Mah (Sağgöze Köyü)
     - Durmuşlu Mah (Kepçeli Köyü)
     - Dutluca Mah (Balgöze Köyü)
@@ -193,7 +191,6 @@ Genç:
     - Eski Keklikdere Mah (Keklikdere Köyü)
     - Eski Köy Mah (Doğanca Köyü)
     - Eski Köy Mah (Kepçeli Köyü)
-    - Eskibağ Köyü
     - Eyerli Mah (Güzeldere Köyü)
     - Fırat Mah (Yeniyazı Köyü)
     - Gelbe Mah (Geyikdere Köyü)
@@ -214,8 +211,8 @@ Genç:
     - Güvercinli Mah (Bayırlı Köyü)
     - Hasanan Mah (Üçgül Köyü)
     - Hasinan Mah (Büyükçağ Köyü)
+    - Hayran Mah (Keklikdere Köyü)
     - Hegehırbon Mah (Tarlabaşı Köyü)
-    - Hegepir Mah (Doğanevler Köyü)
     - Hengimal Mah (Sağgöze Köyü)
     - Hoşek Mah (Gözütok Köyü)
     - Huzgunus Mah (Geyikdere Köyü)
@@ -228,6 +225,7 @@ Genç:
     - İkizler Mah (Sarısaman Köyü)
     - İkizler Mah (Yağızca Köyü)
     - İmeceli Mah (Kepçeli Köyü)
+    - İpekli Mah (Keklikdere Köyü)
     - Kabataş Mah (Doğanlı Köyü)
     - Kaldırım Mah (Yeniyazı Köyü)
     - Kaledibi Mah (Kepçeli Köyü)
@@ -248,11 +246,9 @@ Genç:
     - Kazancık Mah (Büyükçağ Köyü)
     - Kebir Mah (Yenisu Köyü)
     - Kehekelenin Mah (Geyikdere Köyü)
-    - Kelmer Mah (Doğanevler Köyü)
     - Keskin Mah (Çanakçı Köyü)
     - Kılıçlı Mah (Binekli Köyü)
     - Kılıçlı Mah (Çanakçı Köyü)
-    - Kılıçlı Yayla Mah (Çanakçı Köyü)
     - Kilimli Mah (Bulgurluk Köyü)
     - Kirişli Mah (Bulgurluk Köyü)
     - Kocakaya Mah (Yelkaya Köyü)
@@ -326,7 +322,6 @@ Genç:
     - Merkez Mah (Yelkaya Köyü)
     - Merkez Mah (Yiğitbaşı Köyü)
     - Merkez Mah (Yolaçtı Köyü)
-    - Meşedalı Köyü
     - Meteşan Mah (Şehittepe Köyü)
     - Mirhican Mah (Şehittepe Köyü)
     - Mollaibrahim Köyü
@@ -346,11 +341,9 @@ Genç:
     - Örtülü Mah (Yazkonağı Köyü)
     - Özkaya Mah (Yazkonağı Köyü)
     - Özlüce Mah (Çanakçı Köyü)
-    - Özlüce Yayla Mah (Çanakçı Köyü)
     - Özyurt Mah (Koçsırtı Köyü)
     - Palacık Mah (Balgöze Köyü)
     - Pınarbaşı Mah (Direkli Köyü)
-    - S.şefik Dursun Mah (Aktoprak Köyü)
     - Sağan Mah (Ardıçdibi Köyü)
     - Sağlık Mah (Yeniyazı Köyü)
     - Sahuk Mah (Geyikdere Köyü)
@@ -395,6 +388,7 @@ Genç:
     - Üzümcük Mah (Büyükçağ Köyü)
     - Yağmurlu Mah (Tarlabaşı Köyü)
     - Yamaçlı Mah (Geyikdere Köyü)
+    - Yamanlar Mah (Keklikdere Köyü)
     - Yapraklı Mah (Sarısaman Köyü)
     - Yardım Mah (Çanakçı Köyü)
     - Yatansöğüt Köyü
@@ -416,7 +410,6 @@ Genç:
     - Yıldız Mah (Sarısaman Köyü)
     - Yıldızlı Mah (Bulgurluk Köyü)
     - Yibo Mah (Sürekli Köyü)
-    - Yiğitbaşı Köyü
     - Yoğurtlu Mah (Dereköy Köyü)
     - Yorulmaz Mah (Meşedalı Köyü)
     - Yukarı Biçer Mah (Dereköy Köyü)
@@ -425,7 +418,6 @@ Genç:
     - Yumurtali Mah (Koçsırtı Köyü)
     - Yuvaklı Mah (Geyikdere Köyü)
     - Yüceler Mah (Yeniyazı Köyü)
-    - Yürekli Mah (Yolaçtı Köyü)
 Karlıova:
   Karlıova:
     postcode: 12900
@@ -489,7 +481,6 @@ Karlıova:
     - Konak Mah (Hasanova Köyü)
     - Kümbet Köyü
     - Kürük Köyü
-    - Meşeli Mah (Yiğitler Köyü)
     - Mezracık Mah (Yiğitler Köyü)
     - Molla Hüseyin Mah (Kargapazarı Köyü)
     - Mollaşakir Köyü
@@ -566,7 +557,6 @@ Kiğı:
     - Kutluca Köyü
     - Melekan Mah (Alagöz Köyü)
     - Nacaklı Köyü
-    - Örük Mah (Açıkgüney Köyü)
     - Payamlı Mah (Yazgünü Köyü)
     - Sabırtaşı Köyü
     - Samantepe Mah (Açıkgüney Köyü)
@@ -590,7 +580,6 @@ Merkez:
     - Aşağı Mah (Elmalı Köyü)
     - Atçayır Mah (Elmalı Köyü)
     - Bahçeli Mah (Çavuşlar Köyü)
-    - Çay Mah (Ilıcalar Köyü)
     - Dalsi Mah (Gökçeli Köyü)
     - Derince Mah (Çobantaşı Köyü)
     - Elma Mah (Ortaçanak Köyü)
@@ -604,11 +593,7 @@ Merkez:
     - Hezaz Mah (Ortaçanak Köyü)
     - Hezaz Yayla Evleri Mah (Ortaçanak Köyü)
     - Hırtık Mah (Ortaçanak Köyü)
-    - Ilıca Mah (Ilıcalar Köyü)
-    - İçpınar Mah (Ilıcalar Köyü)
     - K.keşkare Mah (Yenibaşlar Köyü)
-    - Kamışlı Mah (Ilıcalar Köyü)
-    - Kılıçlı Mah (Ilıcalar Köyü)
     - Köçek Mah (Yenibaşlar Köyü)
     - Köklü Köyü
     - Köme Mah (Çavuşlar Köyü)
@@ -632,7 +617,6 @@ Merkez:
     - Şeyhalan Mah (Çavuşlar Köyü)
     - Taşlı Mah (Çavuşlar Köyü)
     - Tırşınek Mah (Ortaçanak Köyü)
-    - Uzundere Mah (Ilıcalar Köyü)
     - Y.ağaçeli Mah (Ağaçeli Köyü)
     - Y.komsarik Mah (Çavuşlar Köyü)
     - Yenibaşlar Köyü
@@ -661,6 +645,15 @@ Merkez:
     - Yeni Mah
     - Yenişehir Mah
     - Yeşilyurt Mah
+  Ilıcalar:
+    postcode: 12402
+    neighborhoods:
+    - Çay Mah (Ilıcalar Beldesi)
+    - Ilıca Mah (Ilıcalar Beldesi)
+    - İçpınar Mah (Ilıcalar Beldesi)
+    - Kamışlı Mah (Ilıcalar Beldesi)
+    - Kılıçlı Mah (Ilıcalar Beldesi)
+    - Uzundere Mah (Ilıcalar Beldesi)
   Merkezköyler:
     postcode: 12002
     neighborhoods:
@@ -783,11 +776,11 @@ Merkez:
   Sancak:
     postcode: 12300
     neighborhoods:
-    - Akbudak Mah (Sancak Köyü)
+    - Akbudak Mah (Sancak Beldesi)
     - Bekmezli Mah (Uğurova Köyü)
-    - Büyükbaşköy Mah (Sancak Köyü)
+    - Büyükbaşköy Mah (Sancak Beldesi)
     - Cami Mah (Sudüğünü Köyü)
-    - Çimenli Mah (Sancak Köyü)
+    - Çimenli Mah (Sancak Beldesi)
     - Elmaçayır Mah (Sudüğünü Köyü)
     - Erenler Mah (Uğurova Köyü)
     - Esenler Mah (Sudüğünü Köyü)
@@ -795,13 +788,13 @@ Merkez:
     - Güngören Köyü
     - Haroçayırı Mah (Sudüğünü Köyü)
     - Hasanova Mah (Balıklıçay Köyü)
-    - Hoşkar Mah (Sancak Köyü)
-    - Karapınar Mah (Sancak Köyü)
+    - Hoşkar Mah (Sancak Beldesi)
+    - Karapınar Mah (Sancak Beldesi)
     - Kilsek Mah (Oğuldere Köyü)
     - Kork Mah (Arıcılar Köyü)
     - Kurtuluş Köyü
     - Kuşkondu Köyü
-    - Küçükbaşköy Mah (Sancak Köyü)
+    - Küçükbaşköy Mah (Sancak Beldesi)
     - Merkez Mah (Arıcılar Köyü)
     - Merkez Mah (Balıklıçay Köyü)
     - Merkez Mah (Sütgölü Köyü)
@@ -809,7 +802,7 @@ Merkez:
     - Merkez Mah (Yaygınçayır Köyü)
     - Oğuldere Köyü
     - Ortaokul Mah (Sudüğünü Köyü)
-    - Sarıgümüş Mah (Sancak Köyü)
+    - Sarıgümüş Mah (Sancak Beldesi)
     - Şeref Mah (Sütgölü Köyü)
     - Taş Mah (Güngören Köyü)
     - Tepebaşı Köyü
@@ -819,8 +812,14 @@ Merkez:
     - Yayımlı Mah (Uzunsavat Köyü)
     - Yazgülü Köyü
     - Yeni Yerleşim Mah (Uğurova Köyü)
-    - Yeşilova Mah (Sancak Köyü)
+    - Yeşilova Mah (Sancak Beldesi)
 Solhan:
+  Arakonak:
+    postcode: 12705
+    neighborhoods:
+    - Karşıyaka Mah (Arakonak Beldesi)
+    - Kültür Mah (Arakonak Beldesi)
+    - Merkez Mah (Arakonak Beldesi)
   Merkezköyler:
     postcode: 12702
     neighborhoods:
@@ -893,6 +892,7 @@ Solhan:
     - Elmasırtı Köyü
     - Elyan Mah (Doğuyeli Köyü)
     - Erdemler Mah (Hazarşah Köyü)
+    - Eskiköy Mah (Mutluca Köyü)
     - Eskiköy Mah (Oymapınar Köyü)
     - Eskiköy Mah (Yenidal Köyü)
     - Eşmetaş Köyü
@@ -929,9 +929,7 @@ Solhan:
     - Kandoz Mah (Murat Köyü)
     - Kapaklı Mah (Arslanbeyli Köyü)
     - Karan Mah (Yenidal Köyü)
-    - Karaoluk Mah (Demirkapı Köyü)
     - Karatay Mah (Asmakaya Köyü)
-    - Karşıyaka Mah (Arakonak Köyü)
     - Kartal Mah (Eşmetaş Köyü)
     - Karyağdı Mah (Sükyan Köyü)
     - Kavacık Mah (Sülünkaş Köyü)
@@ -949,14 +947,12 @@ Solhan:
     - Kulan Mah (Yenidal Köyü)
     - Kuştepe Mah (Gençtavus Köyü)
     - Küllüce Mah (Gençtavus Köyü)
-    - Kültür Mah (Arakonak Köyü)
     - Kümbet Mah (Sülünkaş Köyü)
     - Liç Mah (Arslanbeyli Köyü)
     - Liç Mah (Dilektepe Köyü)
     - Liç Mah (Elmasırtı Köyü)
     - Mergan Mah (Asmakaya Köyü)
     - Merkez Komler Mah (Hazarşah Köyü)
-    - Merkez Mah (Arakonak Köyü)
     - Merkez Mah (Kale Köyü)
     - Mevlagiriş Mah (Doğuyeli Köyü)
     - Murat Köyü
@@ -1052,7 +1048,6 @@ Yayladere:
     - Dikilitaş Mah (Çalıkağıl Köyü)
     - Durusu Mah (Aydınlar Köyü)
     - Düğünlü Mah (Korlu Köyü)
-    - Eğrice Mah (Çikan Köyü)
     - Elmacık Mah (Çayağzı Köyü)
     - Eyüphan Mah (Korlu Köyü)
     - Gökçedal Köyü
@@ -1086,14 +1081,13 @@ Yayladere:
     - Ömerler Mah (Zeynelli Köyü)
     - Özlüce Mah (Kalkanlı Köyü)
     - Sarıkonak Mah (Kalkanlı Köyü)
-    - Sarmaşık Mah (Kalkanlı Köyü)
     - Sarp Mah (Kalkanlı Köyü)
     - Taşdirek Mah (Günlük Köyü)
     - Yağmurdere Mah (Aydınlar Köyü)
     - Yakalı Mah (Korlu Köyü)
     - Yavuztaş Mah (Yavuztaş Köyü)
+    - Yellice Mah (Sürmelikoç Köyü)
     - Yıldızlı Mah (Çikan Köyü)
-    - Yukarı Seter Mah (Dalbasan Köyü)
   Yayladere:
     postcode: 12650
     neighborhoods:

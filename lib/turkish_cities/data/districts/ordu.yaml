@@ -63,7 +63,7 @@ Altınordu:
     - Şahincili Mah
     - Şirinevler Mah
     - Yeni Mah
-  Düz Mahalle:
+  Düz mahalle:
     postcode: 52100
     neighborhoods:
     - Aziziye Mah
@@ -193,7 +193,6 @@ Aybastı:
     - Kestaneyokuşu Mah
     - Kocaman Mah
     - Örmeli Mah
-    - Saitler Mah
     - Sakargeriş Mah
     - Sarıyakup Mah
     - Söken Mah
@@ -202,6 +201,7 @@ Aybastı:
     - Tepeli Mah
     - Uzunali Mah
     - Yeni Mah
+    - Yeşilvadi Mah
 Çatalpınar:
   Çatalpınar:
     postcode: 52420
@@ -823,7 +823,7 @@ Ulubey:
     - Kuşçulu Mah
     - Kuşdoğan Mah
     - Liseler Mah
-    - Nadirli Mah
+    - Nadırlı Mah
     - Nurettin Mah
     - Nuriye Mah
     - Orta Yılmazlar Mah

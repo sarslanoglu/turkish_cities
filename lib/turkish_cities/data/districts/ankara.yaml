@@ -468,7 +468,7 @@ Beypazarı:
   Yıldız:
     postcode: 6550
     neighborhoods:
-    - Aşağı Dikmen Mah
+    - Dumlupınar Mah
     - Hilal Mah
     - İlkbahar Mah
     - Oran Mah
@@ -641,6 +641,7 @@ Etimesgut:
   Eryamanevleri:
     postcode: 6824
     neighborhoods:
+    - Devlet Mah
     - Eryaman Mah
     - Şeyh Şamil Mah
     - Tunahan Mah
@@ -653,6 +654,7 @@ Etimesgut:
     - Fatih Sultan Mah
     - İstasyon Mah
     - Yapracık Mah
+    - Yeni Bağlıca Mah
   Göksu:
     postcode: 6820
     neighborhoods:
@@ -828,7 +830,6 @@ Haymana:
     - İncirli Mah
     - Kadıköy Mah
     - Karahoca Mah
-    - Karaömerli Mah
     - Karapınar Mah
     - Karasüleymanlı Mah
     - Katrancı Mah
@@ -841,6 +842,7 @@ Haymana:
     - Kutluhan Mah
     - Küçükkonak Mah
     - Küçükyağcı Mah
+    - Mandıra Mah
     - Medrese Mah
     - Saatli Mah
     - Sarıdeğirmen Mah
@@ -848,9 +850,9 @@ Haymana:
     - Sazağası Mah
     - Serinyayla Mah
     - Seyran Mah
+    - Sındıran Mah
     - Sırçasaray Mah
     - Sinanlı Mah
-    - Sindiren Mah
     - Soğulca Mah
     - Söğüttepe Mah
     - Şerefligökgöz Mah
@@ -1028,7 +1030,7 @@ Keçiören:
     - Emrah Mah
     - Etlik Mah
     - İncirli Mah
-  Hasköy:
+  Hasköy s.evleri:
     postcode: 6135
     neighborhoods:
     - Gümüşdere Mah
@@ -1161,7 +1163,7 @@ Kızılcahamam:
     - Üyücek Mah
     - Yağcıhüseyin Mah
     - Yakakaya Mah
-    - Yanık Mah
+    - Yanık Özbekler Mah
     - Yenice Mah
     - Yeşilköy Mah
     - Yıldırımçatak Mah
@@ -1197,22 +1199,6 @@ Mamak:
     - Peyami Safa Mah
     - Şehit Cengiz Topel Mah
     - Türközü Mah
-  Boğaziçi:
-    postcode: 6480
-    neighborhoods:
-    - Akşemsettin Mah
-    - Boğaziçi Mah
-    - Cengizhan Mah
-    - Durali Alıç Mah
-    - Dutluk Mah
-    - Ege Mah
-    - Fahri Korutürk Mah
-    - Kıbrısköy Mah
-    - Küçük Kayaş Mah
-    - Şahap Gürler Mah
-    - Şirintepe Mah
-    - Yeni Bayındır Mah
-    - Yeşilbayır Mah
   Demirlibahçe:
     postcode: 6340
     neighborhoods:
@@ -1235,19 +1221,32 @@ Mamak:
   Kayaş:
     postcode: 6270
     neighborhoods:
+    - Akşemsettin Mah
     - Araplar Mah
     - Bayındır Mah
+    - Boğaziçi Mah
+    - Cengizhan Mah
     - Derbent Mah
     - Dostlar Mah
+    - Durali Alıç Mah
+    - Dutluk Mah
+    - Ege Mah
+    - Fahri Korutürk Mah
     - Gökçeyurt Mah
     - Kayaş Mah
+    - Kıbrısköy Mah
     - Kızılca Mah
     - Köstence Mah
     - Kusunlar Mah
     - Kutludüğün Mah
+    - Küçük Kayaş Mah
     - Ortaköy Mah
+    - Şahap Gürler Mah
+    - Şirintepe Mah
     - Tepecik Mah
     - Üreğil Mah
+    - Yeni Bayındır Mah
+    - Yeşilbayır Mah
     - Yukarı İmrohor Mah
     - Zirvekent Mah
   Lalahan:
@@ -1604,6 +1603,7 @@ Sincan:
     - Küçükdamlacık Mah
     - Mehmet Akif Ersoy Mah
     - Mustafacık Mah
+    - Mustafacık Osb Mah
     - Musular Mah
     - Odunboğazı Mah
     - Palazobası Mah
@@ -1653,7 +1653,7 @@ Yenimahalle:
     - Demetgül Mah
     - Demetlale Mah
     - Mehmet Akif Ersoy Mah
-  İvedik OSB:
+  İvedik osb:
     postcode: 6378
     neighborhoods:
     - İvedikköy Mah

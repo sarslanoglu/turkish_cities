@@ -98,12 +98,12 @@ Akşehir:
     - Kozağaç Mah
     - Kuşçu Mah
     - Meydan Mah
-    - Nasreddin Mah
+    - Nasreddin Hoca Mah
     - Selçuk Mah
     - Tipi Mah
     - Yarenler Mah
     - Yeni Mah
-    - Yıldırım Mah
+    - Yıldırım Bayezid Mah
 Altınekin:
   Altınekin:
     postcode: 42450
@@ -320,6 +320,7 @@ Cihanbeyli:
     postcode: 42920
     neighborhoods:
     - Adakasım Mah
+    - Bahçe Hisar Mah
     - Bahçe Saray Mah
     - Bahçelievler Mah
     - Doğanyurt Mah
@@ -332,7 +333,6 @@ Cihanbeyli:
     - Küçükhasan Mah
     - Selçuk Mah
     - Torunlar Mah
-    - Yukarıaliçomak Mah
 Çumra:
   Bardakçı:
     postcode: 42500
@@ -393,7 +393,7 @@ Cihanbeyli:
     - Ürünlü Mah
     - Yenisu Mah
     - Yörükcamili Mah
-  İçeri Çumra:
+  İçeri çumra:
     postcode: 42510
     neighborhoods:
     - İçeriçumra Mah
@@ -585,6 +585,7 @@ Güneysınır:
   Güneysınır:
     postcode: 42490
     neighborhoods:
+    - Ağras Mah
     - Avcıtepe Mah
     - Aydoğmuş Mah
     - Bardas Mah
@@ -593,7 +594,6 @@ Güneysınır:
     - Güneybağ Mah
     - Gürağaç Mah
     - Habiller Mah
-    - Karagüney Mah
     - Karasınır Mah
     - Kayaağzı Mah
     - Kızılöz Mah
@@ -978,7 +978,6 @@ Kulu:
     postcode: 42775
     neighborhoods:
     - Acıkuyu Mah
-    - Ağılbaşı Mah
     - Altılar Mah
     - Arşıncı Mah
     - Bahadırlı Mah
@@ -1004,6 +1003,7 @@ Kulu:
     - Kömüşini Mah
     - Köstengil Mah
     - Köşker Mah
+    - Mandıra Mah
     - Sarıyayla Mah
     - Seyitahmetli Mah
     - Soğukkuyu Mah
@@ -1195,7 +1195,7 @@ Selçuklu:
     postcode: 42150
     neighborhoods:
     - Akademi Mah
-  Mimar Sinan:
+  Mimar sinan:
     postcode: 42080
     neighborhoods:
     - Akşemsettin Mah
@@ -1305,7 +1305,6 @@ Seydişehir:
     - Oğlakçı Mah
     - Ortakaraören Mah
     - Saraycık Mah
-    - Seydişehir Osb Mah
     - Susuz Mah
     - Taraşcı Mah
     - Taşağıl Mah

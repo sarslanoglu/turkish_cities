@@ -75,42 +75,49 @@ Arıcak:
     - Serinevler Mah
     - Simserkis Mah
     - Vali Göktayoğlu Mah
+  Bükardı:
+    postcode: 23527
+    neighborhoods:
+    - Bölükbaşı Mah (Bükardı Beldesi)
+    - Kaplanbağ Mah (Bükardı Beldesi)
+    - Pınarbaşı Mah (Bükardı Beldesi)
+    - Yaylabaşı Mah (Bükardı Beldesi)
+    - Zeynet Mah (Bükardı Beldesi)
+  Erimli:
+    postcode: 23519
+    neighborhoods:
+    - Cami Mah (Erimli Beldesi)
+    - Cumhuriyet Mah (Erimli Beldesi)
+    - Güleç Mah (Erimli Beldesi)
+    - Güvenevler Mah (Erimli Beldesi)
+    - Kışla Mah (Erimli Beldesi)
   Merkezköyler:
     postcode: 23512
     neighborhoods:
     - Akyıldız Mah (Küplüce Köyü)
     - Albayrak Mah (Küplüce Köyü)
-    - Boğazlı Mah (Kayahisar Köyü)
     - Bozçavuş Köyü
-    - Bölükbaşı Mah (Bükardı Köyü)
-    - Cami Mah (Erimli Köyü)
-    - Cumhuriyet Mah (Erimli Köyü)
     - Çavuşdere Köyü
-    - Çay Mah (Üçocak Köyü)
     - Çevrecik Köyü
     - Erbağı Köyü
     - Göründü Köyü
     - Göztepe Mah (Yoğunbilek Köyü)
-    - Güleç Mah (Erimli Köyü)
-    - Güvenevler Mah (Erimli Köyü)
-    - Haberci Mah (Üçocak Köyü)
     - Ilıcak Mah (Küplüce Köyü)
     - Kambertepe Köyü
-    - Kaplanbağ Mah (Bükardı Köyü)
     - Karakaş Köyü
-    - Kayahisar Köyü
-    - Kışla Mah (Erimli Köyü)
-    - Kutlu Düğün Mah (Üçocak Köyü)
     - Küplüce Köyü
-    - Merkez Mah (Üçocak Köyü)
     - Ormanpınar Köyü
-    - Pınarbaşı Mah (Bükardı Köyü)
     - Til Mah (Karakaş Köyü)
     - Uzun Söğüt Mah (Yoğunbilek Köyü)
-    - Yaylabaşı Mah (Bükardı Köyü)
     - Yoğunbilek Köyü
-    - Zeynet Mah (Bükardı Köyü)
-    - Ziyaret Mah (Üçocak Köyü)
+  Üçocak:
+    postcode: 23523
+    neighborhoods:
+    - Çay Mah (Üçocak Beldesi)
+    - Haberci Mah (Üçocak Beldesi)
+    - Kutlu Düğün Mah (Üçocak Beldesi)
+    - Merkez Mah (Üçocak Beldesi)
+    - Ziyaret Mah (Üçocak Beldesi)
 Baskil:
   Baskil:
     postcode: 23800
@@ -253,6 +260,7 @@ Baskil:
     - Işıklı Mah (Yeniocak Köyü)
     - İlhanlar Mah (Çavuşlu Köyü)
     - İlhanlar Mah (Doğancık Köyü)
+    - İnanç Mah (Akdemir Köyü)
     - İpşir Mah (Karakaş Köyü)
     - İskender Mah (Aşağıkuluşağı Köyü)
     - Kale Mah (Suyatağı Köyü)
@@ -375,7 +383,6 @@ Baskil:
     - Tepe Altı Mah (Tavşanuşağı Köyü)
     - Topal Mah (Karoğlu Köyü)
     - Topaluşağı Köyü
-    - Topluca Mah (Akdemir Köyü)
     - Tuzluca Mah (Işıklar Köyü)
     - Türbe Mah (Hacımehmetli Köyü)
     - Uğurlu Mah (Konalga Köyü)
@@ -484,7 +491,6 @@ Karakoçan:
     - Elif Mah (Akarbaşı Köyü)
     - Gelincik Mah (Okçular Köyü)
     - Gordan Mah (Pamuklu Köyü)
-    - Gölyaylası Mah (Sarıcan Köyü)
     - Gözerek Köyü
     - Gülhüseyin Mah (Okçular Köyü)
     - Güllüce Köyü
@@ -545,7 +551,6 @@ Karakoçan:
     - Sarıbaşak Köyü
     - Sarihan Köyü
     - Söğütlü Mah (Altınoluk Köyü)
-    - Subaşı Mah (Sarıcan Köyü)
     - Süleyman Çiftliği Mah (Akçiçek Köyü)
     - Şahhüseyin Mah (Ağamezrası Köyü)
     - Şeman Mah (Korudibi Köyü)
@@ -570,6 +575,11 @@ Karakoçan:
     - Yücekonak Köyü
     - Yüzev Köyü
     - Zilgölü Mah (Alayağmur Köyü)
+  Sarıcan:
+    postcode: 23650
+    neighborhoods:
+    - Gölyaylası Mah (Sarıcan Beldesi)
+    - Subaşı Mah (Sarıcan Beldesi)
 Keban:
   Keban:
     postcode: 23700
@@ -601,7 +611,6 @@ Keban:
     - Cabbar Mah (Altıyaka Köyü)
     - Ciban Mezrası Mah (Akgömlek Köyü)
     - Çakmaklı Mah (Beydeğirmeni Köyü)
-    - Çalık Çayı Mah (Kurşunkaya Köyü)
     - Çalık Köyü
     - Çay Mezrası Mah (Çevrekaya Köyü)
     - Çevrekaya Köyü
@@ -846,7 +855,6 @@ Maden:
     - Dere Mah (Örtülü Köyü)
     - Dilekkaya Mah (Tekevler Köyü)
     - Dutpınar Köyü
-    - Eğerli Mah (Kayalar Köyü)
     - Eğrikavak Köyü
     - Göl Önü Mah (Gezin Köyü)
     - Günbağı Mah (Kaşlıca Köyü)
@@ -900,6 +908,7 @@ Maden:
     - Seterli Mah (Arslantaşı Köyü)
     - Seyhan Mah (Koçkonağı Köyü)
     - Sinan Mah (Durmuştepe Köyü)
+    - Süran Mah (Kayalar Köyü)
     - Şaman Mah (Naldöken Köyü)
     - Şehbayram Mah (Kayalar Köyü)
     - Şehoğlu Mah (Yoncapınar Köyü)
@@ -937,6 +946,19 @@ Merkez:
     - Abdullah Paşa Mah
     - Cumhuriyet Mah
     - Hilalkent Mah
+  Akçakiraz:
+    postcode: 23090
+    neighborhoods:
+    - Bahçekapı Mah (Akçakiraz Beldesi)
+    - Hürriyet Mah (Akçakiraz Beldesi)
+    - Kıraç Mah (Akçakiraz Beldesi)
+    - Kültür Mah (Akçakiraz Beldesi)
+    - Paşalar Mah (Akçakiraz Beldesi)
+    - Yenice Mah (Akçakiraz Beldesi)
+    - Yeşilkuşak Mah (Akçakiraz Beldesi)
+    - Yeşilyurt Mah (Akçakiraz Beldesi)
+    - Yüzbaşı Mah (Akçakiraz Beldesi)
+    - Zafer Mah (Akçakiraz Beldesi)
   Aksaray:
     postcode: 23050
     neighborhoods:
@@ -1092,7 +1114,6 @@ Merkez:
     postcode: 23350
     neighborhoods:
     - Acıpayam Mah (Acıpayam Köyü)
-    - Akmezra Sahil Önü Mah (Yurtbaşı Köyü)
     - Alaca Mah (Merkez Mah) (Alaca Köyü)
     - Alatarla Mah (Alatarla Köyü)
     - Allahuekber Mah (Şahinkaya Köyü)
@@ -1110,9 +1131,7 @@ Merkez:
     - Badempınarı Mah (Badempınarı Köyü)
     - Bağdere Mah (Bağdere Köyü)
     - Bağlar Mah (Korucu Köyü)
-    - Bağlar Mah (Yurtbaşı Köyü)
     - Bağlarca Mah (Bağlarca Köyü)
-    - Bahçekapı Mah (Akçakiraz Köyü)
     - Balıbey Mah (Balıbey Köyü)
     - Ballıca Mah (Ballıca Köyü)
     - Balpınarı Mah (Merkez Mah) (Balpınar Köyü)
@@ -1124,8 +1143,6 @@ Merkez:
     - Cadde Boyu Mah (Sultanuşağı Köyü)
     - Cevizlik Mah (Şeyhhacı Köyü)
     - Cipköy Mah (Merkez Mah) (Cipköy Köyü)
-    - Cumhuriyet Mah (Yazıkonak Köyü)
-    - Cumhuriyet Mah (Yurtbaşı Köyü)
     - Çellik Mah (Şahinkaya Köyü)
     - Çırak Mah (Üçağaç Köyü)
     - Çiçek Mah (Aşağıdemirtaş Köyü)
@@ -1136,13 +1153,11 @@ Merkez:
     - Değirmendere Mah (Şeyhhacı Köyü)
     - Değirmenönü Mah (Değirmenönü Köyü)
     - Esenkent Mah (Esenkent Köyü)
-    - Fatih Mah (Yazıkonak Köyü)
     - Fatmalı Mah (Fatmalı Köyü)
     - Gadıderesi Mah (Şeyhhacı Köyü)
     - Gedenek Mah (Yemişlik Köyü)
     - Gedikyolu Mah (Gedikyolu Köyü)
     - Gözebaşı Mah (Gözebaşı Köyü)
-    - Gülpınar Mah (Yurtbaşı Köyü)
     - Güneşli Mah (Aşağıdemirtaş Köyü)
     - Gürdal Mah (Hıdırbaba Köyü)
     - Güzelyalı Mah (Güzelyalı Köyü)
@@ -1156,7 +1171,6 @@ Merkez:
     - Hıdırbaba Mah (Merkez Mah) (Hıdırbaba Köyü)
     - Hıdıroğlu Mah (Yemişlik Köyü)
     - Hoşköy Mah (Hoşköy Köyü)
-    - Hürriyet Mah (Akçakiraz Köyü)
     - İstasiyon Mah (Korucu Köyü)
     - Kalkantepe Mah (Merkez Mah) (Kalkantepe Köyü)
     - Karaçavuş Mah (Merkez Mah) (Karaçavuş Köyü)
@@ -1172,14 +1186,12 @@ Merkez:
     - Kengerli Mah (Yemişlik Köyü)
     - Kepektaş Mah (Merkez Mah) (Kepektaş Köyü)
     - Kesikköprü Mah (Aşağıdemirtaş Köyü)
-    - Kıraç Mah (Akçakiraz Köyü)
     - Kıraç Mah (Kıraçköy Köyü)
     - Kireçli Mah (Kıraçköy Köyü)
     - Koçabağı Mah (Sünköy Köyü)
     - Koçkale Mah (Koçkale Köyü)
     - Kom Mah (Kuşhane Köyü)
     - Konak Mah (Dallıca Köyü)
-    - Konak Mah (Yazıkonak Köyü)
     - Konakalmaz Mah (Konakalmaz Köyü)
     - Korucu Mah (Korucu Köyü)
     - Koruk Mah (Koruköy Köyü)
@@ -1190,33 +1202,26 @@ Merkez:
     - Kuruçay Mah (Üçağaç Köyü)
     - Kuşhane Mah (Kuşhane Köyü)
     - Kuyulu Mah (Kuyulu Köyü)
-    - Kültür Mah (Akçakiraz Köyü)
     - Mağara Mah (Üçağaç Köyü)
     - Mansurşağı Mah (Sünköy Köyü)
     - Mastar Mah (Değirmenönü Köyü)
     - Mastar Mah (İçme Köyü)
     - Merkez Mah (Muratcık Köyü)
     - Merkez Mah (Poyraz Köyü)
-    - Merkez Mah (Yazıkonak Köyü)
     - Merkez Mah (Yürekli Köyü)
     - Meryem Mah (Yemişlik Köyü)
     - Mollahasan Mah (Sultanuşağı Köyü)
     - Munzuroğlu Mah (Kıraçköy Köyü)
     - Muzuroğlu Mah (Güzelyalı Köyü)
     - Nuralı Mah (Nuralı Köyü)
-    - Org. Eşref Bitlis Mah (Yurtbaşı Köyü)
     - Ortahan Mah (Koruköy Köyü)
     - Ömerağa Mah (Aşağıdemirtaş Köyü)
     - Örehan Mah (Çöteli Köyü)
     - Örençay Mah (Örençay Köyü)
     - Öztürk Mah (Değirmenönü Köyü)
-    - Paşalar Mah (Akçakiraz Köyü)
     - Pelteköy Mah (Merkez Mah) (Pelteköy Köyü)
     - Pirinçci Mah (Pirinççi Köyü)
     - Pürüntüz Mah (Yemişlik Köyü)
-    - Sanayi Mah (Yazıkonak Köyü)
-    - Sanayi Mah (Yurtbaşı Köyü)
-    - Sanayiosb Mah (Yazıkonak Köyü)
     - Sarıçubuk Mah (Sarıçubuk Köyü)
     - Sarıkamış Mah (Sarıkamış Köyü)
     - Sarıyakup Mah (Sarıyakup Köyü)
@@ -1248,12 +1253,7 @@ Merkez:
     - Yalnız Mah (Yalnız Köyü)
     - Yedigöze Mah (Yedigöze Köyü)
     - Yemişlik Mah (Yemişlik Köyü)
-    - Yeni Bağlar Mah (Yazıkonak Köyü)
-    - Yeni Mah (Yurtbaşı Köyü)
-    - Yenice Mah (Akçakiraz Köyü)
     - Yeniköy Mah (Yemişlik Köyü)
-    - Yeşilkuşak Mah (Akçakiraz Köyü)
-    - Yeşilyurt Mah (Akçakiraz Köyü)
     - Yeşilyurt Mah (Gözebaşı Köyü)
     - Yolüstü Mah (Yolüstü Köyü)
     - Yukarı Beyleruşağı Mah (Sünköy Köyü)
@@ -1261,8 +1261,6 @@ Merkez:
     - Yukarıçakmak Mah (Merkez Mah) (Yukarıçakmak Köyü)
     - Yukarıdemirtaş Mah (Yukarıdemirtaş Köyü)
     - Yusuf Mah (Beşikköy Köyü)
-    - Yüzbaşı Mah (Akçakiraz Köyü)
-    - Zafer Mah (Akçakiraz Köyü)
   Mollakendi:
     postcode: 23250
     neighborhoods:
@@ -1278,13 +1276,13 @@ Merkez:
     - Gölardısitesi-1 Mah (Gölardı Köyü)
     - Gölardısitesi-2 Mah (Gölardı Köyü)
     - Gölkenarı Mah (Cevizdere Köyü)
-    - Güntaşı Mah (Mollakendi Köyü)
+    - Güntaşı Mah (Mollakendi Beldesi)
     - Hacıali Mah (Gölardı Köyü)
     - İkitepe Mah (Merkez Mah) (İkitepe Köyü)
     - Karasaz Mah (Merkez Mah) (Karasaz Köyü)
-    - Karşıbağ Mah (Mollakendi Köyü)
+    - Karşıbağ Mah (Mollakendi Beldesi)
     - Kuşcu Mah (Cevizdere Köyü)
-    - Mollakendi Mah (Mollakendi Köyü)
+    - Mollakendi Mah (Mollakendi Beldesi)
     - Sarıcan Mah (Gölardı Köyü)
     - Seringölsitesi Mah (Gölardı Köyü)
     - Sevsak Mah (Gölardı Köyü)
@@ -1320,14 +1318,34 @@ Merkez:
     - Hicret Mah
     - Olgunlar Mah
     - Sürsürü Mah
+  Yazıkonak:
+    postcode: 23180
+    neighborhoods:
+    - Cumhuriyet Mah (Yazıkonak Beldesi)
+    - Fatih Mah (Yazıkonak Beldesi)
+    - Konak Mah (Yazıkonak Beldesi)
+    - Merkez Mah (Yazıkonak Beldesi)
+    - Sanayi Mah (Yazıkonak Beldesi)
+    - Sanayiosb Mah (Yazıkonak Beldesi)
+    - Yeni Bağlar Mah (Yazıkonak Beldesi)
+  Yurtbaşı:
+    postcode: 23190
+    neighborhoods:
+    - Akmezra Sahil Önü Mah (Yurtbaşı Beldesi)
+    - Bağlar Mah (Yurtbaşı Beldesi)
+    - Cumhuriyet Mah (Yurtbaşı Beldesi)
+    - Gülpınar Mah (Yurtbaşı Beldesi)
+    - Org. Eşref Bitlis Mah (Yurtbaşı Beldesi)
+    - Sanayi Mah (Yurtbaşı Beldesi)
+    - Yeni Mah (Yurtbaşı Beldesi)
 Palu:
-  Beyhanı:
+  Beyhan:
     postcode: 23530
     neighborhoods:
-    - Girne Mah (Beyhan Köyü)
-    - Güney Mah (Beyhan Köyü)
-    - İstasyon Mah (Beyhan Köyü)
-    - Karşıyaka Mah (Beyhan Köyü)
+    - Girne Mah (Beyhan Beldesi)
+    - Güney Mah (Beyhan Beldesi)
+    - İstasyon Mah (Beyhan Beldesi)
+    - Karşıyaka Mah (Beyhan Beldesi)
   Merkezköyler:
     postcode: 23502
     neighborhoods:
@@ -1343,6 +1361,7 @@ Palu:
     - Balkaya Mah (Keklikdere Köyü)
     - Beydoğan Köyü
     - Bircan Mah (Bozçanak Köyü)
+    - Boğazlı Mah (Kayahisar Köyü)
     - Bozçanak Köyü
     - Bölükelma Köyü
     - Burgudere Köyü
@@ -1370,6 +1389,7 @@ Palu:
     - Karasalkım Köyü
     - Karataş Köyü
     - Kasıl Köyü
+    - Kayahisar Köyü
     - Kayaönü Köyü
     - Keklikdere Köyü
     - Keseköprü Mah (Örencik Köyü)

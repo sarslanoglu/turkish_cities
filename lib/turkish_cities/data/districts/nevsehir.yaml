@@ -11,8 +11,8 @@ Acıgöl:
   Karapınar:
     postcode: 50260
     neighborhoods:
-    - Bahçeli Evler Mah (Karapınar Köyü)
-    - Mustafapaşa Mah (Karapınar Köyü)
+    - Bahçeli Evler Mah (Karapınar Beldesi)
+    - Mustafapaşa Mah (Karapınar Beldesi)
   Merkezköyler:
     postcode: 50142
     neighborhoods:
@@ -43,11 +43,11 @@ Acıgöl:
     - Tepeköy Köyü
     - Yeni Mah (İnallı Köyü)
     - Yukarı Mah (Kurugöl Köyü)
-  Tatlarin:
+  Tatların:
     postcode: 50230
     neighborhoods:
-    - Ballık Mah (Tatların Köyü)
-    - Kale Mah (Tatların Köyü)
+    - Ballık Mah (Tatların Beldesi)
+    - Kale Mah (Tatların Beldesi)
 Avanos:
   Avanos:
     postcode: 50500
@@ -61,20 +61,20 @@ Avanos:
   Çalış:
     postcode: 50860
     neighborhoods:
-    - Aşağı Mah (Çalış Köyü)
+    - Aşağı Mah (Çalış Beldesi)
     - Orta Mah
-    - Orta Mah (Çalış Köyü)
-    - Yukarı Mah (Çalış Köyü)
+    - Orta Mah (Çalış Beldesi)
+    - Yukarı Mah (Çalış Beldesi)
   Kalaba:
     postcode: 50840
     neighborhoods:
-    - 50.yıl Mah (Kalaba Köyü)
+    - 50.yıl Mah (Kalaba Beldesi)
     - Bahçelievler Mah (Göynük Köyü)
     - Gözenekli Mah (Göynük Köyü)
-    - Hürriyet Mah (Kalaba Köyü)
-    - Karayusuf Mah (Kalaba Köyü)
+    - Hürriyet Mah (Kalaba Beldesi)
+    - Karayusuf Mah (Kalaba Beldesi)
     - Yeni Mah (Göynük Köyü)
-    - Yeni Mah (Kalaba Köyü)
+    - Yeni Mah (Kalaba Beldesi)
   Merkezköyler:
     postcode: 50502
     neighborhoods:
@@ -108,15 +108,15 @@ Avanos:
     - Aşağı Küme Mah (Küçükayhan Köyü)
     - Bozdağ Kümesi Mah (Büyükayhan Köyü)
     - Cami Kümesi Mah (İğdelikışla Köyü)
-    - Camicedit Mah (Özkonak Köyü)
-    - Cami-kebir Mah (Özkonak Köyü)
+    - Camicedit Mah (Özkonak Beldesi)
+    - Cami-kebir Mah (Özkonak Beldesi)
     - Harım Kümesi Mah (Büyükayhan Köyü)
     - Kale Küme Mah (Küçükayhan Köyü)
     - Kayabaşı Kümesi Mah (Küçükayhan Köyü)
     - Kuzuluk Kümesi Mah (Büyükayhan Köyü)
     - Muradiye Mah (Sarılar Köyü)
     - Orta Küme Mah (Büyükayhan Köyü)
-    - Orta Mah (Özkonak Köyü)
+    - Orta Mah (Özkonak Beldesi)
     - Ortaokul Kümesi Mah (İğdelikışla Köyü)
     - Yavuz Sultan Selim Mah (Sarılar Köyü)
     - Yenisoy Mah (Sarılar Köyü)
@@ -138,7 +138,6 @@ Derinkuyu:
     - Aşağı Mah (Çakıllı Köyü)
     - Aşağı Mah (Doğala Köyü)
     - Aşağı Mah (Til Köyü)
-    - Bozkır Mah (Yazıhüyük Köyü)
     - Çakmak Mah (Doğala Köyü)
     - Çay Mah (Doğala Köyü)
     - Erzurum Mah (Çakıllı Köyü)
@@ -151,7 +150,6 @@ Derinkuyu:
     - Orta Mah (Doğala Köyü)
     - Orta Mah (Kuyulutatlar Köyü)
     - Orta Mah (Til Köyü)
-    - Polatkan Mah (Yazıhüyük Köyü)
     - Uzunsay Mah (Til Köyü)
     - Yeni Mah (Kuyulutatlar Köyü)
     - Yeni Mah (Suvermez Köyü)
@@ -159,6 +157,13 @@ Derinkuyu:
     - Yenidoğan Mah (Özlüce Köyü)
     - Yukarı Mah (Çakıllı Köyü)
     - Yukarı Mah (Til Köyü)
+  Yazıhüyük:
+    postcode: 50706
+    neighborhoods:
+    - Alparslan Mah (Yazıhüyük Beldesi)
+    - Bozkır Mah (Yazıhüyük Beldesi)
+    - Göktürk Mah (Yazıhüyük Beldesi)
+    - Polatkan Mah (Yazıhüyük Beldesi)
 Gülşehir:
   Gülşehir:
     postcode: 50900
@@ -354,31 +359,36 @@ Merkez:
     - M.akif Ersoy Mah
     - Sümer Mah
     - Yeni Mah
+  Çat:
+    postcode: 50160
+    neighborhoods:
+    - 15 Temmuz Mah (Çat Beldesi)
+    - Cumhuriyet Mah (Çat Beldesi)
+    - İstiklal Mah (Çat Beldesi)
   Göre:
     postcode: 50170
     neighborhoods:
-    - Afetevleri Mah (Göre Köyü)
-    - Kasapoğlu Mah (Göre Köyü)
+    - Afetevleri Mah (Göre Beldesi)
+    - Kasapoğlu Mah (Göre Beldesi)
   Göreme:
     postcode: 50180
     neighborhoods:
-    - Aydınlı-orta Mah (Göreme Köyü)
-    - İsali-gaferli-avcılar Mah (Göreme Köyü)
+    - Aydınlı-orta Mah (Göreme Beldesi)
+    - İsali-gaferli-avcılar Mah (Göreme Beldesi)
   Kavak:
     postcode: 50210
     neighborhoods:
-    - Aşağı Mah (Kavak Köyü)
-    - Yukarı Mah (Kavak Köyü)
+    - Aşağı Mah (Kavak Beldesi)
+    - Yukarı Mah (Kavak Beldesi)
   Kaymaklı:
     postcode: 50760
     neighborhoods:
-    - Bekirağa Mah (Kaymaklı Köyü)
-    - Camikebir Mah (Kaymaklı Köyü)
-    - Hatipoğlu Mah (Kaymaklı Köyü)
+    - Bekirağa Mah (Kaymaklı Beldesi)
+    - Camikebir Mah (Kaymaklı Beldesi)
+    - Hatipoğlu Mah (Kaymaklı Beldesi)
   Merkezköyler:
     postcode: 50010
     neighborhoods:
-    - 15 Temmuz Mah (Çat Köyü)
     - Acıgöl Yolu Mah (Boğaz Köyü)
     - Alacaşar Köyü
     - Aşağı Mah (Çardak Köyü)
@@ -388,14 +398,12 @@ Merkez:
     - Balcın Köyü
     - Basansarnıç Köyü
     - Boğaz Köyü
-    - Cumhuriyet Mah (Çat Köyü)
     - Çay Mah (Çardak Köyü)
     - Çay Mah (Güvercinlik Köyü)
     - Çiftlikköy Köyü
     - Ertaş Mah (İcik Köyü)
     - Harım Mah (Güvercinlik Köyü)
     - Hicim Baba Mah (İcik Köyü)
-    - İstiklal Mah (Çat Köyü)
     - Karşı Mah (Güvercinlik Köyü)
     - Karşı Mah (İcik Köyü)
     - Orta Mah (Çardak Köyü)
@@ -411,22 +419,22 @@ Merkez:
   Nar:
     postcode: 50130
     neighborhoods:
-    - Aşağı Mah (Nar Köyü)
-    - Baş Mah (Nar Köyü)
-    - Orta Mah (Nar Köyü)
-    - Yeni Mah (Nar Köyü)
+    - Aşağı Mah (Nar Beldesi)
+    - Baş Mah (Nar Beldesi)
+    - Orta Mah (Nar Beldesi)
+    - Yeni Mah (Nar Beldesi)
   Sulusaray:
     postcode: 50220
     neighborhoods:
-    - Cumhuriyet Mah (Sulusaray Köyü)
-    - Sultan Aladdin Mah (Sulusaray Köyü)
-    - Yeni Mah (Sulusaray Köyü)
+    - Cumhuriyet Mah (Sulusaray Beldesi)
+    - Sultan Aladdin Mah (Sulusaray Beldesi)
+    - Yeni Mah (Sulusaray Beldesi)
   Uçhisar:
     postcode: 50240
     neighborhoods:
-    - Aşağı Mah (Uçhisar Köyü)
-    - Tekelli Mah (Uçhisar Köyü)
-    - Yukarı Mah (Uçhisar Köyü)
+    - Aşağı Mah (Uçhisar Beldesi)
+    - Tekelli Mah (Uçhisar Beldesi)
+    - Yukarı Mah (Uçhisar Beldesi)
 Ürgüp:
   Merkezköyler:
     postcode: 50402
@@ -462,10 +470,10 @@ Merkez:
   Ortahisar:
     postcode: 50650
     neighborhoods:
-    - Bahçelievler Mah (Ortahisar Köyü)
-    - Esentepe Mah (Ortahisar Köyü)
-    - Eski Mah (Ortahisar Köyü)
-    - Yeni Mah (Ortahisar Köyü)
+    - Bahçelievler Mah (Ortahisar Beldesi)
+    - Esentepe Mah (Ortahisar Beldesi)
+    - Eski Mah (Ortahisar Beldesi)
+    - Yeni Mah (Ortahisar Beldesi)
   Ürgüp:
     postcode: 50400
     neighborhoods:

@@ -6,16 +6,16 @@ Bahçesaray:
     - Akyayla Mah
     - Altındere Mah
     - Altıntas Mah
+    - Arvas Mah
     - Bağcılar Mah
     - Cevizlibelen Mah
     - Çatbayır Mah
     - Çiçekli Mah
     - Çömlekçi Mah
-    - Doğanyayla Mah
     - Elmayaka Mah
+    - Fekiye Teyran Mah
     - Güneyyamaç Mah
     - İslam Mah
-    - Kartal Mah
     - Kaşıkçılar Mah
     - Paşaköy Mah
     - Şişli Mah
@@ -83,6 +83,7 @@ Başkale:
     - Saçan Mah
     - Sallıdere Mah
     - Savaşköy Mah
+    - Sualtı Mah
     - Tahıl Mah
     - Tepebaşı Mah
     - Tınazlı Mah
@@ -360,6 +361,7 @@ Gevaş:
     - Aydınocak Mah
     - Bağlama Mah
     - Bahçelievler Mah
+    - Barışık Mah
     - Dağyöre Mah
     - Daldere Mah
     - Değirmitaş Mah
@@ -427,9 +429,9 @@ Gürpınar:
     - Gölardı Mah
     - Güleçler Mah
     - Günbaşı Mah
-    - Güzelsu Mah
     - Hacıköy Mah
     - Hamurkesen Mah
+    - Hoşab Mah
     - Işıkpınar Mah
     - Kalkanlı Mah
     - Kapçık Mah
@@ -683,7 +685,6 @@ Tuşba:
     neighborhoods:
     - Abdurrahman Gazi Mah
     - Adıgüzel Mah
-    - Ağartı Mah
     - Akçaören Mah
     - Akçift Mah
     - Alabayır Mah
@@ -692,6 +693,7 @@ Tuşba:
     - Arısu Mah
     - Aşıt Mah
     - Atmaca Mah
+    - Ayanıs Mah
     - Bağdaşan Mah
     - Bardakçı Mah
     - Beyüzümü Mah

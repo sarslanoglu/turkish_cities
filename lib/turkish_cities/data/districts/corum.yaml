@@ -216,6 +216,7 @@ Bayat:
     - Pancarlık Köyü
     - Semer Deresi Mah (Tepekutuğun Köyü)
     - Soyuk Mah (Ahacık Köyü)
+    - Sungur Mah (Yoncalı Köyü)
     - Taşlık Mah (Evci Köyü)
     - Taytak Mah (Ahacık Köyü)
     - Tepekutuğun Köyü
@@ -266,9 +267,9 @@ Dodurga:
     - Çatar Mah
     - Doğu Mah
     - Esentepe Mah
+    - Fatih Mah
     - Okul Mah
     - Ulucami Mah
-    - Yenimahalle Mah
   Merkezköyler:
     postcode: 19062
     neighborhoods:
@@ -278,7 +279,6 @@ Dodurga:
     - Çiftlikköy Köyü
     - Dikenli Köyü
     - Kabakdere Mah (Dikenli Köyü)
-    - Kibirler Mah (Dikenli Köyü)
     - Kirenci Köyü
     - Kirenpınarı Mah (Ayvaköy Köyü)
     - Kuyucak Köyü
@@ -287,6 +287,7 @@ Dodurga:
     - Merkez Mah (Ayvaköy Köyü)
     - Merkez Mah (Berkköy Köyü)
     - Soğukeşme Mah (Dikenli Köyü)
+    - Şehit Ali Şirin Mah (Dikenli Köyü)
     - Tırıklar Mah (Yeniköy Köyü)
     - Tokuş Mah (Ayvaköy Köyü)
     - Tutuş Köyü
@@ -408,7 +409,7 @@ Dodurga:
     - Kuzören Mah (Aşağışeyhler Köyü)
     - Kuzuluk Köyü
     - Küyükler Mah (Beyoğlan Köyü)
-    - Manasır Mah (İkipınar Köyü)
+    - Manastır Mah (İkipınar Köyü)
     - Mantarlı Mah (İkipınar Köyü)
     - Memiler Mah (Güneyaluç Köyü)
     - Mercimeklik Mah (Ahmetce Köyü)
@@ -543,7 +544,6 @@ Kargı:
     - Bayat Yaylası Mah (Bayat Köyü)
     - Bokluca Mah (Çakırlar Köyü)
     - Bosseki Mah (Karacaoğlan Köyü)
-    - Cartlaklar Mah (Pelitcik Köyü)
     - Celleler Mah (Pelitcik Köyü)
     - Cembekli Mah (Göletdere Köyü)
     - Cineminin Mah (Kuşbağın Mah) (Göletdere Köyü)
@@ -560,6 +560,7 @@ Kargı:
     - Değirmendere Mah (Hacıhamza Köyü)
     - Demirci Mah (Saraçlar Köyü)
     - Dere Mah (Karacaoğlan Köyü)
+    - Devrez Mah (Pelitcik Köyü)
     - Düzenli Mah (Arık Köyü)
     - Elikoğlu Mah (Çobankaya Köyü)
     - Erkeş Mah (Cihadiye Köyü)
@@ -600,12 +601,14 @@ Kargı:
     - Kargı Mah (Uzunyurt Köyü)
     - Karsu Alabalık Tesisleri Mah (Başköy Köyü)
     - Kasımlar Mah (Göl Köyü)
+    - Kaş Mah (Uzunyurt Köyü)
     - Kavak Mah (Göl Köyü)
     - Kavakdibi Mah (Karacaoğlan Köyü)
     - Keleşler Mah (Seki Köyü)
     - Kesek Mah (Çakırlar Köyü)
     - Kırıntı Mah (Pelitcik Köyü)
     - Kırıntı Yaylası Mah (Pelitcik Köyü)
+    - Kırkpöyre Mah (Çetmi Köyü)
     - Kışla Mah (Çobankaya Köyü)
     - Kışla Mah (Günyazı Köyü)
     - Kışla Mah (Pelitcik Köyü)
@@ -681,6 +684,7 @@ Kargı:
     - Orta Mah (Güney Köyü)
     - Osmansırdığı Mah (Karacaoğlan Köyü)
     - Öksüzler Mah (Arık Köyü)
+    - Ömerkaya Mah (Çetmi Köyü)
     - Ömerler Mah (Saraçlar Köyü)
     - Öteköy Mah (Uzunyurt Köyü)
     - Özbaşı Mah (Sinanözü Köyü)
@@ -840,6 +844,17 @@ Mecitözü:
     - Yedigöz Köyü
     - Yeşilova Köyü
 Merkez:
+  Düvenci:
+    postcode: 19015
+    neighborhoods:
+    - Ataköy Mah (Düvenci Beldesi)
+    - Fatih Sultan Mehmet Mah (Düvenci Beldesi)
+    - Gedikbekir Mah (Düvenci Beldesi)
+    - İkipınar Mah (Düvenci Beldesi)
+    - Kışladeresi Mah (Düvenci Beldesi)
+    - Kultak Mah (Düvenci Beldesi)
+    - Mimarsinan Mah (Düvenci Beldesi)
+    - Yunusemre Mah (Düvenci Beldesi)
   Gülabibey:
     postcode: 19100
     neighborhoods:
@@ -876,7 +891,6 @@ Merkez:
     - Aşağı Mah (Acıpınar Köyü)
     - Aşağı Mah (Hamdiköy Köyü)
     - Aşağı Üçdam Mah (Seydimçakallı Köyü)
-    - Ataköy Mah (Düvenci Köyü)
     - Atcalı Mah (Atçalı Köyü)
     - Ayvalı Köyü
     - Babaoğlu Köyü
@@ -936,10 +950,8 @@ Merkez:
     - Evciyenikışla Köyü
     - Eyerci Köyü
     - Fatih Mah (Ovasaray Köyü)
-    - Fatih Sultan Mehmet Mah (Düvenci Köyü)
     - Ferhatlı Mah (Eskiören Köyü)
     - Feruz Köyü
-    - Gedikbekir Mah (Düvenci Köyü)
     - Gemet Köyü
     - Gök Mah (Atçalı Köyü)
     - Gökçepınar Köyü
@@ -962,7 +974,6 @@ Merkez:
     - Harmantarla Mah (Eskiekin Köyü)
     - Hızırdede Köyü
     - Hüseyinağ Mah (Hımıroğlu Köyü)
-    - İkipınar Mah (Düvenci Köyü)
     - İmamlar Mah (Eskiköy Köyü)
     - İsmailköy Köyü
     - Kadıkırı Mah (Kadıkırı Köyü)
@@ -986,7 +997,6 @@ Merkez:
     - Kendisi Mah (Karahisar Köyü)
     - Kınık Köyü
     - Kışlacık Mah (Eskiköy Köyü)
-    - Kışladeresi Mah (Düvenci Köyü)
     - Kıvırcık Mah (Kayı Köyü)
     - Kızılkır Mah (İğdeli Köyü)
     - Kızılpınar Köyü
@@ -999,7 +1009,6 @@ Merkez:
     - Kozanoğlu Mah (Aksungur Köyü)
     - Kozluca Köyü
     - Kösrelik Mah (Karabayır Köyü)
-    - Kultak Mah (Düvenci Köyü)
     - Kumçeltiği Köyü
     - Kuruçay Köyü
     - Kuşsaray Mah (Kuşsaray Köyü)
@@ -1088,9 +1097,7 @@ Merkez:
     - Merkez Mah (Üyük Köyü)
     - Merkez Mah (Yakuparpa Köyü)
     - Merkez Mah (Yeşilyayla Köyü)
-    - Mimarsinan Mah (Düvenci Köyü)
     - Mislerovacığı Köyü
-    - Morsümbül Köyü
     - Mustafaçelebi Köyü
     - Mühürler Köyü
     - Oluközü Mah (Sırıklı Köyü)
@@ -1150,7 +1157,6 @@ Merkez:
     - Yeşildere Köyü
     - Yeşilyurt Mah (Güzelyurt Köyü)
     - Yoğunpelit Köyü
-    - Yunusemre Mah (Düvenci Köyü)
     - Yunusemre Mah (Seydim Köyü)
   Ulukavak:
     postcode: 19040
@@ -1210,12 +1216,16 @@ Oğuzlar:
     - Yamaç Mah (Cevizli Köyü)
     - Yoğunpelit Mah (Ağaççamı Köyü)
 Ortaköy:
+  Aştavul:
+    postcode: 19955
+    neighborhoods:
+    - Bahçelievler Mah (Aştavul Beldesi)
+    - Şirinevler Mah (Aştavul Beldesi)
   Merkezköyler:
     postcode: 19952
     neighborhoods:
     - Akyar Mah (Senemoğlu Köyü)
     - Asar Köyü
-    - Bahçelievler Mah (Aştavul Köyü)
     - Büyükkışla Köyü
     - Cevizli Köyü
     - Cumhuriyet Mah (Karahacip Köyü)
@@ -1229,7 +1239,6 @@ Ortaköy:
     - Oruçpınar Köyü
     - Salbaş Köyü
     - Sirkeoğlu Mah (Senemoğlu Köyü)
-    - Şirinevler Mah (Aştavul Köyü)
     - Yaylacık Köyü
     - Yukarı Kuyucak Köyü
   Ortaköy:
@@ -1436,6 +1445,7 @@ Sungurlu:
     - Çavuşçu Köyü
     - Çavuşköy Köyü
     - Çayan Köyü
+    - Çayırova Mah (Eşme Köyü)
     - Çayyaka Köyü
     - Çiçekli Köyü
     - Çiçeklikeller Köyü
