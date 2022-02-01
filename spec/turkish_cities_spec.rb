@@ -282,25 +282,25 @@ RSpec.describe TurkishCities do
         expect(very_short_distance_results[1]).to eq 49
         expect(very_short_distance_results[2])
           .to eq 'Air travel distance between Bolu and Kastamonu is 195.4 km. '\
-            'Estimated air travel would take 49 minutes'
+                 'Estimated air travel would take 49 minutes'
         short_distance_results = TurkishCities.distance_between('İzmir', 'Antalya', 'air')
         expect(short_distance_results[0]).to eq 357.18
         expect(short_distance_results[1]).to eq 65
         expect(short_distance_results[2])
           .to eq 'Air travel distance between İzmir and Antalya is 357.18 km. '\
-            'Estimated air travel would take 65 minutes'
+                 'Estimated air travel would take 65 minutes'
         medium_distance_results = TurkishCities.distance_between('istanbul', 'Ordu', 'air')
         expect(medium_distance_results[0]).to eq 746.71
         expect(medium_distance_results[1]).to eq 96
         expect(medium_distance_results[2])
           .to eq 'Air travel distance between İstanbul and Ordu is 746.71 km. '\
-            'Estimated air travel would take 96 minutes'
+                 'Estimated air travel would take 96 minutes'
         long_distance_results = TurkishCities.distance_between('istanbul', 'kars', 'air')
         expect(long_distance_results[0]).to eq 1187.94
         expect(long_distance_results[1]).to eq 120
         expect(long_distance_results[2])
           .to eq 'Air travel distance between İstanbul and Kars is 1187.94 km. '\
-            'Estimated air travel would take 120 minutes'
+                 'Estimated air travel would take 120 minutes'
       end
     end
 
