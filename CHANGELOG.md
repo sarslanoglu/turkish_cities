@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.6.0 (Unreleased)
+
+### Changes
+
+* [#103](https://github.com/sarslanoglu/turkish_cities/issues/103): Update city/district/subdistrict informations to 2022
+
 ## 0.5.0 (2021-06-06)
 
 ### New features
