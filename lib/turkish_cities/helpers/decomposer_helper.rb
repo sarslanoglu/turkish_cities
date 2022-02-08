@@ -11,6 +11,10 @@ module DecomposerHelper
     I18n.t('errors.city_not_found_error', input: input)
   end
 
+  def city_population_not_found_error
+    I18n.t('errors.city_population_not_found_error')
+  end
+
   def cities_not_found_error(first, second)
     I18n.t('errors.cities_not_found_error', first: first, second: second)
   end
@@ -98,6 +102,10 @@ module DecomposerHelper
     return unless options.dig(:with, :metropolitan_municipality_since) || options.dig(:with, :all)
 
     result[:metropolitan_municipality_since] = city['metropolitan_municipality_since']
+  end
+
+  def unsupported_population_type(input)
+    I18n.t('errors.unsupported_population_type', input: input)
   end
 
   def unsupported_travel_method(input)

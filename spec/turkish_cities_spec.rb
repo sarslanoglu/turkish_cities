@@ -376,6 +376,55 @@ RSpec.describe TurkishCities do
     end
   end
 
+  describe '#find_by_population' do
+    context 'when input is supported' do
+      it 'finds city with exact population' do
+        expect(TurkishCities.find_by_population('exact', 15_840_900)).to eq %w[İstanbul]
+        expect(TurkishCities.find_by_population('exact', 898_369)).to eq %w[Eskişehir]
+        expect(TurkishCities.find_by_population('exact', 2_130_432)).to eq %w[Gaziantep]
+      end
+
+      it 'finds cities with below population' do
+        expect(TurkishCities.find_by_population('below', 86_000)).to eq %w[Tunceli Bayburt]
+        expect(TurkishCities.find_by_population('below', 500_000).length).to eq 38
+        expect(TurkishCities.find_by_population('below', 15_840_900).length).to eq 80
+      end
+
+      it 'finds cities with above population' do
+        expect(TurkishCities.find_by_population('above', 86_000).length).to eq 79
+        expect(TurkishCities.find_by_population('above', 500_000).length).to eq 43
+        expect(TurkishCities.find_by_population('above', 5_000_000)).to eq %w[Ankara İstanbul]
+      end
+
+      it 'finds cities between given populations' do
+        expect(TurkishCities.find_by_population('between', 85_000, 100_000)).to eq %w[Bayburt Ardahan]
+        expect(TurkishCities.find_by_population('between', 500_000, 1_000_000).length).to eq 19
+        expect(TurkishCities.find_by_population('between', 3_000_000, 5_000_000)).to eq %w[Bursa İzmir]
+      end
+    end
+
+    context 'when input is not supported' do
+      it 'gives city_population_not_found_error' do
+        expect(TurkishCities.find_by_population('exact', 100_000))
+          .to eq "Couldn't find any city with population data"
+      end
+
+      it 'gives unsupported_population_type' do
+        expect(TurkishCities.find_by_population('exatc', 100_000))
+          .to eq "Population type 'exatc' is unsupported"
+      end
+
+      it 'gives out of bounds error' do
+        expect { TurkishCities.find_by_population('exact', nil) }
+          .to raise_error(RangeError, 'Given value [] is outside bounds of 83645 to 15840900')
+        expect { TurkishCities.find_by_population('exact', 0) }
+          .to raise_error(RangeError, 'Given value [0] is outside bounds of 83645 to 15840900')
+        expect { TurkishCities.find_by_population('exact', 10_000) }
+          .to raise_error(RangeError, 'Given value [10000] is outside bounds of 83645 to 15840900')
+      end
+    end
+  end
+
   describe '#find_by_postcode' do
     context 'when input is supported' do
       it 'finds city, district and subdistrict info of postcode' do

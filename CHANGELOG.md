@@ -2,6 +2,10 @@
 
 ## 0.6.0 (Unreleased)
 
+### New features
+
+* [#12](https://github.com/sarslanoglu/turkish_cities/issues/12): Add city population data and ```find_by_population``` method
+
 ### Changes
 
 * [#103](https://github.com/sarslanoglu/turkish_cities/issues/103): Update city/district/subdistrict informations to 2022

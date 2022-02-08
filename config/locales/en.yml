@@ -5,11 +5,13 @@ en:
   errors:
     cities_not_found_error: "Couldn't find cities combination with '%{first}/%{second}'"
     city_not_found_error: "Couldn't find city name with '%{input}'"
+    city_population_not_found_error: "Couldn't find any city with population data"
     district_not_found_error: "Couldn't find district name with '%{district_input}' of '%{city_input}'"
     not_even_input: "Given value [%{input}] must be an even number"
     outside_bounds: "Given value [%{input}] is outside bounds of %{min} to %{max}"
     postcode_not_found_error: "Couldn't find any subdistrict with postcode '%{postcode_input}'"
     subdistrict_not_found_error: "Couldn't find subdistrict with '%{subdistrict_input}' of '%{district_input}'/'%{city_input}'"
+    unsupported_population_type: "Population type '%{input}' is unsupported"
     unsupported_travel_method: "Travel method '%{input}' is unsupported"
   language:
     errors:
