@@ -37,6 +37,11 @@ https://rubygems.org/gems/turkish_cities
     * [With subdistrict info](#with-subdistrict-info)
     * [Without subdistrict info](#without-subdistrict-info)
   * [Finding city, district and subdistrict name by postcode](#finding-city-district-and-subdistrict-name-by-postcode)
+  * [Finding city name with population data](#finding-city-name-with-population-data)
+    * [Exact search](#exact-search)
+    * [Below given](#below-given)
+    * [Above given](#above-given)
+    * [Between search](#between-search)
   * [Finding travel distance and time estimation between two cities](#finding-travel-distance-and-time-estimation-between-two-cities)
     * [By land](#by-land)
     * [By air](#by-air)
@@ -276,6 +281,78 @@ TurkishCities.find_by_postcode(34382)    # => "Couldn't find any subdistrict wit
 TurkishCities.find_by_postcode('100000') # => Given value [100000] is outside bounds of 1010 to 81952.
 ```
 
+### Finding city name with population data
+
+### Exact search
+
+Search city name with exact population
+
+```rb
+TurkishCities.find_by_population('exact', 15840900)
+# => ["İstanbul"]
+TurkishCities.find_by_population('exatc', 2130432)
+# => "Population type 'exatc' is unsupported"
+TurkishCities.find_by_population('exact', 10432)
+# => []
+TurkishCities.find_by_population('exact', 22130432)
+# => []
+```
+
+### Below given
+
+Search city name with below population
+
+```rb
+TurkishCities.find_by_population('below', 86000)
+# => ["Tunceli", "Bayburt"]
+TurkishCities.find_by_population('below', 500000)
+# => ["Amasya", "Artvin" ... "Kilis", "Düzce"]
+TurkishCities.find_by_population('below', 5000000)
+# => ["Adana", "Adıyaman" ... "Kilis", "Osmaniye", "Düzce"]
+TurkishCities.find_by_population('woleb', 2130432)
+# => "Population type 'woleb' is unsupported"
+TurkishCities.find_by_population('below', 10432)
+# => []
+TurkishCities.find_by_population('below', 22130432)
+# => []
+```
+
+### Above given
+
+Search city name with above population
+
+```rb
+TurkishCities.find_by_population('above', 860000)
+# => ["Adana", "Ankara" ... "Şanlıurfa", "Van"]
+TurkishCities.find_by_population('above', 2500000)
+# => ["Ankara", "Antalya", "Bursa", "İstanbul", "İzmir"]
+TurkishCities.find_by_population('above', 5000000)
+# => ["Ankara", "İstanbul"]
+TurkishCities.find_by_population('abov', 2130432)
+# => "Population type 'abov' is unsupported"
+TurkishCities.find_by_population('above', 10432)
+# => []
+TurkishCities.find_by_population('above', 22130432)
+# => []
+```
+
+### Between search
+
+Search city name with between population
+
+```rb
+TurkishCities.find_by_population('between', 15840900, 3000000)
+# => ["Ankara", "Bursa", "İzmir"]
+TurkishCities.find_by_population('between', 828369, 985732)
+# => ["Eskişehir", "Mardin"]
+TurkishCities.find_by_population('between', 2130432, 3500000)
+# => ["Adana", "Antalya", "Bursa", "Konya", "Şanlıurfa"]
+TurkishCities.find_by_population('between', 10432, 100000)
+# => []
+TurkishCities.find_by_population('between', 2130432, 34000000)
+# => []
+```
+
 ### Finding travel distance and time estimation between two cities
 
 ### By land
@@ -324,7 +401,7 @@ All information related with cities can be found at:
 https://tr.wikipedia.org/wiki/{#city_name_here}
 ```
 
-Districts, subdisctricts, neighborhoods and postcodes can be found at:
+Districts, subdisctricts, neighborhoods and postcodes information can be found at:
 
 ```
 https://postakodu.ptt.gov.tr/
@@ -336,6 +413,8 @@ Land distance information can be found at:
 ```
 https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Root/Uzakliklar/ilmesafe.xls
 ```
+
+Population of cities are up to date as 15 February 2022 as using February 2022 report of Türkiye İstatistik Kurumu (TÜİK) / Turkish Statistical Institute (TURKSTAT)
 
 Statistics for gem can be found at:
 ```

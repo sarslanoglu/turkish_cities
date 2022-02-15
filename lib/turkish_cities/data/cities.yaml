@@ -7,6 +7,7 @@
   metropolitan_municipality_since: 1986
   region: 'Akdeniz'
   has_sea_access: true
+  population: 2263373
   districts: ['Aladağ', 'Ceyhan', 'Çukurova', 'Feke', 'İmamoğlu', 'Karaisalı', 'Karataş', 'Kozan', 'Pozantı',
     'Saimbeyli', 'Sarıçam', 'Seyhan', 'Tufanbeyli', 'Yumurtalık', 'Yüreğir']
   land_distance: [335, 575, 966, 603, 492, 535, 1035, 874, 903, 773, 636, 732, 690, 657, 842, 1101, 577, 581, 755,
@@ -22,6 +23,7 @@
   metropolitan_municipality_since: null
   region: 'Güneydoğu Anadolu'
   has_sea_access: false
+  population: 632148
   districts: ['Besni', 'Çelikhan', 'Gerger', 'Gölbaşı', 'Kahta', 'Merkez', 'Samsat', 'Sincik', 'Tut']
   land_distance: [910, 648, 632, 742, 870, 751, 1209, 1238, 1045, 348, 414, 936, 992, 1114, 1385, 771, 696, 1090, 207,
     1428, 285, 550, 525, 962, 150, 710, 683, 660, 316, 952, 404, 1198, 1236, 728, 877, 424, 1409, 558, 1087, 693,
@@ -36,6 +38,7 @@
   metropolitan_municipality_since: null
   region: 'Ege'
   has_sea_access: false
+  population: 744179
   districts: ['Başmakçı', 'Bayat', 'Bolvadin', 'Çay', 'Çobanlar', 'Dazkırı', 'Dinar', 'Emirdağ', 'Evciler', 'Hocalar',
     'İhsaniye', 'İscehisar', 'Kızılören', 'Merkez', 'Sandıklı', 'Sinanpaşa', 'Sultandağı', 'Şuhut']
   land_distance: [1318, 597, 256, 291, 1243, 345, 328, 212, 1095, 1285, 420, 169, 277, 526, 397, 505, 222, 1100, 684,
@@ -51,6 +54,7 @@
   metropolitan_municipality_since: null
   region: 'Doğu Anadolu'
   has_sea_access: false
+  population: 524644
   districts: ['Diyadin', 'Doğubayazıt', 'Eleşkirt', 'Hamur', 'Merkez', 'Patnos', 'Taşlıçay', 'Tutak']
   land_distance: [736, 1054, 1428, 396, 1640, 1567, 1358, 356, 234, 1145, 1423, 1416, 1687, 984, 828, 1517, 441, 1637,
     496, 370, 183, 1295, 754, 545, 383, 425, 947, 1373, 1035, 1407, 1640, 214, 990, 812, 1618, 942, 1296, 1114, 1373,
@@ -65,6 +69,7 @@
   metropolitan_municipality_since: null
   region: 'Karadeniz'
   has_sea_access: false
+  population: 335331
   districts: ['Göynücek', 'Gümüşhacıköy', 'Hamamözü', 'Merkez', 'Merzifon', 'Suluova', 'Taşova']
   land_distance: [333, 825, 693, 938, 831, 622, 641, 831, 409, 762, 680, 951, 248, 92, 815, 696, 901, 543, 366, 556,
     574, 584, 321, 433, 1131, 681, 719, 639, 671, 919, 756, 254, 346, 882, 312, 560, 511, 652, 463, 903, 508, 792, 960,
@@ -79,6 +84,7 @@
   metropolitan_municipality_since: 1984
   region: 'İç Anadolu'
   has_sea_access: false
+  population: 5747325
   districts: ['Akyurt', 'Altındağ', 'Ayaş', 'Bala', 'Beypazarı', 'Çamlıdere', 'Çankaya', 'Çubuk', 'Elmadağ',
     'Etimesgut', 'Evren', 'Gölbaşı', 'Güdül', 'Haymana', 'Kahramankazan', 'Kalecik', 'Keçiören', 'Kızılcahamam',
     'Mamak', 'Nallıhan', 'Polatlı', 'Pursaklar', 'Sincan', 'Şereflikoçhisar', 'Yenimahalle']
@@ -95,6 +101,7 @@
   metropolitan_municipality_since: 1993
   region: 'Akdeniz'
   has_sea_access: true
+  population: 2619832
   districts: ['Akseki', 'Aksu', 'Alanya', 'Demre', 'Döşemealtı', 'Elmalı', 'Finike', 'Gazipaşa', 'Gündoğmuş', 'İbradı',
     'Kaş', 'Kemer', 'Kepez', 'Konyaaltı', 'Korkuteli', 'Kumluca', 'Manavgat', 'Muratpaşa', 'Serik']
   land_distance: [1466, 339, 507, 475, 1171, 1267, 683, 122, 540, 702, 667, 733, 220, 1060, 910, 1029, 1058, 1248, 423,
@@ -110,6 +117,7 @@
   metropolitan_municipality_since: null
   region: 'Karadeniz'
   has_sea_access: true
+  population: 169543
   districts: ['Ardanuç', 'Arhavi', 'Borçka', 'Hopa', 'Kemalpaşa', 'Merkez', 'Murgul', 'Şavşat', 'Yusufeli']
   land_distance: [1584, 1460, 1251, 403, 562, 1038, 1408, 1309, 1580, 894, 738, 1461, 544, 1530, 543, 408, 226, 1220,
     857, 372, 336, 761, 1016, 1365, 1104, 1300, 1565, 207, 856, 850, 1511, 949, 1189, 1152, 1298, 639, 1549, 863, 640,
@@ -124,6 +132,7 @@
   metropolitan_municipality_since: 2012
   region: 'Ege'
   has_sea_access: true
+  population: 1134031
   districts: ['Bozdoğan', 'Buharkent', 'Çine', 'Didim', 'Efeler', 'Germencik', 'İncirliova', 'Karacasu', 'Karpuzlu',
     'Koçarlı', 'Köşk', 'Kuşadası', 'Kuyucak', 'Nazilli', 'Söke', 'Sultanhisar', 'Yenipazar']
   land_distance: [296, 520, 1404, 1594, 716, 269, 445, 451, 738, 846, 126, 1399, 659, 1262, 1270, 1460, 477, 1086,
@@ -139,6 +148,7 @@
   metropolitan_municipality_since: 2012
   region: 'Marmara'
   has_sea_access: true
+  population: 1250610
   districts: ['Altıeylül', 'Ayvalık', 'Balya', 'Bandırma', 'Bigadiç', 'Burhaniye', 'Dursunbey', 'Edremit', 'Erdek',
     'Gömeç', 'Gönen', 'Havran', 'İvrindi', 'Karesi', 'Kepsut', 'Manyas', 'Marmara', 'Savaştepe', 'Sındırgı',
     'Susurluk']
@@ -155,6 +165,7 @@
   metropolitan_municipality_since: null
   region: 'Marmara'
   has_sea_access: false
+  population: 228334
   districts: ['Bozüyük', 'Gölpazarı', 'İnhisar', 'Merkez', 'Osmaneli', 'Pazaryeri', 'Söğüt', 'Yenipazar']
   land_distance: [1194, 1384, 213, 353, 94, 365, 446, 565, 397, 1203, 477, 1052, 988, 1178, 83, 957, 879, 1041, 1643,
     964, 352, 763, 247, 419, 1378, 458, 620, 458, 486, 136, 421, 112, 954, 384, 881, 1282, 542, 1301, 577, 648, 835,
@@ -169,6 +180,7 @@
   metropolitan_municipality_since: null
   region: 'Doğu Anadolu'
   has_sea_access: false
+  population: 283112
   districts: ['Adaklı', 'Genç', 'Karlıova', 'Kiğı', 'Merkez', 'Solhan', 'Yayladere', 'Yedisu']
   land_distance: [194, 1050, 1187, 1264, 1535, 889, 733, 1281, 141, 1542, 144, 275, 177, 1112, 454, 542, 380, 494, 617,
     1137, 705, 1312, 1421, 380, 895, 574, 1523, 708, 1201, 878, 1190, 240, 1405, 464, 237, 1426, 111, 655, 702, 586,
@@ -183,6 +195,7 @@
   metropolitan_municipality_since: null
   region: 'Doğu Anadolu'
   has_sea_access: false
+  population: 352277
   districts: ['Adilcevaz', 'Ahlat', 'Güroymak', 'Hizan', 'Merkez', 'Mutki', 'Tatvan']
   land_distance: [1240, 1377, 1454, 1725, 1079, 923, 1471, 207, 1732, 334, 465, 349, 1302, 520, 711, 549, 328, 713,
     1327, 801, 1502, 1611, 432, 1085, 764, 1713, 898, 1391, 1068, 1380, 430, 1595, 577, 285, 1578, 83, 845, 892, 755,
@@ -197,6 +210,7 @@
   metropolitan_municipality_since: null
   region: 'Karadeniz'
   has_sea_access: false
+  population: 320014
   districts: ['Dörtdivan', 'Gerede', 'Göynük', 'Kıbrıscık', 'Mengen', 'Merkez', 'Mudurnu', 'Seben', 'Yeniçağa']
   land_distance: [561, 271, 542, 233, 352, 605, 1095, 492, 944, 775, 965, 291, 849, 666, 828, 1535, 881, 560, 683, 262,
     596, 1165, 245, 512, 473, 378, 151, 456, 320, 846, 561, 773, 1174, 750, 1157, 469, 545, 622, 877, 114, 472, 1281,
@@ -211,6 +225,7 @@
   metropolitan_municipality_since: null
   region: 'Akdeniz'
   has_sea_access: false
+  population: 273716
   districts: ['Ağlasun', 'Altınyayla', 'Bucak', 'Çavdır', 'Çeltikçi', 'Gölhisar', 'Karamanlı', 'Kemer', 'Merkez',
     'Tefenni', 'Yeşilova']
   land_distance: [418, 593, 562, 670, 150, 1182, 801, 1045, 1053, 1243, 301, 869, 1036, 1161, 1555, 848, 51, 588, 595,
@@ -226,6 +241,7 @@
   metropolitan_municipality_since: 1987
   region: 'Marmara'
   has_sea_access: true
+  population: 3147818
   districts: ['Büyükorhan', 'Gemlik', 'Gürsu', 'Harmancık', 'İnegöl', 'İznik', 'Karacabey', 'Keles', 'Kestel',
     'Mudanya', 'Mustafakemalpaşa', 'Nilüfer', 'Orhaneli', 'Orhangazi', 'Osmangazi', 'Yenişehir', 'Yıldırım']
   land_distance: [271, 504, 623, 436, 1272, 419, 1121, 1046, 1236, 152, 1026, 937, 1099, 1712, 1033, 417, 832, 243,
@@ -241,6 +257,7 @@
   metropolitan_municipality_since: null
   region: 'Marmara'
   has_sea_access: true
+  population: 557276
   districts: ['Ayvacık', 'Bayramiç', 'Biga', 'Bozcaada', 'Çan', 'Eceabat', 'Ezine', 'Gelibolu', 'Gökçeada', 'Lapseki',
     'Merkez', 'Yenice']
   land_distance: [775, 894, 482, 1543, 216, 1392, 1317, 1507, 423, 1297, 1208, 1370, 1983, 1292, 592, 1091, 318, 327,
@@ -256,6 +273,7 @@
   metropolitan_municipality_since: null
   region: 'İç Anadolu'
   has_sea_access: false
+  population: 196515
   districts: ['Atkaracalar', 'Bayramören', 'Çerkeş', 'Eldivan', 'Ilgaz', 'Kızılırmak', 'Korgun', 'Kurşunlu', 'Merkez',
     'Orta', 'Şabanözü', 'Yapraklı']
   land_distance: [156, 615, 916, 725, 763, 614, 804, 374, 684, 522, 681, 1370, 768, 561, 570, 495, 719, 1004, 106, 347,
@@ -270,6 +288,7 @@
   metropolitan_municipality_since: null
   region: 'Karadeniz'
   has_sea_access: false
+  population: 526282
   districts: ['Alaca', 'Bayat', 'Boğazkale', 'Dodurga', 'İskilip', 'Kargı', 'Laçin', 'Mecitözü', 'Merkez', 'Oğuzlar',
     'Ortaköy', 'Osmancık', 'Sungurlu', 'Uğurludağ']
   land_distance: [723, 760, 844, 607, 458, 648, 482, 618, 366, 525, 1223, 715, 627, 574, 614, 827, 848, 197, 281, 825,
@@ -284,6 +303,7 @@
   metropolitan_municipality_since: 2012
   region: 'Ege'
   has_sea_access: false
+  population: 1051056
   districts: ['Acıpayam', 'Babadağ', 'Baklan', 'Bekilli', 'Beyağaç', 'Bozkurt', 'Buldan', 'Çal', 'Çameli', 'Çardak',
     'Çivril', 'Güney', 'Honaz', 'Kale', 'Merkezefendi', 'Pamukkale', 'Sarayköy', 'Serinhisar', 'Tavas']
   land_distance: [1280, 690, 1139, 1147, 1337, 354, 967, 1089, 1233, 1653, 946, 165, 686, 639, 224, 1537, 721, 707,
@@ -298,6 +318,7 @@
   metropolitan_municipality_since: 1993
   region: 'Güneydoğu Anadolu'
   has_sea_access: false
+  population: 1791373
   districts: ['Bağlar', 'Bismil', 'Çermik', 'Çınar', 'Çüngüş', 'Dicle', 'Eğil', 'Ergani', 'Hani', 'Hazro', 'Kayapınar',
     'Kocaköy', 'Kulp', 'Lice', 'Silvan', 'Sur', 'Yenişehir']
   land_distance: [1587, 153, 408, 318, 1121, 313, 683, 521, 475, 506, 1142, 594, 1357, 1426, 521, 950, 583, 1568, 717,
@@ -312,6 +333,7 @@
   metropolitan_municipality_since: null
   region: 'Marmara'
   has_sea_access: true
+  population: 412115
   districts: ['Enez', 'Havsa', 'İpsala', 'Keşan', 'Lalapaşa', 'Meriç', 'Merkez', 'Süloğlu', 'Uzunköprü']
   land_distance: [1436, 1267, 1457, 555, 1341, 1158, 1320, 2027, 1369, 800, 1171, 230, 535, 1657, 737, 1004, 62, 870,
     341, 893, 584, 1338, 538, 1265, 1666, 757, 1649, 961, 1033, 1114, 1369, 378, 964, 1773, 909, 1121, 140, 1015, 1294,
@@ -325,6 +347,7 @@
   metropolitan_municipality_since: null
   region: 'Doğu Anadolu'
   has_sea_access: false
+  population: 588088
   districts: ['Ağın', 'Alacakaya', 'Arıcak', 'Baskil', 'Karakoçan', 'Keban', 'Kovancılar', 'Maden', 'Merkez', 'Palu',
     'Sivrice']
   land_distance: [267, 317, 970, 342, 562, 400, 628, 475, 995, 563, 1206, 1279, 520, 797, 432, 1417, 566, 1095, 736,
@@ -339,6 +362,7 @@
   metropolitan_municipality_since: null
   region: 'Doğu Anadolu'
   has_sea_access: false
+  population: 237351
   districts: ['Çayırlı', 'İliç', 'Kemah', 'Kemaliye', 'Merkez', 'Otlukbeli', 'Refahiye', 'Tercan', 'Üzümlü']
   land_distance: [190, 925, 607, 295, 133, 765, 740, 1003, 739, 1037, 1270, 390, 620, 442, 1248, 572, 926, 744, 1003,
     363, 1254, 575, 504, 1292, 382, 521, 568, 325, 308, 889, 446, 555, 591, 248, 1168, 305, 233, 131, 574, 1059, 598,
@@ -352,6 +376,7 @@
   metropolitan_municipality_since: 1993
   region: 'Doğu Anadolu'
   has_sea_access: false
+  population: 756893
   districts: ['Aşkale', 'Aziziye', 'Çat', 'Hınıs', 'Horasan', 'İspir', 'Karaçoban', 'Karayazı', 'Köprüköy', 'Narman',
     'Oltu', 'Olur', 'Palandöken', 'Pasinler', 'Pazaryolu', 'Şenkaya', 'Tekman', 'Tortum', 'Uzundere', 'Yakutiye']
   land_distance: [1115, 631, 365, 203, 608, 790, 1193, 878, 1227, 1460, 203, 810, 632, 1438, 762, 1116, 934, 1193, 413,
@@ -366,6 +391,7 @@
   metropolitan_municipality_since: 1993
   region: 'İç Anadolu'
   has_sea_access: false
+  population: 898369
   districts: ['Alpu', 'Beylikova', 'Çifteler', 'Günyüzü', 'Han', 'İnönü', 'Mahmudiye', 'Mihalgazi', 'Mihalıççık',
     'Odunpazarı', 'Sarıcakaya', 'Seyitgazi', 'Sivrihisar', 'Tepebaşı']
   land_distance: [874, 848, 992, 1560, 881, 300, 680, 325, 410, 1315, 480, 537, 536, 403, 214, 338, 78, 871, 394, 798,
@@ -380,6 +406,7 @@
   metropolitan_municipality_since: 1987
   region: 'Güneydoğu Anadolu'
   has_sea_access: false
+  population: 2130432
   districts: ['Araban', 'İslahiye', 'Karkamış', 'Nizip', 'Nurdağı', 'Oğuzeli', 'Şahinbey', 'Şehitkamil', 'Yavuzeli']
   land_distance: [701, 740, 686, 193, 829, 281, 1111, 1113, 834, 790, 337, 1322, 471, 1000, 570, 887, 244, 1097, 76,
     325, 1058, 565, 418, 419, 688, 890, 963, 701, 495, 842, 403, 1242, 472, 825, 476, 137, 902, 681, 534, 924, 479,
@@ -393,6 +420,7 @@
   metropolitan_municipality_since: null
   region: 'Karadeniz'
   has_sea_access: true
+  population: 450154
   districts: ['Alucra', 'Bulancak', 'Çamoluk', 'Çanakçı', 'Dereli', 'Doğankent', 'Espiye', 'Eynesil', 'Görele', 'Güce',
     'Keşap', 'Merkez', 'Piraziz', 'Şebinkarahisar', 'Tirebolu', 'Yağlıdere']
   land_distance: [162, 970, 798, 993, 789, 928, 1193, 565, 484, 492, 1139, 577, 817, 785, 926, 541, 1177, 625, 779,
@@ -407,6 +435,7 @@
   metropolitan_municipality_since: null
   region: 'Karadeniz'
   has_sea_access: false
+  population: 150119
   districts: ['Kelkit', 'Köse', 'Kürtün', 'Merkez', 'Şiran', 'Torul']
   land_distance: [808, 856, 1111, 847, 1090, 1337, 403, 646, 550, 1301, 680, 979, 852, 1070, 496, 1321, 683, 617, 1378,
     466, 629, 676, 206, 175, 942, 356, 645, 511, 356, 1221, 372, 100, 264, 697, 1126, 611, 577, 860, 704, 78, 852, 676,
@@ -420,6 +449,7 @@
   metropolitan_municipality_since: null
   region: 'Doğu Anadolu'
   has_sea_access: false
+  population: 278218
   districts: ['Çukurca', 'Derecik', 'Merkez', 'Şemdinli', 'Yüksekova']
   land_distance: [879, 1515, 967, 1797, 1799, 560, 1385, 1023, 2008, 1157, 1686, 1256, 1573, 724, 1783, 762, 386, 1744,
     383, 1104, 1105, 1014, 864, 1649, 1164, 289, 1319, 951, 1928, 1059, 901, 634, 549, 1588, 197, 1175, 1599, 1165,
@@ -433,6 +463,7 @@
   metropolitan_municipality_since: 2012
   region: 'Akdeniz'
   has_sea_access: true
+  population: 1670712
   districts: ['Altınözü', 'Antakya', 'Arsuz', 'Belen', 'Defne', 'Dörtyol', 'Erzin', 'Hassa', 'İskenderun', 'Kırıkhan',
     'Kumlu', 'Payas', 'Reyhanlı', 'Samandağ', 'Yayladağı']
   land_distance: [808, 260, 1139, 1092, 993, 874, 434, 1350, 568, 1028, 549, 866, 377, 1076, 173, 518, 1037, 724, 480,
@@ -447,6 +478,7 @@
   metropolitan_municipality_since: null
   region: 'Akdeniz'
   has_sea_access: false
+  population: 445678
   districts: ['Aksu', 'Atabey', 'Eğirdir', 'Gelendost', 'Gönen', 'Keçiborlu', 'Merkez', 'Senirkent', 'Sütçüler',
     'Şarkikaraağaç', 'Uluborlu', 'Yalvaç', 'Yenişarbademli']
   land_distance: [564, 594, 382, 1393, 667, 563, 805, 516, 483, 263, 240, 897, 366, 809, 1154, 292, 1244, 482, 501,
@@ -461,6 +493,7 @@
   metropolitan_municipality_since: 1993
   region: 'Akdeniz'
   has_sea_access: true
+  population: 1891145
   districts: ['Akdeniz', 'Anamur', 'Aydıncık', 'Bozyazı', 'Çamlıyayla', 'Erdemli', 'Gülnar', 'Mezitli', 'Mut',
     'Silifke', 'Tarsus', 'Toroslar', 'Yenişehir']
   land_distance: [941, 891, 1081, 676, 328, 1152, 370, 830, 348, 665, 465, 875, 261, 606, 777, 812, 282, 200, 776, 988,
@@ -475,6 +508,7 @@
   metropolitan_municipality_since: 1984
   region: 'Marmara'
   has_sea_access: true
+  population: 15840900
   districts: ['Adalar', 'Arnavutköy', 'Ataşehir', 'Avcılar', 'Bağcılar', 'Bahçelievler', 'Bakırköy', 'Başakşehir',
     'Bayrampaşa', 'Beşiktaş', 'Beykoz', 'Beylikdüzü', 'Beyoğlu', 'Büyükçekmece', 'Çatalca', 'Çekmeköy', 'Esenler',
     'Esenyurt', 'Eyüpsultan', 'Fatih', 'Gaziosmanpaşa', 'Güngören', 'Kadıköy', 'Kağıthane', 'Kartal', 'Küçükçekmece',
@@ -492,6 +526,7 @@
   metropolitan_municipality_since: 1984
   region: 'Ege'
   has_sea_access: true
+  population: 4425789
   districts: ['Aliağa', 'Balçova', 'Bayındır', 'Bayraklı', 'Bergama', 'Beydağ', 'Bornova', 'Buca', 'Çeşme', 'Çiğli',
     'Dikili', 'Foça', 'Gaziemir', 'Güzelbahçe', 'Karabağlar', 'Karaburun', 'Karşıyaka', 'Kemalpaşa', 'Kınık', 'Kiraz',
     'Konak', 'Menderes', 'Menemen', 'Narlıdere', 'Ödemiş', 'Seferihisar', 'Selçuk', 'Tire', 'Torbalı', 'Urla']
@@ -507,6 +542,7 @@
   metropolitan_municipality_since: null
   region: 'Doğu Anadolu'
   has_sea_access: false
+  population: 281077
   districts: ['Akyaka', 'Arpaçay', 'Digor', 'Kağızman', 'Merkez', 'Sarıkamış', 'Selim', 'Susuz']
   land_distance: [1010, 832, 1638, 962, 1316, 1134, 1393, 616, 1644, 840, 617, 1682, 349, 911, 958, 609, 360, 1279,
     759, 528, 914, 638, 1558, 695, 435, 443, 697, 1449, 363, 862, 1224, 986, 325, 1134, 999, 567, 628, 1193, 94, 140,
@@ -520,6 +556,7 @@
   metropolitan_municipality_since: null
   region: 'Karadeniz'
   has_sea_access: true
+  population: 375592
   districts: ['Abana', 'Ağlı', 'Araç', 'Azdavay', 'Bozkurt', 'Cide', 'Çatalzeytin', 'Daday', 'Devrekani', 'Doğanyurt',
     'Hanönü', 'İhsangazi', 'İnebolu', 'Küre', 'Merkez', 'Pınarbaşı', 'Seydiler', 'Şenpazar', 'Taşköprü', 'Tosya']
   land_distance: [453, 718, 319, 396, 459, 558, 717, 806, 714, 1046, 866, 1002, 410, 492, 440, 695, 359, 290, 1136,
@@ -534,6 +571,7 @@
   metropolitan_municipality_since: 1988
   region: 'İç Anadolu'
   has_sea_access: false
+  population: 1434357
   districts: ['Akkışla', 'Bünyan', 'Develi', 'Felahiye', 'Hacılar', 'İncesu', 'Kocasinan', 'Melikgazi', 'Özvatan',
     'Pınarbaşı', 'Sarıoğlan', 'Sarız', 'Talas', 'Tomarza', 'Yahyalı', 'Yeşilhisar']
   land_distance: [985, 134, 663, 304, 616, 334, 831, 261, 662, 852, 681, 81, 128, 479, 691, 626, 453, 769, 547, 194,
@@ -547,6 +585,7 @@
   metropolitan_municipality_since: null
   region: 'Marmara'
   has_sea_access: true
+  population: 366363
   districts: ['Babaeski', 'Demirköy', 'Kofçaz', 'Lüleburgaz', 'Merkez', 'Pehlivanköy', 'Pınarhisar', 'Vize']
   land_distance: [851, 322, 874, 565, 1319, 555, 1246, 1647, 774, 1630, 942, 1014, 1095, 1350, 359, 945, 1754, 890,
     1102, 121, 996, 1275, 1379, 1459, 646, 1846, 882, 541, 892, 1337, 987, 742, 1668, 1819, 628, 1619, 1729, 387, 607,
@@ -560,6 +599,7 @@
   metropolitan_municipality_since: null
   region: 'İç Anadolu'
   has_sea_access: false
+  population: 242944
   districts: ['Akçakent', 'Akpınar', 'Boztepe', 'Çiçekdağı', 'Kaman', 'Merkez', 'Mucur']
   land_distance: [529, 258, 482, 468, 733, 395, 796, 790, 815, 91, 173, 533, 788, 492, 392, 903, 486, 324, 771, 317,
     713, 700, 608, 538, 1031, 112, 453, 110, 702, 321, 113, 817, 968, 470, 987, 1053, 594, 402, 531, 464, 423]
@@ -572,6 +612,7 @@
   metropolitan_municipality_since: 1993
   region: 'Marmara'
   has_sea_access: false
+  population: 2033441
   districts: ['Başiskele', 'Çayırova', 'Darıca', 'Derince', 'Dilovası', 'Gebze', 'Gölcük', 'İzmit', 'Kandıra',
     'Karamürsel', 'Kartepe', 'Körfez']
   land_distance: [552, 243, 997, 418, 924, 1325, 671, 1308, 620, 692, 773, 1028, 37, 623, 1432, 568, 780, 242, 674,
@@ -585,6 +626,7 @@
   metropolitan_municipality_since: 1987
   region: 'İç Anadolu'
   has_sea_access: true
+  population: 2277017
   districts: ['Ahırlı', 'Akören', 'Akşehir', 'Altınekin', 'Beyşehir', 'Bozkır', 'Cihanbeyli', 'Çeltik', 'Çumra',
     'Derbent', 'Derebucak', 'Doğanhisar', 'Emirgazi', 'Ereğli', 'Güneysınır', 'Hadim', 'Halkapınar', 'Hüyük', 'Ilgın',
     'Kadınhanı', 'Karapınar', 'Karatay', 'Kulu', 'Meram', 'Sarayönü', 'Selçuklu', 'Seydişehir', 'Taşkent', 'Tuzlukçu',
@@ -600,6 +642,7 @@
   metropolitan_municipality_since: null
   region: 'Ege'
   has_sea_access: false
+  population: 578640
   districts: ['Altıntaş', 'Aslanapa', 'Çavdarhisar', 'Domaniç', 'Dumlupınar', 'Emet', 'Gediz', 'Hisarcık', 'Merkez',
     'Pazarlar', 'Simav', 'Şaphane', 'Tavşanlı']
   land_distance: [949, 316, 867, 1212, 430, 1296, 540, 559, 882, 1137, 206, 732, 1382, 730, 758, 485, 698, 1062, 1134,
@@ -613,6 +656,7 @@
   metropolitan_municipality_since: 2012
   region: 'Doğu Anadolu'
   has_sea_access: false
+  population: 808692
   districts: ['Akçadağ', 'Arapgir', 'Arguvan', 'Battalgazi', 'Darende', 'Doğanşehir', 'Doğanyol', 'Hekimhan', 'Kale',
     'Kuluncak', 'Pütürge', 'Yazıhan', 'Yeşilyurt']
   land_distance: [1165, 224, 345, 1186, 347, 415, 462, 557, 671, 960, 580, 435, 721, 243, 1239, 351, 596, 232, 271,
@@ -626,6 +670,7 @@
   metropolitan_municipality_since: 2012
   region: 'Ege'
   has_sea_access: false
+  population: 1456626
   districts: ['Ahmetli', 'Akhisar', 'Alaşehir', 'Demirci', 'Gölmarmara', 'Gördes', 'Kırkağaç', 'Köprübaşı', 'Kula',
     'Salihli', 'Sarıgöl', 'Saruhanlı', 'Selendi', 'Soma', 'Şehzadeler', 'Turgutlu', 'Yunusemre']
   land_distance: [1077, 1422, 253, 1512, 750, 769, 1133, 1388, 447, 983, 1592, 978, 1009, 509, 949, 1313, 1385, 1234,
@@ -639,6 +684,7 @@
   metropolitan_municipality_since: 2012
   region: 'Akdeniz'
   has_sea_access: false
+  population: 1171298
   districts: ['Afşin', 'Andırın', 'Çağlayancerit', 'Dulkadiroğlu', 'Ekinözü', 'Elbistan', 'Göksun', 'Nurhak',
     'Onikişubat', 'Pazarcık', 'Türkoğlu']
   land_distance: [401, 1038, 571, 342, 389, 612, 824, 887, 625, 552, 766, 327, 1166, 396, 749, 456, 213, 882, 738, 458,
@@ -652,6 +698,7 @@
   metropolitan_municipality_since: 2012
   region: 'Güneydoğu Anadolu'
   has_sea_access: false
+  population: 862757
   districts: ['Artuklu', 'Dargeçit', 'Derik', 'Kızıltepe', 'Mazıdağı', 'Midyat', 'Nusaybin', 'Ömerli', 'Savur',
     'Yeşilli']
   land_distance: [1383, 348, 743, 744, 823, 673, 1288, 909, 227, 1050, 572, 1567, 680, 710, 373, 188, 1227, 446, 796,
@@ -665,6 +712,7 @@
   metropolitan_municipality_since: 2012
   region: 'Ege'
   has_sea_access: true
+  population: 1021141
   districts: ['Bodrum', 'Dalaman', 'Datça', 'Fethiye', 'Kavaklıdere', 'Köyceğiz', 'Marmaris', 'Menteşe', 'Milas',
     'Ortaca', 'Seydikemer', 'Ula', 'Yatağan']
   land_distance: [1533, 771, 790, 1190, 1445, 636, 1040, 1553, 1038, 1044, 728, 1006, 1370, 1418, 1195, 295, 1739, 842,
@@ -678,6 +726,7 @@
   metropolitan_municipality_since: null
   region: 'Doğu Anadolu'
   has_sea_access: false
+  population: 405228
   districts: ['Bulanık', 'Hasköy', 'Korkut', 'Malazgirt', 'Merkez', 'Varto']
   land_distance: [762, 809, 672, 522, 1271, 822, 179, 973, 574, 1550, 682, 559, 251, 428, 1317, 216, 798, 1216, 837,
     388, 985, 928, 218, 279, 1185, 411, 388, 1373, 1116, 625, 656, 1202]
@@ -690,6 +739,7 @@
   metropolitan_municipality_since: null
   region: 'İç Anadolu'
   has_sea_access: false
+  population: 308003
   districts: ['Acıgöl', 'Avanos', 'Derinkuyu', 'Gülşehir', 'Hacıbektaş', 'Kozaklı', 'Merkez', 'Ürgüp']
   land_distance: [82, 553, 770, 583, 468, 850, 562, 273, 862, 337, 695, 647, 555, 555, 978, 203, 544, 75, 651, 258,
     204, 764, 915, 561, 936, 1002, 685, 493, 478, 376, 514]
@@ -702,6 +752,7 @@
   metropolitan_municipality_since: null
   region: 'İç Anadolu'
   has_sea_access: false
+  population: 363725
   districts: ['Altunhisar', 'Bor', 'Çamardı', 'Çiftlik', 'Merkez', 'Ulukışla']
   land_distance: [605, 817, 655, 546, 897, 640, 320, 934, 389, 742, 694, 556, 574, 1025, 285, 620, 122, 698, 176, 286, 811, 916, 637, 983, 1049, 757, 569, 453, 294, 590]
 -
@@ -713,6 +764,7 @@
   metropolitan_municipality_since: 2012
   region: 'Karadeniz'
   has_sea_access: true
+  population: 760872
   districts: ['Akkuş', 'Altınordu', 'Aybastı', 'Çamaş', 'Çatalpınar', 'Çaybaşı', 'Fatsa', 'Gölköy', 'Gülyalı',
     'Gürgentepe', 'İkizce', 'Kabadüz', 'Kabataş', 'Korgan', 'Kumru', 'Mesudiye', 'Perşembe', 'Ulubey', 'Ünye']
   land_distance: [255, 736, 150, 851, 305, 314, 1015, 216, 180, 456, 810, 938, 817, 421, 654, 628, 284, 781, 488, 780, 951, 623, 524, 700, 838, 554, 748, 717, 667]
@@ -725,6 +777,7 @@
   metropolitan_municipality_since: null
   region: 'Karadeniz'
   has_sea_access: true
+  population: 345662
   districts: ['Ardeşen', 'Çamlıhemşin', 'Çayeli', 'Derepazarı', 'Fındıklı', 'Güneysu', 'Hemşin', 'İkizdere', 'İyidere',
     'Kalkandere', 'Merkez', 'Pazar']
   land_distance: [991, 405, 701, 560, 497, 1270, 471, 75, 439, 753, 1193, 667, 676, 909, 845, 253, 993, 743, 630, 801, 878, 269, 494, 1093, 809, 950, 929, 922]
@@ -737,6 +790,7 @@
   metropolitan_municipality_since: 2000
   region: 'Marmara'
   has_sea_access: true
+  population: 1060876
   districts: ['Adapazarı', 'Akyazı', 'Arifiye', 'Erenler', 'Ferizli', 'Geyve', 'Hendek', 'Karapürçek', 'Karasu',
     'Kaynarca', 'Kocaali', 'Pamukova', 'Sapanca', 'Serdivan', 'Söğütlü', 'Taraklı']
   land_distance: [586, 1395, 531, 743, 279, 637, 916, 1020, 1100, 345, 1487, 523, 182, 533, 978, 628, 383, 1309, 1460, 269, 1260, 1370, 102, 248, 1023, 887, 69]
@@ -749,6 +803,7 @@
   metropolitan_municipality_since: 1993
   region: 'Karadeniz'
   has_sea_access: true
+  population: 1371274
   districts: ['19 Mayıs', 'Alaçam', 'Asarcık', 'Atakum', 'Ayvacık', 'Bafra', 'Canik', 'Çarşamba', 'Havza', 'İlkadım', 'Kavak',
     'Ladik', 'Salıpazarı', 'Tekkeköy', 'Terme', 'Vezirköprü', 'Yakakent']
   land_distance: [999, 155, 337, 865, 229, 330, 577, 833, 788, 967, 280, 504, 502, 434, 702, 338, 913, 1099, 473, 674, 850, 688, 404, 761, 730, 517]
@@ -761,6 +816,7 @@
   metropolitan_municipality_since: null
   region: 'Güneydoğu Anadolu'
   has_sea_access: false
+  population: 331980
   districts: ['Baykan', 'Eruh', 'Kurtalan', 'Merkez', 'Pervari', 'Şirvan', 'Tillo']
   land_distance: [1140, 662, 1674, 770, 738, 424, 358, 1397, 257, 886, 1350, 925, 567, 999, 1016, 86, 100, 1319, 590, 433, 1497, 1250, 555, 620, 1326]
 -
@@ -772,6 +828,7 @@
   metropolitan_municipality_since: null
   region: 'Karadeniz'
   has_sea_access: true
+  population: 218408
   districts: ['Ayancık', 'Boyabat', 'Dikmen', 'Durağan', 'Erfelek', 'Gerze', 'Merkez', 'Saraydüzü', 'Türkeli']
   land_distance: [478, 810, 372, 485, 722, 974, 786, 1122, 374, 397, 588, 589, 742, 382, 1054, 1240, 366, 829, 1005, 633, 297, 902, 871, 462]
 -
@@ -783,6 +840,7 @@
   metropolitan_municipality_since: null
   region: 'İç Anadolu'
   has_sea_access: false
+  population: 636121
   districts: ['Akıncılar', 'Altınyayla', 'Divriği', 'Doğanşar', 'Gemerek', 'Gölova', 'Gürün', 'Hafik', 'İmranlı',
     'Kangal', 'Koyulhisar', 'Merkez', 'Suşehri', 'Şarkışla', 'Ulaş', 'Yıldızeli', 'Zara']
   land_distance: [1022, 108, 422, 379, 496, 814, 790, 224, 688, 348, 378, 496, 364, 576, 762, 657, 663, 729, 845, 588, 463, 432, 674]
@@ -795,6 +853,7 @@
   metropolitan_municipality_since: 2012
   region: 'Marmara'
   has_sea_access: true
+  population: 1113400
   districts: ['Çerkezköy', 'Çorlu', 'Ergene', 'Hayrabolu', 'Kapaklı', 'Malkara', 'Marmaraereğlisi', 'Muratlı', 'Saray',
     'Süleymanpaşa', 'Şarköy']
   land_distance: [916, 1195, 1299, 1379, 600, 1766, 802, 461, 812, 1257, 907, 662, 1588, 1739, 548, 1539, 1649, 307, 527, 1302, 1166, 348]
@@ -807,6 +866,7 @@
   metropolitan_municipality_since: null
   region: 'Karadeniz'
   has_sea_access: false
+  population: 602567
   districts: ['Almus', 'Artova', 'Başçiftlik', 'Erbaa', 'Merkez', 'Niksar', 'Pazar', 'Reşadiye', 'Sulusaray', 'Turhal',
     'Yeşilyurt', 'Zile']
   land_distance: [396, 436, 604, 754, 898, 205, 582, 412, 394, 565, 304, 684, 870, 551, 720, 786, 739, 482, 532, 501, 568]
@@ -819,6 +879,7 @@
   metropolitan_municipality_since: 2012
   region: 'Karadeniz'
   has_sea_access: true
+  population: 816684
   districts: ['Akçaabat', 'Araklı', 'Arsin', 'Beşikdüzü', 'Çarşıbaşı', 'Çaykara', 'Dernekpazarı', 'Düzköy', 'Hayrat',
     'Köprübaşı', 'Maçka', 'Of', 'Ortahisar', 'Sürmene', 'Şalpazarı', 'Tonya', 'Vakfıkebir', 'Yomra']
   land_distance: [364, 790, 1118, 704, 601, 834, 770, 178, 918, 668, 667, 838, 803, 344, 569, 1018, 734, 885, 854, 847]
@@ -831,6 +892,7 @@
   metropolitan_municipality_since: null
   region: 'Doğu Anadolu'
   has_sea_access: false
+  population: 83645
   districts: ['Çemişgezek', 'Hozat', 'Mazgirt', 'Merkez', 'Nazımiye', 'Ovacık', 'Pertek', 'Pülümür']
   land_distance: [443, 1190, 467, 603, 965, 722, 260, 870, 740, 338, 524, 934, 468, 534, 1122, 865, 536, 541, 951]
 -
@@ -842,6 +904,7 @@
   metropolitan_municipality_since: 2012
   region: 'Güneydoğu Anadolu'
   has_sea_access: false
+  population: 2143020
   districts: ['Akçakale', 'Birecik', 'Bozova', 'Ceylanpınar', 'Eyyübiye', 'Halfeti', 'Haliliye', 'Harran', 'Hilvan',
     'Karaköprü', 'Siverek', 'Suruç', 'Viranşehir']
   land_distance: [1039, 544, 671, 1061, 616, 619, 641, 721, 272, 360, 1078, 727, 720, 1202, 1010, 197, 262, 1031]
@@ -854,6 +917,7 @@
   metropolitan_municipality_since: null
   region: 'Ege'
   has_sea_access: false
+  population: 373183
   districts: ['Banaz', 'Eşme', 'Karahallı', 'Merkez', 'Sivaslı', 'Ulubey']
   land_distance: [1533, 590, 527, 480, 1148, 451, 450, 1311, 1399, 614, 1462, 1540, 375, 558, 936, 777, 414]
 -
@@ -865,6 +929,7 @@
   metropolitan_municipality_since: 2012
   region: 'Doğu Anadolu'
   has_sea_access: false
+  population: 1141015
   districts: ['Bahçesaray', 'Başkale', 'Çaldıran', 'Çatak', 'Edremit', 'Erciş', 'Gevaş', 'Gürpınar', 'İpekyolu',
     'Muradiye', 'Özalp', 'Saray', 'Tuşba']
   land_distance: [1014, 1432, 1053, 533, 1185, 1144, 296, 357, 1401, 451, 223, 1589, 1332, 741, 806, 1418]
@@ -877,6 +942,7 @@
   metropolitan_municipality_since: null
   region: 'İç Anadolu'
   has_sea_access: false
+  population: 418500
   districts: ['Akdağmadeni', 'Aydıncık', 'Boğazlıyan', 'Çandır', 'Çayıralan', 'Çekerek', 'Kadışehri', 'Merkez',
     'Saraykent', 'Sarıkaya', 'Sorgun', 'Şefaatli', 'Yenifakılı', 'Yerköy']
   land_distance: [484, 222, 599, 433, 140, 800, 986, 484, 887, 953, 625, 415, 594, 563, 454]
@@ -889,6 +955,7 @@
   metropolitan_municipality_since: null
   region: 'Karadeniz'
   has_sea_access: true
+  population: 589684
   districts: ['Alaplı', 'Çaycuma', 'Devrek', 'Ereğli', 'Gökçebey', 'Kilimli', 'Kozlu', 'Merkez']
   land_distance: [498, 923, 642, 344, 1264, 1421, 87, 1178, 1315, 284, 100, 984, 852, 113]
 -
@@ -900,6 +967,7 @@
   metropolitan_municipality_since: null
   region: 'İç Anadolu'
   has_sea_access: false
+  population: 429069
   districts: ['Ağaçören', 'Eskil', 'Gülağaç', 'Güzelyurt', 'Merkez', 'Ortaköy', 'Sarıyahşi', 'Sultanhanı']
   land_distance: [726, 211, 210, 839, 976, 515, 1011, 1077, 635, 447, 513, 354, 468]
 -
@@ -911,6 +979,7 @@
   metropolitan_municipality_since: null
   region: 'Karadeniz'
   has_sea_access: false
+  population: 85042
   districts: ['Aydıntepe', 'Demirözü', 'Merkez']
   land_distance: [874, 698, 496, 667, 892, 350, 416, 1080, 823, 796, 801, 909]
 -
@@ -922,6 +991,7 @@
   metropolitan_municipality_since: null
   region: 'İç Anadolu'
   has_sea_access: false
+  population: 258838
   districts: ['Ayrancı', 'Başyayla', 'Ermenek', 'Kazımkarabekir', 'Merkez', 'Sarıveliler']
   land_distance: [364, 913, 1001, 659, 1159, 1225, 660, 591, 538, 379, 612]
 -
@@ -933,6 +1003,7 @@
   metropolitan_municipality_since: null
   region: 'İç Anadolu'
   has_sea_access: false
+  population: 275968
   districts: ['Bahşılı', 'Balışeyh', 'Çelebi', 'Delice', 'Karakeçili', 'Keskin', 'Merkez', 'Sulakyurt', 'Yahşihan']
   land_distance: [930, 1081, 361, 1012, 1090, 485, 293, 644, 564, 314]
 -
@@ -944,6 +1015,7 @@
   metropolitan_municipality_since: null
   region: 'Güneydoğu Anadolu'
   has_sea_access: false
+  population: 626319
   districts: ['Beşiri', 'Gercüş', 'Hasankeyf', 'Kozluk', 'Merkez', 'Sason']
   land_distance: [186, 1233, 604, 472, 1411, 1164, 469, 534, 1240]
 -
@@ -955,6 +1027,7 @@
   metropolitan_municipality_since: null
   region: 'Güneydoğu Anadolu'
   has_sea_access: false
+  population: 546589
   districts: ['Beytüşşebap', 'Cizre', 'Güçlükonak', 'İdil', 'Merkez', 'Silopi', 'Uludere']
   land_distance: [1419, 690, 533, 1562, 1350, 557, 622, 1391]
 -
@@ -966,6 +1039,7 @@
   metropolitan_municipality_since: null
   region: 'Karadeniz'
   has_sea_access: true
+  population: 201711
   districts: ['Amasra', 'Kurucaşile', 'Merkez', 'Ulus']
   land_distance: [1147, 1284, 371, 89, 1001, 869, 200]
 -
@@ -977,6 +1051,7 @@
   metropolitan_municipality_since: null
   region: 'Doğu Anadolu'
   has_sea_access: false
+  population: 94932
   districts: ['Çıldır', 'Damal', 'Göle', 'Hanak', 'Merkez', 'Posof']
   land_distance: [228, 1362, 1078, 924, 955, 1191]
 -
@@ -988,6 +1063,7 @@
   metropolitan_municipality_since: null
   region: 'Doğu Anadolu'
   has_sea_access: false
+  population: 203159
   districts: ['Aralık', 'Karakoyunlu', 'Merkez', 'Tuzluca']
   land_distance: [1472, 1215, 917, 982, 1301]
 -
@@ -999,6 +1075,7 @@
   metropolitan_municipality_since: null
   region: 'Marmara'
   has_sea_access: true
+  population: 291001
   districts: ['Altınova', 'Armutlu', 'Çınarcık', 'Çiftlikköy', 'Merkez', 'Termal']
   land_distance: [350, 1125, 986, 171]
 -
@@ -1010,6 +1087,7 @@
   metropolitan_municipality_since: null
   region: 'Karadeniz'
   has_sea_access: false
+  population: 249287
   districts: ['Eflani', 'Eskipazar', 'Merkez', 'Ovacık', 'Safranbolu', 'Yenice']
   land_distance: [933, 801, 179]
 -
@@ -1021,6 +1099,7 @@
   metropolitan_municipality_since: null
   region: 'Güneydoğu Anadolu'
   has_sea_access: false
+  population: 145826
   districts: ['Elbeyli', 'Merkez', 'Musabeyli', 'Polateli']
   land_distance: [159, 954]
 -
@@ -1032,6 +1111,7 @@
   metropolitan_municipality_since: null
   region: 'Akdeniz'
   has_sea_access: false
+  population: 553012
   districts: ['Bahçe', 'Düziçi', 'Hasanbeyli', 'Kadirli', 'Merkez', 'Sumbas', 'Toprakkale']
   land_distance: [822]
 -
@@ -1043,5 +1123,6 @@
   metropolitan_municipality_since: null
   region: 'Karadeniz'
   has_sea_access: true
+  population: 400976
   districts: ['Akçakoca', 'Cumayeri', 'Çilimli', 'Gölyaka', 'Gümüşova', 'Kaynaşlı', 'Merkez', 'Yığılca']
   land_distance: []

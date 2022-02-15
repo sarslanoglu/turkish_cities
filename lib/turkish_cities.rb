@@ -3,6 +3,7 @@
 require_relative '../lib/turkish_cities/city'
 require_relative '../lib/turkish_cities/distance'
 require_relative '../lib/turkish_cities/district'
+require_relative '../lib/turkish_cities/population'
 require_relative '../lib/turkish_cities/postcode'
 require_relative '../lib/turkish_cities/version'
 
@@ -56,6 +57,10 @@ class TurkishCities
 
   def self.list_neighborhoods(city_name, district_name, subdistrict_name = nil)
     District.new(city_name, district_name).neighborhoods(subdistrict_name)
+  end
+
+  def self.find_by_population(type, population_one, population_two = nil)
+    Population.new.find_by_population(type, population_one, population_two)
   end
 
   def self.find_by_postcode(postcode)
