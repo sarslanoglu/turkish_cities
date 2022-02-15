@@ -415,12 +415,10 @@ RSpec.describe TurkishCities do
       end
 
       it 'gives out of bounds error' do
-        expect { TurkishCities.find_by_population('exact', nil) }
-          .to raise_error(RangeError, 'Given value [] is outside bounds of 83645 to 15840900')
-        expect { TurkishCities.find_by_population('exact', 0) }
-          .to raise_error(RangeError, 'Given value [0] is outside bounds of 83645 to 15840900')
-        expect { TurkishCities.find_by_population('exact', 10_000) }
-          .to raise_error(RangeError, 'Given value [10000] is outside bounds of 83645 to 15840900')
+        expect(TurkishCities.find_by_population('exact', nil)).to eq %w[]
+        expect(TurkishCities.find_by_population('exact', 0)).to eq %w[]
+        expect(TurkishCities.find_by_population('exact', 10_000)).to eq %w[]
+        expect(TurkishCities.find_by_population('between', 100_000, 100_000_000)).to eq %w[]
       end
     end
   end

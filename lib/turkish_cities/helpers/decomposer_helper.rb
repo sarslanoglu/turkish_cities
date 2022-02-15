@@ -7,6 +7,10 @@ module DecomposerHelper
     raise RangeError, I18n.t('errors.outside_bounds', input: input, min: min, max: max)
   end
 
+  def check_population_range(input, min, max)
+    input.to_i.between?(min, max)
+  end
+
   def city_not_found_error(input)
     I18n.t('errors.city_not_found_error', input: input)
   end
