@@ -20,36 +20,62 @@
 **Turkish Cities** is a Ruby gem which makes listing and finding Turkish cities easy. Search can be via name, post code, plate number, district name etc. Also calculate your travel distance and travel time between cities via distance methods.
 https://rubygems.org/gems/turkish_cities
 
+
 ## Table of Contents
-* [Installation](#installation)
-* [Localization](#localization)
-* [Documentation](#documentation)
-  * [Finding city name by plate number](#finding-city-name-by-plate-number)
-  * [Finding city name by phone code](#finding-city-name-by-phone-code)
-  * [Finding plate number by city name](#finding-plate-number-by-city-name)
-  * [Finding phone code by city name](#finding-phone-code-by-city-name)
-  * [Listing all cities](#listing-all-cities)
-    * [Listing all cities with only name](#listing-all-cities-with-only-name)
-    * [Listing all cities with other parameters](#listing-all-cities-with-other-parameters)
-  * [Listing all districts of given city](#listing-all-districts-of-given-city)
-  * [Listing all subdistricts of given city and district](#listing-all-subdistricts-of-given-city-and-district)
-  * [Listing all neighborhoods of given city and district](#listing-all-neighborhoods-of-given-city-and-district)
-    * [With subdistrict info](#with-subdistrict-info)
-    * [Without subdistrict info](#without-subdistrict-info)
-  * [Finding city, district and subdistrict name by postcode](#finding-city-district-and-subdistrict-name-by-postcode)
-  * [Finding city name with population data](#finding-city-name-with-population-data)
-    * [Exact search](#exact-search)
-    * [Below given](#below-given)
-    * [Above given](#above-given)
-    * [Between search](#between-search)
-  * [Finding travel distance and time estimation between two cities](#finding-travel-distance-and-time-estimation-between-two-cities)
-    * [By land](#by-land)
-    * [By air](#by-air)
-* [Data sources](#data-sources)
-* [Compatibility](#compatibility)
-* [Contributing](#contributing)
-* [Changelog](#changelog)
-* [Copyright](#copyright)
+<details>
+    <summary>Table of Contents</summary>
+    <ul>
+        <li><a href="#installation">Installation</a></li>
+        <li><a href="#localization">Localization</a></li>
+        <li>
+            <a href="#documentation">Documentation</a>
+            <ul>
+                <li><a href="#finding-city-name-by-plate-number">Finding city name by plate number</a></li>
+                <li><a href="#finding-city-name-by-phone-code">Finding city name by phone code</a></li>
+                <li><a href="#finding-plate-number-by-city-name">Finding plate number by city name</a></li>
+                <li><a href="#finding-phone-code-by-city-name">Finding phone code by city name</a></li>
+                <li>
+                    <a href="#listing-all-cities">Listing all cities</a>
+                    <ul>
+                        <li><a href="#listing-all-cities-with-only-name">Listing all cities with only name</a></li>
+                        <li><a href="#listing-all-cities-with-other-parameters">Listing all cities with other parameters</a></li>
+                    </ul>
+                </li>
+                <li><a href="#listing-all-districts-of-given-city">Listing all districts of given city</a></li>
+                <li><a href="#listing-all-subdistricts-of-given-city-and-district">Listing all subdistricts of given city and district</a></li>
+                <li>
+                    <a href="#listing-all-neighborhoods-of-given-city-and-district">Listing all neighborhoods of given city and district</a>
+                    <ul>
+                        <li><a href="#with-subdistrict-info">With subdistrict info</a></li>
+                        <li><a href="#without-subdistrict-info">Without subdistrict info</a></li>
+                    </ul>
+                </li>
+                <li><a href="#finding-city-district-and-subdistrict-name-by-postcode">Finding city, district and subdistrict name by postcode</a></li>
+                <li>
+                    <a href="#finding-city-name-with-population-data">Finding city name with population data</a>
+                    <ul>
+                        <li><a href="#exact-search">Exact search</a></li>
+                        <li><a href="#below-given">Below given</a></li>
+                        <li><a href="#above-given">Above given</a></li>
+                        <li><a href="#between-search">Between search</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#finding-travel-distance-and-time-estimation-between-two-cities">Finding travel distance and time estimation between two cities</a>
+                    <ul>
+                        <li><a href="#by-land">By land</a></li>
+                        <li><a href="#by-air">By air</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li><a href="#data-sources">Data sources</a></li>
+        <li><a href="#compatibility">Compatibility</a></li>
+        <li><a href="#contributing">Contributing</a></li>
+        <li><a href="#changelog">Changelog</a></li>
+        <li><a href="#copyright">Copyright</a></li>
+    </ul>
+</details>
 
 ## Installation
 
@@ -101,6 +127,9 @@ require 'turkish_cities'
 
 There are 81 cities in Turkey. By calling a plate number between 1-81 will give city_name.
 
+<details>
+    <summary>Expand</summary>
+
 ```rb
 TurkishCities.find_name_by_plate_number(26)   # => "Eskişehir"
 TurkishCities.find_name_by_plate_number(7)    # => "Antalya"
@@ -109,10 +138,14 @@ TurkishCities.find_name_by_plate_number(43.0) # => "Kütahya"
 TurkishCities.find_name_by_plate_number('78') # => "Karabük"
 TurkishCities.find_name_by_plate_number(100)  # => 'Given value [100] is outside bounds of 1 to 81.'
 ```
+</details>
 
 ### Finding city name by phone code
 
 There are 82 phone codes for each city in Turkey (Istanbul is an exception with different phone codes for Anatolian side and European side). By calling a phone code between 212-488 will give city_name. All phone codes ending with even numbers. So sending an odd number will give an error without searching.
+
+<details>
+    <summary>Expand</summary>
 
 ```rb
 TurkishCities.find_name_by_phone_code(312)    # => "Ankara"
@@ -125,10 +158,14 @@ TurkishCities.find_name_by_phone_code(360)    # => 'Couldn't find city name with
 TurkishCities.find_name_by_phone_code(0)      # => 'Given value [0] is outside bounds of 212 to 488.'
 TurkishCities.find_name_by_phone_code(213)    # => 'Given value [213] must be an even number.'
 ```
+</details>
 
 ### Finding plate number by city name
 
 City name can be given case and turkish character insensitive.
+
+<details>
+    <summary>Expand</summary>
 
 ```rb
 TurkishCities.find_plate_number_by_name('Ankara')     # => 6
@@ -138,10 +175,14 @@ TurkishCities.find_plate_number_by_name('Istanbul')   # => 34
 TurkishCities.find_plate_number_by_name('kirsehir')   # => 40
 TurkishCities.find_plate_number_by_name('falansehir') # => "Couldn't find city name with 'falansehir'"
 ```
+</details>
 
 ### Finding phone code by city name
 
 City name can be given case and turkish character insensitive.
+
+<details>
+    <summary>Expand</summary>
 
 ```rb
 TurkishCities.find_phone_code_by_name('Ankara')     # => 312
@@ -151,18 +192,26 @@ TurkishCities.find_phone_code_by_name('Istanbul')   # => [212, 216]
 TurkishCities.find_phone_code_by_name('kirsehir')   # => 386
 TurkishCities.find_phone_code_by_name('filansehir') # => "Couldn't find city name with 'filansehir'"
 ```
+</details>
 
 ### Listing all cities
 
 By default cities will be listed by their plate number ascending.
 
+<details>
+    <summary>Expand</summary>
+
 ```rb
 TurkishCities.list_cities # => ["Adana", "Adıyaman" ... "Kilis", "Osmaniye", "Düzce"]
 ```
+</details>
 
 ### Listing all cities with only name
 
 While listing cities three additional parameters can be sent ```alphabetically_sorted```, ```metropolitan_municipality``` and ```region```. All parameters can be sent separately and together.
+
+<details>
+    <summary>Expand</summary>
 
 ```rb
 TurkishCities.list_cities({ alphabetically_sorted: true })
@@ -178,10 +227,14 @@ TurkishCities.list_cities({ metropolitan_municipality: true, region: 'Karadeniz'
 TurkishCities.list_cities({ alphabetically_sorted: true, metropolitan_municipality: true })
 # => ["Adana", "Ankara" ... "Tekirdağ", "Trabzon", "Van"]
 ```
+</details>
 
 ### Listing all cities with other parameters
 
 While listing cities ```with``` parameter can be used for listing cities with other attributes. These parameters are ```alphabetically_sorted```, ```metropolitan_municipality``` and ```region```. All parameters can be sent separately and together.
+
+<details>
+    <summary>Expand</summary>
 
 ```rb
 TurkishCities.list_cities({ alphabetically_sorted: true, with: { phone_code: true } })
@@ -196,10 +249,14 @@ TurkishCities.list_cities({ metropolitan_municipality: true, region: 'Karadeniz'
 #      :metropolitan_municipality_since=>1993, :region=>"Karadeniz"}, {:name=>"Trabzon", :plate_number=>61,
 #      :phone_code=>462, :metropolitan_municipality_since=>2012, :region=>"Karadeniz"}]
 ```
+</details>
 
 ### Listing all districts of given city
 
 City name can be given case and turkish character insensitive. Listing of districts are alphabetically sorted.
+
+<details>
+    <summary>Expand</summary>
 
 ```rb
 TurkishCities.list_districts('Ankara')
@@ -215,10 +272,14 @@ TurkishCities.list_districts('Istanbul').length
 TurkishCities.list_districts('filansehir')
 # => "Couldn't find city name with 'filansehir'"
 ```
+</details>
 
 ### Listing all subdistricts of given city and district
 
 City name can be given case and turkish character insensitive. District name should be case and turkish character sensitive.(Correct district names can be obtained by ```list_districts``` method.) Listing of subdistricts are alphabetically sorted.
+
+<details>
+    <summary>Expand</summary>
 
 ```rb
 TurkishCities.list_subdistricts('Adana', 'Seyhan')
@@ -233,11 +294,16 @@ TurkishCities.list_subdistricts('İstanbul', 'Kadılarköyü')
 # => "Couldn't find district name with 'Kadılarköyü' of 'İstanbul'"
 ```
 
+</details>
+
 ### Listing all neighborhoods of given city and district
 
 ### With subdistrict info
 
 City name can be given case and turkish character insensitive. District name and subdistrict name should be case and turkish character sensitive.(Correct district names can be obtained by the ```list_districts``` method. Correct subdistrict names can be obtained by ```list_subdistricts``` method.) Listings of neighborhoods are alphabetically sorted.
+
+<details>
+    <summary>Expand</summary>
 
 ```rb
 TurkishCities.list_neighborhoods('Adana', 'Seyhan', 'Emek')
@@ -251,12 +317,16 @@ TurkishCities.list_neighborhoods('Adana', 'Beşiktaş', 'Emek')
 TurkishCities.list_neighborhoods('Eskişehir', 'Odunpazarı', 'Büyükkkkkdere')
 # => "Couldn't find subdistrict with 'Büyükkkkkdere' of 'Odunpazarı'/'Eskişehir'"
 ```
+</details>
 
 ### Without subdistrict info
 
 Also ```list_neighborhoods``` can work without subdistrict information. This time neighborhoods result will be larger based on searched city and district.
 
 City name can be given case and turkish character insensitive. District name should be case and turkish character sensitive.(Correct district names can be obtained by the ```list_districts``` method.) Listings of neighborhoods are alphabetically sorted.
+
+<details>
+    <summary>Expand</summary>
 
 ```rb
 TurkishCities.list_neighborhoods('Adana', 'Seyhan')
@@ -268,10 +338,14 @@ TurkishCities.list_neighborhoods('Istanbul', 'Beşiktaş')
 TurkishCities.list_neighborhoods('İstanbul', 'filanmevki')
 # => "Couldn't find district name with 'filanmevki' of 'İstanbul'"
 ```
+</details>
 
 ### Finding city, district and subdistrict name by postcode
 
 In Turkey postcodes are uniq for subdistricts. Basically when a postcode is search through ```find_by_postcode``` it will give city, district and subdistrict information of postcode if valid and found
+
+<details>
+    <summary>Expand</summary>
 
 ```rb
 TurkishCities.find_by_postcode(34380)    # => ["İstanbul", "Şişli", "Cumhuriyet"]
@@ -280,12 +354,16 @@ TurkishCities.find_by_postcode('26040')  # => ["Eskişehir", "Odunpazarı", "Bü
 TurkishCities.find_by_postcode(34382)    # => "Couldn't find any subdistrict with postcode '34382'"
 TurkishCities.find_by_postcode('100000') # => Given value [100000] is outside bounds of 1010 to 81952.
 ```
+</details>
 
 ### Finding city name with population data
 
 ### Exact search
 
 Search city name with exact population
+
+<details>
+    <summary>Expand</summary>
 
 ```rb
 TurkishCities.find_by_population('exact', 15840900)
@@ -297,10 +375,14 @@ TurkishCities.find_by_population('exact', 10432)
 TurkishCities.find_by_population('exact', 22130432)
 # => []
 ```
+</details>
 
 ### Below given
 
 Search city name with below population
+
+<details>
+    <summary>Expand</summary>
 
 ```rb
 TurkishCities.find_by_population('below', 86000)
@@ -316,10 +398,14 @@ TurkishCities.find_by_population('below', 10432)
 TurkishCities.find_by_population('below', 22130432)
 # => []
 ```
+</details>
 
 ### Above given
 
 Search city name with above population
+
+<details>
+    <summary>Expand</summary>
 
 ```rb
 TurkishCities.find_by_population('above', 860000)
@@ -335,10 +421,14 @@ TurkishCities.find_by_population('above', 10432)
 TurkishCities.find_by_population('above', 22130432)
 # => []
 ```
+</details>
 
 ### Between search
 
 Search city name with between population
+
+<details>
+    <summary>Expand</summary>
 
 ```rb
 TurkishCities.find_by_population('between', 15840900, 3000000)
@@ -352,12 +442,16 @@ TurkishCities.find_by_population('between', 10432, 100000)
 TurkishCities.find_by_population('between', 2130432, 34000000)
 # => []
 ```
+</details>
 
 ### Finding travel distance and time estimation between two cities
 
 ### By land
 
 City names can be given case and turkish character insensitive. Travel method should be lower case. Array with 2 elements will be returned. First element is distance between cities in kilometers and the second element is the description created by the first element.
+
+<details>
+    <summary>Expand</summary>
 
 ```rb
 TurkishCities.distance_between('Eskişehir', 'Kastamonu', 'land')
@@ -373,10 +467,14 @@ TurkishCities.distance_between('Adana', 'Adıyaman', 'time')
 TurkishCities.distance_between('filansa', 'falansa', 'land')
 # => "Couldn't find cities combination with 'filansa/falansa'"
 ```
+</details>
 
 ### By air
 
 City names can be given case and turkish character insensitive. Travel method should be lower case. Array with 3 elements will be returned. First element is distance between cities in kilometers, the second element is estimated travel time and the last element is the description created by the first two elements.
+
+<details>
+    <summary>Expand</summary>
 
 ```rb
 TurkishCities.distance_between('Eskişehir', 'Kastamonu', 'air')
@@ -392,6 +490,7 @@ TurkishCities.distance_between('Adana', 'Adıyaman', 'time')
 TurkishCities.distance_between('filansa', 'falansa', 'air')
 # => "Couldn't find cities combination with 'filansa/falansa'"
 ```
+</details>
 
 ## Data sources
 
@@ -464,5 +563,5 @@ The logo is licensed under a
 
 ## Copyright
 
-Copyright (c) 2020 Semih Arslanoglu. See [LICENSE.txt](LICENSE.txt) for
+Copyright (c) 2020 - 2022 Semih Arslanoglu. See [LICENSE.txt](LICENSE.txt) for
 further details.
