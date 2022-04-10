@@ -3,7 +3,7 @@ AllCops:
   Exclude:
     - 'Gemfile'
     - 'turkish_cities.gemspec'
-    - gemfiles/vendor/bundle/**/*
+    - 'vendor/bundle/**/*'
   NewCops: enable
   SuggestExtensions: false
 Layout/LineLength:
