@@ -3,10 +3,10 @@
 <p align="center">
     <a href="https://rubygems.org/gems/turkish_cities">
         <img src="https://badge.fury.io/rb/turkish_cities.svg" alt="GemVersion"/></a>
-    <a href="https://travis-ci.org/sarslanoglu/turkish_cities">
-        <img src="https://travis-ci.org/sarslanoglu/turkish_cities.svg?branch=master" alt="BuildStatus"/></a>
-    <a href="https://coveralls.io/github/sarslanoglu/turkish_cities?branch=master">
-        <img src="https://coveralls.io/repos/github/sarslanoglu/turkish_cities/badge.svg?branch=master" alt="CoverageStatus"/></a>
+    <a href="https://app.circleci.com/pipelines/github/sarslanoglu/turkish_cities">
+        <img src="https://circleci.com/gh/sarslanoglu/turkish_cities.svg?style=shield" alt="BuildStatus"/></a>
+    <a href="https://codecov.io/gh/sarslanoglu/turkish_cities">
+        <img src="https://codecov.io/gh/sarslanoglu/turkish_cities/branch/master/graph/badge.svg?token=1SU7ZFI8ZJ"/></a>
     <a href="https://rubygems.org/gems/turkish_cities">
         <img src="https://img.shields.io/gem/dt/turkish_cities.svg" alt="DownloadCount"/></a>
     <a href="https://codeclimate.com/github/sarslanoglu/turkish_cities/maintainability">

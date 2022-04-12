@@ -35,3 +35,5 @@ jobs:
       run: bundle exec rubocop
     - name: Run tests
       run: bundle exec rspec
+    - uses: actions/checkout@master
+    - uses: codecov/codecov-action@v2
