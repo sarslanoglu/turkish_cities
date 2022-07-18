@@ -1,5 +1,11 @@
 # Changelog
 
+## master
+
+### Bug fixes
+
+* [#113](https://github.com/sarslanoglu/turkish_cities/issues/113): Fix no implicit conversion of Array into String error
+
 ## 0.6.0 (2022-02-26)
 
 ### New features
