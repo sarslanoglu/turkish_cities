@@ -24,6 +24,80 @@ RSpec.describe TurkishCities do
     end
   end
 
+  describe '#find_name_by_plate_number' do
+    context 'when input is supported' do
+      it 'finds city by plate number' do
+        expect(TurkishCities.find_name_by_plate_number(6)).to eq 'Ankara'
+      end
+    end
+  end
+
+  describe '#find_name_by_phone_code' do
+    context 'when input is supported' do
+      it 'finds city by phone code' do
+        expect(TurkishCities.find_name_by_phone_code(312)).to eq 'Ankara'
+      end
+    end
+  end
+
+  describe '#find_plate_number_by_name' do
+    context 'when input is supported' do
+      it 'finds plate number by city' do
+        expect(TurkishCities.find_plate_number_by_name('Ankara')).to eq 6
+      end
+    end
+  end
+
+  describe '#find_phone_code_by_name' do
+    context 'when input is supported' do
+      it 'finds phone code by city' do
+        expect(TurkishCities.find_phone_code_by_name('Ankara')).to eq 312
+      end
+    end
+  end
+
+  describe '#list_cities' do
+    context 'when listing without :with parameter' do
+      it 'lists cities by plate number' do
+        city_array = TurkishCities.list_cities
+        expect(city_array.size).to eq 81
+        expect(city_array[41]).to eq 'Konya'
+      end
+    end
+  end
+
+  describe '#list_districts' do
+    context 'when input is supported' do
+      it 'finds districts of given city' do
+        expect(TurkishCities.list_districts('Ankara').length).to eq 25
+      end
+    end
+  end
+
+  describe '#distance_between(land)' do
+    context 'when input is supported' do
+      it 'finds land distance between two location' do
+        land_distance_results = TurkishCities.distance_between('Adana', 'Bolu', 'land')
+        expect(land_distance_results[0]).to eq 690
+        expect(land_distance_results[1])
+          .to eq 'Land travel distance between Adana and Bolu is 690 km'
+      end
+    end
+  end
+
+  describe '#distance_between(air)' do
+    context 'when input is supported' do
+      it 'finds air distance between two location' do
+        very_short_distance_results = TurkishCities.distance_between('Bolu', 'Kastamonu', 'air')
+        expect(very_short_distance_results[0]).to eq 195.4
+        expect(very_short_distance_results[1]).to eq 49
+        expect(very_short_distance_results[2])
+          .to eq 'Air travel distance between Bolu and Kastamonu is 195.4 km. '\
+                 'Estimated air travel would take 49 minutes'
+      end
+    end
+  end
+
   describe '#list_subdistricts' do
     context 'when input is supported' do
       it 'finds districts of given city' do
@@ -75,6 +149,30 @@ RSpec.describe TurkishCities do
           .to eq "Couldn't find district name with 'filanmevki' of 'İstanbul'"
         expect(TurkishCities.list_neighborhoods('Eskişehir', 'Odunpazarı', 'Büyükkkkkdere'))
           .to eq "Couldn't find subdistrict with 'Büyükkkkkdere' of 'Odunpazarı'/'Eskişehir'"
+      end
+    end
+  end
+
+  describe '#find_by_elevation' do
+    context 'when input is supported' do
+      it 'finds city with below elevation' do
+        expect(TurkishCities.find_by_elevation('below', 5)).to eq %w[Kocaeli]
+      end
+    end
+  end
+
+  describe '#find_by_population' do
+    context 'when input is supported' do
+      it 'finds city with exact population' do
+        expect(TurkishCities.find_by_population('exact', 15_840_900)).to eq %w[İstanbul]
+      end
+    end
+  end
+
+  describe '#find_by_postcode' do
+    context 'when input is supported' do
+      it 'finds city, district and subdistrict info of postcode' do
+        expect(TurkishCities.find_by_postcode(34_380)).to eq %w[İstanbul Şişli Cumhuriyet]
       end
     end
   end

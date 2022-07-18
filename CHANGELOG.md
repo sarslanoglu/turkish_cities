@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.7.0 (Unreleased)
+
+### New features
+
+* [#14](https://github.com/sarslanoglu/turkish_cities/issues/14): Add city altitude data and ```find_by_elevation``` method
+
 ## 0.6.1 (2022-07-18)
 
 ### Bug fixes

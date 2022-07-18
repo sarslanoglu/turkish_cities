@@ -4,6 +4,7 @@ en:
     land_travel: "Land travel distance between %{first_city} and %{second_city} is %{distance} km"
   errors:
     cities_not_found_error: "Couldn't find cities combination with '%{first}/%{second}'"
+    city_elevation_not_found_error: "Couldn't find any city with elevation data"
     city_not_found_error: "Couldn't find city name with '%{input}'"
     city_population_not_found_error: "Couldn't find any city with population data"
     district_not_found_error: "Couldn't find district name with '%{district_input}' of '%{city_input}'"
@@ -11,6 +12,7 @@ en:
     outside_bounds: "Given value [%{input}] is outside bounds of %{min} to %{max}"
     postcode_not_found_error: "Couldn't find any subdistrict with postcode '%{postcode_input}'"
     subdistrict_not_found_error: "Couldn't find subdistrict with '%{subdistrict_input}' of '%{district_input}'/'%{city_input}'"
+    unsupported_elevation_type: "Elevation type '%{input}' is unsupported"
     unsupported_population_type: "Population type '%{input}' is unsupported"
     unsupported_travel_method: "Travel method '%{input}' is unsupported"
   language:

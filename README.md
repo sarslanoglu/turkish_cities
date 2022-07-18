@@ -52,6 +52,14 @@ https://rubygems.org/gems/turkish_cities
                 </li>
                 <li><a href="#finding-city-district-and-subdistrict-name-by-postcode">Finding city, district and subdistrict name by postcode</a></li>
                 <li>
+                    <a href="#finding-city-name-with-elevation-data">Finding city name with elevation data</a>
+                    <ul>
+                        <li><a href="#below-given">Below given</a></li>
+                        <li><a href="#above-given">Above given</a></li>
+                        <li><a href="#between-search">Between search</a></li>
+                    </ul>
+                </li>
+                <li>
                     <a href="#finding-city-name-with-population-data">Finding city name with population data</a>
                     <ul>
                         <li><a href="#exact-search">Exact search</a></li>
@@ -353,6 +361,75 @@ TurkishCities.find_by_postcode(34433)    # => ["İstanbul", "Beyoğlu", "Cihangi
 TurkishCities.find_by_postcode('26040')  # => ["Eskişehir", "Odunpazarı", "Büyükdere"]
 TurkishCities.find_by_postcode(34382)    # => "Couldn't find any subdistrict with postcode '34382'"
 TurkishCities.find_by_postcode('100000') # => Given value [100000] is outside bounds of 1010 to 81952.
+```
+</details>
+
+### Finding city name with elevation data
+
+### Below given
+
+Search city name with below elevation
+
+<details>
+    <summary>Expand</summary>
+
+```rb
+TurkishCities.find_by_elevation('below', 86000)
+# => ["Tunceli", "Bayburt"]
+TurkishCities.find_by_elevation('below', 500000)
+# => ["Amasya", "Artvin" ... "Kilis", "Düzce"]
+TurkishCities.find_by_elevation('below', 5000000)
+# => ["Adana", "Adıyaman" ... "Kilis", "Osmaniye", "Düzce"]
+TurkishCities.find_by_elevation('woleb', 2130432)
+# => "Population type 'woleb' is unsupported"
+TurkishCities.find_by_elevation('below', 10432)
+# => []
+TurkishCities.find_by_elevation('below', 22130432)
+# => []
+```
+</details>
+
+### Above given
+
+Search city name with above elevation
+
+<details>
+    <summary>Expand</summary>
+
+```rb
+TurkishCities.find_by_elevation('above', 860000)
+# => ["Adana", "Ankara" ... "Şanlıurfa", "Van"]
+TurkishCities.find_by_elevation('above', 2500000)
+# => ["Ankara", "Antalya", "Bursa", "İstanbul", "İzmir"]
+TurkishCities.find_by_elevation('above', 5000000)
+# => ["Ankara", "İstanbul"]
+TurkishCities.find_by_elevation('abov', 2130432)
+# => "Population type 'abov' is unsupported"
+TurkishCities.find_by_elevation('above', 10432)
+# => []
+TurkishCities.find_by_elevation('above', 22130432)
+# => []
+```
+</details>
+
+### Between search
+
+Search city name with between elevation
+
+<details>
+    <summary>Expand</summary>
+
+```rb
+TurkishCities.find_by_elevation('between', 15840900, 3000000)
+# => ["Ankara", "Bursa", "İzmir"]
+TurkishCities.find_by_elevation('between', 828369, 985732)
+# => ["Eskişehir", "Mardin"]
+TurkishCities.find_by_elevation('between', 2130432, 3500000)
+# => ["Adana", "Antalya", "Bursa", "Konya", "Şanlıurfa"]
+TurkishCities.find_by_elevation('between', 10432, 100000)
+# => []
+TurkishCities.find_by_elevation('between', 2130432, 34000000)
+# => []
 ```
 </details>
 

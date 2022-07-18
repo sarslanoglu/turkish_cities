@@ -12,9 +12,9 @@ class Population
   CITY_LIST = YAML.load_file(file_path)
 
   def find_by_population(type, population_one, population_two)
-    return [] unless check_population_range(population_one, 83_645, 15_840_900)
+    return [] unless check_number_range(population_one, 83_645, 15_840_900)
 
-    return [] if !population_two.nil? && !check_population_range(population_two, 83_645, 15_840_900)
+    return [] if !population_two.nil? && !check_number_range(population_two, 83_645, 15_840_900)
 
     result = find_population(type, population_one, population_two)
 
