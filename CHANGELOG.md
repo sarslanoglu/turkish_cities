@@ -1,6 +1,6 @@
 # Changelog
 
-## master
+## 0.6.1 (2022-07-18)
 
 ### Bug fixes
 
