@@ -13,6 +13,8 @@ Metrics/AbcSize:
 Metrics/BlockLength:
   IgnoredMethods: ['describe', 'context']
 Metrics/MethodLength:
-  Max: 15
+  Max: 20
+Metrics/ModuleLength:
+  Max: 150
 Style/Documentation:
   Enabled: false

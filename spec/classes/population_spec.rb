@@ -34,6 +34,8 @@ RSpec.describe Population do
       it 'gives city_population_not_found_error' do
         expect(Population.new.find_by_population('exact', 100_000, nil))
           .to eq "Couldn't find any city with population data"
+        expect(Population.new.find_by_population('between', 20_000_000, 100_000_000))
+          .to eq "Couldn't find any city with population data"
       end
 
       it 'gives unsupported_population_type' do
@@ -42,10 +44,16 @@ RSpec.describe Population do
       end
 
       it 'gives out of bounds error' do
-        expect(Population.new.find_by_population('exact', nil, nil)).to eq %w[]
-        expect(Population.new.find_by_population('exact', 0, nil)).to eq %w[]
-        expect(Population.new.find_by_population('exact', 10_000, nil)).to eq %w[]
-        expect(Population.new.find_by_population('between', 100_000, 100_000_000)).to eq %w[]
+        expect { Population.new.find_by_population('exact', nil, nil) }
+          .to raise_error(RangeError, 'Given value [] is outside bounds of 83644 to 15840901')
+        expect { Population.new.find_by_population('exact', 0, nil) }
+          .to raise_error(RangeError, 'Given value [0] is outside bounds of 83644 to 15840901')
+        expect { Population.new.find_by_population('exact', 10_000, nil) }
+          .to raise_error(RangeError, 'Given value [10000] is outside bounds of 83644 to 15840901')
+        expect { Population.new.find_by_population('below', 10_000, nil) }
+          .to raise_error(RangeError, 'Given value [10000] is outside bounds of 83644 to Infinity')
+        expect { Population.new.find_by_population('above', 20_000_000, nil) }
+          .to raise_error(RangeError, 'Given value [20000000] is outside bounds of 0 to 15840901')
       end
     end
   end

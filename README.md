@@ -366,6 +366,8 @@ TurkishCities.find_by_postcode('100000') # => Given value [100000] is outside bo
 
 ### Finding city name with elevation data
 
+The lowest possible altitude for a city in Turkey is 4 meters with Kocaeli. The highest possible altitude is 1923 meters with Erzurum. Being far outside of the range may give errors.
+
 ### Below given
 
 Search city name with below elevation
@@ -374,18 +376,18 @@ Search city name with below elevation
     <summary>Expand</summary>
 
 ```rb
-TurkishCities.find_by_elevation('below', 86000)
-# => ["Tunceli", "Bayburt"]
-TurkishCities.find_by_elevation('below', 500000)
-# => ["Amasya", "Artvin" ... "Kilis", "Düzce"]
-TurkishCities.find_by_elevation('below', 5000000)
+TurkishCities.find_by_elevation('below', 10)
+# => ["İzmir", "Kocaeli", "Yalova"]
+TurkishCities.find_by_elevation('below', 50)
+# => ["Adana", "Çanakkale" ... "Bartın", "Yalova"]
+TurkishCities.find_by_elevation('below', 500)
+# => ["Adana", "Amasya" ... "Karabük", "Osmaniye", "Düzce"]
+TurkishCities.find_by_elevation('below', 2213)
 # => ["Adana", "Adıyaman" ... "Kilis", "Osmaniye", "Düzce"]
-TurkishCities.find_by_elevation('woleb', 2130432)
-# => "Population type 'woleb' is unsupported"
-TurkishCities.find_by_elevation('below', 10432)
-# => []
-TurkishCities.find_by_elevation('below', 22130432)
-# => []
+TurkishCities.find_by_elevation('woleb', 213)
+# => "Elevation type 'woleb' is unsupported"
+TurkishCities.find_by_elevation('below', 1)
+# => Given value [1] is outside bounds of 3 to Infinity
 ```
 </details>
 
@@ -397,18 +399,18 @@ Search city name with above elevation
     <summary>Expand</summary>
 
 ```rb
-TurkishCities.find_by_elevation('above', 860000)
-# => ["Adana", "Ankara" ... "Şanlıurfa", "Van"]
-TurkishCities.find_by_elevation('above', 2500000)
-# => ["Ankara", "Antalya", "Bursa", "İstanbul", "İzmir"]
-TurkishCities.find_by_elevation('above', 5000000)
-# => ["Ankara", "İstanbul"]
-TurkishCities.find_by_elevation('abov', 2130432)
-# => "Population type 'abov' is unsupported"
-TurkishCities.find_by_elevation('above', 10432)
-# => []
-TurkishCities.find_by_elevation('above', 22130432)
-# => []
+TurkishCities.find_by_elevation('above', 0)
+# => ["Adana", "Adıyaman" ... "Osmaniye", "Düzce"]
+TurkishCities.find_by_elevation('above', 100)
+# => ["Adıyaman", "Afyon" ... "Osmaniye", "Düzce"]
+TurkishCities.find_by_elevation('above', 500)
+# => ["Adıyaman", "Afyon" ... "Iğdır", "Kilis"]
+TurkishCities.find_by_elevation('above', 1750)
+# => ["Erzurum", "Hakkari", "Kars", "Ardahan"]
+TurkishCities.find_by_elevation('abov', 1000)
+# => "Elevation type 'abov' is unsupported"
+TurkishCities.find_by_elevation('above', 2000)
+# => Given value [2000] is outside bounds of 0 to 1924
 ```
 </details>
 
@@ -420,20 +422,22 @@ Search city name with between elevation
     <summary>Expand</summary>
 
 ```rb
-TurkishCities.find_by_elevation('between', 15840900, 3000000)
-# => ["Ankara", "Bursa", "İzmir"]
-TurkishCities.find_by_elevation('between', 828369, 985732)
-# => ["Eskişehir", "Mardin"]
-TurkishCities.find_by_elevation('between', 2130432, 3500000)
-# => ["Adana", "Antalya", "Bursa", "Konya", "Şanlıurfa"]
-TurkishCities.find_by_elevation('between', 10432, 100000)
-# => []
-TurkishCities.find_by_elevation('between', 2130432, 34000000)
-# => []
+TurkishCities.find_by_elevation('between', 50, 100)
+# => ["Antalya", "Aydın", "Hatay", "Manisa"]
+TurkishCities.find_by_elevation('between', 100, 250)
+# => ["Balıkesir", "Bursa", "Kırklareli", "Osmaniye", "Düzce"]
+TurkishCities.find_by_elevation('between', 250, 1000)
+# => ["Adıyaman", "Amasya" ... "Karabük", "Kilis"]
+TurkishCities.find_by_elevation('between', 0, 2000)
+# => ["Adana", "Adıyaman" ... "Osmaniye", "Düzce"]
+TurkishCities.find_by_elevation('between', 2000, 5000)
+# => "Couldn't find any city with elevation data"
 ```
 </details>
 
 ### Finding city name with population data
+
+The least populated city in Turkey is Tunceli with 83645. The highest populated is Istanbul with 15840900. Being far outside of the range may give errors.
 
 ### Exact search
 
@@ -445,12 +449,14 @@ Search city name with exact population
 ```rb
 TurkishCities.find_by_population('exact', 15840900)
 # => ["İstanbul"]
+TurkishCities.find_by_population('exact', 104320)
+# => "Couldn't find any city with population data"
 TurkishCities.find_by_population('exatc', 2130432)
 # => "Population type 'exatc' is unsupported"
 TurkishCities.find_by_population('exact', 10432)
-# => []
+# => Given value [10432] is outside bounds of 83644 to 15840901
 TurkishCities.find_by_population('exact', 22130432)
-# => []
+# => Given value [22130432] is outside bounds of 83644 to 15840901
 ```
 </details>
 
@@ -466,14 +472,14 @@ TurkishCities.find_by_population('below', 86000)
 # => ["Tunceli", "Bayburt"]
 TurkishCities.find_by_population('below', 500000)
 # => ["Amasya", "Artvin" ... "Kilis", "Düzce"]
-TurkishCities.find_by_population('below', 5000000)
+TurkishCities.find_by_population('below', 1000000)
+# => ["Adıyaman", "Afyon" ... "Kilis", "Osmaniye", "Düzce"]
+TurkishCities.find_by_population('below', 22130432)
 # => ["Adana", "Adıyaman" ... "Kilis", "Osmaniye", "Düzce"]
 TurkishCities.find_by_population('woleb', 2130432)
 # => "Population type 'woleb' is unsupported"
 TurkishCities.find_by_population('below', 10432)
-# => []
-TurkishCities.find_by_population('below', 22130432)
-# => []
+# => Given value [10432] is outside bounds of 83644 to Infinity
 ```
 </details>
 
@@ -491,12 +497,12 @@ TurkishCities.find_by_population('above', 2500000)
 # => ["Ankara", "Antalya", "Bursa", "İstanbul", "İzmir"]
 TurkishCities.find_by_population('above', 5000000)
 # => ["Ankara", "İstanbul"]
+TurkishCities.find_by_population('above', 10432)
+# => ["Adana", "Adıyaman" ... "Kilis", "Osmaniye", "Düzce"]
 TurkishCities.find_by_population('abov', 2130432)
 # => "Population type 'abov' is unsupported"
-TurkishCities.find_by_population('above', 10432)
-# => []
 TurkishCities.find_by_population('above', 22130432)
-# => []
+# => Given value [22130432] is outside bounds of 0 to 15840901
 ```
 </details>
 
@@ -508,16 +514,18 @@ Search city name with between population
     <summary>Expand</summary>
 
 ```rb
-TurkishCities.find_by_population('between', 15840900, 3000000)
-# => ["Ankara", "Bursa", "İzmir"]
+TurkishCities.find_by_population('between', 15840901, 3000000)
+# => ["Ankara", "Bursa", "İstanbul", İzmir"]
 TurkishCities.find_by_population('between', 828369, 985732)
 # => ["Eskişehir", "Mardin"]
 TurkishCities.find_by_population('between', 2130432, 3500000)
 # => ["Adana", "Antalya", "Bursa", "Konya", "Şanlıurfa"]
 TurkishCities.find_by_population('between', 10432, 100000)
-# => []
-TurkishCities.find_by_population('between', 2130432, 34000000)
-# => []
+# => ["Tunceli", "Bayburt", "Ardahan"]
+TurkishCities.find_by_population('between', 11304320, 34000000)
+# => ["İstanbul"]
+TurkishCities.find_by_population('between', 100000, 100001)
+# => "Couldn't find any city with population data"
 ```
 </details>
 

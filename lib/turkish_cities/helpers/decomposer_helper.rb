@@ -7,10 +7,6 @@ module DecomposerHelper
     raise RangeError, I18n.t('errors.outside_bounds', input: input, min: min, max: max)
   end
 
-  def check_number_range(input, min, max)
-    input.to_i.between?(min, max)
-  end
-
   def city_elevation_not_found_error
     I18n.t('errors.city_elevation_not_found_error')
   end
@@ -50,6 +46,14 @@ module DecomposerHelper
     I18n.t('errors.district_not_found_error', district_input: district_input, city_input: city_input)
   end
 
+  def find_by_between(search_type, city_list, input_one, input_two)
+    sorted_inputs = sort_input_numbers(input_one, input_two)
+
+    city_list.map do |city|
+      city['name'] if city[search_type] > sorted_inputs[0] && city[search_type] < sorted_inputs[1]
+    end.compact
+  end
+
   def postcode_not_found_error(postcode_input)
     I18n.t('errors.postcode_not_found_error', postcode_input: postcode_input)
   end
@@ -84,6 +88,14 @@ module DecomposerHelper
                        item[:name]
                      end
       item_to_sort.downcase(:turkic).chars.map { |char| turkish_alphabet.index(char) }
+    end
+  end
+
+  def sort_input_numbers(input_one, input_two)
+    if input_one > input_two
+      [input_two, input_one]
+    else
+      [input_one, input_two]
     end
   end
 
