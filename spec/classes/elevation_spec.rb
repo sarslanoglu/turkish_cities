@@ -26,19 +26,19 @@ RSpec.describe Elevation do
         expect(Elevation.new.find_by_elevation('between', 1700, 1923)).to eq %w[Hakkari Kars Van Ardahan]
         expect(Elevation.new.find_by_elevation('between', 0, 2000).length).to eq 81
       end
+
+      it 'gives empty result for out of boundary inputs' do
+        expect(Elevation.new.find_by_elevation('between', 1000, 1001))
+          .to eq %w[]
+        expect(Elevation.new.find_by_elevation('between', 100_000, 100_000_000))
+          .to eq %w[]
+      end
     end
 
     context 'when input is not supported' do
-      it 'gives city_elevation_not_found_error' do
-        expect(Elevation.new.find_by_elevation('between', 1000, 1001))
-          .to eq "Couldn't find any city with elevation data"
-        expect(Elevation.new.find_by_elevation('between', 100_000, 100_000_000))
-          .to eq "Couldn't find any city with elevation data"
-      end
-
       it 'gives unsupported_elevation_type' do
-        expect(Elevation.new.find_by_elevation('exatc', 1000, nil))
-          .to eq "Elevation type 'exatc' is unsupported"
+        expect { Elevation.new.find_by_elevation('exatc', 1000, nil) }
+          .to raise_error(ArgumentError, "Elevation type 'exatc' is unsupported")
       end
 
       it 'gives out of bounds error' do

@@ -4,7 +4,6 @@ en:
     land_travel: "Land travel distance between %{first_city} and %{second_city} is %{distance} km"
   errors:
     cities_not_found_error: "Couldn't find cities combination with '%{first}/%{second}'"
-    city_elevation_not_found_error: "Couldn't find any city with elevation data"
     city_not_found_error: "Couldn't find city name with '%{input}'"
     city_population_not_found_error: "Couldn't find any city with population data"
     district_not_found_error: "Couldn't find district name with '%{district_input}' of '%{city_input}'"

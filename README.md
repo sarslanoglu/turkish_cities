@@ -385,9 +385,9 @@ TurkishCities.find_by_elevation('below', 500)
 TurkishCities.find_by_elevation('below', 2213)
 # => ["Adana", "Adıyaman" ... "Kilis", "Osmaniye", "Düzce"]
 TurkishCities.find_by_elevation('woleb', 213)
-# => "Elevation type 'woleb' is unsupported"
+# => ArgumentError: "Elevation type 'woleb' is unsupported"
 TurkishCities.find_by_elevation('below', 1)
-# => Given value [1] is outside bounds of 3 to Infinity
+# => RangeError: Given value [1] is outside bounds of 3 to Infinity
 ```
 </details>
 
@@ -408,9 +408,9 @@ TurkishCities.find_by_elevation('above', 500)
 TurkishCities.find_by_elevation('above', 1750)
 # => ["Erzurum", "Hakkari", "Kars", "Ardahan"]
 TurkishCities.find_by_elevation('abov', 1000)
-# => "Elevation type 'abov' is unsupported"
+# => ArgumentError: "Elevation type 'abov' is unsupported"
 TurkishCities.find_by_elevation('above', 2000)
-# => Given value [2000] is outside bounds of 0 to 1924
+# => RangeError: Given value [2000] is outside bounds of 0 to 1924
 ```
 </details>
 
@@ -431,7 +431,7 @@ TurkishCities.find_by_elevation('between', 250, 1000)
 TurkishCities.find_by_elevation('between', 0, 2000)
 # => ["Adana", "Adıyaman" ... "Osmaniye", "Düzce"]
 TurkishCities.find_by_elevation('between', 2000, 5000)
-# => "Couldn't find any city with elevation data"
+# => []
 ```
 </details>
 

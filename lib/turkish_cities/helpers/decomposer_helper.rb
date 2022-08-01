@@ -7,10 +7,6 @@ module DecomposerHelper
     raise RangeError, I18n.t('errors.outside_bounds', input: input, min: min, max: max)
   end
 
-  def city_elevation_not_found_error
-    I18n.t('errors.city_elevation_not_found_error')
-  end
-
   def city_not_found_error(input)
     I18n.t('errors.city_not_found_error', input: input)
   end
@@ -125,7 +121,7 @@ module DecomposerHelper
   end
 
   def unsupported_elevation_type(input)
-    I18n.t('errors.unsupported_elevation_type', input: input)
+    raise ArgumentError, I18n.t('errors.unsupported_elevation_type', input: input)
   end
 
   def unsupported_population_type(input)

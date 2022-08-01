@@ -4,7 +4,6 @@ tr:
     land_travel: "%{first_city} ile %{second_city} arasındaki karayolu mesafesi %{distance} km"
   errors:
     cities_not_found_error: "'%{first}/%{second}' ile şehir kombinasyonu bulunamadı"
-    city_elevation_not_found_error: "Verilen rakım verisi ile şehir bulunamadı"
     city_not_found_error: "'%{input}' ile bir şehir bulunamadı"
     city_population_not_found_error: "Verilen nüfus verisi ile şehir bulunamadı"
     district_not_found_error: "'%{city_input}' şehrine ait '%{district_input}' ilçesi ile bir kayıt bulunamadı"

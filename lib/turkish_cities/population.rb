@@ -11,6 +11,9 @@ class Population
   file_path = File.join(File.dirname(__FILE__), 'data/cities.yaml')
   CITY_LIST = YAML.load_file(file_path)
 
+  MIN_POPULATION = 83_644
+  MAX_POPULATION = 15_840_901
+
   def find_by_population(type, population_one, population_two = nil)
     result = find_population(type, population_one, population_two)
 
@@ -24,13 +27,13 @@ class Population
 
     case type
     when 'exact'
-      check_input_range(population_one, 83_644, 15_840_901)
+      check_input_range(population_one, self.class::MIN_POPULATION, self.class::MAX_POPULATION)
       exact_population(city_list, population_one)
     when 'below'
-      check_input_range(population_one, 83_644, Float::INFINITY)
+      check_input_range(population_one, self.class::MIN_POPULATION, Float::INFINITY)
       below_population(city_list, population_one)
     when 'above'
-      check_input_range(population_one, 0, 15_840_901)
+      check_input_range(population_one, 0, self.class::MAX_POPULATION)
       above_population(city_list, population_one)
     when 'between'
       between_population(city_list, population_one.to_i, population_two.to_i)
