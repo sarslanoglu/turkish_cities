@@ -11,7 +11,8 @@ tr:
     outside_bounds: "Girilen değer [%{input}] %{min} ile %{max} değerleri dışında"
     postcode_not_found_error: "'%{postcode_input}' posta kodu ile kayıt bulunamadı"
     subdistrict_not_found_error: "'%{subdistrict_input}' ile '%{district_input}'/'%{city_input}' ait bir kayıt bulunamdı"
-    unsupported_population_type: "'%{input}' ile arama methodu desteklenmiyor"
+    unsupported_elevation_type: "'%{input}' ile rakım arama desteklenmiyor"
+    unsupported_population_type: "'%{input}' ile nüfus arama desteklenmiyor"
     unsupported_travel_method: "'%{input}' yolculuk methodu desteklenmiyor"
   language:
     errors:

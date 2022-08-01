@@ -11,11 +11,10 @@ class Population
   file_path = File.join(File.dirname(__FILE__), 'data/cities.yaml')
   CITY_LIST = YAML.load_file(file_path)
 
-  def find_by_population(type, population_one, population_two)
-    return [] unless check_population_range(population_one, 83_645, 15_840_900)
+  MIN_POPULATION = 83_644
+  MAX_POPULATION = 15_840_901
 
-    return [] if !population_two.nil? && !check_population_range(population_two, 83_645, 15_840_900)
-
+  def find_by_population(type, population_one, population_two = nil)
     result = find_population(type, population_one, population_two)
 
     result.length.positive? ? result : city_population_not_found_error
@@ -28,13 +27,16 @@ class Population
 
     case type
     when 'exact'
+      check_input_range(population_one, self.class::MIN_POPULATION, self.class::MAX_POPULATION)
       exact_population(city_list, population_one)
     when 'below'
+      check_input_range(population_one, self.class::MIN_POPULATION, Float::INFINITY)
       below_population(city_list, population_one)
     when 'above'
+      check_input_range(population_one, 0, self.class::MAX_POPULATION)
       above_population(city_list, population_one)
     when 'between'
-      between_population(city_list, population_one, population_two)
+      between_population(city_list, population_one.to_i, population_two.to_i)
     else
       unsupported_population_type(type)
     end
@@ -53,14 +55,6 @@ class Population
   end
 
   def between_population(city_list, population_one, population_two)
-    if population_one > population_two
-      bigger = population_one
-      smaller = population_two
-    else
-      smaller = population_one
-      bigger = population_two
-    end
-
-    city_list.map { |city| city['name'] if city['population'] > smaller && city['population'] < bigger }.compact
+    find_by_between('population', city_list, population_one, population_two)
   end
 end

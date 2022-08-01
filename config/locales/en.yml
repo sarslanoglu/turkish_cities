@@ -11,6 +11,7 @@ en:
     outside_bounds: "Given value [%{input}] is outside bounds of %{min} to %{max}"
     postcode_not_found_error: "Couldn't find any subdistrict with postcode '%{postcode_input}'"
     subdistrict_not_found_error: "Couldn't find subdistrict with '%{subdistrict_input}' of '%{district_input}'/'%{city_input}'"
+    unsupported_elevation_type: "Elevation type '%{input}' is unsupported"
     unsupported_population_type: "Population type '%{input}' is unsupported"
     unsupported_travel_method: "Travel method '%{input}' is unsupported"
   language:

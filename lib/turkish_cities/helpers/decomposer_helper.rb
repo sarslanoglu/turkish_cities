@@ -7,10 +7,6 @@ module DecomposerHelper
     raise RangeError, I18n.t('errors.outside_bounds', input: input, min: min, max: max)
   end
 
-  def check_population_range(input, min, max)
-    input.to_i.between?(min, max)
-  end
-
   def city_not_found_error(input)
     I18n.t('errors.city_not_found_error', input: input)
   end
@@ -44,6 +40,14 @@ module DecomposerHelper
 
   def district_not_found_error(district_input, city_input)
     I18n.t('errors.district_not_found_error', district_input: district_input, city_input: city_input)
+  end
+
+  def find_by_between(search_type, city_list, input_one, input_two)
+    sorted_inputs = sort_input_numbers(input_one, input_two)
+
+    city_list.map do |city|
+      city['name'] if city[search_type] > sorted_inputs[0] && city[search_type] < sorted_inputs[1]
+    end.compact
   end
 
   def postcode_not_found_error(postcode_input)
@@ -83,6 +87,14 @@ module DecomposerHelper
     end
   end
 
+  def sort_input_numbers(input_one, input_two)
+    if input_one > input_two
+      [input_two, input_one]
+    else
+      [input_one, input_two]
+    end
+  end
+
   def subdistrict_not_found_error(subdistrict_input, district_input, city_input)
     I18n.t('errors.subdistrict_not_found_error', subdistrict_input: subdistrict_input, district_input: district_input,
                                                  city_input: city_input)
@@ -106,6 +118,10 @@ module DecomposerHelper
     return unless options.dig(:with, :metropolitan_municipality_since) || options.dig(:with, :all)
 
     result[:metropolitan_municipality_since] = city['metropolitan_municipality_since']
+  end
+
+  def unsupported_elevation_type(input)
+    raise ArgumentError, I18n.t('errors.unsupported_elevation_type', input: input)
   end
 
   def unsupported_population_type(input)
