@@ -10,8 +10,8 @@ require_relative '../lib/turkish_cities/version'
 
 require 'i18n'
 
-I18n.load_path << "#{File.expand_path('config/locales')}/en.yml"
-I18n.load_path << "#{File.expand_path('config/locales')}/tr.yml"
+I18n.load_path << "#{File.dirname(__FILE__)}/config/locales/en.yml"
+I18n.load_path << "#{File.dirname(__FILE__)}/config/locales/tr.yml"
 
 class TurkishCities
   PLATE_NUMBER = 'plate_number'
