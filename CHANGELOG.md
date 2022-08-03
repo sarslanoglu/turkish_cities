@@ -1,10 +1,14 @@
 # Changelog
 
-## 0.7.0 (Unreleased)
+## 0.7.0 (2022-08-03)
 
 ### New features
 
 * [#14](https://github.com/sarslanoglu/turkish_cities/issues/14): Add city altitude data and ```find_by_elevation``` method
+
+### Bug fixes
+
+* [#116](https://github.com/sarslanoglu/turkish_cities/issues/116): translation missing error on Rails apps
 
 ## 0.6.1 (2022-07-18)
 
