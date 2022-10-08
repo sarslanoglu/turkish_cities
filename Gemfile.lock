@@ -59,7 +59,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 2.2.16)
+  bundler (~> 2.3.23)
   codecov (~> 0.6.0)
   rake (~> 13.0.6)
   rspec (~> 3.11.0)
@@ -67,4 +67,4 @@ DEPENDENCIES
   turkish_cities!
 
 BUNDLED WITH
-   2.2.16
+   2.3.23
