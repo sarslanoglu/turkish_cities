@@ -26,7 +26,7 @@ RSpec.describe Population do
       it 'finds cities between given populations' do
         expect(Population.new.find_by_population('between', 85_000, 100_000)).to eq %w[Bayburt Ardahan]
         expect(Population.new.find_by_population('between', 500_000, 1_000_000).length).to eq 19
-        expect(Population.new.find_by_population('between', 3_000_000, 5_000_000)).to eq %w[Bursa İzmir]
+        expect(Population.new.find_by_population('between', 5_000_000, 3_000_000)).to eq %w[Bursa İzmir]
       end
     end
 

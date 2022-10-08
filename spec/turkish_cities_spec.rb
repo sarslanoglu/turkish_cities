@@ -92,7 +92,7 @@ RSpec.describe TurkishCities do
         expect(very_short_distance_results[0]).to eq 195.4
         expect(very_short_distance_results[1]).to eq 49
         expect(very_short_distance_results[2])
-          .to eq 'Air travel distance between Bolu and Kastamonu is 195.4 km. '\
+          .to eq 'Air travel distance between Bolu and Kastamonu is 195.4 km. ' \
                  'Estimated air travel would take 49 minutes'
       end
     end

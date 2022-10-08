@@ -69,11 +69,11 @@ class City
   end
 
   def filter_metropolitan_municipalities(city_list)
-    city_list.map { |city| city unless city['metropolitan_municipality_since'].nil? }.compact
+    city_list.reject { |city| city['metropolitan_municipality_since'].nil? }
   end
 
   def filter_regions(city_list, region)
     region = convert_chars(region.to_s)
-    city_list.map { |city| city if convert_chars(city['region']) == region }.compact
+    city_list.select { |city| convert_chars(city['region']) == region }
   end
 end
