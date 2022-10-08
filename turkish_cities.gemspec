@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'i18n', ['>= 0.6.4', '<= 2']
 
-  s.add_development_dependency 'bundler', '~> 2.2.16'
+  s.add_development_dependency 'bundler', '~> 2.3.23'
   s.add_development_dependency 'codecov', '~> 0.6.0'
   s.add_development_dependency 'rake', '~> 13.0.6'
   s.add_development_dependency 'rspec', '~> 3.11.0'
