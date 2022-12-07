@@ -2,6 +2,10 @@
 
 ## 0.7.0 (2022-08-03)
 
+### Bug fixes
+
+* [#122](https://github.com/sarslanoglu/turkish_cities/issues/122): ArgumentError: comparison of Array with Array failed
+
 ### New features
 
 * [#14](https://github.com/sarslanoglu/turkish_cities/issues/14): Add city altitude data and ```find_by_elevation``` method
