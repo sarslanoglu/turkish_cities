@@ -2,6 +2,9 @@
 
 ## Unreleased version
 
+### New Features
+* [#127](https://github.com/sarslanoglu/turkish_cities/issues/127): Add control for missing chars on ```sort_alphabetically``` method
+
 ### Bug fixes
 * [#124](https://github.com/sarslanoglu/turkish_cities/issues/124): ArgumentError: comparison of Array with Array failed
 * [#122](https://github.com/sarslanoglu/turkish_cities/issues/122): ArgumentError: comparison of Array with Array failed
