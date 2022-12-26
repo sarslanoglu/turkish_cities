@@ -75,7 +75,7 @@ module DecomposerHelper
   end
 
   def sort_alphabetically(list, options = nil)
-    turkish_alphabet = ' -0123456789abcçdefgğhıijklmnoöprsştuüvyz'
+    turkish_alphabet = ' -.()0123456789abcçdefgğhıijklmnoöprsştuüvyz'
 
     list.sort_by do |item|
       item_to_sort = if options.nil? || options[:with].nil?

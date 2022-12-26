@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased version
+
+### Bug fixes
+* [#124](https://github.com/sarslanoglu/turkish_cities/issues/124): ArgumentError: comparison of Array with Array failed
+* [#122](https://github.com/sarslanoglu/turkish_cities/issues/122): ArgumentError: comparison of Array with Array failed
+
 ## 0.7.0 (2022-08-03)
 
 ### New features
