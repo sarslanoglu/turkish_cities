@@ -9,6 +9,7 @@ RSpec.describe District do
         expect(District.new('Artvin', 'Yusufeli').neighborhoods(nil).count).to eq 674
         expect(District.new('İstanbul', 'Adalar').neighborhoods(nil).count).to eq 5
         expect(District.new('Ankara', 'Mamak').neighborhoods(nil).count).to eq 64
+        expect(District.new('İzmir', 'Konak').neighborhoods(nil).count).to eq 113
       end
     end
   end
