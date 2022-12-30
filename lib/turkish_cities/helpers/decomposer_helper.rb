@@ -83,7 +83,9 @@ module DecomposerHelper
                      else
                        item[:name]
                      end
-      item_to_sort.downcase(:turkic).chars.map { |char| turkish_alphabet.index(char) }
+      item_to_sort.downcase(:turkic).chars.map do |char|
+        turkish_alphabet.include?(char) ? turkish_alphabet.index(char) : turkish_alphabet.length
+      end
     end
   end
 
