@@ -609,9 +609,10 @@ https://bestgems.org/gems/turkish_cities
 
 | Ruby Version | Supported          |
 | ------------ | ------------------ |
+| 3.0.x        | :white_check_mark: |
 | 2.7.x        | :white_check_mark: |
 | 2.6.x        | :white_check_mark: |
-| 2.5.x        | :white_check_mark: |
+| > 2.5.1      | :white_check_mark: |
 | < 2.5.1      | :x:                |
 
 - TurkishCities heavily depends on ```:turkic``` case mapping support of Ruby string downcase method. Below Ruby version 2.5.1 some functions will run buggy/false or even won't run at all.
@@ -619,7 +620,6 @@ https://bestgems.org/gems/turkish_cities
 ## Roadmap
 
 - Add missing sea travel method
-- Refactor tests (separate test suites with more edge case tests)
 
 ## Contributing
 
@@ -628,9 +628,10 @@ Contributing guidelines are available [here](CONTRIBUTING.md).
 People behind the 💻
 <table>
   <tr>
-    <td align="center"><a href="https://enderahmetyurt.com/"><img src="https://avatars2.githubusercontent.com/u/447588" width="100px;" alt=""/><br /><sub><b>Ender Ahmet Yurt</b></sub></a><br /></td>
-    <td align="center"><a href="https://www.linkedin.com/in/serpilacar/"><img src="https://avatars0.githubusercontent.com/u/17191440" width="100px;" alt=""/><br /><sub><b>Serpil Acar</b></sub></a><br /></td>
-    <td align="center"><a href="https://www.linkedin.com/in/semiharslanoglu/"><img src="https://avatars2.githubusercontent.com/u/10260283" width="100px;" alt=""/><br /><sub><b>Semih Arslanoğlu</b></sub></a><br /></td>
+    <td align="center"><a href="https://www.linkedin.com/in/semiharslanoglu/"><img src="https://avatars.githubusercontent.com/u/10260283" width="100px;" alt=""/><br /><sub><b>Semih Arslanoglu</b></sub></a><br /></td>
+    <td align="center"><a href="https://www.linkedin.com/in/serpilacar/"><img src="https://avatars.githubusercontent.com/u/17191440" width="100px;" alt=""/><br /><sub><b>Serpil Acar Arslanoglu</b></sub></a><br /></td>
+    <td align="center"><a href="https://www.linkedin.com/in/enderahmetyurt/"><img src="https://avatars.githubusercontent.com/u/447588" width="100px;" alt=""/><br /><sub><b>Ender Ahmet Yurt</b></sub></a><br /></td>
+    <td align="center"><a href="https://www.linkedin.com/in/atagunay/"><img src="https://avatars.githubusercontent.com/u/69992550" width="100px;" alt=""/><br /><sub><b>Ata Gunay</b></sub></a><br /></td>
   </tr>
 </table>
 
@@ -648,5 +649,5 @@ The logo is licensed under a
 
 ## Copyright
 
-Copyright (c) 2020 - 2022 Semih Arslanoglu. See [LICENSE.txt](LICENSE.txt) for
+Copyright (c) 2020 - 2023 Semih Arslanoglu. See [LICENSE.txt](LICENSE.txt) for
 further details.
