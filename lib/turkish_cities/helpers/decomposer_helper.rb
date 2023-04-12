@@ -29,7 +29,7 @@ module DecomposerHelper
     begin
       YAML.load_file(file_path)
     rescue Errno::ENOENT
-      "Caught the exception: No such file or directory /data/districts/..."
+      'Caught the exception: No such file or directory /data/districts/...'
     end
   end
 
