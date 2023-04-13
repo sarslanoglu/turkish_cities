@@ -8,6 +8,8 @@
 
 ### Bug fixes
 
+* [#129](https://github.com/sarslanoglu/turkish_cities/issues/129): NoMethodError undefined method `values'. Update Errno::ENOENT message
+
 * [#124](https://github.com/sarslanoglu/turkish_cities/issues/124): ArgumentError: comparison of Array with Array failed. Add support for "()" characters
 
 * [#122](https://github.com/sarslanoglu/turkish_cities/issues/122): ArgumentError: comparison of Array with Array failed. Add support for "." character
