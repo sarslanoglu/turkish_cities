@@ -28,8 +28,8 @@ module DecomposerHelper
     file_path = File.join(File.dirname(__FILE__), "../data/districts/#{file_name}.yaml")
     begin
       YAML.load_file(file_path)
-    rescue Errno::ENOENT => e
-      "Caught the exception: #{e}"
+    rescue Errno::ENOENT
+      'Caught the exception: No such file or directory /data/districts/...'
     end
   end
 
