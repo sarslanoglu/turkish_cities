@@ -22,8 +22,6 @@ class Distance
     case @travel_method
     when 'land'
       distance_between_land
-    when 'sea'
-      distance_between_sea
     when 'air'
       distance_between_air
     else
@@ -44,10 +42,6 @@ class Distance
       results[1] = description_text('Land', city_array, results)
       results
     end
-  end
-
-  def distance_between_sea
-    # TODO
   end
 
   def distance_between_air

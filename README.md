@@ -609,6 +609,8 @@ https://bestgems.org/gems/turkish_cities
 
 | Ruby Version | Supported          |
 | ------------ | ------------------ |
+| 3.2.x        | :question:         |
+| 3.1.x        | :question:         |
 | 3.0.x        | :white_check_mark: |
 | 2.7.x        | :white_check_mark: |
 | 2.6.x        | :white_check_mark: |
@@ -616,10 +618,6 @@ https://bestgems.org/gems/turkish_cities
 | < 2.5.1      | :x:                |
 
 - TurkishCities heavily depends on ```:turkic``` case mapping support of Ruby string downcase method. Below Ruby version 2.5.1 some functions will run buggy/false or even won't run at all.
-
-## Roadmap
-
-- Add missing sea travel method
 
 ## Contributing
 
