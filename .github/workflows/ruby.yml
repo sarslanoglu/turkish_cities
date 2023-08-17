@@ -38,8 +38,6 @@ jobs:
     - uses: actions/checkout@master
     - name: Codecov
       uses: codecov/codecov-action@v3.1.1
-      # Temporary workaround for https://github.com/codecov/codecov-action/issues/837
       with:
-        token: 36b2b241-6d65-40f5-9335-78289421147b
-      # CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
-      
+        token: ${{ secrets.CODECOV_TOKEN }}  # optional but apparently makes upload more reliable
+        fail_ci_if_error: false # too many upload errors to keep "true"
